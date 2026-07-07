@@ -1,0 +1,18 @@
+# Claude Code
+.claude/
+
+# Python virtual environments
+.venv/
+venv/
+sid/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
