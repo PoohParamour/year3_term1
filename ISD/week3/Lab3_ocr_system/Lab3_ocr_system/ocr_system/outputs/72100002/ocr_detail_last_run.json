@@ -1,0 +1,1550 @@
+{
+  "source_path": "data/input/input/72100002.pdf",
+  "engine": "paddle",
+  "text": "--- Page 1 ---\nKING MONGKUT'S INSTITUTE OF TECHNOLOGY LADKRABANG\nChalongkrung Road, Ladkrabang, Bangkok 10520, THAILAND\nTRANSCRIPT OF RECORDS\nCollege of Nanotechnology\nName : Miss Mit2 Materials Innovation and Technology2\nStudent ID : 72100002\nDate of Birth : March 8, 2000\nDate of Admission : August 5, 2019\nDegree : Bachelor of Engineering\nDate of Graduation : N/A (Retired in Semester 1 / 2019)\nProgram : Nanomaterial Engineering\nCourse\nCredit\nGrade\nCourse\nCredit\nGrade\n1st Semester, Academic Year 2019\n90201001\nFOUNDATION ENGLISH 1\n33\nF\n90304001\nLIBRARY USAGE AND INFORMATION\nF\n90402009\nINTRODUCTION TO PRINCIPLES OF LAWS IN\n3\nF\nDAILY LIFE\n92596100\nENGINEERING WORKSHOP AND DRAWING\n1\nF\n92596101\nENGINEERING MATHEMATICS\n3\nF\n92596102\nFUNDAMENTAL CHEMISTRY\n3\nF\n92596103\nPHYSICS 1\n3\nF\n92596111 PHYSICS LABORATORY 1\n1\nF\n92596113 CHEMISTRY LABORATORY\n1\nF\nGPS : 0.00\nGPA: -\nTotal Credits Earned\n: 21\nCumulative GPA\n: 0.00\nEnd of Transcript\nDate of Issued : January 17, 2025\nNot valid without seal\n(Asst.Prof. Dr. Test Surname)\nDirector\nKMITL Registration and Educational Service Office",
+  "pages": [
+    {
+      "page": 1,
+      "text": "KING MONGKUT'S INSTITUTE OF TECHNOLOGY LADKRABANG\nChalongkrung Road, Ladkrabang, Bangkok 10520, THAILAND\nTRANSCRIPT OF RECORDS\nCollege of Nanotechnology\nName : Miss Mit2 Materials Innovation and Technology2\nStudent ID : 72100002\nDate of Birth : March 8, 2000\nDate of Admission : August 5, 2019\nDegree : Bachelor of Engineering\nDate of Graduation : N/A (Retired in Semester 1 / 2019)\nProgram : Nanomaterial Engineering\nCourse\nCredit\nGrade\nCourse\nCredit\nGrade\n1st Semester, Academic Year 2019\n90201001\nFOUNDATION ENGLISH 1\n33\nF\n90304001\nLIBRARY USAGE AND INFORMATION\nF\n90402009\nINTRODUCTION TO PRINCIPLES OF LAWS IN\n3\nF\nDAILY LIFE\n92596100\nENGINEERING WORKSHOP AND DRAWING\n1\nF\n92596101\nENGINEERING MATHEMATICS\n3\nF\n92596102\nFUNDAMENTAL CHEMISTRY\n3\nF\n92596103\nPHYSICS 1\n3\nF\n92596111 PHYSICS LABORATORY 1\n1\nF\n92596113 CHEMISTRY LABORATORY\n1\nF\nGPS : 0.00\nGPA: -\nTotal Credits Earned\n: 21\nCumulative GPA\n: 0.00\nEnd of Transcript\nDate of Issued : January 17, 2025\nNot valid without seal\n(Asst.Prof. Dr. Test Surname)\nDirector\nKMITL Registration and Educational Service Office",
+      "lines": [
+        {
+          "text": "KING MONGKUT'S INSTITUTE OF TECHNOLOGY LADKRABANG",
+          "confidence": 0.9721283316612244,
+          "box": [
+            [
+              414,
+              60
+            ],
+            [
+              2252,
+              60
+            ],
+            [
+              2252,
+              114
+            ],
+            [
+              414,
+              114
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Chalongkrung Road, Ladkrabang, Bangkok 10520, THAILAND",
+          "confidence": 0.9996764659881592,
+          "box": [
+            [
+              655,
+              140
+            ],
+            [
+              1952,
+              140
+            ],
+            [
+              1952,
+              196
+            ],
+            [
+              655,
+              196
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "TRANSCRIPT OF RECORDS",
+          "confidence": 0.9819113612174988,
+          "box": [
+            [
+              823,
+              266
+            ],
+            [
+              1484,
+              266
+            ],
+            [
+              1484,
+              307
+            ],
+            [
+              823,
+              307
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "College of Nanotechnology",
+          "confidence": 0.9798727631568909,
+          "box": [
+            [
+              886,
+              378
+            ],
+            [
+              1442,
+              378
+            ],
+            [
+              1442,
+              435
+            ],
+            [
+              886,
+              435
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Name : Miss Mit2 Materials Innovation and Technology2",
+          "confidence": 0.9842571020126343,
+          "box": [
+            [
+              108,
+              491
+            ],
+            [
+              1005,
+              497
+            ],
+            [
+              1005,
+              543
+            ],
+            [
+              107,
+              538
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Student ID : 72100002",
+          "confidence": 0.9982712268829346,
+          "box": [
+            [
+              1408,
+              499
+            ],
+            [
+              1774,
+              497
+            ],
+            [
+              1774,
+              534
+            ],
+            [
+              1409,
+              536
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Date of Birth : March 8, 2000",
+          "confidence": 0.9707720279693604,
+          "box": [
+            [
+              109,
+              557
+            ],
+            [
+              582,
+              557
+            ],
+            [
+              582,
+              597
+            ],
+            [
+              109,
+              597
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Date of Admission : August 5, 2019",
+          "confidence": 0.9830245971679688,
+          "box": [
+            [
+              1406,
+              557
+            ],
+            [
+              1973,
+              555
+            ],
+            [
+              1973,
+              596
+            ],
+            [
+              1407,
+              598
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Degree : Bachelor of Engineering",
+          "confidence": 0.9879528284072876,
+          "box": [
+            [
+              109,
+              613
+            ],
+            [
+              625,
+              617
+            ],
+            [
+              625,
+              658
+            ],
+            [
+              108,
+              654
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Date of Graduation : N/A (Retired in Semester 1 / 2019)",
+          "confidence": 0.9771435856819153,
+          "box": [
+            [
+              1408,
+              611
+            ],
+            [
+              2281,
+              613
+            ],
+            [
+              2281,
+              654
+            ],
+            [
+              1407,
+              652
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Program : Nanomaterial Engineering",
+          "confidence": 0.9986028075218201,
+          "box": [
+            [
+              109,
+              668
+            ],
+            [
+              689,
+              672
+            ],
+            [
+              689,
+              716
+            ],
+            [
+              108,
+              712
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Course",
+          "confidence": 0.9999685287475586,
+          "box": [
+            [
+              520,
+              782
+            ],
+            [
+              616,
+              786
+            ],
+            [
+              614,
+              823
+            ],
+            [
+              518,
+              819
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Credit",
+          "confidence": 0.9996928572654724,
+          "box": [
+            [
+              1043,
+              783
+            ],
+            [
+              1156,
+              783
+            ],
+            [
+              1156,
+              821
+            ],
+            [
+              1043,
+              821
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Grade",
+          "confidence": 0.9999189376831055,
+          "box": [
+            [
+              1138,
+              784
+            ],
+            [
+              1236,
+              784
+            ],
+            [
+              1236,
+              820
+            ],
+            [
+              1138,
+              820
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Course",
+          "confidence": 0.9999789595603943,
+          "box": [
+            [
+              1663,
+              781
+            ],
+            [
+              1762,
+              785
+            ],
+            [
+              1760,
+              825
+            ],
+            [
+              1662,
+              821
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Credit",
+          "confidence": 0.9995896220207214,
+          "box": [
+            [
+              2187,
+              783
+            ],
+            [
+              2297,
+              783
+            ],
+            [
+              2297,
+              821
+            ],
+            [
+              2187,
+              821
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Grade",
+          "confidence": 0.9999579191207886,
+          "box": [
+            [
+              2289,
+              784
+            ],
+            [
+              2380,
+              784
+            ],
+            [
+              2380,
+              820
+            ],
+            [
+              2289,
+              820
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "1st Semester, Academic Year 2019",
+          "confidence": 0.9867236018180847,
+          "box": [
+            [
+              252,
+              837
+            ],
+            [
+              744,
+              837
+            ],
+            [
+              744,
+              868
+            ],
+            [
+              252,
+              868
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "90201001",
+          "confidence": 0.9999680519104004,
+          "box": [
+            [
+              111,
+              882
+            ],
+            [
+              237,
+              882
+            ],
+            [
+              237,
+              913
+            ],
+            [
+              111,
+              913
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "FOUNDATION ENGLISH 1",
+          "confidence": 0.9976283311843872,
+          "box": [
+            [
+              248,
+              882
+            ],
+            [
+              598,
+              882
+            ],
+            [
+              598,
+              912
+            ],
+            [
+              248,
+              912
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "33",
+          "confidence": 0.9991112351417542,
+          "box": [
+            [
+              1074,
+              880
+            ],
+            [
+              1098,
+              880
+            ],
+            [
+              1098,
+              975
+            ],
+            [
+              1074,
+              975
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "F",
+          "confidence": 0.9973746538162231,
+          "box": [
+            [
+              1173,
+              881
+            ],
+            [
+              1197,
+              881
+            ],
+            [
+              1197,
+              918
+            ],
+            [
+              1173,
+              918
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "90304001",
+          "confidence": 0.999681293964386,
+          "box": [
+            [
+              110,
+              926
+            ],
+            [
+              258,
+              926
+            ],
+            [
+              258,
+              958
+            ],
+            [
+              110,
+              958
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "LIBRARY USAGE AND INFORMATION",
+          "confidence": 0.9897887110710144,
+          "box": [
+            [
+              245,
+              927
+            ],
+            [
+              776,
+              926
+            ],
+            [
+              776,
+              957
+            ],
+            [
+              246,
+              958
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "F",
+          "confidence": 0.9983100891113281,
+          "box": [
+            [
+              1173,
+              925
+            ],
+            [
+              1198,
+              925
+            ],
+            [
+              1198,
+              962
+            ],
+            [
+              1173,
+              962
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "90402009",
+          "confidence": 0.998605489730835,
+          "box": [
+            [
+              111,
+              973
+            ],
+            [
+              257,
+              973
+            ],
+            [
+              257,
+              1001
+            ],
+            [
+              111,
+              1001
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "INTRODUCTION TO PRINCIPLES OF LAWS IN",
+          "confidence": 0.9838429093360901,
+          "box": [
+            [
+              248,
+              973
+            ],
+            [
+              864,
+              973
+            ],
+            [
+              864,
+              1003
+            ],
+            [
+              248,
+              1003
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999014139175415,
+          "box": [
+            [
+              1075,
+              965
+            ],
+            [
+              1098,
+              965
+            ],
+            [
+              1098,
+              1006
+            ],
+            [
+              1075,
+              1006
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "F",
+          "confidence": 0.9996175765991211,
+          "box": [
+            [
+              1173,
+              972
+            ],
+            [
+              1198,
+              972
+            ],
+            [
+              1198,
+              1006
+            ],
+            [
+              1173,
+              1006
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "DAILY LIFE",
+          "confidence": 0.9968342781066895,
+          "box": [
+            [
+              251,
+              1017
+            ],
+            [
+              416,
+              1017
+            ],
+            [
+              416,
+              1048
+            ],
+            [
+              251,
+              1048
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "92596100",
+          "confidence": 0.9999528527259827,
+          "box": [
+            [
+              111,
+              1061
+            ],
+            [
+              237,
+              1061
+            ],
+            [
+              237,
+              1092
+            ],
+            [
+              111,
+              1092
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "ENGINEERING WORKSHOP AND DRAWING",
+          "confidence": 0.9972355365753174,
+          "box": [
+            [
+              248,
+              1059
+            ],
+            [
+              842,
+              1059
+            ],
+            [
+              842,
+              1092
+            ],
+            [
+              248,
+              1092
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "1",
+          "confidence": 0.9879332184791565,
+          "box": [
+            [
+              1074,
+              1061
+            ],
+            [
+              1098,
+              1061
+            ],
+            [
+              1098,
+              1097
+            ],
+            [
+              1074,
+              1097
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "F",
+          "confidence": 0.9826188087463379,
+          "box": [
+            [
+              1171,
+              1059
+            ],
+            [
+              1198,
+              1059
+            ],
+            [
+              1198,
+              1105
+            ],
+            [
+              1171,
+              1105
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "92596101",
+          "confidence": 0.9999777674674988,
+          "box": [
+            [
+              110,
+              1106
+            ],
+            [
+              237,
+              1106
+            ],
+            [
+              237,
+              1136
+            ],
+            [
+              110,
+              1136
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "ENGINEERING MATHEMATICS",
+          "confidence": 0.9998274445533752,
+          "box": [
+            [
+              251,
+              1109
+            ],
+            [
+              673,
+              1109
+            ],
+            [
+              673,
+              1135
+            ],
+            [
+              251,
+              1135
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "3",
+          "confidence": 0.999887228012085,
+          "box": [
+            [
+              1075,
+              1105
+            ],
+            [
+              1097,
+              1105
+            ],
+            [
+              1097,
+              1145
+            ],
+            [
+              1075,
+              1145
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "F",
+          "confidence": 0.9988168478012085,
+          "box": [
+            [
+              1172,
+              1103
+            ],
+            [
+              1197,
+              1103
+            ],
+            [
+              1197,
+              1139
+            ],
+            [
+              1172,
+              1139
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "92596102",
+          "confidence": 0.9999850988388062,
+          "box": [
+            [
+              110,
+              1149
+            ],
+            [
+              237,
+              1149
+            ],
+            [
+              237,
+              1181
+            ],
+            [
+              110,
+              1181
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "FUNDAMENTAL CHEMISTRY",
+          "confidence": 0.9996569752693176,
+          "box": [
+            [
+              246,
+              1151
+            ],
+            [
+              652,
+              1150
+            ],
+            [
+              652,
+              1181
+            ],
+            [
+              247,
+              1182
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999716281890869,
+          "box": [
+            [
+              1075,
+              1148
+            ],
+            [
+              1097,
+              1148
+            ],
+            [
+              1097,
+              1189
+            ],
+            [
+              1075,
+              1189
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "F",
+          "confidence": 0.9990099668502808,
+          "box": [
+            [
+              1173,
+              1150
+            ],
+            [
+              1198,
+              1150
+            ],
+            [
+              1198,
+              1186
+            ],
+            [
+              1173,
+              1186
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "92596103",
+          "confidence": 0.9999748468399048,
+          "box": [
+            [
+              110,
+              1195
+            ],
+            [
+              237,
+              1195
+            ],
+            [
+              237,
+              1227
+            ],
+            [
+              110,
+              1227
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "PHYSICS 1",
+          "confidence": 0.9995295405387878,
+          "box": [
+            [
+              248,
+              1195
+            ],
+            [
+              398,
+              1195
+            ],
+            [
+              398,
+              1226
+            ],
+            [
+              248,
+              1226
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999090433120728,
+          "box": [
+            [
+              1075,
+              1194
+            ],
+            [
+              1097,
+              1194
+            ],
+            [
+              1097,
+              1233
+            ],
+            [
+              1075,
+              1233
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "F",
+          "confidence": 0.9995985627174377,
+          "box": [
+            [
+              1173,
+              1196
+            ],
+            [
+              1198,
+              1196
+            ],
+            [
+              1198,
+              1233
+            ],
+            [
+              1173,
+              1233
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "92596111 PHYSICS LABORATORY 1",
+          "confidence": 0.9970561861991882,
+          "box": [
+            [
+              110,
+              1241
+            ],
+            [
+              603,
+              1241
+            ],
+            [
+              603,
+              1271
+            ],
+            [
+              110,
+              1271
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "1",
+          "confidence": 0.6371398568153381,
+          "box": [
+            [
+              1074,
+              1240
+            ],
+            [
+              1098,
+              1240
+            ],
+            [
+              1098,
+              1277
+            ],
+            [
+              1074,
+              1277
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "F",
+          "confidence": 0.9993119239807129,
+          "box": [
+            [
+              1173,
+              1240
+            ],
+            [
+              1198,
+              1240
+            ],
+            [
+              1198,
+              1277
+            ],
+            [
+              1173,
+              1277
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "92596113 CHEMISTRY LABORATORY",
+          "confidence": 0.9901217818260193,
+          "box": [
+            [
+              111,
+              1286
+            ],
+            [
+              629,
+              1286
+            ],
+            [
+              629,
+              1316
+            ],
+            [
+              111,
+              1316
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "1",
+          "confidence": 0.9997660517692566,
+          "box": [
+            [
+              1075,
+              1285
+            ],
+            [
+              1098,
+              1285
+            ],
+            [
+              1098,
+              1318
+            ],
+            [
+              1075,
+              1318
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "F",
+          "confidence": 0.999309778213501,
+          "box": [
+            [
+              1172,
+              1284
+            ],
+            [
+              1198,
+              1284
+            ],
+            [
+              1198,
+              1317
+            ],
+            [
+              1172,
+              1317
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "GPS : 0.00",
+          "confidence": 0.998254656791687,
+          "box": [
+            [
+              415,
+              1331
+            ],
+            [
+              553,
+              1331
+            ],
+            [
+              553,
+              1362
+            ],
+            [
+              415,
+              1362
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "GPA: -",
+          "confidence": 0.9156957268714905,
+          "box": [
+            [
+              617,
+              1329
+            ],
+            [
+              723,
+              1329
+            ],
+            [
+              723,
+              1364
+            ],
+            [
+              617,
+              1364
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Total Credits Earned",
+          "confidence": 0.9854364395141602,
+          "box": [
+            [
+              308,
+              1420
+            ],
+            [
+              582,
+              1420
+            ],
+            [
+              582,
+              1450
+            ],
+            [
+              308,
+              1450
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": ": 21",
+          "confidence": 0.8945170640945435,
+          "box": [
+            [
+              661,
+              1419
+            ],
+            [
+              727,
+              1419
+            ],
+            [
+              727,
+              1453
+            ],
+            [
+              661,
+              1453
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Cumulative GPA",
+          "confidence": 0.9323310256004333,
+          "box": [
+            [
+              307,
+              1462
+            ],
+            [
+              527,
+              1462
+            ],
+            [
+              527,
+              1496
+            ],
+            [
+              307,
+              1496
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": ": 0.00",
+          "confidence": 0.9173280596733093,
+          "box": [
+            [
+              665,
+              1463
+            ],
+            [
+              749,
+              1463
+            ],
+            [
+              749,
+              1496
+            ],
+            [
+              665,
+              1496
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "End of Transcript",
+          "confidence": 0.9969102144241333,
+          "box": [
+            [
+              445,
+              1508
+            ],
+            [
+              687,
+              1510
+            ],
+            [
+              687,
+              1544
+            ],
+            [
+              444,
+              1542
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Date of Issued : January 17, 2025",
+          "confidence": 0.963213324546814,
+          "box": [
+            [
+              132,
+              3175
+            ],
+            [
+              563,
+              3178
+            ],
+            [
+              562,
+              3215
+            ],
+            [
+              132,
+              3212
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Not valid without seal",
+          "confidence": 0.9617170691490173,
+          "box": [
+            [
+              1492,
+              3178
+            ],
+            [
+              1755,
+              3178
+            ],
+            [
+              1755,
+              3212
+            ],
+            [
+              1492,
+              3212
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "(Asst.Prof. Dr. Test Surname)",
+          "confidence": 0.989679753780365,
+          "box": [
+            [
+              1726,
+              3332
+            ],
+            [
+              2250,
+              3334
+            ],
+            [
+              2250,
+              3377
+            ],
+            [
+              1726,
+              3375
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "Director",
+          "confidence": 0.9856706261634827,
+          "box": [
+            [
+              1920,
+              3384
+            ],
+            [
+              2069,
+              3388
+            ],
+            [
+              2068,
+              3430
+            ],
+            [
+              1919,
+              3426
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        },
+        {
+          "text": "KMITL Registration and Educational Service Office",
+          "confidence": 0.9970758557319641,
+          "box": [
+            [
+              1553,
+              3433
+            ],
+            [
+              2435,
+              3432
+            ],
+            [
+              2435,
+              3476
+            ],
+            [
+              1553,
+              3477
+            ]
+          ],
+          "engine": "paddle",
+          "page": 1
+        }
+      ],
+      "image_path": "outputs/pages/72100002_page_001.jpg"
+    }
+  ]
+}

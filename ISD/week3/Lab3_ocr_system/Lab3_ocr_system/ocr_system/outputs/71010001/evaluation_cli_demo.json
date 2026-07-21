@@ -1,0 +1,8 @@
+{
+  "file": "71010001.pdf",
+  "cer": 1.9533678756476685,
+  "wer": 201.0,
+  "exact_match": false,
+  "reference_chars": 772,
+  "prediction_chars": 2343
+}
