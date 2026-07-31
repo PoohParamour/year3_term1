@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "program_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+    "program_en": "Bachelor of Science Program in Data Science and Business Analytics",
+    "program_code": "DSBA",
+    "revision": "หลักสูตรปรับปรุง พ.ศ. 2565",
+    "faculty": "คณะเทคโนโลยีสารสนเทศ",
+    "institution": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (สจล.)",
+    "source_document": "DataAndBusiness_c2565.pdf (มคอ.2, 406 หน้า)",
+    "page_note": "เลขหน้า (page) ที่อ้างอิงเป็นเลขหน้าที่พิมพ์บนเอกสาร มคอ.2 | หน้าใน PDF จริง = หน้าที่พิมพ์ + 5"
+  },
+  "section1_general": {
+    "degree_full_th": "วิทยาศาสตรบัณฑิต (วิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ)",
+    "degree_abbr_th": "วท.บ. (วิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ)",
+    "degree_full_en": "Bachelor of Science (Data Science and Business Analytics)",
+    "degree_abbr_en": "B.Sc. (Data Science and Business Analytics)",
+    "field": "สาขาคอมพิวเตอร์ (สาขาวิชาเทคโนโลยีสารสนเทศ) ตามมาตรฐานคุณวุฒิระดับปริญญาตรี สาขาคอมพิวเตอร์ (มคอ.1)",
+    "total_credits": 132,
+    "page": 1,
+    "program_format": "หลักสูตรปริญญาตรี 4 ปี ทางวิชาการ",
+    "language": "จัดการศึกษาเป็นภาษาไทยและภาษาอังกฤษ",
+    "admission": "รับนักศึกษาไทย และนักศึกษาต่างชาติที่สามารถใช้ภาษาไทยได้เป็นอย่างดี",
+    "degree_award": "ให้ปริญญาเพียงสาขาวิชาเดียว",
+    "start_term": "เปิดสอนเดือนสิงหาคม พ.ศ. 2565",
+    "format_page": 2,
+    "careers": [
+      "นักวิทยาการข้อมูล (Data Scientist)",
+      "นักวิเคราะห์ข้อมูล (Data Analyst) — BI Specialist, BI Analyst, BI Developer, Business Insight Data Developer",
+      "วิศวกรข้อมูล (Data Engineer) — Data Warehouse Developer",
+      "วิศวกรการเรียนรู้ของเครื่อง (Machine Learning Engineer)",
+      "นักพัฒนาแบบจำลองข้อมูล (Data Modeler)"
+    ],
+    "careers_page": "2-3",
+    "responsible_instructors": [
+      "รศ.ดร.กิติ์สุชาต พสุภา",
+      "ผศ.ดร.โอฬาร วงศ์วิรัตน์",
+      "ผศ.ดร.กนกวรรณ อัจฉริยะชาญวณิช",
+      "ดร.ชยานนท์ ทรัพย์อาภา",
+      "อ.วารุณี บัววิรัตน์"
+    ],
+    "responsible_instructors_page": 3,
+    "teaching_location": "ในสถานที่ตั้งสถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+    "teaching_location_page": 4
+  },
+  "section2_specific": {
+    "objectives": [
+      "ผลิตบัณฑิตที่สามารถอธิบายกระบวนการ ศึกษา วิเคราะห์และสรุปประเด็นปัญหา รวมทั้งความความต้องการด้านวิทยาการข้อมูล การวิเคราะห์เชิงสถิติ และวิศวกรรมข้อมูล",
+      "ผลิตบัณฑิตที่สามารถอธิบายและเลือกใช้อัลกอริทึม รวมถึงเครื่องมือทางวิทยาการข้อมูล การวิเคราะห์เชิงสถิติ และวิศวกรรมข้อมูล",
+      "ผลิตบัณฑิตที่สามารถอธิบายและประเมินประสิทธิภาพของอัลกอริทึมทางวิทยาการข้อมูล การวิเคราะห์เชิงสถิติ และวิศวกรรมข้อมูล",
+      "ผลิตบัณฑิตที่สามารถอธิบายและเลือกรูปแบบการนำเสนอผลลัพธ์ของการแก้ปัญหาด้วยทฤษฎีทางวิทยาการข้อมูล การวิเคราะห์เชิงสถิติ และวิศวกรรมข้อมูล",
+      "ผลิตบัณฑิตที่สามารถสืบค้น ตีความ และต่อยอดความรู้ด้านวิทยาการข้อมูล การวิเคราะห์เชิงสถิติ และวิศวกรรมข้อมูลเพื่อใช้ในการแก้ปัญหาอย่างสร้างสรรค์",
+      "ผลิตบัณฑิตให้มีความเชี่ยวชาญและทักษะตามกลุ่มวิชาชีพเฉพาะด้าน"
+    ],
+    "objectives_page": "7-8"
+  },
+  "section3_structure": {
+    "academic_system": "ระบบทวิภาค 1 ปีการศึกษาแบ่งเป็น 2 ภาคการศึกษาปกติ ภาคปกติมีระยะเวลาไม่น้อยกว่า 15 สัปดาห์",
+    "academic_system_page": 11,
+    "semester_periods": {
+      "sem1": "สิงหาคม – พฤศจิกายน",
+      "sem2": "มกราคม – เมษายน",
+      "summer": "มิถุนายน – กรกฎาคม"
+    },
+    "semester_periods_page": 11,
+    "planned_intake_per_year": 50,
+    "cost_per_head_per_year_baht": 55200,
+    "intake_page": 12,
+    "credit_structure": {
+      "total": 132,
+      "general_education": {
+        "total": 30,
+        "groups": {
+          "foundation": 6,
+          "language_and_communication": 9,
+          "faculty_criteria": 9,
+          "gen_ed_elective": 6
+        }
+      },
+      "specific": {
+        "total": 96,
+        "core": {
+          "total": 45,
+          "math_and_statistics": 15,
+          "information_technology": 30
+        },
+        "professional_foundation": 33,
+        "professional_specialized": {
+          "total": 12,
+          "note": "เลือกลงทะเบียน 1 กลุ่มจาก: วิทยาการข้อมูล / การวิเคราะห์เชิงสถิติ / วิศวกรรมข้อมูล (กลุ่มละ 12 หน่วยกิต)"
+        },
+        "elective_group": 6
+      },
+      "free_elective": 6,
+      "page": 13
+    },
+    "sample_courses": [
+      {"code": "06026200", "name_th": "แคลคูลัส 1", "name_en": "CALCULUS 1", "credits": "3 (3-0-6)", "group": "แกน-คณิตศาสตร์และสถิติ"},
+      {"code": "06026203", "name_th": "การโปรแกรมคอมพิวเตอร์", "name_en": "COMPUTER PROGRAMMING", "credits": "3 (2-2-5)", "group": "แกน-เทคโนโลยีสารสนเทศ"},
+      {"code": "06026208", "name_th": "พื้นฐานวิทยาการข้อมูล", "name_en": "FUNDAMENTALS OF DATA SCIENCE", "credits": "3 (3-0-6)", "group": "พื้นฐานวิชาชีพ"},
+      {"code": "06026214", "name_th": "โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 1", "name_en": "PROJECT IN DATA SCIENCE AND BUSINESS ANALYTICS 1", "credits": "3 (0-9-0)", "group": "พื้นฐานวิชาชีพ"},
+      {"code": "06026217", "name_th": "การเรียนรู้ของเครื่อง", "name_en": "MACHINE LEARNING", "credits": "3 (3-0-6)", "group": "ชีพเฉพาะด้าน-วิทยาการข้อมูล"},
+      {"code": "06026240", "name_th": "การพัฒนาระบบอัจฉริยะ", "name_en": "INTELLIGENT SYSTEM DEVELOPMENT", "credits": "3 (2-2-5)", "group": "ชีพเฉพาะด้าน-วิศวกรรมข้อมูล"}
+    ],
+    "sample_courses_page": "14-18"
+  },
+  "section5_assessment": {
+    "grading_basis": "เป็นไปตามข้อบังคับ สจล. ว่าด้วยการศึกษาระดับปริญญาตรี พ.ศ. 2564 (ภาคผนวก ก)",
+    "graduation_basis": "เป็นไปตามข้อบังคับ สจล. ว่าด้วยการศึกษาระดับปริญญาตรี พ.ศ. 2564 (ภาคผนวก ก)",
+    "page": 76
+  },
+  "regulation_2564": {
+    "title": "ข้อบังคับสถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง ว่าด้วยการศึกษาระดับปริญญาตรี พ.ศ. 2564",
+    "appendix": "ภาคผนวก ก",
+    "registration_credits": {
+      "clause": "ข้อ 11",
+      "rule": "ภาคการศึกษาปกติ ลงทะเบียนเรียนไม่น้อยกว่า 9 หน่วยกิต และไม่เกิน 22 หน่วยกิต (ยกเว้นชั้นปีสุดท้าย/ภาคสุดท้ายก่อนจบ)",
+      "page": 89
+    },
+    "grade_scale": {
+      "clause": "ข้อ 19.3",
+      "page": "90-91",
+      "grades": [
+        {"grade": "A", "point": 4.00, "meaning": "ดีเลิศ (Excellent)"},
+        {"grade": "B+", "point": 3.50, "meaning": "ดีมาก (Very Good)"},
+        {"grade": "B", "point": 3.00, "meaning": "ดี (Good)"},
+        {"grade": "C+", "point": 2.50, "meaning": "ดีพอใช้ (Fairly Good)"},
+        {"grade": "C", "point": 2.00, "meaning": "พอใช้ (Fair)"},
+        {"grade": "D+", "point": 1.50, "meaning": "อ่อน (Poor)"},
+        {"grade": "D", "point": 1.00, "meaning": "อ่อนมาก (Very Poor)"},
+        {"grade": "F", "point": 0.00, "meaning": "ตก (Failed)"},
+        {"grade": "I", "point": null, "meaning": "ไม่สมบูรณ์ (Incomplete)"},
+        {"grade": "S", "point": null, "meaning": "พอใจ (Satisfactory)"},
+        {"grade": "U", "point": null, "meaning": "ไม่พอใจ (Unsatisfactory)"},
+        {"grade": "T", "point": null, "meaning": "รับโอน (Transfer)"}
+      ]
+    },
+    "gpa_definition": {
+      "clause": "ข้อ 21",
+      "rule": "GPS = ค่าระดับคะแนนเฉลี่ยประจำภาคการศึกษา; GPA = ค่าระดับคะแนนเฉลี่ยสะสมตั้งแต่ภาคแรกจนถึงปัจจุบัน",
+      "page": 92
+    },
+    "probation": {
+      "clause": "ข้อ 22",
+      "rule": "นักศึกษาที่ได้ค่าระดับคะแนนเฉลี่ยสะสม (GPA) ต่ำกว่า 2.00 ต้องถูกภาคทัณฑ์ไว้",
+      "page": 92
+    },
+    "graduation_criteria": {
+      "clause": "ข้อ 25",
+      "page": 92,
+      "rules": [
+        "ข้อ 25.1 เรียนครบหน่วยกิตและสอบผ่านทุกรายวิชาตามโครงสร้างหลักสูตร โดยได้ค่าระดับคะแนนเฉลี่ยสะสมไม่ต่ำกว่า 2.00",
+        "ข้อ 25.2 ได้ค่าระดับคะแนนเฉลี่ยสะสมไม่ต่ำกว่า 2.00 และผ่านการสอบภาษาอังกฤษ (English Exit Exam)",
+        "ข้อ 25.3 เป็นผู้มีเกียรติและศักดิ์ของนักศึกษาตามหมวด 13"
+      ]
+    },
+    "honors": {
+      "clause": "ข้อ 27",
+      "page": "92-93",
+      "rules": [
+        "ข้อ 27.2.1 เกียรตินิยมอันดับหนึ่งเหรียญทอง: GPA สะสมไม่ต่ำกว่า 3.75 และสูงสุดในกลุ่มผู้สำเร็จการศึกษา",
+        "ข้อ 27.2.2 เกียรตินิยมอันดับหนึ่ง: GPA สะสมไม่ต่ำกว่า 3.60",
+        "ข้อ 27.2.3 เกียรตินิยมอันดับสอง: GPA สะสมไม่ต่ำกว่า 3.25"
+      ]
+    },
+    "loss_of_status": {
+      "clause": "ข้อ 33",
+      "page": 94,
+      "rule": "การพ้นสภาพการเป็นนักศึกษา เช่น ข้อ 33.12 นักศึกษาที่ได้ค่าระดับคะแนนเฉลี่ยสะสม (GPA) ต่ำกว่า 1.00"
+    }
+  }
+}
