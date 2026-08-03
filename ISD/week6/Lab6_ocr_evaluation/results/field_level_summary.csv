@@ -1,0 +1,9 @@
+field,mean_cer,accuracy_pct,n
+student_id,0.002,99.645,282
+program,0.012,98.936,282
+degree,0.012,98.582,282
+prename,0.007,97.872,282
+faculty_name,0.039,97.518,282
+name,0.037,95.745,282
+admis_date,0.594,0.0,282
+date_of_birth,0.646,0.0,282
