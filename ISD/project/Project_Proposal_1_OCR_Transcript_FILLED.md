@@ -33,7 +33,7 @@ Transcript (โดยเฉพาะภาพ Real) มีชื่อ-นาม
 2. เก็บ dataset และ ground truth ไว้ใน **private repository / private cloud storage** เท่านั้น และตั้ง `.gitignore` ครอบคลุมโฟลเดอร์ข้อมูลจริงทั้งหมด กันการ push ขึ้น public โดยไม่ตั้งใจ
 3. **ประมวลผล OCR แบบ on-premise / local ทั้งหมด** (ไม่ส่งภาพ Transcript ออกไปยัง cloud API ภายนอก) เพื่อลดความเสี่ยงข้อมูลรั่ว — เป็นเหตุผลหลักที่เลือกใช้โมเดล open-source ที่รันเองได้ (ดูหัวข้อ 5)
 4. ลบไฟล์ Transcript และ ground truth ทั้งหมดออกจากเครื่องพัฒนาและ cloud storage **ภายใน 7 วันหลังประกาศเกรดรายวิชา**
-5. ในสไลด์/รายงาน/README ใช้เฉพาะภาพ **Synthetic ที่เบลอ/มาสก์ข้อมูล** ทั้งหมด ไม่แสดงภาพ Real และไม่แสดงชื่อ-รหัส นศ. จริง
+5. ในสไลด์/รายงาน/README ใช้เฉพาะภาพ **Synthetic ที่เบลอ/มาสก์ข้อมูล** ทั้งหมด (โปรเจกต์นี้ไม่ใช้ข้อมูล Real อยู่แล้ว) และไม่แสดงชื่อ-รหัส นศ. ที่ระบุตัวได้
 
 ---
 
@@ -45,22 +45,22 @@ Transcript (โดยเฉพาะภาพ Real) มีชื่อ-นาม
 
 ## 2. ข้อมูล (Dataset) และ Ground Truth
 
-ข้อมูลจริงที่ได้รับ: **PDF ต้นฉบับ 48 ไฟล์** (ป.ตรี 24 + บัณฑิตศึกษา 24) แต่ละไฟล์มี ground truth เป็น JSON ครบ 1:1 รวม 48 ไฟล์ แบ่งเป็นภาษาไทย 24 / อังกฤษ 24 ทีมนำต้นฉบับเหล่านี้เป็น "Synthetic" แล้วสร้างชุด "Synthetic & noise" ด้วย augmentation เอง และจัดหา "Real" 1 ฉบับจากสมาชิกในทีม (มี consent)
+ข้อมูลจริงที่ได้รับ: **PDF ต้นฉบับ 48 ไฟล์** (ป.ตรี 24 + บัณฑิตศึกษา 24) แต่ละไฟล์มี ground truth เป็น JSON ครบ 1:1 รวม 48 ไฟล์ แบ่งเป็นภาษาไทย 24 / อังกฤษ 24 ทีมนำต้นฉบับเหล่านี้เป็น "Synthetic" แล้วสร้างชุด "Synthetic & noise" ด้วย augmentation เอง — โปรเจกต์นี้ **ไม่ใช้ข้อมูล Real** (ตามฟอร์มระบุว่าภาพจริงเป็น "ถ้ามี") เพื่อลดความเสี่ยง PDPA และใช้เฉพาะ Synthetic ที่มาสก์ได้ทั้งหมด
 
 | ประเภทข้อมูล | แหล่งที่มา | จำนวน (ไฟล์/ภาพ) | Ground Truth มาจากไฟล์ใด (format + ตำแหน่งเก็บ) |
 |---|---|---|---|
 | **Synthetic** | PDF เทมเพลต Transcript สจล. ที่อาจารย์ให้ (ป.ตรี `input_Bachelor_Degrees/` 24, บัณฑิตศึกษา `input_Master/` 24) เรนเดอร์เป็นภาพ | 48 ต้นฉบับ (TH 24 / EN 24) | `Json_<student_id>_<th\|en>.json` 1 ไฟล์ต่อ 1 ฉบับ ที่ `ground_truth_transcript/` — ฟิลด์ `header_detail`, `transcript_detail.semesters[].subject[]`, `footer_detail` |
 | **Synthetic & noise** | นำต้นฉบับ Synthetic มาทำ Data Augmentation (blur/skew/แสง/perspective/เงา — ดูหัวข้อ 3) | ≥ 1,224 ภาพ (ป.ตรี ≥456 + บัณฑิต ≥768) | ใช้ JSON เดิมของภาพต้นฉบับ (augmentation ไม่เปลี่ยนค่าฟิลด์ข้อความ; ใช้ Albumentations `ReplayCompose` เพื่อคง bbox/keypoint ให้ตรง GT) |
-| **Real** | Transcript ตัวอย่างจริงของสมาชิกในทีม (ผ่าน PDPA consent + มาสก์ก่อนเผยแพร่) | 1 ฉบับ | Label ด้วยมือ 1 ไฟล์ `Json_real_01.json` สคีมาเดียวกับ Synthetic ที่ `ground_truth_transcript/real/` (เก็บ private) |
+| **Real** | — ไม่ใช้ในโปรเจกต์นี้ (ภาพจริงเป็น optional "ถ้ามี" ตามฟอร์ม) | 0 | — |
 
 **เช็คความครบถ้วนของข้อมูล**
 
 - [x] Synthetic
 - [x] Synthetic & noise
-- [x] Real
-- [x] Ground truth ครบทุกภาพ — รวม **≈ 1,273 ภาพ** (ต้นฉบับ 48 + augmented ≥1,224 + Real 1)
-- [x] แบ่ง **train ≈ 891 ภาพ (70%) / val ≈ 191 ภาพ (15%) / test ≈ 191 ภาพ (15%)** เรียบร้อยแล้ว
-      *(หมายเหตุ: split ตาม "ต้นฉบับ" ก่อน แล้วให้ภาพ augment ของต้นฉบับเดียวกันอยู่ set เดียวกัน เพื่อกัน data leakage; ภาพ Real ทั้งหมดอยู่ใน test)*
+- [ ] Real *(ไม่ใช้ — optional ตามฟอร์ม; ทดแทนความสมจริงด้วยชุด Synthetic & noise ที่จำลองภาพเอียง/เงา/ถ่ายมือถือ)*
+- [x] Ground truth ครบทุกภาพ — รวม **≈ 1,272 ภาพ** (ต้นฉบับ 48 + augmented ≥1,224)
+- [x] แบ่ง **train ≈ 890 ภาพ (70%) / val ≈ 191 ภาพ (15%) / test ≈ 191 ภาพ (15%)** เรียบร้อยแล้ว
+      *(หมายเหตุ: split ตาม "ต้นฉบับ" ก่อน แล้วให้ภาพ augment ของต้นฉบับเดียวกันอยู่ set เดียวกัน เพื่อกัน data leakage)*
 
 ---
 
