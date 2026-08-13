@@ -1,4 +1,4 @@
-import { useState, useMemo, useEffect } from "react";
+import { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { Question, Option } from "@/types";
 import { shuffle } from "@/utils/shuffle";
@@ -14,7 +14,6 @@ interface QuestionCardProps {
 export function QuestionCard({ question, currentIndex, total, onNext, onPrevious }: QuestionCardProps) {
   const [selectedAnswers, setSelectedAnswers] = useState<string[]>([]);
   const [isSubmitted, setIsSubmitted] = useState(false);
-  const [typedQuestion, setTypedQuestion] = useState("");
 
   const shuffledOptions = useMemo(() => shuffle(question.options), [question.id]);
   const isMultiple = question.type === "multiple";
@@ -22,24 +21,7 @@ export function QuestionCard({ question, currentIndex, total, onNext, onPrevious
   useMemo(() => {
     setSelectedAnswers([]);
     setIsSubmitted(false);
-    setTypedQuestion("");
   }, [question.id]);
-
-  // Typing effect for the question
-  useEffect(() => {
-    let currentText = "";
-    let i = 0;
-    const interval = setInterval(() => {
-      if (i < question.question.length) {
-        currentText += question.question.charAt(i);
-        setTypedQuestion(currentText);
-        i++;
-      } else {
-        clearInterval(interval);
-      }
-    }, 15);
-    return () => clearInterval(interval);
-  }, [question.question]);
 
   const handleToggleMultiple = (text: string) => {
     if (isSubmitted) return;
@@ -138,7 +120,7 @@ export function QuestionCard({ question, currentIndex, total, onNext, onPrevious
                   </div>
                 )}
                 <div className="text-lg sm:text-xl font-medium leading-relaxed min-h-[60px]">
-                  {typedQuestion}
+                  {question.question}
                   <span className="animate-pulse inline-block w-2.5 h-5 bg-primary ml-1 align-bottom"></span>
                 </div>
               </div>
