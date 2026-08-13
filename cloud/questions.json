@@ -1,0 +1,2874 @@
+[
+  {
+    "id": 1,
+    "module": "Module 1",
+    "isNew": false,
+    "type": "single",
+    "question": "cloud computing มีข้อได้เปรียบเหนือกว่าการทำงานแบบ on-premises อย่างไร? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "หลีกเลี่ยงการลงทุนซื้อสินทรัพย์ก้อนใหญ่ (Avoid large capital purchases)",
+        "correct": false
+      },
+      {
+        "text": "ใช้ capacity แบบ on-demand",
+        "correct": false
+      },
+      {
+        "text": "ขยายธุรกิจสู่ระดับโลกได้ในไม่กี่นาที (Go global in minutes)",
+        "correct": false
+      },
+      {
+        "text": "เพิ่มความเร็วและความคล่องตัวในการทำงาน",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "module": "Module 1",
+    "isNew": false,
+    "type": "single",
+    "question": "รูปแบบการคิดราคาแบบใดที่ทำให้ลูกค้า AWS จ่ายเงินตามการใช้ resource ที่ต้องการจริง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Pay as you decommission",
+        "correct": false
+      },
+      {
+        "text": "Pay as you go",
+        "correct": true
+      },
+      {
+        "text": "Pay as you buy",
+        "correct": false
+      },
+      {
+        "text": "Pay as you reserve",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "module": "Module 1",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อใดต่อไปนี้ \"ไม่ใช่\" cloud computing model? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Platform as a service",
+        "correct": false
+      },
+      {
+        "text": "Infrastructure as a service",
+        "correct": false
+      },
+      {
+        "text": "System administration as a service",
+        "correct": true
+      },
+      {
+        "text": "Software as a service",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "module": "Module 1",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? AWS เป็นเจ้าของและดูแลรักษา hardware ที่เชื่อมต่อกับเครือข่ายซึ่งจำเป็นสำหรับ application services ในขณะที่คุณเป็นผู้ provision และใช้งานตามที่ต้องการ",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "module": "Module 1",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อใดต่อไปนี้ \"ไม่ใช่\" ประโยชน์ของ cloud computing เมื่อเทียบกับ on-premises computing? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "เพิ่มความเร็วและความคล่องตัว",
+        "correct": false
+      },
+      {
+        "text": "จ่ายเงินสำหรับการติดตั้ง (racking), จัดวาง (stacking) และจ่ายไฟให้เซิร์ฟเวอร์",
+        "correct": true
+      },
+      {
+        "text": "ไม่ต้องคาดเดาความต้องการด้าน capacity ของโครงสร้างพื้นฐาน",
+        "correct": false
+      },
+      {
+        "text": "แปลง capital expense ให้เป็น variable expense",
+        "correct": false
+      },
+      {
+        "text": "ได้รับประโยชน์จาก economies of scale ขนาดใหญ่",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "module": "Module 1",
+    "isNew": false,
+    "type": "multiple",
+    "question": "ข้อใดต่อไปนี้ \"ไม่ใช่\" ประโยชน์ของ AWS Cloud computing? (เลือก 2 ข้อ)",
+    "options": [
+      {
+        "text": "Multiple procurement cycles",
+        "correct": true
+      },
+      {
+        "text": "High availability",
+        "correct": false
+      },
+      {
+        "text": "High latency",
+        "correct": true
+      },
+      {
+        "text": "resource ชั่วคราวที่ใช้แล้วทิ้งได้ (Temporary and disposable resources)",
+        "correct": false
+      },
+      {
+        "text": "database ที่ทนทานต่อความผิดพลาด (Fault-tolerant databases)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "module": "Module 1",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อใดต่อไปนี้เป็น compute service? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Amazon VPC",
+        "correct": false
+      },
+      {
+        "text": "Amazon S3",
+        "correct": false
+      },
+      {
+        "text": "Amazon EC2",
+        "correct": true
+      },
+      {
+        "text": "Amazon CloudFront",
+        "correct": false
+      },
+      {
+        "text": "Amazon Redshift",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "module": "Module 1",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? cloud computing เป็นวิธีง่ายๆ ในการเข้าถึง servers, storage, databases และชุด application services ที่หลากหลายผ่านทางอินเทอร์เน็ต โดยคุณเป็นเจ้าของ hardware ที่เชื่อมต่อกับเครือข่ายซึ่งจำเป็นสำหรับ services เหล่านี้ และ Amazon Web Services เป็นผู้ provision สิ่งที่คุณต้องการ",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": false
+      },
+      {
+        "text": "ผิด",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "module": "Module 1",
+    "isNew": false,
+    "type": "single",
+    "question": "Economies of scale เกิดจาก ______ (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "การมี cloud provider ที่หลากหลายจำนวนมาก",
+        "correct": false
+      },
+      {
+        "text": "การมีลูกค้าหลายแสนรายรวมตัวกันอยู่บน cloud",
+        "correct": true
+      },
+      {
+        "text": "การมี cloud service หลายร้อยตัวให้ใช้งานผ่านอินเทอร์เน็ต",
+        "correct": false
+      },
+      {
+        "text": "การต้องลงทุนอย่างหนักใน data center และ server",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "module": "Module 1",
+    "isNew": false,
+    "type": "multiple",
+    "question": "ข้อใดต่อไปนี้เป็นวิธีเข้าถึง AWS core services? (เลือก 3 ข้อ)",
+    "options": [
+      {
+        "text": "การโทรขอความช่วยเหลือด้าน technical support",
+        "correct": false
+      },
+      {
+        "text": "AWS Marketplace",
+        "correct": false
+      },
+      {
+        "text": "AWS Management Console",
+        "correct": true
+      },
+      {
+        "text": "AWS Command Line Interface (AWS CLI)",
+        "correct": true
+      },
+      {
+        "text": "Software Development Kits (SDKs)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "module": "Module 1",
+    "isNew": true,
+    "type": "single",
+    "question": "AWS Cloud Adoption Framework (AWS CAF) แบ่งออกเป็นกี่ perspective? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "3 perspective",
+        "correct": false
+      },
+      {
+        "text": "4 perspective",
+        "correct": false
+      },
+      {
+        "text": "6 perspective",
+        "correct": true
+      },
+      {
+        "text": "8 perspective",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "module": "Module 1",
+    "isNew": true,
+    "type": "single",
+    "question": "ข้อใดต่อไปนี้ \"ไม่ใช่\" perspective ใน AWS CAF? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Business perspective",
+        "correct": false
+      },
+      {
+        "text": "People perspective",
+        "correct": false
+      },
+      {
+        "text": "Marketing perspective",
+        "correct": true
+      },
+      {
+        "text": "Governance perspective",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "module": "Module 1",
+    "isNew": true,
+    "type": "single",
+    "question": "cloud deployment model มีทั้งหมดกี่แบบ และมีอะไรบ้าง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "2 แบบ: Public และ Private",
+        "correct": false
+      },
+      {
+        "text": "3 แบบ: Cloud, Hybrid, On-premises (private cloud)",
+        "correct": true
+      },
+      {
+        "text": "4 แบบ: IaaS, PaaS, SaaS, FaaS",
+        "correct": false
+      },
+      {
+        "text": "3 แบบ: IaaS, PaaS, SaaS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "module": "Module 2",
+    "isNew": false,
+    "type": "multiple",
+    "question": "สำหรับบริการบางประเภท เช่น Amazon EC2 และ Amazon RDS คุณสามารถลงทุนใน reserved capacity ได้ ตัวเลือกใดบ้างที่มีให้สำหรับ Reserved Instances? (เลือก 3 ข้อ)",
+    "options": [
+      {
+        "text": "AURI",
+        "correct": true
+      },
+      {
+        "text": "MURI",
+        "correct": false
+      },
+      {
+        "text": "NURI",
+        "correct": true
+      },
+      {
+        "text": "PURI",
+        "correct": true
+      },
+      {
+        "text": "DURI",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "module": "Module 2",
+    "isNew": false,
+    "type": "single",
+    "question": "ลูกค้าสามารถไปดูรายละเอียดเพิ่มเติมเกี่ยวกับกิจกรรมการเรียกเก็บเงิน (billing) ของ Amazon EC2 ที่เกิดขึ้นเมื่อ 3 เดือนก่อนได้ที่ไหน? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Amazon EC2 dashboard",
+        "correct": false
+      },
+      {
+        "text": "AWS Cost Explorer",
+        "correct": true
+      },
+      {
+        "text": "AWS Trusted Advisor dashboard",
+        "correct": false
+      },
+      {
+        "text": "AWS CloudTrail logs ที่เก็บไว้ใน Amazon S3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "module": "Module 2",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? การจะได้รับส่วนลดราคาของ Reserved Instances คุณจำเป็นต้องจ่ายเงินเต็มจำนวนล่วงหน้า (full upfront) ตลอดระยะเวลาของสัญญาเท่านั้น",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": false
+      },
+      {
+        "text": "ผิด",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "module": "Module 2",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อความใดต่อไปนี้ถูกต้องเกี่ยวกับ pricing model ของ AWS? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "โดยส่วนใหญ่จะมีค่าใช้จ่ายต่อ gigabyte สำหรับการโอนข้อมูลขาเข้า (inbound data transfer)",
+        "correct": false
+      },
+      {
+        "text": "โดยทั่วไป storage จะคิดค่าใช้จ่ายต่อ gigabyte",
+        "correct": true
+      },
+      {
+        "text": "โดยทั่วไป compute จะคิดค่าใช้จ่ายเป็นรายเดือนตาม instance type",
+        "correct": false
+      },
+      {
+        "text": "ค่าใช้จ่ายขาออก (outbound) ฟรีจนถึง limit ต่อบัญชี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "module": "Module 2",
+    "isNew": false,
+    "type": "single",
+    "question": "AWS Support มี support plan ทั้งหมด 4 แบบ ได้แก่อะไรบ้าง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Basic, Developer, Business, Enterprise",
+        "correct": true
+      },
+      {
+        "text": "Basic, Startup, Business, Enterprise",
+        "correct": false
+      },
+      {
+        "text": "Free, Bronze, Silver, Gold",
+        "correct": false
+      },
+      {
+        "text": "support ทั้งหมดฟรี",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "module": "Module 2",
+    "isNew": false,
+    "type": "single",
+    "question": "เครื่องมือใดของ AWS ที่ช่วยให้คุณสำรวจ AWS services และสร้างประมาณการค่าใช้จ่ายสำหรับ use case ของคุณบน AWS ได้? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "AWS Pricing Calculator",
+        "correct": true
+      },
+      {
+        "text": "AWS Budgets",
+        "correct": false
+      },
+      {
+        "text": "AWS Cost and Usage Report",
+        "correct": false
+      },
+      {
+        "text": "AWS Billing Dashboard",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "module": "Module 2",
+    "isNew": false,
+    "type": "single",
+    "question": "เมื่อ AWS เติบโตขึ้น ต้นทุนในการดำเนินธุรกิจจะลดลง และการประหยัดต้นทุนนี้จะถูกส่งต่อกลับไปยังลูกค้าในรูปแบบราคาที่ถูกลง การ optimize แบบนี้เรียกว่าอะไร? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Expenditure awareness",
+        "correct": false
+      },
+      {
+        "text": "Economies of scale",
+        "correct": true
+      },
+      {
+        "text": "Matching supply and demand",
+        "correct": false
+      },
+      {
+        "text": "EC2 Right Sizing",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "module": "Module 2",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? AWS ให้บริการบางอย่างโดยไม่คิดค่าใช้จ่าย เช่น Amazon Virtual Private Cloud, AWS Identity and Access Management, Consolidated Billing, AWS Elastic Beanstalk, automatic scaling, AWS OpsWorks และ AWS CloudFormation แต่คุณอาจถูกเรียกเก็บเงินสำหรับ AWS services อื่นที่ใช้งานร่วมกับบริการเหล่านี้",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "module": "Module 2",
+    "isNew": false,
+    "type": "multiple",
+    "question": "ประโยชน์ของการใช้ AWS Organizations คืออะไร? (เลือก 2 ข้อ)",
+    "options": [
+      {
+        "text": "แทนที่ IAM policies เดิมด้วย service control policies (SCPs) ซึ่งจัดการง่ายกว่า",
+        "correct": false
+      },
+      {
+        "text": "สามารถสร้างกลุ่มของบัญชี (account) แล้วแนบ policy เข้ากับกลุ่มนั้นได้",
+        "correct": true
+      },
+      {
+        "text": "สามารถสร้าง nested organizational units (OUs) ได้ไม่จำกัดจำนวนตามโครงสร้างที่ต้องการ",
+        "correct": false
+      },
+      {
+        "text": "ช่วยให้การสร้างและจัดการบัญชีเป็นไปโดยอัตโนมัติผ่าน API ได้ง่ายขึ้น",
+        "correct": true
+      },
+      {
+        "text": "ป้องกันไม่ให้มีการจำกัดสิทธิ์ใดๆ กับ root user ของบัญชีหลักใน organization",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "module": "Module 2",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? AWS Free Tier มอบบริการแบบไม่จำกัด (unlimited) ให้กับลูกค้าใหม่ของ AWS เป็นเวลา 12 เดือนหลังจากวันที่สมัครใช้งาน",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": false
+      },
+      {
+        "text": "ผิด",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "module": "Module 2",
+    "isNew": true,
+    "type": "single",
+    "question": "Service control policies (SCPs) ใน AWS Organizations ทำหน้าที่อะไร? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "ให้สิทธิ์ (grant) การเข้าถึง resource แก่ user โดยตรง",
+        "correct": false
+      },
+      {
+        "text": "กำหนดขอบเขตสิทธิ์สูงสุด (maximum permissions) ที่บัญชีในองค์กรสามารถมีได้",
+        "correct": true
+      },
+      {
+        "text": "แทนที่ IAM policy ทั้งหมด",
+        "correct": false
+      },
+      {
+        "text": "ใช้เข้ารหัสข้อมูลใน S3 bucket",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "module": "Module 2",
+    "isNew": true,
+    "type": "single",
+    "question": "ข้อใดอธิบาย AWS Organizations ได้ถูกต้อง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "ใช้สำหรับตรวจสอบ compliance เท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "ช่วยรวมศูนย์การจัดการหลายบัญชี AWS ผ่าน consolidated billing และ organizational units (OUs)",
+        "correct": true
+      },
+      {
+        "text": "เป็นบริการสำหรับสร้าง VPC หลายตัว",
+        "correct": false
+      },
+      {
+        "text": "ใช้แทน AWS IAM ทั้งหมด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "module": "Module 2",
+    "isNew": true,
+    "type": "single",
+    "question": "ขั้นตอนใดเป็นลำดับที่ถูกต้องในการตั้งค่า AWS Organizations? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "สร้าง SCP > สร้าง organization > สร้าง OU > ทดสอบข้อจำกัด",
+        "correct": false
+      },
+      {
+        "text": "สร้าง organization > สร้าง organizational units > สร้าง service control policies > ทดสอบข้อจำกัด",
+        "correct": true
+      },
+      {
+        "text": "สร้าง OU > ทดสอบข้อจำกัด > สร้าง organization",
+        "correct": false
+      },
+      {
+        "text": "สร้าง billing account ก่อนเสมอ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "module": "Module 3",
+    "isNew": false,
+    "type": "single",
+    "question": "Amazon CloudFront ใช้ component ใดของ AWS Global Infrastructure เพื่อรับประกันการส่งข้อมูลแบบ low-latency? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "AWS Regions",
+        "correct": false
+      },
+      {
+        "text": "AWS edge locations",
+        "correct": true
+      },
+      {
+        "text": "AWS Availability Zones",
+        "correct": false
+      },
+      {
+        "text": "Amazon Virtual Private Cloud (Amazon VPC)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "module": "Module 3",
+    "isNew": false,
+    "type": "single",
+    "question": "คุณสามารถรัน application และ workload จาก Region ที่อยู่ใกล้กับผู้ใช้งานปลายทางมากขึ้น เพื่อ _____ latency",
+    "options": [
+      {
+        "text": "เพิ่ม (increase)",
+        "correct": false
+      },
+      {
+        "text": "ลด (decrease)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "module": "Module 3",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? Networking, storage, compute และ databases เป็นตัวอย่างของ service category ที่ AWS มีให้บริการ",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "module": "Module 3",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อใดต่อไปนี้เป็นพื้นที่ทางภูมิศาสตร์ที่มี Availability Zone ตั้งแต่ 2 แห่งขึ้นไป? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "AWS Origins",
+        "correct": false
+      },
+      {
+        "text": "AWS Regions",
+        "correct": true
+      },
+      {
+        "text": "Compute zones",
+        "correct": false
+      },
+      {
+        "text": "Edge locations",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "module": "Module 3",
+    "isNew": false,
+    "type": "single",
+    "question": "______ หมายถึงโครงสร้างพื้นฐานมี component redundancy อยู่ในตัว และ ______ หมายถึง resource ที่ปรับเปลี่ยนขนาดแบบไดนามิกตามความต้องการ capacity ที่เพิ่มขึ้นหรือลดลง (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "No human intervention, fault tolerant",
+        "correct": false
+      },
+      {
+        "text": "Elastic and scalable, no human intervention",
+        "correct": false
+      },
+      {
+        "text": "Fault tolerant, elastic and scalable",
+        "correct": true
+      },
+      {
+        "text": "Fault tolerant, no human intervention",
+        "correct": false
+      },
+      {
+        "text": "Elastic and scalable, fault tolerant",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "module": "Module 3",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? Availability Zone ต่างๆ ภายใน Region เดียวกันเชื่อมต่อกันผ่าน low-latency links",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "module": "Module 3",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อความใดต่อไปนี้เกี่ยวกับ Availability Zones \"ไม่ถูกต้อง\"? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Availability Zones ถูกออกแบบมาเพื่อ fault isolation",
+        "correct": false
+      },
+      {
+        "text": "Availability Zones ประกอบด้วย data center หนึ่งแห่งหรือมากกว่า",
+        "correct": false
+      },
+      {
+        "text": "data center หนึ่งแห่งสามารถใช้เป็นส่วนหนึ่งของ Availability Zone ได้มากกว่าหนึ่งแห่ง",
+        "correct": true
+      },
+      {
+        "text": "Availability Zones เชื่อมต่อกันด้วย high-speed private links",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "module": "Module 3",
+    "isNew": false,
+    "type": "multiple",
+    "question": "ข้อใดต่อไปนี้เป็นจริงเกี่ยวกับ Region? (เลือก 2 ข้อ)",
+    "options": [
+      {
+        "text": "ทุก Region ตั้งอยู่ในพื้นที่ทางภูมิศาสตร์เดียวกัน",
+        "correct": false
+      },
+      {
+        "text": "แต่ละ Region ตั้งอยู่ในพื้นที่ทางภูมิศาสตร์ที่แยกจากกัน",
+        "correct": true
+      },
+      {
+        "text": "Region คือตำแหน่งทางกายภาพของลูกค้าของคุณ",
+        "correct": false
+      },
+      {
+        "text": "Region คือสถานที่ทางกายภาพที่มี Availability Zone หลายแห่งอยู่ภายใน",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "module": "Module 3",
+    "isNew": false,
+    "type": "single",
+    "question": "AWS แนะนำอย่างยิ่งให้ provision compute resource ของคุณกระจายอยู่บน Availability Zone ______ (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "หลายแห่ง (multiple)",
+        "correct": true
+      },
+      {
+        "text": "ไม่มีเลย",
+        "correct": false
+      },
+      {
+        "text": "แห่งเดียว (single)",
+        "correct": false
+      },
+      {
+        "text": "ทุกแห่ง (all)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "module": "Module 3",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? Edge locations ตั้งอยู่เฉพาะในพื้นที่เดียวกันกับ Region เท่านั้น",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": false
+      },
+      {
+        "text": "ผิด",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "module": "Module 3",
+    "isNew": true,
+    "type": "single",
+    "question": "ข้อใดคือคำนิยามที่ถูกต้องของ AWS Availability Zone? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "กลุ่มของ Region ที่อยู่ใกล้กัน",
+        "correct": false
+      },
+      {
+        "text": "data center หนึ่งแห่งหรือกลุ่ม data center ที่แยกจากกันทางกายภาพภายใน Region เดียวกัน",
+        "correct": true
+      },
+      {
+        "text": "ตำแหน่งที่ตั้งของลูกค้าปลายทาง",
+        "correct": false
+      },
+      {
+        "text": "ศูนย์ให้บริการเฉพาะสำหรับ CloudFront เท่านั้น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "module": "Module 3",
+    "isNew": true,
+    "type": "single",
+    "question": "เหตุใดการกระจายทรัพยากรไปยังหลาย Availability Zone จึงเป็น best practice? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "เพื่อลดค่าใช้จ่ายด้าน storage",
+        "correct": false
+      },
+      {
+        "text": "เพื่อเพิ่ม fault tolerance และความพร้อมใช้งานของ application",
+        "correct": true
+      },
+      {
+        "text": "เพื่อให้ IP address ไม่ซ้ำกัน",
+        "correct": false
+      },
+      {
+        "text": "เพื่อให้ผ่านมาตรฐาน compliance เท่านั้น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "module": "Module 3",
+    "isNew": true,
+    "type": "single",
+    "question": "Amazon CloudFront เป็นบริการประเภทใด? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Content Delivery Network (CDN) ที่ช่วยส่งข้อมูลไปยังผู้ใช้ด้วย latency ต่ำผ่าน edge location",
+        "correct": true
+      },
+      {
+        "text": "บริการ compute แบบ serverless",
+        "correct": false
+      },
+      {
+        "text": "บริการจัดเก็บฐานข้อมูลเชิงสัมพันธ์",
+        "correct": false
+      },
+      {
+        "text": "บริการสำหรับสร้าง VPC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อความใดสะท้อนถึงหลักการออกแบบ (design principle) ของ security pillar ใน Well-Architected Framework? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "อย่า deploy solution ขึ้น production จนกว่าจะมั่นใจว่าไม่มีความเสี่ยงด้านความปลอดภัยเลย",
+        "correct": false
+      },
+      {
+        "text": "กระจายอำนาจการจัดการสิทธิ์ (decentralize privilege management)",
+        "correct": false
+      },
+      {
+        "text": "ให้พนักงานคอยเฝ้าติดตามความเสี่ยงที่อาจเกิดขึ้นด้วยตนเองตลอดเวลา",
+        "correct": false
+      },
+      {
+        "text": "ใช้มาตรการด้านความปลอดภัยในทุกชั้น (layer) ของสถาปัตยกรรม",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": false,
+    "type": "multiple",
+    "question": "ข้อความใดต่อไปนี้ถูกต้องเกี่ยวกับความรับผิดชอบตาม AWS shared responsibility model? (เลือก 2 ข้อ)",
+    "options": [
+      {
+        "text": "AWS รับผิดชอบการตั้งค่า host-based firewall",
+        "correct": false
+      },
+      {
+        "text": "ลูกค้ารับผิดชอบการจัดการข้อมูลผู้ใช้ (user data) ของตนเอง",
+        "correct": true
+      },
+      {
+        "text": "ลูกค้ารับผิดชอบการติดตั้ง บำรุงรักษา และปลดระวาง hardware ที่ใช้งานใน AWS data center",
+        "correct": false
+      },
+      {
+        "text": "AWS รับผิดชอบการตั้งค่า security group",
+        "correct": false
+      },
+      {
+        "text": "AWS รับผิดชอบความปลอดภัยทางกายภาพ (physical security) ของ data center",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": false,
+    "type": "multiple",
+    "question": "ข้อใดเป็นลักษณะของหลักการ principle of least privilege? (เลือก 2 ข้อ)",
+    "options": [
+      {
+        "text": "ใช้การเข้ารหัสข้อมูล (encryption)",
+        "correct": false
+      },
+      {
+        "text": "ให้สิทธิ์การเข้าถึงเท่าที่จำเป็นเท่านั้น",
+        "correct": true
+      },
+      {
+        "text": "ตรวจติดตาม action และการเปลี่ยนแปลงต่างๆ",
+        "correct": false
+      },
+      {
+        "text": "สร้าง security policy ที่จำกัดการเข้าถึงเฉพาะงานที่กำหนด",
+        "correct": true
+      },
+      {
+        "text": "ใช้ group เสมอ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อความใดเกี่ยวกับ AWS Identity and Access Management (IAM) ถูกต้อง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "IAM ให้ audit trail ว่าใครเป็นผู้ทำ action อะไร และทำเมื่อใด",
+        "correct": false
+      },
+      {
+        "text": "IAM เพิ่มชั้นความปลอดภัยพิเศษด้วยการตรวจจับความผิดปกติ (anomaly detection) บน resource",
+        "correct": false
+      },
+      {
+        "text": "ด้วย IAM คุณสามารถจัดการ encryption สำหรับข้อมูลที่ต้องเข้ารหัสแบบ at rest ได้",
+        "correct": false
+      },
+      {
+        "text": "ด้วย IAM คุณสามารถให้สิทธิ์การเข้าถึง resource แก่ principal ได้อย่างละเอียด (granular)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": false,
+    "type": "multiple",
+    "question": "ข้อความใดอธิบายเกี่ยวกับ IAM roles ได้ถูกต้อง? (เลือก 2 ข้อ)",
+    "options": [
+      {
+        "text": "ผูกกับบุคคลใดบุคคลหนึ่งโดยเฉพาะ",
+        "correct": false
+      },
+      {
+        "text": "ให้ security credential แบบถาวร",
+        "correct": false
+      },
+      {
+        "text": "บุคคล, application และ service สามารถ assume role ได้",
+        "correct": true
+      },
+      {
+        "text": "ใช้ได้เฉพาะกับบัญชีที่เกี่ยวข้องกับผู้สร้าง role เท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "ให้ security credential แบบชั่วคราว (temporary)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อความใดสะท้อนถึง best practice สำหรับ root user ของบัญชี AWS? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "เพื่อป้องกันไม่ให้ถูกล็อกออกจากบัญชี ไม่ควรเปิดใช้งาน MFA บน root account",
+        "correct": false
+      },
+      {
+        "text": "สร้าง admin user แล้วใช้ user นี้ทำงานด้าน admin ส่วนใหญ่แทนการใช้ root user",
+        "correct": true
+      },
+      {
+        "text": "สร้าง root user สองบัญชีที่มี credential แยกกัน แล้วแจกจ่ายให้คนสองคน",
+        "correct": false
+      },
+      {
+        "text": "ลบสิทธิ์ที่ไม่จำเป็นออกจากบัญชี root user",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": false,
+    "type": "single",
+    "question": "IAM ประเมิน (evaluate) policy อย่างไร? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "explicit deny statement จะไม่ override explicit allow statement",
+        "correct": false
+      },
+      {
+        "text": "ตรวจสอบ explicit allow statement ก่อน explicit deny statement",
+        "correct": false
+      },
+      {
+        "text": "ตรวจสอบ explicit deny statement ก่อน explicit allow statement",
+        "correct": true
+      },
+      {
+        "text": "หาก policy ไม่มี explicit deny หรือ explicit allow เลย ผู้ใช้จะได้รับสิทธิ์เข้าถึงโดย default",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อความใดเกี่ยวกับ IAM policy ถูกต้อง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "resource-based policy อนุญาตการเข้าถึงโดย default",
+        "correct": false
+      },
+      {
+        "text": "identity-based policy ถูกแนบเข้ากับ user, group หรือ role",
+        "correct": true
+      },
+      {
+        "text": "identity-based policy สามารถแนบกับ entity ได้เพียงหนึ่งเดียวเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "resource-based policy ถูกแนบเข้ากับ user, group หรือ role",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": false,
+    "type": "single",
+    "question": "IAM policy element ใดที่ระบุว่าจะ allow หรือ deny request? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Condition",
+        "correct": false
+      },
+      {
+        "text": "Principal",
+        "correct": false
+      },
+      {
+        "text": "Effect",
+        "correct": true
+      },
+      {
+        "text": "Action",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อใดอธิบาย statement element ใน IAM policy ได้ถูกต้อง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "statement element เป็นส่วนที่ไม่บังคับ (optional) ของ IAM policy",
+        "correct": false
+      },
+      {
+        "text": "policy หนึ่งตัวมี statement element ได้เพียงหนึ่งเดียวเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "statement element ไม่สามารถใช้กับ identity-based policy ได้",
+        "correct": false
+      },
+      {
+        "text": "statement element ประกอบด้วย element อื่นๆ ที่รวมกันกำหนดว่าอะไรถูก allow หรือ deny",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": true,
+    "type": "single",
+    "question": "AWS Well-Architected Framework ประกอบด้วยกี่ pillar ในปัจจุบัน? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "4 pillar",
+        "correct": false
+      },
+      {
+        "text": "5 pillar",
+        "correct": false
+      },
+      {
+        "text": "6 pillar",
+        "correct": true
+      },
+      {
+        "text": "8 pillar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": true,
+    "type": "single",
+    "question": "โปรแกรม compliance ของ AWS สามารถแบ่งออกเป็นกลุ่มใหญ่ๆ ได้กี่ประเภท? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "2 ประเภท",
+        "correct": false
+      },
+      {
+        "text": "3 ประเภท ได้แก่ certifications and attestations, laws/regulations/privacy และ alignments and frameworks",
+        "correct": true
+      },
+      {
+        "text": "4 ประเภท",
+        "correct": false
+      },
+      {
+        "text": "ไม่มีการแบ่งประเภท",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "module": "Module 3 (เพิ่มเติม - Well-Architected & Security)",
+    "isNew": true,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? Service control policy (SCP) สามารถใช้ \"grant\" (ให้) สิทธิ์การเข้าถึงแก่ user ได้โดยตรง",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": false
+      },
+      {
+        "text": "ผิด",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "module": "Module 4",
+    "isNew": false,
+    "type": "single",
+    "question": "ใน shared responsibility model, AWS รับผิดชอบด้านใด? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Security \"of\" the cloud (ความปลอดภัยของตัว cloud เอง)",
+        "correct": true
+      },
+      {
+        "text": "Security \"to\" the cloud",
+        "correct": false
+      },
+      {
+        "text": "Security \"for\" the cloud",
+        "correct": false
+      },
+      {
+        "text": "Security \"in\" the cloud",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "module": "Module 4",
+    "isNew": false,
+    "type": "multiple",
+    "question": "ใน shared responsibility model ข้อใดเป็นตัวอย่างของ \"security in the cloud\"? (เลือก 2 ข้อ)",
+    "options": [
+      {
+        "text": "การปฏิบัติตามมาตรฐานและกฎระเบียบด้าน compute security",
+        "correct": false
+      },
+      {
+        "text": "ความปลอดภัยทางกายภาพของสถานที่ที่ให้บริการ",
+        "correct": false
+      },
+      {
+        "text": "การตั้งค่า security group",
+        "correct": true
+      },
+      {
+        "text": "การเข้ารหัสข้อมูลทั้งแบบ at rest และ in transit",
+        "correct": true
+      },
+      {
+        "text": "การปกป้อง global infrastructure",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "module": "Module 4",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อใดเป็นความรับผิดชอบของ AWS ภายใต้ shared responsibility model? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "การตั้งค่า third-party application",
+        "correct": false
+      },
+      {
+        "text": "การดูแลรักษา physical hardware",
+        "correct": true
+      },
+      {
+        "text": "การรักษาความปลอดภัยของ application access และข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "การจัดการ custom Amazon Machine Images (AMIs)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "module": "Module 4",
+    "isNew": false,
+    "type": "multiple",
+    "question": "เมื่อสร้าง IAM policy การเข้าถึงแบบใดบ้างที่สามารถให้สิทธิ์แก่ user ได้? (เลือก 2 ข้อ)",
+    "options": [
+      {
+        "text": "Institutional access",
+        "correct": false
+      },
+      {
+        "text": "Authorized access",
+        "correct": false
+      },
+      {
+        "text": "Programmatic access",
+        "correct": true
+      },
+      {
+        "text": "AWS Management Console access",
+        "correct": true
+      },
+      {
+        "text": "Administrative root access",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "module": "Module 4",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? AWS Organizations ช่วยให้คุณรวม (consolidate) บัญชี AWS หลายบัญชีเพื่อจัดการแบบรวมศูนย์ได้",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "module": "Module 4",
+    "isNew": false,
+    "type": "multiple",
+    "question": "ข้อใดเป็น best practice ในการรักษาความปลอดภัยบัญชีของคุณโดยใช้ IAM? (เลือก 2 ข้อ)",
+    "options": [
+      {
+        "text": "ให้สิทธิ์ระดับ administrator แก่ user ทุกคนเป็นค่าเริ่มต้น",
+        "correct": false
+      },
+      {
+        "text": "ปล่อย user และ credential ที่ไม่ได้ใช้งานทิ้งไว้",
+        "correct": false
+      },
+      {
+        "text": "จัดการการเข้าถึง AWS resource อย่างเหมาะสม",
+        "correct": true
+      },
+      {
+        "text": "หลีกเลี่ยงการใช้ IAM group เพื่อให้สิทธิ์เดียวกันแก่ user หลายคน",
+        "correct": false
+      },
+      {
+        "text": "กำหนดสิทธิ์การเข้าถึงแบบละเอียด (fine-grained)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "module": "Module 4",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อใดควรทำโดย AWS account root user? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "รักษาความปลอดภัยการเข้าถึงสำหรับ application",
+        "correct": false
+      },
+      {
+        "text": "เชื่อมต่อกับ AWS service อื่นๆ",
+        "correct": false
+      },
+      {
+        "text": "เปลี่ยนสิทธิ์แบบละเอียด (granular permissions)",
+        "correct": false
+      },
+      {
+        "text": "เปลี่ยน AWS support plan",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "module": "Module 4",
+    "isNew": false,
+    "type": "single",
+    "question": "หลังจาก login ครั้งแรก AWS แนะนำ best practice ใดสำหรับ root user? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "ลบบัญชี root user ทิ้ง",
+        "correct": false
+      },
+      {
+        "text": "เพิกถอนสิทธิ์ทั้งหมดของ root user",
+        "correct": false
+      },
+      {
+        "text": "จำกัดสิทธิ์ของ root user",
+        "correct": false
+      },
+      {
+        "text": "ลบ access key ของ root user ทิ้ง",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "module": "Module 4",
+    "isNew": false,
+    "type": "single",
+    "question": "ผู้ดูแลระบบจะเพิ่มความปลอดภัยอีกชั้นให้กับการ login เข้า AWS Management Console ของ user ได้อย่างไร? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "ใช้ Amazon Cloud Directory",
+        "correct": false
+      },
+      {
+        "text": "ตรวจสอบ (audit) IAM roles",
+        "correct": false
+      },
+      {
+        "text": "เปิดใช้งาน multi-factor authentication (MFA)",
+        "correct": true
+      },
+      {
+        "text": "เปิดใช้งาน AWS CloudTrail",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "module": "Module 4",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? AWS Key Management Service (AWS KMS) ช่วยให้คุณประเมิน ตรวจสอบ (audit) และวิเคราะห์การตั้งค่า configuration ของ AWS resource ได้",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": false
+      },
+      {
+        "text": "ผิด",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "module": "Module 4",
+    "isNew": true,
+    "type": "single",
+    "question": "AWS Shield Standard ให้การป้องกันประเภทใดโดยไม่มีค่าใช้จ่ายเพิ่มเติม? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "การป้องกันมัลแวร์",
+        "correct": false
+      },
+      {
+        "text": "การป้องกัน Distributed Denial of Service (DDoS)",
+        "correct": true
+      },
+      {
+        "text": "การเข้ารหัสข้อมูล",
+        "correct": false
+      },
+      {
+        "text": "การสแกนช่องโหว่ (vulnerability scanning)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "module": "Module 4",
+    "isNew": true,
+    "type": "single",
+    "question": "AWS Key Management Service (AWS KMS) ใช้สำหรับอะไร? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "สร้างและจัดการ encryption key เพื่อควบคุมการเข้ารหัสข้อมูลใน AWS service และ application",
+        "correct": true
+      },
+      {
+        "text": "ตรวจจับ DDoS attack",
+        "correct": false
+      },
+      {
+        "text": "จัดการบัญชี AWS หลายบัญชี",
+        "correct": false
+      },
+      {
+        "text": "สร้าง VPC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "module": "Module 4",
+    "isNew": true,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? Service control policy (SCP) มีไวยากรณ์ (syntax) คล้ายกับ IAM permission policy แต่ SCP ไม่สามารถให้สิทธิ์ (grant) ได้โดยตรง",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "module": "Module 4",
+    "isNew": true,
+    "type": "single",
+    "question": "โปรแกรม compliance ประเภท \"Laws, regulations, and privacy\" ของ AWS มีตัวอย่างเช่นอะไรบ้าง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "ISO 27001",
+        "correct": false
+      },
+      {
+        "text": "GDPR และ HIPAA",
+        "correct": true
+      },
+      {
+        "text": "CIS benchmark",
+        "correct": false
+      },
+      {
+        "text": "SOC 2 เท่านั้น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "module": "Module 5",
+    "isNew": false,
+    "type": "single",
+    "question": "ด้วย Amazon Virtual Private Cloud (Amazon VPC) subnet ที่มีขนาดเล็กที่สุดที่คุณสามารถมีได้ใน VPC คือขนาดใด? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "/26",
+        "correct": false
+      },
+      {
+        "text": "/28",
+        "correct": true
+      },
+      {
+        "text": "/30",
+        "correct": false
+      },
+      {
+        "text": "/24",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "module": "Module 5",
+    "isNew": false,
+    "type": "single",
+    "question": "ด้วย Amazon Virtual Private Cloud (Amazon VPC) ช่วง IP address ที่ใหญ่ที่สุดที่คุณสามารถมีได้ใน VPC คือขนาดใด? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "/16",
+        "correct": true
+      },
+      {
+        "text": "/24",
+        "correct": false
+      },
+      {
+        "text": "/30",
+        "correct": false
+      },
+      {
+        "text": "/28",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "module": "Module 5",
+    "isNew": false,
+    "type": "single",
+    "question": "คุณต้องการให้ resource ใน private subnet เข้าถึงอินเทอร์เน็ตได้ ต้องมีสิ่งใดต่อไปนี้เพื่อเปิดใช้งานการเข้าถึงนี้? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "NAT gateway",
+        "correct": true
+      },
+      {
+        "text": "Network access control lists",
+        "correct": false
+      },
+      {
+        "text": "Security groups",
+        "correct": false
+      },
+      {
+        "text": "Route tables",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "module": "Module 5",
+    "isNew": false,
+    "type": "single",
+    "question": "AWS networking service ใดที่ช่วยให้บริษัทสามารถสร้าง virtual network ภายใน AWS ได้? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Amazon Virtual Private Cloud (Amazon VPC)",
+        "correct": true
+      },
+      {
+        "text": "AWS Direct Connect",
+        "correct": false
+      },
+      {
+        "text": "Amazon Route 53",
+        "correct": false
+      },
+      {
+        "text": "AWS Config",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "module": "Module 5",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? private subnet มีการเข้าถึงอินเทอร์เน็ตโดยตรง",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": false
+      },
+      {
+        "text": "ผิด",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "module": "Module 5",
+    "isNew": false,
+    "type": "single",
+    "question": "Amazon CloudFront ใช้ component ใดของ AWS Global Infrastructure เพื่อรับประกันการส่งข้อมูลแบบ low-latency? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Amazon Virtual Private Cloud (Amazon VPC)",
+        "correct": false
+      },
+      {
+        "text": "AWS edge locations",
+        "correct": true
+      },
+      {
+        "text": "AWS Regions",
+        "correct": false
+      },
+      {
+        "text": "AWS Availability Zones",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "module": "Module 5",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อใดเป็น security control แบบเสริม (optional) ที่สามารถใช้ในระดับ subnet ของ VPC ได้? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Firewall",
+        "correct": false
+      },
+      {
+        "text": "Security group",
+        "correct": false
+      },
+      {
+        "text": "Network ACL",
+        "correct": true
+      },
+      {
+        "text": "Web application firewall",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "module": "Module 5",
+    "isNew": false,
+    "type": "single",
+    "question": "เกิดอะไรขึ้นเมื่อคุณใช้ Amazon Virtual Private Cloud (Amazon VPC) สร้าง VPC ใหม่? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "มีการสร้าง subnet 3 ตัวโดย default ใน Availability Zone เดียว",
+        "correct": false
+      },
+      {
+        "text": "มีการสร้าง subnet 3 ตัวโดย default หนึ่งตัวต่อหนึ่ง Availability Zone",
+        "correct": false
+      },
+      {
+        "text": "มีการสร้าง internet gateway โดย default",
+        "correct": false
+      },
+      {
+        "text": "มีการสร้าง main route table โดย default",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "module": "Module 5",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อใดสามารถใช้เพื่อปกป้อง Amazon Elastic Compute Cloud (Amazon EC2) instance ที่โฮสต์อยู่บน AWS ได้? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": false
+      },
+      {
+        "text": "Security group",
+        "correct": true
+      },
+      {
+        "text": "AMI",
+        "correct": false
+      },
+      {
+        "text": "Internet Gateway",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "module": "Module 5",
+    "isNew": false,
+    "type": "single",
+    "question": "คุณเป็น solutions architect ที่ทำงานให้บริษัทค้าปลีกขนาดใหญ่ซึ่งกำลังย้ายโครงสร้างพื้นฐานเดิมมาสู่ AWS คุณแนะนำให้ใช้ custom VPC เมื่อคุณสร้าง VPC คุณกำหนด IPv4 Classless Inter-Domain Routing (CIDR) block เป็น 10.0.1.0/24 (ซึ่งมี IP address ทั้งหมด 256 ตัว) มี IP address ที่ใช้งานได้จริงกี่ตัว? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "256",
+        "correct": false
+      },
+      {
+        "text": "246",
+        "correct": false
+      },
+      {
+        "text": "250",
+        "correct": false
+      },
+      {
+        "text": "251",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "module": "Module 5",
+    "isNew": true,
+    "type": "single",
+    "question": "VPC peering มีข้อจำกัดใดบ้าง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "รองรับ transitive peering ได้",
+        "correct": false
+      },
+      {
+        "text": "ช่วง IP ของทั้งสอง VPC ต้องไม่ทับซ้อนกัน",
+        "correct": true
+      },
+      {
+        "text": "เชื่อมต่อได้เฉพาะภายใน Region เดียวกันเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "เชื่อมต่อ VPC ได้ไม่จำกัดจำนวนคู่ระหว่าง VPC เดียวกัน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "module": "Module 5",
+    "isNew": true,
+    "type": "single",
+    "question": "route table ทุกตัวใน VPC จะมี route ใดอยู่โดย default เสมอ? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "route ไปยัง internet gateway",
+        "correct": false
+      },
+      {
+        "text": "local route สำหรับสื่อสารภายใน VPC",
+        "correct": true
+      },
+      {
+        "text": "route ไปยัง NAT gateway",
+        "correct": false
+      },
+      {
+        "text": "route ไปยัง VPN gateway",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "module": "Module 5",
+    "isNew": true,
+    "type": "single",
+    "question": "NAT gateway ควรถูกวางไว้ใน subnet ประเภทใด? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "private subnet",
+        "correct": false
+      },
+      {
+        "text": "public subnet",
+        "correct": true
+      },
+      {
+        "text": "VPN subnet",
+        "correct": false
+      },
+      {
+        "text": "edge subnet",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "module": "Module 5",
+    "isNew": true,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? แต่ละ subnet สามารถเชื่อมโยง (associate) กับ route table ได้มากกว่าหนึ่งตัวพร้อมกัน",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": false
+      },
+      {
+        "text": "ผิด",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "module": "Module 6",
+    "isNew": false,
+    "type": "single",
+    "question": "Amazon Elastic Compute Cloud (Amazon EC2) คือ ______ (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "serverless compute service",
+        "correct": false
+      },
+      {
+        "text": "platform as a service (PaaS)",
+        "correct": false
+      },
+      {
+        "text": "managed database service",
+        "correct": false
+      },
+      {
+        "text": "infrastructure as a service (IaaS)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "module": "Module 6",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? serverless compute service หมายความว่าไม่มี server ใดๆ รัน code ของคุณเลย",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": false
+      },
+      {
+        "text": "ผิด",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "module": "Module 6",
+    "isNew": false,
+    "type": "single",
+    "question": "เมื่อบริษัทสร้าง (spin up) Amazon EC2 instance บริษัทมีความรับผิดชอบด้านใด? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "การ patch host operating system ที่อยู่เบื้องหลัง",
+        "correct": false
+      },
+      {
+        "text": "การจัดหาความปลอดภัยทางกายภาพให้ hardware ใน data center",
+        "correct": false
+      },
+      {
+        "text": "การดูแลไฟฟ้าให้กับ instance",
+        "correct": false
+      },
+      {
+        "text": "การ patch guest operating system",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "module": "Module 6",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? ปริมาณ memory ของ Amazon EC2 instance ถูกกำหนดโดย instance type",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "module": "Module 6",
+    "isNew": false,
+    "type": "single",
+    "question": "ข้อความใดเกี่ยวกับการใช้งาน Amazon Machine Images (AMIs) ถูกต้อง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "คุณต้องสร้าง AMI ก่อนจึงจะ launch Amazon EC2 instance ได้",
+        "correct": false
+      },
+      {
+        "text": "คุณสามารถ launch instance ได้เพียงหนึ่งตัวจาก AMI หนึ่งตัวเท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "มีเพียงเจ้าของ AMI เท่านั้นที่สามารถ launch EC2 instance จาก AMI นั้นได้",
+        "correct": false
+      },
+      {
+        "text": "คุณสามารถ launch instance หลายตัวจาก AMI เดียวได้",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "module": "Module 6",
+    "isNew": false,
+    "type": "single",
+    "question": "Amazon EC2 pricing option ใดเหมาะสมที่สุดสำหรับ application ที่รันตลอด 24 ชั่วโมง 7 วันต่อสัปดาห์ เป็นเวลา 3 ปี? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "On-Demand Instances",
+        "correct": false
+      },
+      {
+        "text": "Reserved Instances",
+        "correct": true
+      },
+      {
+        "text": "Spot Instances",
+        "correct": false
+      },
+      {
+        "text": "Dedicated Hosts",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "module": "Module 6",
+    "isNew": false,
+    "type": "single",
+    "question": "Amazon EC2 pricing option ใดเหมาะสมที่สุดสำหรับ application ที่มี workload ไม่แน่นอนและเปลี่ยนแปลงตลอดเวลา? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "On-Demand Instances",
+        "correct": true
+      },
+      {
+        "text": "Reserved Instances",
+        "correct": false
+      },
+      {
+        "text": "Spot Instances",
+        "correct": false
+      },
+      {
+        "text": "Dedicated Hosts",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "module": "Module 6",
+    "isNew": false,
+    "type": "single",
+    "question": "AWS service ใดที่สามารถ scale จำนวน Amazon EC2 instance โดยอัตโนมัติตามชุดกฎที่กำหนดได้? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Amazon Elastic Load Balancing",
+        "correct": false
+      },
+      {
+        "text": "AWS Auto Scaling",
+        "correct": true
+      },
+      {
+        "text": "AWS CloudFormation",
+        "correct": false
+      },
+      {
+        "text": "Amazon CloudWatch",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "module": "Module 6",
+    "isNew": false,
+    "type": "single",
+    "question": "load balancer ประเภทใดเหมาะสมที่สุดสำหรับกระจาย traffic แบบ HTTP และ HTTPS? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Classic Load Balancer",
+        "correct": false
+      },
+      {
+        "text": "Network Load Balancer",
+        "correct": false
+      },
+      {
+        "text": "Application Load Balancer",
+        "correct": true
+      },
+      {
+        "text": "UDP Load Balancer",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "module": "Module 6",
+    "isNew": false,
+    "type": "single",
+    "question": "ประโยชน์หลักของการใช้ Amazon Elastic Load Balancing คืออะไร? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "ให้การเชื่อมต่อแบบเฉพาะ (dedicated) ไปยัง AWS",
+        "correct": false
+      },
+      {
+        "text": "กระจาย traffic ขาเข้าไปยัง target หลายตัว",
+        "correct": true
+      },
+      {
+        "text": "สร้าง Amazon EC2 instance โดยอัตโนมัติตามความต้องการ",
+        "correct": false
+      },
+      {
+        "text": "สำรองข้อมูล (backup) database โดยอัตโนมัติ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "module": "Module 6",
+    "isNew": true,
+    "type": "single",
+    "question": "EC2 instance type category ใดเหมาะกับงานที่ต้องใช้ high-performance computing (HPC) และ batch processing? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "General purpose",
+        "correct": false
+      },
+      {
+        "text": "Compute optimized",
+        "correct": true
+      },
+      {
+        "text": "Storage optimized",
+        "correct": false
+      },
+      {
+        "text": "Memory optimized",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "module": "Module 6",
+    "isNew": true,
+    "type": "single",
+    "question": "EC2 instance type category ใดเหมาะกับ workload ประเภท in-memory database และ big data analytics? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Compute optimized",
+        "correct": false
+      },
+      {
+        "text": "Memory optimized",
+        "correct": true
+      },
+      {
+        "text": "Accelerated computing",
+        "correct": false
+      },
+      {
+        "text": "General purpose",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "module": "Module 6",
+    "isNew": true,
+    "type": "single",
+    "question": "ข้อใดคือคำแนะนำเมื่อต้องเลือก instance type ตระกูล (family) ใหม่? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "ควรเลือก instance generation ล่าสุดในตระกูลนั้น เพราะมักมี price-to-performance ratio ที่ดีกว่า",
+        "correct": true
+      },
+      {
+        "text": "ควรเลือก instance generation เก่าที่สุดเพื่อความเสถียร",
+        "correct": false
+      },
+      {
+        "text": "generation ไม่มีผลต่อราคาหรือประสิทธิภาพ",
+        "correct": false
+      },
+      {
+        "text": "ควรเลือกตาม storage เพียงอย่างเดียว",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "module": "Module 6",
+    "isNew": true,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? EBS-optimized instance ให้การเชื่อมต่อเครือข่ายแบบเฉพาะ (dedicated) ไปยัง EBS volume ที่แนบอยู่ เพื่อเพิ่มประสิทธิภาพ I/O",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "module": "Module 7",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? Amazon Simple Storage Service (Amazon S3) เป็น object storage ที่เหมาะสำหรับจัดเก็บ flat file เช่น เอกสาร Microsoft Word, รูปภาพ ฯลฯ",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "module": "Module 7",
+    "isNew": false,
+    "type": "single",
+    "question": "Amazon S3 ทำการ replicate object ทั้งหมด ______ (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "บน volume หลายตัวภายใน Availability Zone เดียว",
+        "correct": false
+      },
+      {
+        "text": "ไปยัง Availability Zone หลายแห่งภายใน Region เดียวกัน",
+        "correct": true
+      },
+      {
+        "text": "ข้าม Region หลาย Region เพื่อความทนทาน (durability) ที่สูงขึ้น",
+        "correct": false
+      },
+      {
+        "text": "บน S3 bucket หลายตัว",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "module": "Module 7",
+    "isNew": false,
+    "type": "multiple",
+    "question": "ข้อใดสามารถใช้เป็น storage class ใน S3 object lifecycle policy ได้? (เลือก 3 ข้อ)",
+    "options": [
+      {
+        "text": "S3 Standard",
+        "correct": true
+      },
+      {
+        "text": "AWS Storage Gateway",
+        "correct": false
+      },
+      {
+        "text": "S3 Standard-Infrequent Access",
+        "correct": true
+      },
+      {
+        "text": "Amazon S3 Glacier",
+        "correct": true
+      },
+      {
+        "text": "S3 Reduced Redundancy Storage",
+        "correct": false
+      },
+      {
+        "text": "Amazon DynamoDB",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "module": "Module 7",
+    "isNew": false,
+    "type": "single",
+    "question": "ชื่อของ S3 bucket ต้องไม่ซ้ำกัน ______ (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "ทั่วโลกในทุกบัญชี AWS",
+        "correct": true
+      },
+      {
+        "text": "ภายใน Region เดียวกัน",
+        "correct": false
+      },
+      {
+        "text": "ในทุกบัญชี AWS ของคุณ",
+        "correct": false
+      },
+      {
+        "text": "ภายในบัญชี AWS ของคุณเอง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "module": "Module 7",
+    "isNew": false,
+    "type": "single",
+    "question": "คุณสามารถใช้ Amazon Elastic File System (Amazon EFS) เพื่อ: (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "จัดเตรียม file storage ที่เรียบง่าย, scalable, elastic สำหรับใช้ภายใน AWS เท่านั้น",
+        "correct": false
+      },
+      {
+        "text": "ทำ storage ให้กับ Amazon EC2 instance ที่ virtual machine หลายตัวสามารถเข้าถึงพร้อมกันได้",
+        "correct": true
+      },
+      {
+        "text": "โฮสต์ CDN ที่แข็งแกร่งเพื่อส่งเว็บไซต์ทั้งหมดพร้อม dynamic, static และ streaming content",
+        "correct": false
+      },
+      {
+        "text": "สร้าง content เฉพาะสำหรับผู้ใช้แต่ละคน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "module": "Module 7",
+    "isNew": false,
+    "type": "multiple",
+    "question": "Amazon Elastic Block Store (Amazon EBS) เหมาะสำหรับข้อมูลที่ ______ และ ______ (เลือก 2 ข้อ)",
+    "options": [
+      {
+        "text": "ต้องการ storage แบบ object-level",
+        "correct": false
+      },
+      {
+        "text": "ต้องเข้าถึงได้อย่างรวดเร็ว และต้องการความคงอยู่ (persistence) ในระยะยาว",
+        "correct": true
+      },
+      {
+        "text": "ต้องการวิธีการเข้ารหัส (encryption)",
+        "correct": true
+      },
+      {
+        "text": "ต้องถูกเก็บไว้ใน Availability Zone ที่ต่างจาก EC2 instance ที่ใช้งาน",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "module": "Module 7",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? โดย default ข้อมูลทั้งหมดที่จัดเก็บใน Amazon S3 สามารถถูกดูได้โดยสาธารณะ (public)",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": false
+      },
+      {
+        "text": "ผิด",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "module": "Module 7",
+    "isNew": false,
+    "type": "single",
+    "question": "ในบริบทของ Amazon S3 Glacier, \"Vault\" คืออะไร? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "กฎที่กำหนดว่าใครสามารถ (หรือไม่สามารถ) เข้าถึง archive ได้",
+        "correct": false
+      },
+      {
+        "text": "object (รูปภาพ, วิดีโอ, ไฟล์ หรือเอกสาร)",
+        "correct": false
+      },
+      {
+        "text": "container สำหรับจัดเก็บ archive",
+        "correct": true
+      },
+      {
+        "text": "policy ที่ระบุว่าใครสามารถเข้าถึง content ที่เก็บใน Glacier ได้",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "module": "Module 7",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? เมื่อคุณสร้าง bucket ใน Amazon S3 bucket นั้นจะถูกผูกไว้กับ AWS Region ที่เฉพาะเจาะจง",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "module": "Module 7",
+    "isNew": false,
+    "type": "multiple",
+    "question": "ข้อใดต่อไปนี้เป็น feature ของ Amazon Elastic Block Store (Amazon EBS)? (เลือก 2 ข้อ)",
+    "options": [
+      {
+        "text": "ข้อมูลที่เก็บบน Amazon EBS จะถูก replicate โดยอัตโนมัติภายใน Availability Zone เดียวกัน",
+        "correct": true
+      },
+      {
+        "text": "ข้อมูล Amazon EBS จะถูก backup ไปยัง tape โดยอัตโนมัติ",
+        "correct": false
+      },
+      {
+        "text": "ข้อมูลบน EBS volume จะหายไปเมื่อ instance ที่แนบอยู่ถูกหยุด (stop)",
+        "correct": false
+      },
+      {
+        "text": "EBS volume สามารถถูกเข้ารหัสได้อย่างโปร่งใส (transparently) ต่อ workload บน instance ที่แนบอยู่",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "module": "Module 7",
+    "isNew": true,
+    "type": "single",
+    "question": "S3 storage class ใดเหมาะสำหรับข้อมูลที่เข้าถึงไม่บ่อยแต่ต้องการดึงข้อมูล (retrieve) ได้ทันที? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "S3 Standard",
+        "correct": false
+      },
+      {
+        "text": "S3 Standard-IA",
+        "correct": true
+      },
+      {
+        "text": "S3 Glacier Deep Archive",
+        "correct": false
+      },
+      {
+        "text": "S3 Glacier Flexible Retrieval",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "module": "Module 7",
+    "isNew": true,
+    "type": "single",
+    "question": "ข้อใดคือระยะเวลาการดึงข้อมูล (retrieval) แบบ Expedited ของ Amazon S3 Glacier? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "1–5 นาที",
+        "correct": true
+      },
+      {
+        "text": "3–5 ชั่วโมง",
+        "correct": false
+      },
+      {
+        "text": "5–12 ชั่วโมง",
+        "correct": false
+      },
+      {
+        "text": "24–48 ชั่วโมง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "module": "Module 7",
+    "isNew": true,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? S3 lifecycle policy สามารถกำหนดให้ย้าย object จาก S3 Standard ไปยัง S3 Standard-IA แล้วจึงย้ายไปยัง Amazon S3 Glacier โดยอัตโนมัติตามอายุของ object",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "module": "Module 8",
+    "isNew": false,
+    "type": "single",
+    "question": "คุณกำลังออกแบบ ecommerce web application ที่ต้อง scale รองรับผู้ใช้งานพร้อมกันหลายแสนคน database technology ใดเหมาะสมที่สุดสำหรับเก็บ session state ในกรณีนี้? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Amazon Relational Database Service (Amazon RDS)",
+        "correct": false
+      },
+      {
+        "text": "Amazon DynamoDB",
+        "correct": true
+      },
+      {
+        "text": "Amazon Redshift",
+        "correct": false
+      },
+      {
+        "text": "Amazon Simple Storage Service (Amazon S3)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "module": "Module 8",
+    "isNew": false,
+    "type": "single",
+    "question": "คุณต้องการค้นหา item ใน Amazon DynamoDB table โดยใช้ attribute อื่นที่ไม่ใช่ primary key ของ item ควรใช้ operation ใด? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "PutItem",
+        "correct": false
+      },
+      {
+        "text": "Scan",
+        "correct": true
+      },
+      {
+        "text": "Query",
+        "correct": false
+      },
+      {
+        "text": "GetItem",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "module": "Module 8",
+    "isNew": false,
+    "type": "single",
+    "question": "ใน Amazon DynamoDB, operation \"query\" ช่วยให้คุณทำอะไรได้บ้าง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "query table โดยใช้ partition key และตัวกรอง sort key แบบเสริม",
+        "correct": false
+      },
+      {
+        "text": "query secondary index ใดๆ ที่มีอยู่ใน table",
+        "correct": false
+      },
+      {
+        "text": "ดึง item จาก table หรือ secondary index ได้อย่างมีประสิทธิภาพ",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "module": "Module 8",
+    "isNew": false,
+    "type": "single",
+    "question": "AWS Cloud service ใดเหมาะสมที่สุดสำหรับการวิเคราะห์ข้อมูลด้วย standard structured query language (SQL) และเครื่องมือ business intelligence (BI) ที่มีอยู่แล้ว? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Amazon Relational Database Service (Amazon RDS)",
+        "correct": false
+      },
+      {
+        "text": "Amazon Simple Storage Service Glacier",
+        "correct": false
+      },
+      {
+        "text": "Amazon DynamoDB",
+        "correct": false
+      },
+      {
+        "text": "Amazon Redshift",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "module": "Module 8",
+    "isNew": false,
+    "type": "single",
+    "question": "ใน Amazon DynamoDB, attribute คือ ______ (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "fundamental data element (หน่วยข้อมูลพื้นฐาน)",
+        "correct": true
+      },
+      {
+        "text": "กลุ่มของ item",
+        "correct": false
+      },
+      {
+        "text": "กลุ่มของ attribute",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "module": "Module 8",
+    "isNew": false,
+    "type": "single",
+    "question": "หากคุณกำลังพัฒนา application ที่ต้องการ database ที่มี performance รวดเร็วมาก, scale ได้เร็ว และมีความยืดหยุ่นของ schema ควรพิจารณาใช้บริการใด? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Amazon Relational Database Service (Amazon RDS)",
+        "correct": false
+      },
+      {
+        "text": "Amazon ElastiCache",
+        "correct": false
+      },
+      {
+        "text": "Amazon DynamoDB",
+        "correct": true
+      },
+      {
+        "text": "Amazon Redshift",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "module": "Module 8",
+    "isNew": false,
+    "type": "single",
+    "question": "use case ใดเหมาะสมกับการใช้งาน Amazon Relational Database Service (Amazon RDS)? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "อัตราการอ่าน/เขียนจำนวนมหาศาล",
+        "correct": false
+      },
+      {
+        "text": "คำขอ GET หรือ PUT แบบง่ายๆ",
+        "correct": false
+      },
+      {
+        "text": "transaction ที่ซับซ้อน",
+        "correct": true
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "module": "Module 8",
+    "isNew": false,
+    "type": "single",
+    "question": "บริษัทหนึ่งมี application ที่ประกอบด้วย .NET layer ซึ่งเชื่อมต่อกับ MySQL database ต้องการย้าย application นี้มายัง AWS และใช้ feature อย่าง high availability และ automated backup database ใดต่อไปนี้เหมาะสมที่สุดสำหรับกรณีนี้? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "Amazon DynamoDB",
+        "correct": false
+      },
+      {
+        "text": "Amazon Redshift",
+        "correct": false
+      },
+      {
+        "text": "Amazon RDS",
+        "correct": false
+      },
+      {
+        "text": "Amazon Aurora",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "module": "Module 8",
+    "isNew": false,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? Amazon RDS ทำการ patch database software โดยอัตโนมัติ และสำรองข้อมูล database ของคุณ โดยเก็บ backup ไว้ตามระยะเวลาที่ user กำหนด และรองรับการทำ point-in-time recovery",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "module": "Module 8",
+    "isNew": false,
+    "type": "single",
+    "question": "คุณควรพิจารณาอะไรบ้างเมื่อเลือกประเภทของ database? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "ขนาดข้อมูล (Data size)",
+        "correct": false
+      },
+      {
+        "text": "ช่วงเวลาการเข้าถึงข้อมูล (Data access period)",
+        "correct": false
+      },
+      {
+        "text": "ความถี่ในการ query (Query frequency)",
+        "correct": false
+      },
+      {
+        "text": "ความพร้อมใช้งานสูง (Highly available)",
+        "correct": false
+      },
+      {
+        "text": "ถูกทุกข้อ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "module": "Module 8",
+    "isNew": true,
+    "type": "single",
+    "question": "Primary key แบบ composite ของ DynamoDB ประกอบด้วยอะไรบ้าง? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "partition key เพียงอย่างเดียว",
+        "correct": false
+      },
+      {
+        "text": "partition key และ sort key",
+        "correct": true
+      },
+      {
+        "text": "sort key เพียงอย่างเดียว",
+        "correct": false
+      },
+      {
+        "text": "attribute ทั้งหมดในตาราง",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "module": "Module 8",
+    "isNew": true,
+    "type": "single",
+    "question": "Global Secondary Index (GSI) ใน DynamoDB แตกต่างจาก Local Secondary Index (LSI) อย่างไร? (เลือกคำตอบที่ดีที่สุด)",
+    "options": [
+      {
+        "text": "GSI สามารถใช้ partition key และ/หรือ sort key ที่ต่างจาก base table ได้ ในขณะที่ LSI ใช้ partition key เดิมแต่เปลี่ยน sort key",
+        "correct": true
+      },
+      {
+        "text": "GSI และ LSI ทำงานเหมือนกันทุกประการ",
+        "correct": false
+      },
+      {
+        "text": "LSI ใช้ได้กับทุก table โดยไม่ต้องสร้างตั้งแต่แรก",
+        "correct": false
+      },
+      {
+        "text": "GSI ใช้ได้เฉพาะกับ Amazon RDS เท่านั้น",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "module": "Module 8",
+    "isNew": true,
+    "type": "boolean",
+    "question": "ถูกหรือผิด? Amazon DynamoDB เป็น fully managed, serverless, NoSQL database ที่รองรับทั้ง key-value และ document data model",
+    "options": [
+      {
+        "text": "ถูก",
+        "correct": true
+      },
+      {
+        "text": "ผิด",
+        "correct": false
+      }
+    ]
+  }
+]

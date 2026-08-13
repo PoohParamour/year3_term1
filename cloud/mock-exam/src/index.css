@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&family=JetBrains+Mono:wght@400;700&display=swap');
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  
+  --radius-lg: 0px;
+  --radius-md: 0px;
+  --radius-sm: 0px;
+  --font-sans: 'JetBrains Mono', 'Chakra Petch', monospace;
+}
+
+@layer base {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #33ff00;
+    --card: #0a0a0a;
+    --card-foreground: #33ff00;
+    --popover: #0a0a0a;
+    --popover-foreground: #33ff00;
+    --primary: #33ff00;
+    --primary-foreground: #000000;
+    --secondary: #ffb000;
+    --secondary-foreground: #000000;
+    --muted: #0a0a0a;
+    --muted-foreground: #1f521f;
+    --accent: #33ff00;
+    --accent-foreground: #000000;
+    --destructive: #ff3333;
+    --destructive-foreground: #0a0a0a;
+    --border: #1f521f;
+    --input: #1f521f;
+    --ring: #33ff00;
+    --radius: 0px;
+  }
+
+  .dark {
+    /* Same as root since it's dark-mode only */
+    --background: #0a0a0a;
+    --foreground: #33ff00;
+    --card: #0a0a0a;
+    --card-foreground: #33ff00;
+    --popover: #0a0a0a;
+    --popover-foreground: #33ff00;
+    --primary: #33ff00;
+    --primary-foreground: #000000;
+    --secondary: #ffb000;
+    --secondary-foreground: #000000;
+    --muted: #0a0a0a;
+    --muted-foreground: #1f521f;
+    --accent: #33ff00;
+    --accent-foreground: #000000;
+    --destructive: #ff3333;
+    --destructive-foreground: #0a0a0a;
+    --border: #1f521f;
+    --input: #1f521f;
+    --ring: #33ff00;
+  }
+
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-sans;
+    text-shadow: 0 0 5px rgba(51, 255, 0, 0.4);
+  }
+}
+
+@layer utilities {
+  .scanlines {
+    background: linear-gradient(
+      to bottom,
+      rgba(255,255,255,0),
+      rgba(255,255,255,0) 50%,
+      rgba(0,0,0,0.2) 50%,
+      rgba(0,0,0,0.2)
+    );
+    background-size: 100% 4px;
+    pointer-events: none;
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+  }
+
+  .terminal-border {
+    @apply border border-primary bg-background p-4 relative;
+  }
+
+  .terminal-header {
+    @apply bg-primary text-primary-foreground font-bold px-2 py-1 flex items-center justify-between mb-4 uppercase;
+    text-shadow: none;
+  }
+  
+  .terminal-btn {
+    @apply border border-primary text-primary bg-transparent uppercase font-bold hover:bg-primary hover:text-black transition-none focus-visible:ring-1 focus-visible:ring-offset-1;
+  }
+}
