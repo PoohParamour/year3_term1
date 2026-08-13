@@ -74,3 +74,5 @@
 ---
 
 **ไฟล์ข้อมูลที่ต้องแนบคู่กับ prompt นี้:** `questions.json`
+
+z3KJDSo3uvKu40ID

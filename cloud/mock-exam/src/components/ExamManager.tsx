@@ -2,6 +2,7 @@ import { useState, useMemo, useEffect } from "react";
 import type { Question } from "@/types";
 import { QuestionCard } from "./QuestionCard";
 import { SummaryScreen } from "./SummaryScreen";
+import { ActiveUsers } from "./ActiveUsers";
 import { shuffle } from "@/utils/shuffle";
 
 interface ExamManagerProps {
@@ -79,6 +80,7 @@ export function ExamManager({ questions, randomize = true }: ExamManagerProps) {
 
   return (
     <>
+      <ActiveUsers />
       <div className="min-h-screen bg-background text-foreground flex flex-col pt-8 pb-12 relative z-10 selection:bg-primary selection:text-black">
         <header className="w-full max-w-4xl mx-auto px-4 sm:px-6 mb-12">
           <h1 className="text-2xl sm:text-3xl font-black text-primary border-b-2 border-primary pb-2 inline-block">
