@@ -26,7 +26,8 @@
         "text": "ถูกทุกข้อ",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "การทำงานบน Cloud มีข้อดีหลายอย่าง เช่น เปลี่ยนต้นทุนคงที่ (Capital Expense) เป็นต้นทุนแปรผัน (Variable Expense), สามารถใช้งานได้ตามต้องการ (On-demand), ขยายระบบไปทั่วโลกได้ไว (Go global in minutes), และเพิ่มความเร็วกับความคล่องตัวให้องค์กร"
   },
   {
     "id": 2,
@@ -51,7 +52,8 @@
         "text": "Pay as you reserve",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "\"Pay as you go\" คือรูปแบบการคิดราคาพื้นฐานของ AWS ที่ลูกค้าจะจ่ายเงินเฉพาะส่วนที่ตนเองใช้งานจริงเท่านั้น ไม่มีข้อผูกมัดระยะยาว (ในบริการส่วนใหญ่)"
   },
   {
     "id": 3,
@@ -76,7 +78,8 @@
         "text": "Software as a service",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "\"System administration as a service\" ไม่ใช่โมเดลมาตรฐานของ Cloud Computing (โมเดลมาตรฐานคือ IaaS, PaaS, SaaS)"
   },
   {
     "id": 4,
@@ -93,7 +96,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง AWS เป็นผู้ลงทุนและดูแลรักษาโครงสร้างพื้นฐานทางฮาร์ดแวร์และเครือข่าย ในขณะที่ผู้ใช้สามารถเช่าและ provision ทรัพยากรเหล่านี้มาใช้ได้ทันทีตามที่ต้องการ"
   },
   {
     "id": 5,
@@ -122,7 +126,8 @@
         "text": "ได้รับประโยชน์จาก economies of scale ขนาดใหญ่",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "การจ่ายเงินเพื่อติดตั้ง (racking), จัดวาง (stacking) และจ่ายไฟ เป็นภาระและต้นทุนของการทำ on-premises ไม่ใช่ประโยชน์ของ Cloud computing"
   },
   {
     "id": 6,
@@ -151,7 +156,8 @@
         "text": "database ที่ทนทานต่อความผิดพลาด (Fault-tolerant databases)",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Multiple procurement cycles (รอบการจัดซื้อจัดจ้างที่ซับซ้อน) และ High latency (ความหน่วงสูง) ถือเป็นข้อเสีย ซึ่งใน Cloud computing เราจะหลีกเลี่ยงกระบวนการจัดซื้อที่ยาวนานและสามารถเลือก Region ใกล้ผู้ใช้เพื่อลด latency ได้"
   },
   {
     "id": 7,
@@ -180,7 +186,8 @@
         "text": "Amazon Redshift",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Amazon EC2 (Elastic Compute Cloud) เป็นบริการประเภท Compute ที่ให้คุณเช่า Virtual Machine บนระบบคลาวด์ได้"
   },
   {
     "id": 8,
@@ -197,7 +204,8 @@
         "text": "ผิด",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ผิด เพราะใน Cloud computing ผู้ให้บริการ (AWS) เป็นเจ้าของ hardware ไม่ใช่คุณ คุณเพียงแค่เช่าใช้งานเท่านั้น"
   },
   {
     "id": 9,
@@ -222,7 +230,8 @@
         "text": "การต้องลงทุนอย่างหนักใน data center และ server",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Economies of scale (การประหยัดต่อขนาด) เกิดจากการที่ AWS มีลูกค้าจำนวนมหาศาลมาแชร์การใช้งานร่วมกัน ทำให้ AWS สามารถซื้อและบริหารจัดการทรัพยากรในราคาต้นทุนที่ต่ำลง และส่งผ่านราคาที่ถูกลงนี้มาให้ลูกค้าได้"
   },
   {
     "id": 10,
@@ -251,7 +260,8 @@
         "text": "Software Development Kits (SDKs)",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "คุณสามารถจัดการและเข้าถึง AWS services ได้ผ่าน 3 ช่องทางหลัก ได้แก่ AWS Management Console (ผ่านเว็บหน้าจอ), AWS CLI (ผ่าน Command Line), และ AWS SDKs (ผ่านโค้ดโปรแกรม)"
   },
   {
     "id": 11,

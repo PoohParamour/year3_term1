@@ -180,6 +180,22 @@ export function QuestionCard({ question, currentIndex, total, onNext, onPrevious
                   );
                 })}
               </div>
+
+              {isSubmitted && (
+                <motion.div 
+                  initial={{ opacity: 0, height: 0 }}
+                  animate={{ opacity: 1, height: "auto" }}
+                  className="mt-6 p-4 border border-dashed border-primary/50 bg-primary/5 rounded-sm"
+                >
+                  <div className="flex items-start gap-2 mb-2">
+                    <span className="text-secondary select-none">sys@mock:~$</span>
+                    <span className="opacity-70">cat explanation.txt</span>
+                  </div>
+                  <div className="text-sm sm:text-base leading-relaxed text-primary/90">
+                    {question.explanation || "ไม่มีคำอธิบายในระบบสำหรับข้อนี้ (No explanation provided for this question)"}
+                  </div>
+                </motion.div>
+              )}
             </div>
 
             {/* Footer / Actions */}

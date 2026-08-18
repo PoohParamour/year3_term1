@@ -5,7 +5,9 @@ RUN npm ci
 COPY . .
 ARG VITE_SUPABASE_URL
 ARG VITE_SUPABASE_ANON_KEY
+ARG VITE_ACCESS_PASSWORD
 RUN npm run build
+
 
 FROM nginx:alpine
 # Copy custom nginx config

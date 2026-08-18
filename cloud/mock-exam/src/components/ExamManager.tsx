@@ -95,6 +95,8 @@ export function ExamManager({ questions, randomize = true }: ExamManagerProps) {
               score={answers.filter(Boolean).length}
               total={examQuestions.length}
               onRestart={handleRestart}
+              examQuestions={examQuestions}
+              answers={answers}
             />
           ) : (
             <QuestionCard

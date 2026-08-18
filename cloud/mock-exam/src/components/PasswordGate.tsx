@@ -573,10 +573,12 @@ function TvCard() {
   );
 }
 
-// ─── Password Gate ────────────────────────────────────────────────────────────
+// ─── Password Gate (unlock: กดทีวี 5 ครั้ง / พิมพ์รหัสบน keyboard) ──────────
 
 const SESSION_KEY = "mock_exam_auth";
 const CORRECT_PASSWORD = import.meta.env.VITE_ACCESS_PASSWORD as string;
+const TAP_COUNT_REQUIRED = 5;
+const TAP_RESET_MS = 3000; // reset นับถ้าหยุดกดนาน 3 วินาที
 
 interface PasswordGateProps {
   children: React.ReactNode;
@@ -586,134 +588,92 @@ export function PasswordGate({ children }: PasswordGateProps) {
   const [unlocked, setUnlocked] = useState<boolean>(
     () => sessionStorage.getItem(SESSION_KEY) === "true"
   );
-  const [input, setInput] = useState("");
-  const [shake, setShake] = useState(false);
-  const [error, setError] = useState(false);
+  const tapCountRef = React.useRef(0);
+  const tapTimerRef = React.useRef<ReturnType<typeof setTimeout> | null>(null);
+  const keyBufferRef = React.useRef("");
+
+  // ── Keyboard unlock (desktop) ──
+  React.useEffect(() => {
+    if (unlocked) return;
+    const handleKey = (e: KeyboardEvent) => {
+      if (e.key.length === 1) {
+        keyBufferRef.current += e.key;
+        const maxLen = CORRECT_PASSWORD.length * 2;
+        if (keyBufferRef.current.length > maxLen) {
+          keyBufferRef.current = keyBufferRef.current.slice(-maxLen);
+        }
+        if (keyBufferRef.current.endsWith(CORRECT_PASSWORD)) {
+          unlock();
+        }
+      } else if (e.key === "Escape") {
+        keyBufferRef.current = "";
+      }
+    };
+    window.addEventListener("keydown", handleKey);
+    return () => window.removeEventListener("keydown", handleKey);
+  }, [unlocked]);
+
+  const unlock = () => {
+    sessionStorage.setItem(SESSION_KEY, "true");
+    setUnlocked(true);
+  };
+
+  // ── TV tap handler ──
+  const handleTvClick = () => {
+    tapCountRef.current += 1;
+
+    // รีเซ็ต timer ทุกครั้งที่กด
+    if (tapTimerRef.current) clearTimeout(tapTimerRef.current);
+    tapTimerRef.current = setTimeout(() => {
+      tapCountRef.current = 0;
+    }, TAP_RESET_MS);
+
+    if (tapCountRef.current >= TAP_COUNT_REQUIRED) {
+      tapCountRef.current = 0;
+      if (tapTimerRef.current) clearTimeout(tapTimerRef.current);
+      unlock();
+    }
+  };
 
   if (unlocked) {
     return <>{children}</>;
   }
 
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (input === CORRECT_PASSWORD) {
-      sessionStorage.setItem(SESSION_KEY, "true");
-      setUnlocked(true);
-    } else {
-      setError(true);
-      setShake(true);
-      setInput("");
-      setTimeout(() => setShake(false), 600);
-    }
-  };
-
   return (
     <div
       style={{
         minHeight: "100vh",
+        width: "100%",
+        maxWidth: "100vw",
+        overflowX: "hidden",
+        boxSizing: "border-box",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
         background: "linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 50%, #16213e 100%)",
         fontFamily: "'Montserrat', sans-serif",
-        gap: "2rem",
+        gap: "1.5rem",
       }}
     >
-      {/* TV Card */}
-      <TvCard />
-
-      {/* Password form */}
-      <form
-        onSubmit={handleSubmit}
+      {/* TV — กดตรงนี้ 5 ครั้ง ไม่มีอะไรบ่งบอก */}
+      <div
+        onClick={handleTvClick}
         style={{
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          gap: "1rem",
-          animation: shake ? "shake 0.5s ease" : "none",
+          transform: "scale(0.85)",
+          transformOrigin: "center center",
+          cursor: "default",
+          userSelect: "none",
+          WebkitUserSelect: "none",
         }}
       >
-        <p
-          style={{
-            color: "#9ca3af",
-            fontSize: "0.9rem",
-            letterSpacing: "0.1em",
-            textTransform: "uppercase",
-            margin: 0,
-          }}
-        >
-          🔒 Enter access code
-        </p>
+        <TvCard />
+      </div>
 
-        <div style={{ display: "flex", gap: "0.5rem" }}>
-          <input
-            id="access-password"
-            type="password"
-            value={input}
-            onChange={(e) => {
-              setInput(e.target.value);
-              setError(false);
-            }}
-            placeholder="••••••••"
-            autoFocus
-            style={{
-              padding: "0.65rem 1.25rem",
-              borderRadius: "8px",
-              border: error ? "2px solid #ef4444" : "2px solid #374151",
-              background: "#111827",
-              color: "#f9fafb",
-              fontSize: "1rem",
-              outline: "none",
-              width: "200px",
-              transition: "border-color 0.2s",
-            }}
-          />
-          <button
-            type="submit"
-            style={{
-              padding: "0.65rem 1.5rem",
-              borderRadius: "8px",
-              border: "none",
-              background: "linear-gradient(135deg, #f27405, #d36604)",
-              color: "#fff",
-              fontWeight: "bold",
-              fontSize: "1rem",
-              cursor: "pointer",
-              letterSpacing: "0.05em",
-              transition: "opacity 0.2s",
-            }}
-            onMouseOver={(e) => ((e.target as HTMLButtonElement).style.opacity = "0.85")}
-            onMouseOut={(e) => ((e.target as HTMLButtonElement).style.opacity = "1")}
-          >
-            Enter
-          </button>
-        </div>
-
-        {error && (
-          <p
-            style={{
-              color: "#ef4444",
-              fontSize: "0.8rem",
-              margin: 0,
-              letterSpacing: "0.05em",
-            }}
-          >
-            ❌ Incorrect password. Try again.
-          </p>
-        )}
-      </form>
-
-      {/* shake keyframe injected inline */}
-      <style>{`
-        @keyframes shake {
-          0%, 100% { transform: translateX(0); }
-          20%       { transform: translateX(-10px); }
-          40%       { transform: translateX(10px); }
-          60%       { transform: translateX(-8px); }
-          80%       { transform: translateX(8px); }
-        }
-      `}</style>
+      {/* Footer เรียบๆ ไม่มีคำใบ้ */}
+      <p style={{ color: "#1e293b", fontSize: "0.65rem", margin: 0, letterSpacing: "0.05em" }}>
+        503 • System Status: Degraded
+      </p>
     </div>
   );
 }

@@ -1,13 +1,17 @@
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 
+import type { Question } from "@/types";
+
 interface SummaryScreenProps {
   score: number;
   total: number;
   onRestart: () => void;
+  examQuestions: Question[];
+  answers: boolean[];
 }
 
-export function SummaryScreen({ score, total, onRestart }: SummaryScreenProps) {
+export function SummaryScreen({ score, total, onRestart, examQuestions, answers }: SummaryScreenProps) {
   const percentage = Math.round((score / total) * 100);
   const [typedTitle, setTypedTitle] = useState("");
 
@@ -84,6 +88,62 @@ export function SummaryScreen({ score, total, onRestart }: SummaryScreenProps) {
                 ? "> STATUS: PASSED. EXCELLENT UNDERSTANDING DETECTED."
                 : "> STATUS: FAILED. FURTHER TRAINING REQUIRED."}
             </p>
+          </div>
+
+          {/* Weak Topics Section */}
+          <div className="pt-6 border-t border-dashed border-primary/50">
+            <h3 className="text-lg font-bold text-primary mb-4 flex items-center gap-2">
+              <span className="text-secondary select-none">sys@mock:~$</span>
+              <span>./analyze_weaknesses.sh</span>
+            </h3>
+            
+            <div className="space-y-3">
+              {(() => {
+                const moduleStats: Record<string, { total: number; correct: number }> = {};
+                examQuestions.forEach((q, idx) => {
+                  if (!moduleStats[q.module]) {
+                    moduleStats[q.module] = { total: 0, correct: 0 };
+                  }
+                  moduleStats[q.module].total += 1;
+                  if (answers[idx]) {
+                    moduleStats[q.module].correct += 1;
+                  }
+                });
+
+                const weakModules = Object.entries(moduleStats)
+                  .map(([module, stats]) => ({
+                    module,
+                    accuracy: Math.round((stats.correct / stats.total) * 100),
+                  }))
+                  .filter((m) => m.accuracy < 70)
+                  .sort((a, b) => a.accuracy - b.accuracy);
+
+                if (weakModules.length === 0) {
+                  return (
+                    <div className="text-primary/70">
+                      &gt; NO CRITICAL WEAKNESSES DETECTED. ALL MODULES &gt;= 70%.
+                    </div>
+                  );
+                }
+
+                return (
+                  <>
+                    <div className="text-secondary/80 text-sm mb-2">
+                      [!] DETECTED MODULES WITH ACCURACY &lt; 70%:
+                    </div>
+                    {weakModules.map((m, idx) => (
+                      <div key={idx} className="flex justify-between items-center bg-primary/5 p-2 border-l-2 border-destructive">
+                        <span className="font-medium text-destructive">{m.module}</span>
+                        <span className="text-destructive font-bold">{m.accuracy}%</span>
+                      </div>
+                    ))}
+                    <div className="text-sm text-primary/70 mt-4">
+                      &gt; RECOMMENDATION: REVIEW THESE MODULES BEFORE RETAKING EXAM.
+                    </div>
+                  </>
+                );
+              })()}
+            </div>
           </div>
         </div>
         

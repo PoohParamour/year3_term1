@@ -10,4 +10,5 @@ export interface Question {
   type: "single" | "multiple" | "boolean";
   question: string;
   options: Option[];
+  explanation?: string;
 }
