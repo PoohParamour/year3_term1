@@ -1,0 +1,467 @@
+{
+  "baseline": {
+    "tokenizer": "pythainlp/newmm",
+    "attributes": {
+      "student_id": {
+        "label": "รหัสนักศึกษา ⭐",
+        "n_items": 1,
+        "cer": 0.0,
+        "wer": null,
+        "exact_match_acc": 1.0,
+        "n_sub": 0,
+        "n_del": 0,
+        "n_ins": 0,
+        "n_missing": 0,
+        "n_hallucinated": 0,
+        "n_ref_chars": 8,
+        "error_samples": []
+      },
+      "person": {
+        "label": "คำนำหน้า/ชื่อ ⭐",
+        "n_items": 2,
+        "cer": 0.833333,
+        "wer": null,
+        "exact_match_acc": 0.5,
+        "n_sub": 0,
+        "n_del": 0,
+        "n_ins": 20,
+        "n_missing": 0,
+        "n_hallucinated": 0,
+        "n_ref_chars": 24,
+        "error_samples": [
+          {
+            "key": "name",
+            "gt": "วศ1วิศวกรรมศาสตร์1",
+            "pred": "วศ1 วิศวกรรมศาสตร์1                     รหัสประจําตัวนักศึกษ"
+          }
+        ]
+      },
+      "institution": {
+        "label": "สถาบัน/ที่อยู่",
+        "n_items": 2,
+        "cer": 1.0,
+        "wer": null,
+        "exact_match_acc": 0.0,
+        "n_sub": 0,
+        "n_del": 90,
+        "n_ins": 0,
+        "n_missing": 2,
+        "n_hallucinated": 0,
+        "n_ref_chars": 90,
+        "error_samples": [
+          {
+            "key": "uni_name",
+            "gt": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "pred": "None"
+          },
+          {
+            "key": "uni_address",
+            "gt": "เลขที่1ซอยฉลองกรุง1เขตลาดกระบังกรุงเทพฯ10520",
+            "pred": "None"
+          }
+        ]
+      },
+      "faculty": {
+        "label": "คณะ/หลักสูตร",
+        "n_items": 4,
+        "cer": 0.825,
+        "wer": null,
+        "exact_match_acc": 0.25,
+        "n_sub": 1,
+        "n_del": 65,
+        "n_ins": 0,
+        "n_missing": 2,
+        "n_hallucinated": 0,
+        "n_ref_chars": 80,
+        "error_samples": [
+          {
+            "key": "faculty_name",
+            "gt": "คณะวิศวกรรมศาสตร์",
+            "pred": "คณะๆศวกรรมศาสตร"
+          },
+          {
+            "key": "degree",
+            "gt": "วิทยาศาสตรบัณฑิต",
+            "pred": "None"
+          },
+          {
+            "key": "program",
+            "gt": "การจัดการวิศวกรรมและเทคโนโลยี(หลักสูตรนานาชาติ)",
+            "pred": "None"
+          }
+        ]
+      },
+      "dates": {
+        "label": "วันที่",
+        "n_items": 3,
+        "cer": 1.0,
+        "wer": null,
+        "exact_match_acc": 0.0,
+        "n_sub": 0,
+        "n_del": 30,
+        "n_ins": 0,
+        "n_missing": 3,
+        "n_hallucinated": 0,
+        "n_ref_chars": 30,
+        "error_samples": [
+          {
+            "key": "date_of_birth",
+            "gt": "1999-09-03",
+            "pred": "None"
+          },
+          {
+            "key": "admis_date",
+            "gt": "2018-08-06",
+            "pred": "None"
+          },
+          {
+            "key": "grad_date",
+            "gt": "0000-00-00",
+            "pred": "None"
+          }
+        ]
+      },
+      "status": {
+        "label": "สถานะ/เกียรตินิยม",
+        "n_items": 2,
+        "cer": 1.0,
+        "wer": null,
+        "exact_match_acc": 0.0,
+        "n_sub": 0,
+        "n_del": 19,
+        "n_ins": 0,
+        "n_missing": 2,
+        "n_hallucinated": 0,
+        "n_ref_chars": 19,
+        "error_samples": [
+          {
+            "key": "grad_reason",
+            "gt": "n/a(พ้นสภาพ1/2562)",
+            "pred": "None"
+          },
+          {
+            "key": "honor",
+            "gt": "0",
+            "pred": "None"
+          }
+        ]
+      },
+      "sem_meta": {
+        "label": "ปี/ภาค",
+        "n_items": 2,
+        "cer": 0.0,
+        "wer": null,
+        "exact_match_acc": 1.0,
+        "n_sub": 0,
+        "n_del": 0,
+        "n_ins": 0,
+        "n_missing": 0,
+        "n_hallucinated": 0,
+        "n_ref_chars": 5,
+        "error_samples": []
+      },
+      "gpa": {
+        "label": "GPA/GPS",
+        "n_items": 2,
+        "cer": 1.0,
+        "wer": null,
+        "exact_match_acc": 0.0,
+        "n_sub": 0,
+        "n_del": 8,
+        "n_ins": 0,
+        "n_missing": 2,
+        "n_hallucinated": 0,
+        "n_ref_chars": 8,
+        "error_samples": [
+          {
+            "key": "GPA@2561/2",
+            "gt": "1.17",
+            "pred": "None"
+          },
+          {
+            "key": "GPS@2561/2",
+            "gt": "0.00",
+            "pred": "None"
+          }
+        ]
+      },
+      "sem_misc": {
+        "label": "หมายเหตุรายภาค",
+        "n_items": 1,
+        "cer": 0.0,
+        "wer": null,
+        "exact_match_acc": 1.0,
+        "n_sub": 0,
+        "n_del": 0,
+        "n_ins": 0,
+        "n_missing": 0,
+        "n_hallucinated": 0,
+        "n_ref_chars": 0,
+        "error_samples": []
+      },
+      "subject_id": {
+        "label": "รหัสวิชา",
+        "n_items": 12,
+        "cer": 0.5,
+        "wer": null,
+        "exact_match_acc": 0.5,
+        "n_sub": 0,
+        "n_del": 48,
+        "n_ins": 0,
+        "n_missing": 6,
+        "n_hallucinated": 0,
+        "n_ref_chars": 96,
+        "error_samples": [
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006006",
+            "gt": "13006006",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006007",
+            "gt": "13006007",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006109",
+            "gt": "13006109",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006204",
+            "gt": "13006204",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006301",
+            "gt": "13006301",
+            "pred": ""
+          }
+        ]
+      },
+      "subject_name": {
+        "label": "ชื่อวิชา",
+        "n_items": 12,
+        "cer": 0.52381,
+        "wer": null,
+        "exact_match_acc": 0.166667,
+        "n_sub": 2,
+        "n_del": 108,
+        "n_ins": 0,
+        "n_missing": 6,
+        "n_hallucinated": 0,
+        "n_ref_chars": 210,
+        "error_samples": [
+          {
+            "key": "2561/2 13006008",
+            "gt": "แคลคูลัส2",
+            "pred": "แคลดูลัส 2"
+          },
+          {
+            "key": "2561/2 13006205",
+            "gt": "ภาษาอังกฤษพื้นฐาน2",
+            "pred": "ภาษาอังกฤษพืนฐาน 2"
+          },
+          {
+            "key": "2561/2 13026001",
+            "gt": "วิศวกรรมสมัยใหม่เบื้องต้น",
+            "pred": "วิศวกรรมสมัยใหมเบื้องตน"
+          },
+          {
+            "key": "2561/2 13026004",
+            "gt": "หลักการจัดการ",
+            "pred": "หลักการจัดทาร"
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006006",
+            "gt": "พีชคณิตเชิงเส้น",
+            "pred": ""
+          }
+        ]
+      },
+      "subject_type": {
+        "label": "ประเภทวิชา",
+        "n_items": 12,
+        "cer": 0.0,
+        "wer": null,
+        "exact_match_acc": 1.0,
+        "n_sub": 0,
+        "n_del": 0,
+        "n_ins": 0,
+        "n_missing": 0,
+        "n_hallucinated": 0,
+        "n_ref_chars": 0,
+        "error_samples": []
+      },
+      "credit": {
+        "label": "หน่วยกิต",
+        "n_items": 12,
+        "cer": 0.5,
+        "wer": null,
+        "exact_match_acc": 0.5,
+        "n_sub": 0,
+        "n_del": 6,
+        "n_ins": 0,
+        "n_missing": 6,
+        "n_hallucinated": 0,
+        "n_ref_chars": 12,
+        "error_samples": [
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006006",
+            "gt": "3",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006007",
+            "gt": "3",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006109",
+            "gt": "3",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006204",
+            "gt": "3",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006301",
+            "gt": "3",
+            "pred": ""
+          }
+        ]
+      },
+      "grade": {
+        "label": "เกรด ⭐",
+        "n_items": 12,
+        "cer": 0.625,
+        "wer": null,
+        "exact_match_acc": 0.5,
+        "n_sub": 0,
+        "n_del": 10,
+        "n_ins": 0,
+        "n_missing": 6,
+        "n_hallucinated": 0,
+        "n_ref_chars": 16,
+        "error_samples": [
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006006",
+            "gt": "c+",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006007",
+            "gt": "d+",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006109",
+            "gt": "d+",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006204",
+            "gt": "b+",
+            "pred": ""
+          },
+          {
+            "key": "2561/1 [ตกทั้งภาค] 13006301",
+            "gt": "b",
+            "pred": ""
+          }
+        ]
+      },
+      "summary": {
+        "label": "สรุปผลการศึกษา",
+        "n_items": 5,
+        "cer": 1.0,
+        "wer": null,
+        "exact_match_acc": 0.6,
+        "n_sub": 0,
+        "n_del": 6,
+        "n_ins": 0,
+        "n_missing": 2,
+        "n_hallucinated": 0,
+        "n_ref_chars": 6,
+        "error_samples": [
+          {
+            "key": "total_credits_earned",
+            "gt": "36",
+            "pred": "None"
+          },
+          {
+            "key": "cumulative_gpa",
+            "gt": "1.17",
+            "pred": "None"
+          }
+        ]
+      },
+      "footer": {
+        "label": "ผู้รับรองท้ายเอกสาร",
+        "n_items": 4,
+        "cer": 1.0,
+        "wer": null,
+        "exact_match_acc": 0.0,
+        "n_sub": 0,
+        "n_del": 83,
+        "n_ins": 0,
+        "n_missing": 4,
+        "n_hallucinated": 0,
+        "n_ref_chars": 83,
+        "error_samples": [
+          {
+            "key": "updated_at",
+            "gt": "2025-01-15",
+            "pred": "None"
+          },
+          {
+            "key": "by_signature",
+            "gt": "ผู้ช่วยศาสตราจารย์ดร.ทดสอบนามสกุล",
+            "pred": "None"
+          },
+          {
+            "key": "by_position",
+            "gt": "ผู้อำนวยการ",
+            "pred": "None"
+          },
+          {
+            "key": "by_reg",
+            "gt": "สำนักทะเบียนและบริการการศึกษา",
+            "pred": "None"
+          }
+        ]
+      }
+    },
+    "overall_micro_cer": 0.72198,
+    "alignment": {
+      "semester": {
+        "matched": 1,
+        "missed": 1,
+        "spurious": 1,
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1": 0.5
+      },
+      "subject": {
+        "matched": 6,
+        "missed": 6,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6667
+      }
+    },
+    "internal_check": {
+      "ok": false,
+      "n_semesters": 2,
+      "n_subjects": 9,
+      "n_grade_null": 0,
+      "issues": [
+        "ปีการศึกษาผิดปกติ: None (คาดว่าเป็น พ.ศ. เช่น 2561)",
+        "ภาคการศึกษาผิดปกติ: None (ต้องเป็น 1, 2 หรือ 3)"
+      ]
+    }
+  }
+}

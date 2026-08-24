@@ -286,7 +286,8 @@
         "text": "8 perspective",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS CAF แบ่งออกเป็น 6 perspective (Business, People, Governance, Platform, Security, Operations) เพื่อช่วยให้องค์กรนำ Cloud ไปปรับใช้ได้อย่างครอบคลุมทุกมิติ"
   },
   {
     "id": 12,
@@ -311,7 +312,8 @@
         "text": "Governance perspective",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Marketing perspective ไม่ได้อยู่ใน AWS CAF (มีเพียง Business, People, Governance, Platform, Security, Operations)"
   },
   {
     "id": 13,
@@ -336,7 +338,8 @@
         "text": "3 แบบ: IaaS, PaaS, SaaS",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "โมเดลการปรับใช้คลาวด์มี 3 แบบหลักๆ คือ Public Cloud (ใช้งานเต็มรูปแบบบน AWS), Hybrid Cloud (ใช้ร่วมกันระหว่าง AWS กับ On-premises), และ On-premises (Private Cloud)"
   },
   {
     "id": 14,
@@ -365,7 +368,8 @@
         "text": "DURI",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Reserved Instances สำหรับ EC2 และ RDS มีตัวเลือกการจ่ายเงิน 3 แบบคือ: AURI (All Upfront - จ่ายเต็มจำนวนล่วงหน้า), NURI (No Upfront - ไม่จ่ายล่วงหน้า), และ PURI (Partial Upfront - จ่ายล่วงหน้าบางส่วน)"
   },
   {
     "id": 15,
@@ -390,7 +394,8 @@
         "text": "AWS CloudTrail logs ที่เก็บไว้ใน Amazon S3",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS Cost Explorer เป็นเครื่องมือที่ช่วยให้คุณดู วิเคราะห์ และคาดการณ์ค่าใช้จ่ายและการใช้งาน AWS ในอดีต (ย้อนหลังได้ถึง 12 เดือน) และอนาคตได้"
   },
   {
     "id": 16,
@@ -407,7 +412,8 @@
         "text": "ผิด",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ผิด คุณไม่จำเป็นต้องจ่ายเงินล่วงหน้าเต็มจำนวน (All Upfront) เสมอไป คุณสามารถเลือกจ่ายแบบ Partial Upfront (จ่ายบางส่วน) หรือ No Upfront (ไม่จ่ายล่วงหน้าเลย) ก็ยังได้รับส่วนลดเมื่อเทียบกับ On-Demand"
   },
   {
     "id": 17,
@@ -432,7 +438,8 @@
         "text": "ค่าใช้จ่ายขาออก (outbound) ฟรีจนถึง limit ต่อบัญชี",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "สำหรับบริการกลุ่ม Storage ส่วนใหญ่บน AWS (เช่น S3) จะคิดค่าบริการตามปริมาณข้อมูลที่เก็บจริงเป็นกิกะไบต์ (Gigabyte) ต่อเดือน"
   },
   {
     "id": 18,
@@ -457,7 +464,8 @@
         "text": "support ทั้งหมดฟรี",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS Support Plan มี 4 ระดับ ได้แก่ Basic (ฟรีสำหรับทุกคน), Developer, Business, และ Enterprise"
   },
   {
     "id": 19,
@@ -482,7 +490,8 @@
         "text": "AWS Billing Dashboard",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS Pricing Calculator เป็นเครื่องมือออนไลน์สำหรับประมาณการค่าใช้จ่ายรายเดือนของบริการ AWS ตาม use case ของคุณก่อนที่จะเริ่มใช้งานจริง"
   },
   {
     "id": 20,
@@ -507,7 +516,8 @@
         "text": "EC2 Right Sizing",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Economies of scale (การประหยัดต่อขนาด) คือการที่ AWS มีลูกค้าระดับมหาศาล ทำให้ต้นทุนในการดำเนินการลดลง และสามารถนำส่วนต่างไปลดราคาค่าบริการให้ลูกค้าได้"
   },
   {
     "id": 21,
@@ -524,7 +534,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง AWS ให้บริการพื้นฐานบางอย่างฟรี (เช่น VPC, IAM, CloudFormation) แต่คุณอาจต้องจ่ายเงินค่าทรัพยากร (เช่น EC2, RDS) ที่สร้างผ่านบริการเหล่านั้น"
   },
   {
     "id": 22,
@@ -553,7 +564,8 @@
         "text": "ป้องกันไม่ให้มีการจำกัดสิทธิ์ใดๆ กับ root user ของบัญชีหลักใน organization",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS Organizations ช่วยให้คุณจัดการบัญชี AWS หลายบัญชีร่วมกัน (consolidated billing) ควบคุมนโยบายความปลอดภัยของกลุ่ม (SCPs) และใช้ API อัตโนมัติในการสร้างบัญชีใหม่"
   },
   {
     "id": 23,
@@ -570,7 +582,8 @@
         "text": "ผิด",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ผิด AWS Free Tier ไม่ได้ให้ \"ไม่จำกัด\" แต่มีการจำกัดโควต้าการใช้งานต่อเดือน (เช่น EC2 750 ชั่วโมง) ภายในเวลา 12 เดือนแรก"
   },
   {
     "id": 24,
@@ -595,7 +608,8 @@
         "text": "ใช้เข้ารหัสข้อมูลใน S3 bucket",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Service control policies (SCPs) ใช้กำหนดขอบเขตอำนาจสูงสุด (maximum permissions) ที่ผู้ใช้หรือบทบาทในบัญชีลูกขององค์กรสามารถทำได้ แม้จะได้รับอนุญาตจาก IAM policy ภายในบัญชีนั้นก็ตาม"
   },
   {
     "id": 25,
@@ -620,7 +634,8 @@
         "text": "ใช้แทน AWS IAM ทั้งหมด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS Organizations ออกแบบมาเพื่อรวมศูนย์การจัดการบัญชีและลดความซับซ้อนของการชำระเงิน ด้วยการจัดกลุ่มบัญชี (OUs) และ Consolidated billing"
   },
   {
     "id": 26,
@@ -645,7 +660,8 @@
         "text": "สร้าง billing account ก่อนเสมอ",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ลำดับที่ถูกต้องคือ สร้าง Organization (หน่วยหลัก) -> สร้าง Organizational Units (OUs - กลุ่มย่อย) -> สร้าง SCPs (นโยบายควบคุม) -> และเริ่มทดสอบว่านโยบายใช้งานได้ตามที่คาดหรือไม่"
   },
   {
     "id": 27,
@@ -670,7 +686,8 @@
         "text": "Amazon Virtual Private Cloud (Amazon VPC)",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Amazon CloudFront เป็นบริการ CDN ซึ่งทำงานผ่านเครือข่าย Edge Locations ทั่วโลก เพื่อส่งมอบเนื้อหา (data, videos, applications) ให้ใกล้ผู้ใช้ที่สุดด้วยความหน่วง (latency) ที่ต่ำ"
   },
   {
     "id": 28,
@@ -687,7 +704,8 @@
         "text": "ลด (decrease)",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ลด (decrease) การนำแอปพลิเคชันไปรันใน Region หรือ Edge Location ที่ใกล้ผู้ใช้จะช่วยร่นระยะทางการส่งข้อมูล ทำให้ latency ต่ำลง"
   },
   {
     "id": 29,
@@ -704,7 +722,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง Networking, Storage, Compute และ Database คือหมวดหมู่หลักๆ ที่เป็นแกนกลางของบริการต่างๆ บน AWS"
   },
   {
     "id": 30,
@@ -729,7 +748,8 @@
         "text": "Edge locations",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS Region คือพื้นที่ทางภูมิศาสตร์ (เช่น สิงคโปร์, โตเกียว) ซึ่งภายใน 1 Region จะประกอบด้วยกลุ่มของ Data Centers ที่แยกจากกัน (Availability Zones) ตั้งแต่ 2 แห่งขึ้นไปเพื่อความทนทาน"
   },
   {
     "id": 31,
@@ -758,7 +778,8 @@
         "text": "Elastic and scalable, fault tolerant",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Fault tolerant คือระบบที่ทนทานต่อความล้มเหลว (มี component สำรอง) ส่วน Elastic and scalable คือความสามารถในการขยาย/ลดขนาดทรัพยากรได้อัตโนมัติตามโหลดที่เข้ามา"
   },
   {
     "id": 32,
@@ -775,7 +796,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง Availability Zone ภายใน Region เดียวกันจะถูกเชื่อมโยงกันด้วยเครือข่ายไฟเบอร์ส่วนตัวที่มีแบนด์วิธสูงและมีค่า Latency ต่ำมาก"
   },
   {
     "id": 33,
@@ -800,7 +822,8 @@
         "text": "Availability Zones เชื่อมต่อกันด้วย high-speed private links",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Data center หนึ่งแห่งจะเป็นส่วนหนึ่งของ Availability Zone (AZ) เพียงแห่งเดียวเท่านั้น ไม่สามารถถูกนับเป็นส่วนหนึ่งของหลาย AZ ได้"
   },
   {
     "id": 34,
@@ -825,7 +848,8 @@
         "text": "Region คือสถานที่ทางกายภาพที่มี Availability Zone หลายแห่งอยู่ภายใน",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "Region คือพื้นที่ทางภูมิศาสตร์หนึ่งๆ ซึ่งแต่ละ Region จะถูกแยกออกจากกันอย่างเด็ดขาด และภายในหนึ่ง Region จะประกอบด้วย Availability Zone (AZ) อย่างน้อย 2 แห่งขึ้นไป"
   },
   {
     "id": 35,
@@ -850,7 +874,8 @@
         "text": "ทุกแห่ง (all)",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS แนะนำให้กระจายโหลดการทำงานข้ามหลาย Availability Zone (Multiple AZs) เสมอ เพื่อป้องกันปัญหากรณีที่ AZ ใด AZ หนึ่งล่มหรือเกิดปัญหา"
   },
   {
     "id": 36,
@@ -867,7 +892,8 @@
         "text": "ผิด",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ผิด Edge locations มักจะตั้งอยู่ตามเมืองใหญ่ๆ ทั่วโลกเพื่อเข้าถึงผู้ใช้ให้ใกล้ที่สุด ไม่ได้จำกัดว่าจะต้องตั้งอยู่ในพื้นที่เดียวกับ Region เท่านั้น"
   },
   {
     "id": 37,
@@ -892,7 +918,8 @@
         "text": "ศูนย์ให้บริการเฉพาะสำหรับ CloudFront เท่านั้น",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Availability Zone (AZ) คือ Data center 1 แห่งหรือกลุ่มของ Data center หลายแห่ง ที่ทำงานแยกอิสระจากกันในแง่ของระบบไฟ ระบบระบายความร้อน แต่เชื่อมต่อกันด้วยเครือข่ายความเร็วสูงภายใน Region เดียวกัน"
   },
   {
     "id": 38,
@@ -917,7 +944,8 @@
         "text": "เพื่อให้ผ่านมาตรฐาน compliance เท่านั้น",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "การกระจายทรัพยากรไปยังหลาย AZ ช่วยป้องกันกรณีฉุกเฉิน ทำให้แอปพลิเคชันยังคงทำงานได้ต่อเนื่อง (Fault tolerance) และมี Availability สูง"
   },
   {
     "id": 39,
@@ -942,7 +970,8 @@
         "text": "บริการสำหรับสร้าง VPC",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "CloudFront เป็น Content Delivery Network (CDN) บริการแคชข้อมูลไว้ที่ Edge locations ทั่วโลก เพื่อส่งข้อมูลให้ผู้ใช้ปลายทางได้เร็วที่สุด"
   },
   {
     "id": 40,
@@ -967,7 +996,8 @@
         "text": "ใช้มาตรการด้านความปลอดภัยในทุกชั้น (layer) ของสถาปัตยกรรม",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "หลักการออกแบบที่สำคัญของ Security Pillar คือการป้องกันเชิงลึก โดยใช้มาตรการรักษาความปลอดภัยในทุกเลเยอร์ของสถาปัตยกรรม (เช่น Network, Application, Database)"
   },
   {
     "id": 41,
@@ -996,7 +1026,8 @@
         "text": "AWS รับผิดชอบความปลอดภัยทางกายภาพ (physical security) ของ data center",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ใน Shared Responsibility Model, ลูกค้าต้องรับผิดชอบด้าน \"Security IN the Cloud\" ซึ่งหมายถึงข้อมูลผู้ใช้ (User data), ส่วน AWS รับผิดชอบ Physical Security ของ Data center"
   },
   {
     "id": 42,
@@ -1025,7 +1056,8 @@
         "text": "ใช้ group เสมอ",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Principle of least privilege คือการให้สิทธิ์เข้าถึงเฉพาะเท่าที่จำเป็นสำหรับงานที่ต้องทำ และสร้าง Security policy จำกัดการเข้าถึงอย่างเคร่งครัด"
   },
   {
     "id": 43,
@@ -1050,7 +1082,8 @@
         "text": "ด้วย IAM คุณสามารถให้สิทธิ์การเข้าถึง resource แก่ principal ได้อย่างละเอียด (granular)",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "IAM (Identity and Access Management) เป็นบริการที่ช่วยให้คุณสามารถกำหนดและควบคุมสิทธิ์การเข้าถึงทรัพยากร AWS ในระดับที่ละเอียด (Granular) ได้"
   },
   {
     "id": 44,
@@ -1079,7 +1112,8 @@
         "text": "ให้ security credential แบบชั่วคราว (temporary)",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "IAM Roles คือสิทธิ์ที่ผู้ใช้, แอปพลิเคชัน หรือบริการสามารถนำไปสวม (Assume) ได้ และ Role จะให้ Security credential แบบชั่วคราว ไม่ใช่แบบถาวร"
   },
   {
     "id": 45,
@@ -1104,7 +1138,8 @@
         "text": "ลบสิทธิ์ที่ไม่จำเป็นออกจากบัญชี root user",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Best practice สำหรับ Root user คือใช้สร้าง Admin user ขึ้นมาใช้งานทั่วไป และเก็บรักษา Root user ไว้อย่างปลอดภัย ไม่นำมาใช้ในงานประจำวัน"
   },
   {
     "id": 46,
@@ -1129,7 +1164,8 @@
         "text": "หาก policy ไม่มี explicit deny หรือ explicit allow เลย ผู้ใช้จะได้รับสิทธิ์เข้าถึงโดย default",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ในการประเมิน IAM Policy ระบบจะประเมินโดยยึด \"Explicit Deny\" (ปฏิเสธอย่างชัดแจ้ง) เป็นอันดับแรกเสมอ หากมี Deny จะไม่มีการ Allow เกิดขึ้นได้เลย"
   },
   {
     "id": 47,
@@ -1154,7 +1190,8 @@
         "text": "resource-based policy ถูกแนบเข้ากับ user, group หรือ role",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Identity-based policy คือ Policy ที่เราจะนำไปผูกติด (Attach) ไว้กับ User, Group, หรือ Role เพื่อบอกว่าพวกเขาสามารถทำอะไรได้บ้าง"
   },
   {
     "id": 48,
@@ -1179,7 +1216,8 @@
         "text": "Action",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "\"Effect\" ใน IAM policy ทำหน้าที่ระบุว่าจะ Allow (อนุญาต) หรือ Deny (ปฏิเสธ) การร้องขอนั้นๆ"
   },
   {
     "id": 49,
@@ -1204,7 +1242,8 @@
         "text": "statement element ประกอบด้วย element อื่นๆ ที่รวมกันกำหนดว่าอะไรถูก allow หรือ deny",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "Statement element เป็นองค์ประกอบหลักของ Policy ซึ่งภายในจะประกอบด้วย Effect, Action, Resource, Condition ที่รวมกันเพื่อกำหนดกฎเกณฑ์"
   },
   {
     "id": 50,
@@ -1229,7 +1268,8 @@
         "text": "8 pillar",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS Well-Architected Framework ประกอบด้วย 6 เสาหลัก ได้แก่ Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, และ Sustainability"
   },
   {
     "id": 51,
@@ -1254,7 +1294,8 @@
         "text": "ไม่มีการแบ่งประเภท",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Compliance program ของ AWS แบ่งหลักๆ เป็น 3 กลุ่ม ได้แก่ Certifications and attestations, Laws/regulations/privacy, และ Alignments and frameworks"
   },
   {
     "id": 52,
@@ -1271,7 +1312,8 @@
         "text": "ผิด",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ผิด SCP (Service Control Policy) เป็นเครื่องมือตั้งขีดจำกัดสิทธิ์สูงสุด (Guardrails) ไม่สามารถใช้ \"ให้\" (Grant) สิทธิ์ได้ สิทธิ์จะเกิดจาก IAM policy เป็นหลัก"
   },
   {
     "id": 53,
@@ -1296,7 +1338,8 @@
         "text": "Security \"in\" the cloud",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ใน Shared Responsibility Model, AWS รับผิดชอบ \"Security OF the Cloud\" (ความปลอดภัยของโครงสร้างพื้นฐานและคลาวด์เอง)"
   },
   {
     "id": 54,
@@ -1325,7 +1368,8 @@
         "text": "การปกป้อง global infrastructure",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Security IN the cloud คือส่วนที่ลูกค้ารับผิดชอบ เช่น การตั้งค่า Security Group ให้ถูกต้อง, การเข้ารหัสข้อมูลที่รับส่งและจัดเก็บ"
   },
   {
     "id": 55,
@@ -1350,7 +1394,8 @@
         "text": "การจัดการ custom Amazon Machine Images (AMIs)",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS รับผิดชอบการจัดหา ดูแล และรักษาความปลอดภัยในระดับกายภาพ (Physical hardware, Data center, Network infrastructure)"
   },
   {
     "id": 56,
@@ -1379,7 +1424,8 @@
         "text": "Administrative root access",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ในการสร้าง User สามารถเลือกให้สิทธิ์เข้าถึง 2 แบบหลักคือ Programmatic access (ผ่าน Access Key สำหรับ API/CLI) และ AWS Management Console access (ผ่านเว็บ UI)"
   },
   {
     "id": 57,
@@ -1396,7 +1442,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง AWS Organizations คือบริการที่ช่วยบริหารจัดการและรวมบิล (Consolidated Billing) ของหลายๆ บัญชี AWS เข้าด้วยกันได้"
   },
   {
     "id": 58,
@@ -1425,7 +1472,8 @@
         "text": "กำหนดสิทธิ์การเข้าถึงแบบละเอียด (fine-grained)",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "Best practice ด้านความปลอดภัยของ IAM คือการจัดการสิทธิ์การเข้าถึงอย่างเหมาะสม และให้สิทธิ์ที่น้อยที่สุดและละเอียดที่สุด (Fine-grained)"
   },
   {
     "id": 59,
@@ -1450,7 +1498,8 @@
         "text": "เปลี่ยน AWS support plan",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "งานสงวนบางอย่างต้องใช้ Root user ทำเท่านั้น เช่น การเปลี่ยน AWS support plan, ยกเลิกบัญชี AWS, เปลี่ยนแปลงตัวเลือกการชำระเงิน"
   },
   {
     "id": 60,
@@ -1475,7 +1524,8 @@
         "text": "ลบ access key ของ root user ทิ้ง",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "Best practice คือหลังจากเข้าใช้งาน Root user เป็นครั้งแรก ควรเปิด MFA และลบ Root Access Key (ถ้ามี) ทิ้ง เพื่อป้องกันการหลุดรั่ว"
   },
   {
     "id": 61,
@@ -1500,7 +1550,8 @@
         "text": "เปิดใช้งาน AWS CloudTrail",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Multi-factor authentication (MFA) ช่วยเพิ่มความปลอดภัยอีกชั้น นอกเหนือจากรหัสผ่าน โดยผู้ใช้จะต้องยืนยันรหัสจากอุปกรณ์ที่สองเสมอ"
   },
   {
     "id": 62,
@@ -1517,7 +1568,8 @@
         "text": "ผิด",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ผิด AWS KMS ใช้สำหรับการสร้างและจัดการ Encryption Key ส่วนบริการที่ช่วยตรวจสอบและประเมิน Configuration ของ AWS resources คือ AWS Config"
   },
   {
     "id": 63,
@@ -1542,7 +1594,8 @@
         "text": "การสแกนช่องโหว่ (vulnerability scanning)",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS Shield Standard เปิดใช้งานโดยอัตโนมัติฟรีสำหรับลูกค้า AWS ทุกราย เพื่อป้องกันการโจมตีแบบ DDoS ในระดับพื้นฐาน"
   },
   {
     "id": 64,
@@ -1567,7 +1620,8 @@
         "text": "สร้าง VPC",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS KMS เป็นบริการที่ช่วยสร้างและจัดการ Cryptographic keys และควบคุมการใช้งาน keys เหล่านั้นผ่านแอปพลิเคชันและบริการต่างๆ บน AWS"
   },
   {
     "id": 65,
@@ -1584,7 +1638,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง SCP เป็นเพียงนโยบายควบคุมขอบเขต (Boundary) สูงสุด ไม่สามารถมอบสิทธิ์ Allow ให้ทำงานได้ด้วยตัวเอง ผู้ใช้ยังต้องมี IAM policy ที่ให้สิทธิ์ควบคู่กัน"
   },
   {
     "id": 66,
@@ -1609,7 +1664,8 @@
         "text": "SOC 2 เท่านั้น",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "GDPR (สำหรับสหภาพยุโรป) และ HIPAA (ด้านข้อมูลสุขภาพ) คือตัวอย่างของข้อบังคับทางกฎหมายและความเป็นส่วนตัวที่ AWS ผ่านมาตรฐานรับรอง"
   },
   {
     "id": 67,
@@ -1634,7 +1690,8 @@
         "text": "/24",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ใน AWS VPC ซับเน็ต (Subnet) ที่เล็กที่สุดที่คุณสร้างได้คือขนาด /28 (มี 16 IP address)"
   },
   {
     "id": 68,
@@ -1659,7 +1716,8 @@
         "text": "/28",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ช่วง IP ที่กว้างที่สุด (ใหญ่ที่สุด) ที่สามารถสร้างใน 1 VPC ได้คือขนาด /16 (มี 65,536 IP address)"
   },
   {
     "id": 69,
@@ -1684,7 +1742,8 @@
         "text": "Route tables",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "NAT Gateway ทำหน้าที่แปล Network Address อนุญาตให้ทรัพยากรใน Private Subnet สามารถสื่อสารออกไปยังอินเทอร์เน็ตได้ แต่ป้องกันไม่ให้อินเทอร์เน็ตเข้ามาหาทรัพยากรได้โดยตรง"
   },
   {
     "id": 70,
@@ -1709,7 +1768,8 @@
         "text": "AWS Config",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Amazon VPC ช่วยให้คุณสามารถจัดสรรพื้นที่เครือข่ายส่วนตัวบนคลาวด์ได้แบบแยกอิสระ (Virtual network)"
   },
   {
     "id": 71,
@@ -1726,7 +1786,8 @@
         "text": "ผิด",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ผิด Private subnet ไม่มีเส้นทางวิ่งตรงออกสู่อินเทอร์เน็ต (ไม่มี Internet Gateway) การจะออกเน็ตได้ต้องพึ่งตัวกลางเช่น NAT Gateway ที่อยู่ใน Public subnet"
   },
   {
     "id": 72,
@@ -1751,7 +1812,8 @@
         "text": "AWS Availability Zones",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "CloudFront ทำงานโดยการแคชข้อมูลไว้ที่ Edge locations ซึ่งตั้งอยู่ใกล้ผู้ใช้ปลายทางที่สุด เพื่อลดความหน่วง (Latency) ในการโหลด"
   },
   {
     "id": 73,
@@ -1776,7 +1838,8 @@
         "text": "Web application firewall",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Network ACL (NACL) ทำหน้าที่เสมือนไฟร์วอลล์เสริมในระดับ Subnet ควบคุมทราฟฟิกเข้า-ออกในระดับซับเน็ต เป็นแบบ Stateless และทำหน้าที่เป็นตัวเลือกเสริม"
   },
   {
     "id": 74,
@@ -1801,7 +1864,8 @@
         "text": "มีการสร้าง main route table โดย default",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "เมื่อคุณสร้าง VPC ขึ้นมาใหม่ AWS จะสร้าง Main Route Table เปล่าๆ, Default Network ACL, และ Default Security Group ให้โดยอัตโนมัติ"
   },
   {
     "id": 75,
@@ -1826,7 +1890,8 @@
         "text": "Internet Gateway",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Security Group ทำหน้าที่เป็นไฟร์วอลล์เสมือนระดับ Instance คอยควบคุมทราฟฟิกขาเข้า-ขาออกให้ EC2 แบบ Stateful"
   },
   {
     "id": 76,
@@ -1851,7 +1916,8 @@
         "text": "251",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ในทุกๆ Subnet ของ AWS IP address จำนวน 5 ตัวแรก (ตัวแรก 4 และตัวสุดท้าย 1) จะถูกกันไว้ใช้งานระบบเสมอ ดังนั้น 256 - 5 = 251 IPs ที่ใช้งานได้จริง"
   },
   {
     "id": 77,
@@ -1876,7 +1942,8 @@
         "text": "เชื่อมต่อ VPC ได้ไม่จำกัดจำนวนคู่ระหว่าง VPC เดียวกัน",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "VPC Peering ใช้เพื่อเชื่อมต่อ 2 VPC เข้าด้วยกัน แต่มีข้อแม้ว่าช่วง IP address (CIDR Blocks) ของทั้งสอง VPC ห้ามซ้อนทับกัน มิฉะนั้นจะหาเส้นทางไม่ได้"
   },
   {
     "id": 78,
@@ -1901,7 +1968,8 @@
         "text": "route ไปยัง VPN gateway",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Route table ทุกตัวใน VPC จะมี Local route เสมอ ซึ่งอนุญาตให้ทรัพยากรทั้งหมดภายใน VPC สามารถสื่อสารกันเองได้โดยอัตโนมัติ"
   },
   {
     "id": 79,
@@ -1926,7 +1994,8 @@
         "text": "edge subnet",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "NAT gateway ต้องถูกสร้างไว้ใน Public subnet เพื่อให้มันสามารถเชื่อมต่อกับ Internet Gateway และนำทราฟฟิกออกสู่อินเทอร์เน็ตได้"
   },
   {
     "id": 80,
@@ -1943,7 +2012,8 @@
         "text": "ผิด",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ผิด แต่ละ subnet สามารถผูกกับ Route Table ได้เพียง 1 ตัวในเวลาเดียวกันเท่านั้น (แต่ 1 Route table สามารถผูกได้หลาย Subnets)"
   },
   {
     "id": 81,
@@ -1968,7 +2038,8 @@
         "text": "infrastructure as a service (IaaS)",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "Amazon EC2 เป็นบริการเช่าเครื่องเซิร์ฟเวอร์เสมือนบนคลาวด์ ซึ่งจัดอยู่ในกลุ่ม IaaS (Infrastructure as a Service)"
   },
   {
     "id": 82,
@@ -1985,7 +2056,8 @@
         "text": "ผิด",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ผิด Serverless ไม่ได้แปลว่าไม่มีเซิร์ฟเวอร์อยู่จริง แต่หมายถึงคุณไม่ต้องสนใจเรื่องการจัดการ สเกล และดูแลเซิร์ฟเวอร์เบื้องหลังเลย"
   },
   {
     "id": 83,
@@ -2010,7 +2082,8 @@
         "text": "การ patch guest operating system",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ภายใต้ Shared Responsibility Model สำหรับ IaaS อย่าง EC2 ลูกค้าต้องรับผิดชอบการอัปเดตและแพตช์ระบบปฏิบัติการ (OS) รวมถึงแอปพลิเคชันที่ติดตั้งในเครื่อง"
   },
   {
     "id": 84,
@@ -2027,7 +2100,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง Instance Type เป็นตัวกำหนดชุดคุณสมบัติฮาร์ดแวร์ เช่น CPU, RAM, Storage, และ Network performance"
   },
   {
     "id": 85,
@@ -2052,7 +2126,8 @@
         "text": "คุณสามารถ launch instance หลายตัวจาก AMI เดียวได้",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "AMI เปรียบเสมือนแม่พิมพ์แม่แบบ (Template) ซึ่งคุณสามารถนำ AMI เดียวมาใช้สร้าง (Launch) Instance เป็นสิบเป็นร้อยตัวก็ย่อมได้"
   },
   {
     "id": 86,
@@ -2077,7 +2152,8 @@
         "text": "Dedicated Hosts",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Reserved Instances เหมาะอย่างยิ่งสำหรับเวิร์กโหลดที่ทำงานคงที่ต่อเนื่อง (Steady-state) ในระยะยาว (1 ปี หรือ 3 ปี) ช่วยลดต้นทุนลงได้สูงสุดถึง 75%"
   },
   {
     "id": 87,
@@ -2102,7 +2178,8 @@
         "text": "Dedicated Hosts",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "On-Demand Instances เหมาะที่สุดสำหรับเวิร์กโหลดที่คาดเดาไม่ได้ (Spiky or unpredictable) หรือทดสอบแอปพลิเคชันช่วงสั้นๆ"
   },
   {
     "id": 88,
@@ -2127,7 +2204,8 @@
         "text": "Amazon CloudWatch",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "AWS Auto Scaling คอยมอนิเตอร์และปรับเพิ่มหรือลดจำนวน EC2 Instances ให้อัตโนมัติตามกฎ หรือทราฟฟิกความต้องการในขณะนั้น"
   },
   {
     "id": 89,
@@ -2152,7 +2230,8 @@
         "text": "UDP Load Balancer",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Application Load Balancer (ALB) ทำงานบน Layer 7 และถูกออกแบบมาโดยเฉพาะเพื่อแจกจ่ายทราฟฟิกประเภท HTTP และ HTTPS อย่างชาญฉลาด"
   },
   {
     "id": 90,
@@ -2177,7 +2256,8 @@
         "text": "สำรองข้อมูล (backup) database โดยอัตโนมัติ",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ELB ทำหน้าที่แจกจ่าย (Distribute) ทราฟฟิกขาเข้าจากผู้ใช้งานจำนวนมาก ไปยังกลุ่มของ Target หลายๆ ตัว (เช่น กลุ่ม EC2) เพื่อป้องกันการโอเวอร์โหลดที่เครื่องใดเครื่องหนึ่ง"
   },
   {
     "id": 91,
@@ -2202,7 +2282,8 @@
         "text": "Memory optimized",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Compute optimized instances ถูกออกแบบมาให้มีสัดส่วน CPU ต่อ Memory สูง เหมาะสำหรับงานที่ต้องประมวลผลหนักๆ อย่าง HPC และ Batch processing"
   },
   {
     "id": 92,
@@ -2227,7 +2308,8 @@
         "text": "General purpose",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Memory optimized instances ถูกออกแบบมาเพื่อประมวลผลชุดข้อมูลขนาดใหญ่ในหน่วยความจำ (Memory) ได้อย่างรวดเร็ว เหมาะกับ In-memory database และ Big Data"
   },
   {
     "id": 93,
@@ -2252,7 +2334,8 @@
         "text": "ควรเลือกตาม storage เพียงอย่างเดียว",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "การเลือก Instance generation ล่าสุดมักจะให้ประสิทธิภาพ (Performance) ที่ดีกว่าในราคา (Price) ที่เท่ากันหรือถูกกว่า generation เก่า"
   },
   {
     "id": 94,
@@ -2269,7 +2352,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง EBS-optimized instance จะมีการแยกแบนด์วิดท์เครือข่ายสำหรับสื่อสารกับ Amazon EBS โดยเฉพาะ ทำให้ได้ประสิทธิภาพ I/O ที่คงที่"
   },
   {
     "id": 95,
@@ -2286,7 +2370,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง Amazon S3 เป็น Object storage เหมาะสำหรับเก็บ Flat file เช่น เอกสาร รูปภาพ วิดีโอ (ไม่ได้มองข้อมูลเป็น Block แบบ Disk)"
   },
   {
     "id": 96,
@@ -2311,7 +2396,8 @@
         "text": "บน S3 bucket หลายตัว",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Amazon S3 ออกแบบมาให้มีความทนทาน (Durability) สูงถึง 11 9s โดยจะทำการจำลอง (Replicate) ข้อมูลข้าม Availability Zone (AZ) หลายแห่งภายใน Region เดียวกัน"
   },
   {
     "id": 97,
@@ -2344,7 +2430,8 @@
         "text": "Amazon DynamoDB",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "S3 Standard, S3 Standard-IA, และ Amazon S3 Glacier สามารถตั้งค่าใน Lifecycle policy เพื่อย้ายข้อมูลอัตโนมัติตามระยะเวลาได้"
   },
   {
     "id": 98,
@@ -2369,7 +2456,8 @@
         "text": "ภายในบัญชี AWS ของคุณเอง",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ชื่อของ S3 bucket เป็น Global namespace ซึ่งหมายความว่าต้องเป็นชื่อที่ไม่ซ้ำกับใครเลยในโลกบนทุกบัญชี AWS"
   },
   {
     "id": 99,
@@ -2394,7 +2482,8 @@
         "text": "สร้าง content เฉพาะสำหรับผู้ใช้แต่ละคน",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Amazon EFS เป็นระบบไฟล์แบบเครือข่าย (Network File System) ที่ให้ EC2 instance หลายตัวสามารถเมานท์ (Mount) และอ่าน/เขียนไฟล์ร่วมกันได้พร้อมกัน"
   },
   {
     "id": 100,
@@ -2419,7 +2508,8 @@
         "text": "ต้องถูกเก็บไว้ใน Availability Zone ที่ต่างจาก EC2 instance ที่ใช้งาน",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Amazon EBS เป็น Block storage เหมาะสำหรับข้อมูลที่ต้องการเข้าถึงรวดเร็ว (Fast access) สำหรับ OS/DB, ต้องการคงข้อมูลไว้ (Persistence) และรองรับการเข้ารหัส (Encryption)"
   },
   {
     "id": 101,
@@ -2436,7 +2526,8 @@
         "text": "ผิด",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "ผิด โดยเริ่มต้น (Default) ข้อมูลทั้งหมดที่อัปโหลดขึ้น Amazon S3 จะเป็นส่วนตัว (Private) และถูกบล็อกการเข้าถึงแบบสาธารณะเสมอ"
   },
   {
     "id": 102,
@@ -2461,7 +2552,8 @@
         "text": "policy ที่ระบุว่าใครสามารถเข้าถึง content ที่เก็บใน Glacier ได้",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Vault ใน S3 Glacier ทำหน้าที่เปรียบเสมือนตู้เซฟหรือคอนเทนเนอร์ (Container) ที่เอาไว้จัดเก็บ Archive (ข้อมูลที่ถูกเก็บถาวร) ของคุณ"
   },
   {
     "id": 103,
@@ -2478,7 +2570,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง แม้ว่า S3 จะมีหน้าตาคอนโซลเป็นแบบ Global และชื่อ bucket ต้องไม่ซ้ำใคร แต่ข้อมูลจริงจะถูกจัดเก็บอยู่ภายใน Region ที่คุณเลือกสร้างเท่านั้น"
   },
   {
     "id": 104,
@@ -2503,7 +2596,8 @@
         "text": "EBS volume สามารถถูกเข้ารหัสได้อย่างโปร่งใส (transparently) ต่อ workload บน instance ที่แนบอยู่",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "EBS volumes จะถูก Replicate อัตโนมัติภายใน AZ เดียวกันเพื่อป้องกันฮาร์ดแวร์ล้มเหลว และรองรับการเข้ารหัสข้อมูลได้อย่างโปร่งใสโดยผู้ใช้ไม่ต้องแก้โค้ดเลย"
   },
   {
     "id": 105,
@@ -2528,7 +2622,8 @@
         "text": "S3 Glacier Flexible Retrieval",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "S3 Standard-IA ออกแบบมาสำหรับข้อมูลที่นานๆ จะถูกเรียกใช้ที แต่เมื่อต้องการใช้ ก็สามารถดึงข้อมูลออกมาได้ทันที (เสียค่าดึงข้อมูลเพิ่ม แต่ค่าจัดเก็บถูกลง)"
   },
   {
     "id": 106,
@@ -2553,7 +2648,8 @@
         "text": "24–48 ชั่วโมง",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Expedited retrieval ใน S3 Glacier เป็นตัวเลือกที่เร็วที่สุด สามารถดึงข้อมูลที่เก็บถาวรออกมาได้ภายใน 1-5 นาที"
   },
   {
     "id": 107,
@@ -2570,7 +2666,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง S3 Lifecycle Policy สามารถตั้งกฎให้ย้ายข้อมูลข้าม Storage class จาก Tier แพงไปยัง Tier ที่ถูกกว่าอัตโนมัติเมื่อเวลาผ่านไป"
   },
   {
     "id": 108,
@@ -2595,7 +2692,8 @@
         "text": "Amazon Simple Storage Service (Amazon S3)",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Amazon DynamoDB เป็น NoSQL ที่มีความเร็วสูงมากและรองรับการ Scale อัตโนมัติ เหมาะที่สุดสำหรับการจัดเก็บ Session state ของแอปพลิเคชันที่มีโหลดเยอะๆ"
   },
   {
     "id": 109,
@@ -2620,7 +2718,8 @@
         "text": "GetItem",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Operation \"Scan\" จะกวาดค้นหาข้อมูลทั้งหมดทั้งตาราง ซึ่งสามารถค้นหาจากแอตทริบิวต์ใดก็ได้ (แต่จะใช้ Resource เยอะกว่า Query)"
   },
   {
     "id": 110,
@@ -2645,7 +2744,8 @@
         "text": "ถูกทุกข้อ",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "Operation \"Query\" ใช้ค้นหาข้อมูลโดยอ้างอิงจาก Primary key (Partition key) เป็นหลัก ทำให้การค้นหามีความรวดเร็วและใช้ทรัพยากรน้อยกว่า Scan"
   },
   {
     "id": 111,
@@ -2670,7 +2770,8 @@
         "text": "Amazon Redshift",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "Amazon Redshift เป็นบริการ Cloud Data Warehouse ที่ใช้จัดเก็บและวิเคราะห์ข้อมูลขนาดใหญ่ด้วยภาษา SQL มาตรฐานและเครื่องมือ BI ชั้นนำได้"
   },
   {
     "id": 112,
@@ -2691,7 +2792,8 @@
         "text": "กลุ่มของ attribute",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Attribute ใน DynamoDB เทียบได้กับคอลัมน์ในฐานข้อมูล Relational เป็นหน่วยย่อยพื้นฐานที่สุดของข้อมูลภายในหนึ่ง Item"
   },
   {
     "id": 113,
@@ -2716,7 +2818,8 @@
         "text": "Amazon Redshift",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Amazon DynamoDB ตอบโจทย์เรื่อง Performance ระดับเสี้ยววินาที, การสเกล, และเป็น NoSQL ที่มีความยืดหยุ่นของ Schema (Flexible schema)"
   },
   {
     "id": 114,
@@ -2741,7 +2844,8 @@
         "text": "ถูกทุกข้อ",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Amazon RDS เป็นระบบฐานข้อมูลเชิงสัมพันธ์ ซึ่งมีคุณสมบัติ ACID ทำให้เหมาะสมอย่างยิ่งกับการประมวลผลธุรกรรมที่ซับซ้อน (Complex transactions)"
   },
   {
     "id": 115,
@@ -2766,7 +2870,8 @@
         "text": "Amazon Aurora",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "Amazon Aurora เป็นบริการฐานข้อมูล Relational บนคลาวด์ที่เข้ากันได้กับ MySQL และ PostgreSQL โดยมาพร้อมฟีเจอร์ระดับ Enterprise อย่าง High availability"
   },
   {
     "id": 116,
@@ -2783,7 +2888,8 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง Amazon RDS เป็น Managed Service ที่ช่วยจัดการงานจุกจิกของฐานข้อมูล เช่น Patch OS/Software, ทำ Backup และกู้คืนข้อมูลแบบ Point-in-time"
   },
   {
     "id": 117,
@@ -2812,7 +2918,8 @@
         "text": "ถูกทุกข้อ",
         "correct": true
       }
-    ]
+    ],
+    "explanation": "การเลือก Database ควรคำนึงถึงโครงสร้างข้อมูล (Data shape), ขนาดข้อมูล, รูปแบบการอ่าน/เขียน, ความหน่วง (Latency) และปัจจัยอื่นๆ"
   },
   {
     "id": 118,
@@ -2837,7 +2944,8 @@
         "text": "attribute ทั้งหมดในตาราง",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "Composite Primary Key ใน DynamoDB จะประกอบไปด้วย Partition Key และ Sort Key คู่กัน เพื่อสร้างเอกลักษณ์ให้ข้อมูลและช่วยจัดเรียง"
   },
   {
     "id": 119,
@@ -2862,7 +2970,8 @@
         "text": "GSI ใช้ได้เฉพาะกับ Amazon RDS เท่านั้น",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "GSI อนุญาตให้เราสร้างดัชนีโดยใช้ Partition Key หรือ Sort Key คู่ใหม่ที่ต่างจากตารางหลักได้เลย ทำให้ Query ข้อมูลได้หลากหลายมิติขึ้น"
   },
   {
     "id": 120,
@@ -2879,6 +2988,7 @@
         "text": "ผิด",
         "correct": false
       }
-    ]
+    ],
+    "explanation": "ถูกต้อง Amazon DynamoDB เป็น NoSQL database แบบ Serverless และ Fully Managed ซึ่งรองรับทั้ง Key-value pair และ Document data model (เช่น JSON)"
   }
 ]
