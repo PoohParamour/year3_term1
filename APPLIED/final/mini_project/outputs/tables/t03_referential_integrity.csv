@@ -1,0 +1,6 @@
+ความสัมพันธ์ (Foreign Key),จำนวนแถวที่หาคู่ไม่เจอ
+transactions.customer_id -> customers,0
+transaction_items.transaction_id -> transactions,0
+transaction_items.product_id -> products,0
+support_tickets.customer_id -> customers,0
+churn_labels.customer_id -> customers,0

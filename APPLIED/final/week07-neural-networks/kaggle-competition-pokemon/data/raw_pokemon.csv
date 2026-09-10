@@ -1,0 +1,301 @@
+Id,Name,Description,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Weight,Height,Image_File,Is_Legendary
+1,bulbasaur,A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.,45,49,49,65,65,45,69,7,1.png,0
+2,ivysaur,"When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",60,62,63,80,80,60,130,10,2.png,0
+3,venusaur,The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.,80,82,83,100,100,80,1000,20,3.png,0
+4,charmander,"Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",39,52,43,60,50,65,85,6,4.png,0
+5,charmeleon,"When it swings its burning tail, it elevates the temperature to unbearably high levels.",58,64,58,80,65,80,190,11,5.png,0
+6,charizard,Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.,78,84,78,109,85,100,905,17,6.png,0
+7,squirtle,"After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",44,48,65,50,64,43,90,5,7.png,0
+8,wartortle,"Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",59,63,80,65,80,58,225,10,8.png,0
+9,blastoise,A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.,79,83,100,85,105,78,855,16,9.png,0
+10,caterpie,Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.,45,30,35,20,20,45,29,3,10.png,0
+11,metapod,"This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",50,20,55,25,25,30,99,7,11.png,0
+12,butterfree,"In battle, it flaps its wings at high speed to release highly toxic dust into the air.",60,45,50,90,80,70,320,11,12.png,0
+13,weedle,"Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",40,35,30,20,20,50,32,3,13.png,0
+14,kakuna,"Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",45,25,50,25,25,35,100,6,14.png,0
+15,beedrill,Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.,65,90,40,45,80,75,295,10,15.png,0
+16,pidgey,A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.,40,45,40,35,35,56,18,3,16.png,0
+17,pidgeotto,"Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",63,60,55,50,50,71,300,11,17.png,0
+18,pidgeot,"When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",83,80,75,70,70,101,395,15,18.png,0
+19,rattata,"Bites anything when it attacks. Small and very quick, it is a common sight in many places.",30,56,35,25,35,72,35,3,19.png,0
+20,raticate,It uses its whis­ kers to maintain its balance. It apparently slows down if they are cut off.,55,81,60,50,70,97,185,7,20.png,0
+21,spearow,Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.,40,60,30,31,31,70,20,3,21.png,0
+22,fearow,"With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",65,90,65,61,61,100,380,12,22.png,0
+23,ekans,"Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",35,60,44,40,54,55,69,20,23.png,0
+24,arbok,It is rumored that the ferocious warning markings on its belly differ from area to area.,60,95,69,65,79,80,650,35,24.png,0
+25,pikachu,"When several of these POKéMON gather, their electricity could build and cause lightning storms.",35,55,40,50,50,90,60,4,25.png,0
+26,raichu,Its long tail serves as a ground to protect itself from its own high voltage power.,60,90,55,90,80,110,300,8,26.png,0
+27,sandshrew,Burrows deep underground in arid locations far from water. It only emerges to hunt for food.,50,75,85,20,30,40,120,6,27.png,0
+28,sandslash,Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.,75,100,110,45,55,65,295,10,28.png,0
+29,nidoran-f,"Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",55,47,52,40,40,41,70,4,29.png,0
+30,nidorina,The female's horn develops slowly. Prefers physical attacks such as clawing and biting.,70,62,67,55,55,56,200,8,30.png,0
+31,nidoqueen,Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.,90,92,87,75,85,76,600,13,31.png,0
+32,nidoran-m,"Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",46,57,40,40,40,50,90,5,32.png,0
+33,nidorino,An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.,61,72,57,55,55,65,195,9,33.png,0
+34,nidoking,"It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",81,102,77,85,75,85,620,14,34.png,0
+35,clefairy,Its magical and cute appeal has many admirers. It is rare and found only in certain areas.,70,45,48,60,65,35,75,6,35.png,0
+36,clefable,A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.,95,70,73,95,90,60,400,13,36.png,0
+37,vulpix,"At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",38,41,40,50,65,65,99,6,37.png,0
+38,ninetales,Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.,73,76,75,81,100,100,199,11,38.png,0
+39,jigglypuff,"When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",115,45,20,45,25,20,55,5,39.png,0
+40,wigglytuff,"The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",140,70,45,85,50,45,120,10,40.png,0
+41,zubat,Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.,40,45,35,30,40,55,75,8,41.png,0
+42,golbat,"Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",75,80,70,65,75,90,550,16,42.png,0
+43,oddish,"During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",45,50,55,75,65,30,54,5,43.png,0
+44,gloom,The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.,60,65,70,85,75,40,86,8,44.png,0
+45,vileplume,"The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",75,80,85,110,90,50,186,12,45.png,0
+46,paras,Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.,35,70,55,45,55,25,54,3,46.png,0
+47,parasect,A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.,60,95,80,60,80,30,295,10,47.png,0
+48,venonat,Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.,60,55,50,40,55,45,300,10,48.png,0
+49,venomoth,The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.,70,65,60,90,75,90,125,15,49.png,0
+50,diglett,Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.,10,55,25,35,45,95,8,2,50.png,0
+51,dugtrio,A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.,35,100,50,50,70,120,333,7,51.png,0
+52,meowth,Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.,40,45,35,40,40,90,42,4,52.png,0
+53,persian,"Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",65,70,60,65,65,115,320,10,53.png,0
+54,psyduck,"While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",50,52,48,65,50,55,196,8,54.png,0
+55,golduck,"Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",80,82,78,95,80,85,766,17,55.png,0
+56,mankey,Extremely quick to anger. It could be docile one moment then thrashing away the next instant.,40,80,35,35,45,70,280,5,56.png,0
+57,primeape,Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.,65,105,60,60,70,95,320,10,57.png,0
+58,growlithe,Very protective of its territory. It will bark and bite to repel intruders from its space.,55,70,45,70,50,60,190,7,58.png,0
+59,arcanine,A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.,90,110,80,100,80,95,1550,19,59.png,0
+60,poliwag,Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.,40,50,40,40,40,90,124,6,60.png,0
+61,poliwhirl,"Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",65,65,65,50,50,90,200,10,61.png,0
+62,poliwrath,An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.,90,95,95,70,90,70,540,13,62.png,0
+63,abra,"Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",25,20,15,105,55,90,195,9,63.png,0
+64,kadabra,It emits special alpha waves from its body that induce headaches just by being close by.,40,35,30,120,70,105,565,13,64.png,0
+65,alakazam,"Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000.",55,50,45,135,95,120,480,15,65.png,0
+66,machop,Loves to build its muscles. It trains in all styles of martial arts to become even stronger.,70,80,50,35,35,35,195,8,66.png,0
+67,machoke,"Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",80,100,70,50,60,45,705,15,67.png,0
+68,machamp,"Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",90,130,80,65,85,55,1300,16,68.png,0
+69,bellsprout,A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.,50,75,35,70,30,40,40,7,69.png,0
+70,weepinbell,It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.,65,90,50,85,45,55,64,10,70.png,0
+71,victreebel,"Said to live in huge colonies deep in jungles, although no one has ever returned from there.",80,105,65,100,70,70,155,17,71.png,0
+72,tentacool,Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.,40,40,35,50,100,70,455,9,72.png,0
+73,tentacruel,"The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",80,70,65,80,120,100,550,16,73.png,0
+74,geodude,"Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",40,80,100,30,30,20,200,4,74.png,0
+75,graveler,Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.,55,95,115,45,45,35,1050,10,75.png,0
+76,golem,Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.,80,120,130,55,65,45,3000,14,76.png,0
+77,ponyta,Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.,50,85,55,65,65,90,300,10,77.png,0
+78,rapidash,"Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it.",65,100,70,80,80,105,950,17,78.png,0
+79,slowpoke,Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.,90,65,65,40,40,15,360,12,79.png,0
+80,slowbro,The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps.,95,75,110,100,80,30,785,16,80.png,0
+81,magnemite,Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.,25,35,70,95,55,45,60,3,81.png,0
+82,magneton,Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.,50,60,95,120,70,70,600,10,82.png,0
+83,farfetchd,The sprig of green onions it holds is its weapon. It is used much like a metal sword.,52,90,55,58,62,60,150,8,83.png,0
+84,doduo,A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.,35,85,45,35,35,75,392,14,84.png,0
+85,dodrio,"Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",60,110,70,60,60,110,852,18,85.png,0
+86,seel,The protruding horn on its head is very hard. It is used for bashing through thick ice.,65,45,55,45,70,45,900,11,86.png,0
+87,dewgong,Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.,90,70,80,70,95,70,1200,17,87.png,0
+88,grimer,Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.,80,80,50,40,50,25,300,9,88.png,0
+89,muk,"Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",105,105,75,65,100,50,300,12,89.png,0
+90,shellder,Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.,30,65,100,45,25,40,40,3,90.png,0
+91,cloyster,"When attacked, it launches its horns in quick volleys. Its innards have never been seen.",50,95,180,85,45,70,1325,15,91.png,0
+92,gastly,"Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",30,35,30,100,35,80,1,13,92.png,0
+93,haunter,"Because of its ability to slip through block walls, it is said to be from an­ other dimension.",45,50,45,115,55,95,1,16,93.png,0
+94,gengar,"Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.",60,65,60,130,75,110,405,15,94.png,0
+95,onix,"As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",35,45,160,30,45,70,2100,88,95.png,0
+96,drowzee,Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.,60,48,45,43,90,42,324,10,96.png,0
+97,hypno,"When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",85,73,70,73,115,67,756,16,97.png,0
+98,krabby,"Its pincers are not only powerful weapons, they are used for balance when walking sideways.",30,105,90,25,25,50,65,4,98.png,0
+99,kingler,"The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",55,130,115,50,50,75,600,13,99.png,0
+100,voltorb,"Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",40,30,50,55,55,100,104,5,100.png,0
+101,electrode,It stores electric energy under very high pressure. It often explodes with little or no provocation.,60,50,70,80,80,150,666,12,101.png,0
+102,exeggcute,"Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",60,40,80,60,45,40,25,4,102.png,0
+103,exeggutor,"Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",95,95,85,125,75,55,1200,20,103.png,0
+104,cubone,"Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.",50,50,95,40,50,35,65,4,104.png,0
+105,marowak,The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.,60,80,110,50,80,45,450,10,105.png,0
+106,hitmonlee,"When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",50,120,53,35,110,87,498,15,106.png,0
+107,hitmonchan,"While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",50,105,79,35,110,76,502,14,107.png,0
+108,lickitung,Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.,90,55,75,60,75,30,655,12,108.png,0
+109,koffing,"Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",40,65,95,60,45,35,10,6,109.png,0
+110,weezing,"Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",65,90,120,85,70,60,95,12,110.png,0
+111,rhyhorn,Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.,80,85,95,30,30,25,1150,10,111.png,0
+112,rhydon,"Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",105,130,120,45,45,40,1200,19,112.png,0
+113,chansey,A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.,250,5,5,35,105,50,346,11,113.png,0
+114,tangela,The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks.,65,55,115,100,40,60,350,10,114.png,0
+115,kangaskhan,The infant rarely ventures out of its mother's protective pouch until it is 3 years old.,105,95,80,40,80,90,800,22,115.png,0
+116,horsea,Known to shoot down flying bugs with precision blasts of ink from the surface of the water.,30,40,70,70,25,60,80,4,116.png,0
+117,seadra,Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.,55,65,95,95,45,85,250,12,117.png,0
+118,goldeen,"Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",45,67,60,35,50,63,150,6,118.png,0
+119,seaking,"In the autumn spawning season, they can be seen swimming power­ fully up rivers and creeks.",80,92,65,65,80,68,390,13,119.png,0
+120,staryu,An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.,30,45,55,70,55,85,345,8,120.png,0
+121,starmie,Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.,60,75,85,100,85,115,800,11,121.png,0
+122,mr-mime,"If interrupted while it is miming, it will slap around the offender with its broad hands.",40,45,65,100,120,90,545,13,122.png,0
+123,scyther,"With ninja-like agility and speed, it can create the illusion that there is more than one.",70,110,80,55,80,105,560,15,123.png,0
+124,jynx,It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.,65,50,35,115,95,95,406,14,124.png,0
+125,electabuzz,"Normally found near power plants, they can wander away and cause major blackouts in cities.",65,83,57,95,85,105,300,11,125.png,0
+126,magmar,Its body always burns with an orange glow that enables it to hide perfectly among flames.,65,95,57,100,85,93,445,13,126.png,0
+127,pinsir,"If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",65,125,100,55,70,85,550,15,127.png,0
+128,tauros,"When it targets an enemy, it charges furiously while whipping its body with its long tails.",75,100,95,40,70,110,884,14,128.png,0
+129,magikarp,"In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",20,10,55,15,20,80,100,9,129.png,0
+130,gyarados,"Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",95,125,79,60,100,81,2350,65,130.png,0
+131,lapras,A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.,130,85,80,85,95,60,2200,25,131.png,0
+132,ditto,Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.,48,48,48,48,48,48,40,3,132.png,0
+133,eevee,Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.,55,55,50,45,65,55,65,3,133.png,0
+134,vaporeon,Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.,130,65,60,110,95,65,290,10,134.png,0
+135,jolteon,It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.,65,65,60,110,95,130,245,8,135.png,0
+136,flareon,"When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",65,130,60,95,110,65,250,9,136.png,0
+137,porygon,A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.,65,60,70,85,75,40,365,8,137.png,0
+138,omanyte,"Although long extinct, in rare cases, it can be genetically resurrected from fossils.",35,40,100,90,55,35,75,4,138.png,0
+139,omastar,A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.,70,60,125,115,70,55,350,10,139.png,0
+140,kabuto,A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.,30,80,90,55,45,55,115,5,140.png,0
+141,kabutops,Its sleek shape is perfect for swim­ ming. It slashes prey with its claws and drains the body fluids.,60,115,105,65,70,80,405,13,141.png,0
+142,aerodactyl,"A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",80,105,65,60,75,130,590,18,142.png,0
+143,snorlax,"Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",160,110,65,65,110,30,4600,21,143.png,0
+144,articuno,A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains.,90,85,100,95,125,85,554,17,144.png,1
+145,zapdos,A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.,90,90,85,125,90,100,526,16,145.png,1
+146,moltres,Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.,90,100,90,125,85,90,600,20,146.png,1
+147,dratini,Long considered a mythical POKéMON until recently when a small colony was found living underwater.,41,64,45,50,50,50,33,18,147.png,0
+148,dragonair,A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.,61,84,65,70,70,70,165,40,148.png,0
+149,dragonite,An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.,91,134,95,100,100,80,2100,22,149.png,0
+150,mewtwo,It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.,106,110,90,154,90,130,1220,20,150.png,1
+151,mew,So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.,100,100,100,100,100,100,40,4,151.png,1
+152,chikorita,A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays.,45,49,65,49,65,45,64,9,152.png,0
+153,bayleef,"The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",60,62,80,63,80,60,158,12,153.png,0
+154,meganium,The aroma that rises from its petals contains a substance that calms aggressive feelings.,80,82,100,83,100,80,1005,18,154.png,0
+155,cyndaquil,"It is timid, and always curls it­ self up in a ball. If attacked, it flares up its back for protection.",39,52,43,60,50,65,79,5,155.png,0
+156,quilava,Be careful if it turns its back during battle. It means that it will attack with the fire on its back.,58,64,58,80,65,80,190,9,156.png,0
+157,typhlosion,"If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",78,84,78,109,85,100,795,17,157.png,0
+158,totodile,Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful.,50,65,64,44,48,43,95,6,158.png,0
+159,croconaw,"If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",65,80,80,59,63,58,250,11,159.png,0
+160,feraligatr,"When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",85,105,100,79,83,78,888,23,160.png,0
+161,sentret,"A very cautious POKéMON, it raises itself up using its tail to get a better view of its surroundings.",35,46,34,35,45,20,60,8,161.png,0
+162,furret,It makes a nest to suit its long and skinny body. The nest is impossible for other POKéMON to enter.,85,76,64,45,55,90,325,18,162.png,0
+163,hoothoot,"It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",60,30,30,36,56,50,212,7,163.png,0
+164,noctowl,Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.,100,50,50,86,96,70,408,16,164.png,0
+165,ledyba,It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.,40,20,30,40,80,55,108,10,165.png,0
+166,ledian,"When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",55,35,50,55,110,85,356,14,166.png,0
+167,spinarak,"It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",40,60,40,40,40,30,85,5,167.png,0
+168,ariados,It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.,70,90,70,60,70,40,335,11,168.png,0
+169,crobat,It flies so si­ lently through the dark on its four wings that it may not be noticed even when nearby.,85,90,80,70,80,130,750,18,169.png,0
+170,chinchou,It shoots positive and negative elec­ tricity between the tips of its two antennae and zaps its enemies.,75,38,38,56,56,67,120,5,170.png,0
+171,lanturn,The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.,125,58,58,76,76,67,225,12,171.png,0
+172,pichu,It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.,20,40,15,35,35,60,20,3,172.png,0
+173,cleffa,"Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",50,25,28,45,55,15,30,3,173.png,0
+174,igglybuff,"It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",90,30,15,40,20,15,10,3,174.png,0
+175,togepi,The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.,35,20,65,40,65,20,15,3,175.png,0
+176,togetic,"They say that it will appear before kindhearted, car­ ing people and shower them with happiness.",55,40,85,80,105,40,32,6,176.png,0
+177,natu,"Because its wings aren't yet fully grown, it has to hop to get around. It is always star­ ing at something.",40,50,45,70,45,70,20,2,177.png,0
+178,xatu,They say that it stays still and quiet because it is seeing both the past and future at the same time.,65,75,70,95,70,95,150,15,178.png,0
+179,mareep,"If static elec­ tricity builds in its body, its fleece doubles in volume. Touching it will shock you.",55,40,40,65,45,35,78,6,179.png,0
+180,flaaffy,"As a result of storing too much electricity, it developed patches where even downy wool won't grow.",70,55,55,80,60,45,133,8,180.png,0
+181,ampharos,The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.,90,75,85,115,90,55,615,14,181.png,0
+182,bellossom,BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun.,75,80,95,90,100,50,58,4,182.png,0
+183,marill,"The tip of its tail, which con­ tains oil that is lighter than wa­ ter, lets it swim without drowning.",70,20,50,20,50,40,85,4,183.png,0
+184,azumarill,"By keeping still and listening in­ tently, it can tell what is in even wild, fast- moving rivers.",100,50,80,60,80,50,285,8,184.png,0
+185,sudowoodo,"Although it always pretends to be a tree, its composi­ tion appears to be closer to a rock than a plant.",70,100,115,30,65,30,380,12,185.png,0
+186,politoed,"If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather­ ing from far and wide.",90,75,75,90,100,70,339,11,186.png,0
+187,hoppip,"To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",35,35,40,35,55,50,5,4,187.png,0
+188,skiploom,The bloom on top of its head opens and closes as the temperature fluc­ tuates up and down.,55,45,50,45,65,80,10,6,188.png,0
+189,jumpluff,"Once it catches the wind, it deft­ ly controls its cotton-puff spores to float, even around the world.",75,55,70,55,95,110,30,8,189.png,0
+190,aipom,Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.,55,70,55,40,55,85,115,8,190.png,0
+191,sunkern,"It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves.",30,30,30,30,30,30,18,3,191.png,0
+192,sunflora,"It converts sun­ light into energy. In the darkness after sunset, it closes its petals and becomes still.",75,75,55,105,85,30,85,8,192.png,0
+193,yanma,"If it flaps its wings really fast, it can generate shock waves that will shatter win­ dows in the area.",65,65,45,75,45,95,380,12,193.png,0
+194,wooper,This POKéMON lives in cold water. It will leave the water to search for food when it gets cold outside.,55,45,45,25,25,15,85,4,194.png,0
+195,quagsire,"This carefree POKéMON has an easy-going nature. While swimming, it always bumps into boat hulls.",95,85,85,65,65,35,750,14,195.png,0
+196,espeon,It uses the fine hair that covers its body to sense air currents and predict its ene­ my's actions.,65,65,60,130,95,110,265,9,196.png,0
+197,umbreon,"When agitated, this POKéMON pro­ tects itself by spraying poisonous sweat from its pores.",95,65,110,60,130,65,270,10,197.png,0
+198,murkrow,"Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",60,85,42,85,42,91,21,5,198.png,0
+199,slowking,"It has incredible intellect and in­ tuition. Whatever the situation, it remains calm and collected.",95,75,80,100,110,30,795,20,199.png,0
+200,misdreavus,It likes playing mischievous tricks such as screaming and wailing to startle people at night.,60,60,60,85,85,85,10,7,200.png,0
+201,unown,Their shapes look like hieroglyphs on ancient tab­ lets. It is said that the two are somehow related.,48,72,48,72,48,48,50,5,201.png,0
+202,wobbuffet,"It hates light and shock. If attack­ ed, it inflates its body to pump up its counter­ strike.",190,33,58,33,58,33,285,13,202.png,0
+203,girafarig,"Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",70,80,65,90,65,85,415,15,203.png,0
+204,pineco,It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.,50,65,90,35,35,15,72,6,204.png,0
+205,forretress,Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.,75,90,140,60,60,40,1258,12,205.png,0
+206,dunsparce,"When spotted, this POKéMON escapes backward by furi­ ously boring into the ground with its tail.",100,70,70,65,65,45,140,15,206.png,0
+207,gligar,It flies straight at its target's face then clamps down on the star­ tled victim to inject poison.,65,75,105,35,65,85,648,11,207.png,0
+208,steelix,"Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",75,85,200,55,65,30,4000,92,208.png,0
+209,snubbull,"Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",60,80,50,40,40,30,78,6,209.png,0
+210,granbull,"It is actually timid and easily spooked. If at­ tacked, it flails about to fend off its attacker.",90,120,75,60,60,45,487,14,210.png,0
+211,qwilfish,"To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",65,95,85,55,55,85,39,5,211.png,0
+212,scizor,It swings its eye- patterned pincers up to scare its foes. This makes it look like it has three heads.,70,130,100,55,80,65,1180,18,212.png,0
+213,shuckle,The BERRIES it stores in its vase-like shell decompose and become a gooey liquid.,20,10,230,10,230,5,205,6,213.png,0
+214,heracross,This powerful POKéMON thrusts its prized horn under its enemies’ bellies then lifts and throws them.,80,125,75,40,95,85,540,15,214.png,0
+215,sneasel,"Its paws conceal sharp claws. If attacked, it sud­ denly extends the claws and startles its enemy.",55,95,55,35,75,115,280,9,215.png,0
+216,teddiursa,"If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey.",60,80,50,50,50,40,88,6,216.png,0
+217,ursaring,"Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen BERRIES.",90,130,75,75,75,55,1258,18,217.png,0
+218,slugma,"It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",40,40,40,70,40,20,350,7,218.png,0
+219,magcargo,The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.,60,50,120,90,80,30,550,8,219.png,0
+220,swinub,It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.,50,50,40,30,30,50,65,4,220.png,0
+221,piloswine,"Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",100,100,80,60,60,50,558,11,221.png,0
+222,corsola,It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.,65,55,95,65,95,35,50,6,222.png,0
+223,remoraid,It has superb ac­ curacy. The water it shoots out can strike even moving prey from more than 300 feet.,35,65,35,65,35,65,120,6,223.png,0
+224,octillery,It traps enemies with its suction- cupped tentacles then smashes them with its rock-hard head.,75,105,75,105,75,45,285,9,224.png,0
+225,delibird,It carries food all day long. There are tales about lost people who were saved by the food it had.,45,55,45,65,45,75,160,9,225.png,0
+226,mantine,"As it majestically swims, it doesn't care if REMORAID attach to it for scavenging its leftovers.",85,40,70,80,140,70,2200,21,226.png,0
+227,skarmory,"Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",65,80,140,40,70,70,505,17,227.png,0
+228,houndour,It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.,45,60,30,80,50,65,108,6,228.png,0
+229,houndoom,"If you are burned by the flames it shoots from its mouth, the pain will never go away.",75,90,50,110,80,95,350,14,229.png,0
+230,kingdra,It is said that it usually hides in underwater caves. It can create whirlpools by yawning.,75,95,95,95,95,85,1520,18,230.png,0
+231,phanpy,"It swings its long snout around play­ fully, but because it is so strong, that can be dan­ gerous.",90,60,60,40,40,40,335,5,231.png,0
+232,donphan,"It has sharp, hard tusks and a rugged hide. Its TACKLE is strong enough to knock down a house.",90,120,120,60,60,50,1200,11,232.png,0
+233,porygon2,"This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",85,80,90,105,95,60,325,6,233.png,0
+234,stantler,The curved antlers subtly change the flow of air to create a strange space where real­ ity is distorted.,73,95,62,85,65,85,712,14,234.png,0
+235,smeargle,A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.,55,20,35,20,45,75,580,12,235.png,0
+236,tyrogue,"It is always bursting with en­ ergy. To make it­ self stronger, it keeps on fighting even if it loses.",35,35,35,35,35,35,210,7,236.png,0
+237,hitmontop,"If you become enchanted by its smooth, elegant, dance-like kicks, you may get drilled hard.",50,95,95,35,110,70,480,14,237.png,0
+238,smoochum,Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.,45,30,15,85,65,65,60,4,238.png,0
+239,elekid,"It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",45,63,37,65,55,95,235,6,239.png,0
+240,magby,"Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",45,75,37,70,55,83,214,7,240.png,0
+241,miltank,"Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",95,80,105,40,70,100,755,12,241.png,0
+242,blissey,Anyone who takes even one bite of BLISSEY's egg be­ comes unfailingly caring and pleas­ ant to everyone.,255,10,10,75,135,55,468,15,242.png,0
+243,raikou,The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.,90,85,75,115,100,115,1780,19,243.png,1
+244,entei,"Volcanoes erupt when it barks. Un­ able to restrain its extreme power, it races headlong around the land.",115,115,85,90,75,100,1980,21,244.png,1
+245,suicune,"Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",100,75,115,90,115,85,1870,20,245.png,1
+246,larvitar,"It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",50,64,50,45,50,41,720,6,246.png,0
+247,pupitar,"Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",70,84,70,65,70,51,1520,12,247.png,0
+248,tyranitar,"Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",100,134,110,95,100,61,2020,20,248.png,0
+249,lugia,It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.,106,90,130,90,154,110,2160,52,249.png,1
+250,ho-oh,Legends claim this POKéMON flies the world's skies con­ tinuously on its magnificent seven- colored wings.,106,130,90,110,154,90,1990,38,250.png,1
+251,celebi,This POKéMON wan­ ders across time. Grass and trees flourish in the forests in which it has appeared.,100,100,100,100,100,100,50,6,251.png,1
+252,treecko,TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POKéMON attacks by slamming foes with its thick tail.,40,45,35,65,55,70,50,5,252.png,0
+253,grovyle,The leaves growing out of GROVYLE’s body are convenient for camouflaging it from enemies in the forest. This POKéMON is a master at climbing trees in jungles.,50,65,45,85,65,95,216,9,253.png,0
+254,sceptile,The leaves growing on SCEPTILE’s body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.,70,85,65,105,85,120,522,17,254.png,0
+255,torchic,"TORCHIC sticks with its TRAINER, following behind with unsteady steps. This POKéMON breathes fire of over 1,800 degrees F, including fireballs that leave the foe scorched black.",45,60,40,70,50,45,25,4,255.png,0
+256,combusken,"COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POKéMON’s legs possess both speed and power, enabling it to dole out ten kicks in one second.",60,85,60,85,60,55,195,9,256.png,0
+257,blaziken,"In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this POKéMON’s wrists burn.",80,120,70,110,70,80,520,19,257.png,0
+258,mudkip,"The fin on MUDKIP’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this POKéMON can determine what is taking place around it without using its eyes.",50,70,50,50,50,40,76,4,258.png,0
+259,marshtomp,"The surface of MARSHTOMP’s body is enveloped by a thin, sticky film that enables it to live on land. This POKéMON plays in mud on beaches when the ocean tide is low.",70,85,70,60,70,50,280,7,259.png,0
+260,swampert,SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POKéMON also has powerful vision that lets it see even in murky water.,100,110,90,85,90,60,819,15,260.png,0
+261,poochyena,"At first sight, POOCHYENA takes a bite at anything that moves. This POKéMON chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",35,55,35,30,30,35,136,5,261.png,0
+262,mightyena,MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This POKéMON will bite savagely with its sharply pointed fangs.,70,90,70,60,60,70,370,10,262.png,0
+263,zigzagoon,ZIGZAGOON restlessly wanders everywhere at all times. This POKéMON does so because it is very curious. It becomes interested in anything that it happens to see.,38,30,41,30,41,60,175,4,263.png,0
+264,linoone,"LINOONE always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This POKéMON is very challenged by gently curving roads.",78,70,61,50,61,100,325,5,264.png,0
+265,wurmple,"Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POKéMON’s feet are tipped with suction pads that allow it to cling to glass without slipping.",45,45,35,20,30,20,36,3,265.png,0
+266,silcoon,"SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POKéMON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",50,35,55,25,25,15,100,6,266.png,0
+267,beautifly,"BEAUTIFLY’s favorite food is the sweet pollen of flowers. If you want to see this POKéMON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",60,70,50,100,50,65,284,10,267.png,0
+268,cascoon,"CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POKéMON prepares for its evolution inside the cocoon.",50,35,55,25,25,15,115,7,268.png,0
+269,dustox,"DUSTOX is instinctively drawn to light. Swarms of this POKéMON are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",60,50,70,50,90,65,316,12,269.png,0
+270,lotad,"LOTAD live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this POKéMON travels on land in search of clean water.",40,30,30,40,50,30,26,5,270.png,0
+271,lombre,"LOMBRE is nocturnal - it will get active after dusk. It is also a mischief-maker. When this POKéMON spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation.",60,50,50,60,70,50,325,12,271.png,0
+272,ludicolo,"LUDICOLO begins dancing as soon as it hears cheerful, festive music. This POKéMON is said to appear when it hears the singing of children on hiking outings.",80,70,70,90,100,70,550,15,272.png,0
+273,seedot,"SEEDOT attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this POKéMON’s body becomes.",40,40,50,30,30,30,40,5,273.png,0
+274,nuzleaf,NUZLEAF live in densely overgrown forests. They occasionally venture out of the forest to startle people. This POKéMON dislikes having its long nose pinched.,70,70,40,60,40,60,280,10,274.png,0
+275,shiftry,SHIFTRY is a mysterious POKéMON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.,90,100,60,90,60,80,596,13,275.png,0
+276,taillow,"TAILLOW courageously stands its ground against foes, however strong they may be. This gutsy POKéMON will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",40,55,30,30,30,85,23,3,276.png,0
+277,swellow,"SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW’s clawed feet, preventing escape.",60,85,60,75,50,125,198,7,277.png,0
+278,wingull,WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POKéMON rides the winds and flies as if it were skating across the sky.,40,30,30,55,30,85,95,6,278.png,0
+279,pelipper,PELIPPER is a flying transporter that carries small POKéMON and eggs inside its massive bill. This POKéMON builds its nest on steep cliffs facing the sea.,60,50,100,95,70,65,280,12,279.png,0
+280,ralts,"RALTS senses the emotions of people using the horns on its head. This POKéMON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",28,25,25,45,35,40,66,4,280.png,0
+281,kirlia,It is said that a KIRLIA that is exposed to the positive emotions of its TRAINER grows beautiful. This POKéMON controls psychokinetic powers with its highly developed brain.,38,35,35,65,55,50,202,8,281.png,0
+282,gardevoir,"GARDEVOIR has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power.",68,65,65,125,115,80,484,16,282.png,0
+283,surskit,"From the tips of its feet, SURSKIT secretes an oil that enables it to walk on water as if it were skating. This POKéMON feeds on microscopic organisms in ponds and lakes.",40,30,32,50,52,65,17,5,283.png,0
+284,masquerain,MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POKéMON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.,70,60,62,100,82,80,36,8,284.png,0
+285,shroomish,"SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POKéMON feeds on compost that is made up of fallen, rotted leaves.",60,40,60,40,60,35,45,4,285.png,0
+286,breloom,"BRELOOM closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This POKéMON’s fighting technique puts boxers to shame.",60,130,80,60,60,70,392,12,286.png,0
+287,slakoth,"SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POKéMON’s sole daily meal consists of just three leaves.",60,60,60,35,35,30,240,8,287.png,0
+288,vigoroth,VIGOROTH is always itching and agitated to go on a wild rampage. It simply can’t tolerate sitting still for even a minute. This POKéMON’s stress level rises if it can’t be moving constantly.,80,80,80,55,55,90,465,14,288.png,0
+289,slaking,"SLAKING spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this POKéMON reluctantly moves to another spot.",150,160,100,95,65,100,1305,20,289.png,0
+290,nincada,NINCADA lives underground for many years in complete darkness. This POKéMON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.,31,45,90,30,30,40,55,5,290.png,0
+291,ninjask,"NINJASK moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this POKéMON was long believed to be invisible.",61,90,45,50,50,160,120,8,291.png,0
+292,shedinja,"SHEDINJA’s hard body doesn’t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POKéMON will steal the spirit of anyone peering into its hollow body from its back.",1,90,45,30,30,40,12,8,292.png,0
+293,whismur,"Normally, WHISMUR’s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POKéMON senses danger, it starts crying at an earsplitting volume.",64,51,23,51,23,28,163,6,293.png,0
+294,loudred,LOUDRED’s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POKéMON’s round ears serve as loudspeakers.,84,71,43,71,43,48,405,10,294.png,0
+295,exploud,"EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this POKéMON violently inhales from the ports on its body, it’s a sign that it is preparing to let loose a huge bellow.",104,91,63,91,73,68,840,15,295.png,0
+296,makuhita,"MAKUHITA is tenacious - it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this POKéMON stores more energy in its body for evolving.",72,60,30,20,30,25,864,10,296.png,0
+297,hariyama,"HARIYAMA practices its straight-arm slaps in any number of locations. One hit of this POKéMON’s powerful, openhanded, straight-arm punches could snap a telephone pole in two.",144,120,60,40,60,50,2538,23,297.png,0
+298,azurill,"AZURILL spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these POKéMON managed to hurl itself a record 33 feet.",50,20,40,20,40,20,20,2,298.png,0
+299,nosepass,"NOSEPASS’s magnetic nose is always pointed to the north. If two of these POKéMON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",30,45,135,45,90,30,970,10,299.png,0
+300,skitty,SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POKéMON is known to chase after its own tail and become dizzy.,50,45,45,35,35,50,110,6,300.png,0

@@ -1,0 +1,90 @@
+product_id,product_name,category,unit_price
+P1000,Sandwich Bread,Bakery,45
+P1001,Whole Wheat Bread,Bakery,59
+P1002,Croissant,Bakery,35
+P1003,Chocolate Donut,Bakery,29
+P1004,Butter,Dairy,89
+P1005,Fresh Milk 1L,Dairy,62
+P1006,Yogurt Cup,Dairy,25
+P1007,Cheddar Cheese,Dairy,139
+P1008,Parmesan Cheese,Dairy,189
+P1009,Whipping Cream,Dairy,95
+P1010,Strawberry Jam,Pantry,99
+P1011,Honey Jar,Pantry,159
+P1012,Peanut Butter,Pantry,119
+P1013,Spaghetti Pasta,Pantry,49
+P1014,Pasta Sauce,Pantry,79
+P1015,Instant Noodles 5pk,Pantry,45
+P1016,Canned Tuna,Pantry,39
+P1017,Cooking Oil 1L,Pantry,69
+P1018,Jasmine Rice 5kg,Pantry,229
+P1019,Granola,Pantry,179
+P1020,Breakfast Cereal,Pantry,149
+P1021,Coffee Beans 250g,Coffee & Tea,320
+P1022,Coffee Filter Paper,Coffee & Tea,85
+P1023,Coffee Creamer,Coffee & Tea,75
+P1024,Instant Coffee Jar,Coffee & Tea,179
+P1025,Green Tea Bags,Coffee & Tea,129
+P1026,Black Tea Bags,Coffee & Tea,119
+P1027,Cocoa Drink Powder,Coffee & Tea,165
+P1028,Fresh Berries Pack,Fresh Food,189
+P1029,Banana Bunch,Fresh Food,35
+P1030,Apple 1kg,Fresh Food,99
+P1031,Lemon 500g,Fresh Food,45
+P1032,Tomato 500g,Fresh Food,39
+P1033,Chicken Breast 500g,Fresh Food,109
+P1034,Pork Belly 500g,Fresh Food,135
+P1035,Salmon Fillet,Fresh Food,289
+P1036,Mixed Salad Pack,Fresh Food,69
+P1037,Egg Tray 10,Fresh Food,79
+P1038,Potato Chips,Snacks,39
+P1039,Salsa Dip,Snacks,95
+P1040,Chocolate Bar,Snacks,45
+P1041,Mixed Nuts,Snacks,159
+P1042,Biscuits Pack,Snacks,49
+P1043,Seaweed Snack,Snacks,29
+P1044,Bottled Water 6pk,Beverages,55
+P1045,Orange Juice 1L,Beverages,79
+P1046,Soda 1.5L,Beverages,35
+P1047,Sports Drink,Beverages,25
+P1048,Energy Drink,Beverages,20
+P1049,Beer 6pk,Alcohol,329
+P1050,Red Wine Bottle,Alcohol,590
+P1051,Whisky 700ml,Alcohol,890
+P1052,Shampoo,Personal Care,189
+P1053,Conditioner,Personal Care,189
+P1054,Hair Treatment Mask,Personal Care,259
+P1055,Body Wash,Personal Care,159
+P1056,Toothpaste,Personal Care,89
+P1057,Toothbrush,Personal Care,59
+P1058,Mouthwash,Personal Care,139
+P1059,Face Cream,Personal Care,459
+P1060,Sunscreen SPF50,Personal Care,349
+P1061,Razor Blades,Personal Care,279
+P1062,Diapers Pack,Baby,499
+P1063,Baby Wipes,Baby,89
+P1064,Baby Lotion,Baby,199
+P1065,Baby Formula,Baby,690
+P1066,Baby Food Puree,Baby,45
+P1067,Laundry Detergent,Household,215
+P1068,Fabric Softener,Household,169
+P1069,Dish Soap,Household,89
+P1070,Trash Bags,Household,69
+P1071,Paper Towels,Household,99
+P1072,Air Freshener,Household,129
+P1073,Floor Cleaner,Household,119
+P1074,Dog Food 3kg,Pet,459
+P1075,Dog Treats,Pet,139
+P1076,Pet Shampoo,Pet,199
+P1077,Cat Food 2kg,Pet,389
+P1078,Cat Litter,Pet,249
+P1079,Vitamin C Tablets,Health,259
+P1080,Multivitamin,Health,399
+P1081,Protein Powder,Health,990
+P1082,Surgical Mask Box,Health,129
+P1083,Hand Sanitizer,Health,79
+P1084,Phone Charger,Electronics,390
+P1085,USB-C Cable,Electronics,190
+P1086,Wireless Earbuds,Electronics,1890
+P1087,Power Bank,Electronics,790
+P1088,Phone Case,Electronics,290

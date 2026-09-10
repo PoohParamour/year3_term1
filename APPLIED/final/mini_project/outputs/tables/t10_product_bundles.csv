@@ -1,0 +1,11 @@
+ชุดที่,หมวดสินค้า,สินค้าในชุด,จำนวนสินค้า,บิลที่ซื้อครบชุด,% ของบิลทั้งหมด,Lift สูงสุดในชุด
+1,Pet,"Dog Food 3kg, Dog Treats, Pet Shampoo",3,807,1.22,22.55
+2,Baby,"Baby Lotion, Baby Wipes, Diapers Pack",3,1395,2.12,20.75
+3,Coffee & Tea,"Coffee Beans 250g, Coffee Creamer, Coffee Filter Paper",3,1965,2.98,17.47
+4,Personal Care,"Conditioner, Hair Treatment Mask, Shampoo",3,1494,2.27,15.4
+5,Coffee & Tea,"Green Tea Bags, Honey Jar, Lemon 500g",3,870,1.32,14.37
+6,Personal Care,"Mouthwash, Toothbrush, Toothpaste",3,1374,2.08,13.96
+7,Snacks,"Beer 6pk, Potato Chips, Salsa Dip",3,1680,2.55,13.19
+8,Dairy,"Fresh Berries Pack, Granola, Yogurt Cup",3,1316,2.0,11.5
+9,Pantry,"Parmesan Cheese, Pasta Sauce, Spaghetti Pasta",3,1944,2.95,11.39
+10,Bakery,"Butter, Sandwich Bread, Strawberry Jam",3,2940,4.46,9.49

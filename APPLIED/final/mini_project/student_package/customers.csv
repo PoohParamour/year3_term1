@@ -1,0 +1,3016 @@
+customer_id,signup_date,gender,age,region,city_tier,income_bracket,membership_tier,preferred_channel,marketing_optin,has_mobile_app
+C10001,2025-07-28,Male,42.0,South,3,>120k,Gold,Mobile App,1,1
+C10002,2025-09-10,F,36.0,East,1,20-40k,Silver,In-Store,1,0
+C10003,2025-05-17,F,35.0,Northeast,2,70-120k,Bronze,In-Store,0,0
+C10004,2025-11-17,male,29.0,Bangkok,1,20-40k,Bronze,Online Web,0,0
+C10005,2025-03-15,Male,43.0,Bangkok,1,40-70k,Bronze,Online Web,0,1
+C10006,2024-12-19,Male,36.0,Central,2,<20k,Bronze,Mobile App,0,1
+C10007,2026-02-20,Female,18.0,North,2,70-120k,Bronze,Mobile App,0,0
+C10008,2026-05-24,Male,26.0,Northeast,1,40-70k,Gold,Online Web,0,0
+C10009,2026-02-05,Male,22.0,,1,<20k,Silver,In-Store,0,1
+C10010,2025-05-06,Female,26.0,Northeast,2,40-70k,Bronze,Mobile App,1,1
+C10011,2025-02-21,F,55.0,Central,3,20-40k,Gold,In-Store,1,1
+C10012,2025-09-13,Female,43.0,Northeast,3,40-70k,Silver,Mobile App,1,1
+C10013,2024-12-14,M,30.0,Bangkok,1,,Silver,In-Store,1,0
+C10014,2025-08-22,F,36.0,Central,1,>120k,Silver,Mobile App,1,1
+C10015,2025-02-12,F,40.0,Central,1,>120k,Bronze,In-Store,0,0
+C10016,2024-10-15,F,44.0,Bangkok,1,>120k,Bronze,In-Store,0,0
+C10017,2026-04-13,Male,35.0,Northeast,1,20-40k,Silver,In-Store,1,0
+C10018,2024-08-22,Male,37.0,Bangkok,1,,Gold,In-Store,1,0
+C10019,2026-03-19,Female,31.0,Bangkok,3,<20k,Bronze,In-Store,1,0
+C10020,2024-08-18,M,20.0,Central,3,<20k,Bronze,Mobile App,0,0
+C10021,2024-09-29,Female,,East,1,40-70k,Platinum,Online Web,1,1
+C10022,2025-07-09,Male,44.0,Bangkok,1,20-40k,Silver,In-Store,1,1
+C10023,2025-05-30,F,61.0,East,3,>120k,Gold,In-Store,1,1
+C10024,2024-10-13,M,39.0,Bangkok,3,70-120k,Gold,In-Store,1,0
+C10025,2025-01-01,Male,29.0,Bangkok,1,>120k,Bronze,In-Store,1,0
+C10026,2025-04-28,F,18.0,Northeast,1,40-70k,Bronze,Online Web,1,0
+C10027,2025-09-08,Male,27.0,Northeast,1,<20k,Bronze,In-Store,1,1
+C10028,2024-10-17,Male,31.0,Northeast,3,70-120k,Silver,In-Store,0,1
+C10029,2025-04-02,M,36.0,Northeast,2,40-70k,Gold,In-Store,1,0
+C10030,2024-12-31,Female,33.0,North,3,<20k,Bronze,Mobile App,1,1
+C10031,2026-05-31,Female,18.0,Central,2,20-40k,Bronze,In-Store,1,1
+C10032,2024-09-06,F,41.0,East,3,40-70k,Gold,Mobile App,1,0
+C10033,2025-04-02,m,28.0,Northeast,2,,Gold,Mobile App,1,0
+C10034,2025-06-16,Male,39.0,Bangkok,2,<20k,Silver,In-Store,1,0
+C10035,2026-06-16,M,18.0,Bangkok,2,40-70k,Gold,In-Store,1,1
+C10036,2025-03-30,Male,34.0,Bangkok,2,20-40k,Silver,In-Store,1,0
+C10037,2024-12-03,F,38.0,South,1,40-70k,Bronze,In-Store,1,0
+C10038,2025-01-12,Female,42.0,East,2,20-40k,Bronze,Mobile App,1,1
+C10039,2025-08-24,Female,18.0,Central,1,70-120k,Bronze,Mobile App,1,1
+C10040,2025-10-07,F,18.0,North,2,<20k,Silver,Online Web,0,1
+C10041,2024-08-25,M,25.0,Central,1,40-70k,Bronze,In-Store,1,0
+C10042,2025-08-18,M,37.0,Bangkok,2,>120k,Silver,In-Store,1,0
+C10043,2025-02-15,M,28.0,Northeast,1,20-40k,Silver,In-Store,0,1
+C10044,2024-11-10,female,40.0,Bangkok,1,20-40k,Silver,Online Web,0,1
+C10045,2024-08-13,f,31.0,Northeast,1,20-40k,Silver,In-Store,0,0
+C10046,2025-12-07,F,29.0,Central,2,70-120k,Silver,In-Store,1,0
+C10047,2025-04-17,Male,48.0,North,1,20-40k,Gold,In-Store,1,1
+C10048,2025-07-13,Male,18.0,Northeast,2,40-70k,Bronze,In-Store,1,0
+C10049,2026-02-19,Female,18.0,Bangkok,2,40-70k,Bronze,Online Web,0,0
+C10050,2024-12-24,f,42.0,Northeast,2,70-120k,Silver,In-Store,1,0
+C10051,2025-04-04,F,40.0,North,3,40-70k,Bronze,In-Store,0,1
+C10052,2025-01-28,Male,53.0,Bangkok,2,40-70k,Platinum,In-Store,1,0
+C10053,2025-04-07,F,30.0,Central,3,40-70k,Bronze,Mobile App,0,0
+C10054,2025-01-24,Female,,Central,2,<20k,Bronze,In-Store,1,1
+C10055,2025-02-19,Male,37.0,North,1,40-70k,Gold,In-Store,1,1
+C10056,2025-09-20,M,36.0,North,3,<20k,Silver,Mobile App,1,1
+C10057,2026-04-04,Male,18.0,Northeast,3,70-120k,Silver,Online Web,0,1
+C10058,2025-02-09,F,33.0,East,3,20-40k,Gold,Mobile App,0,1
+C10059,2025-05-14,Female,25.0,Bangkok,3,70-120k,Gold,In-Store,1,1
+C10060,2025-05-09,M,30.0,Bangkok,2,40-70k,Gold,In-Store,1,1
+C10061,2026-02-12,Female,33.0,Northeast,3,<20k,Bronze,Mobile App,0,1
+C10062,2025-01-30,Male,40.0,Northeast,1,20-40k,Silver,In-Store,1,0
+C10063,2025-06-30,Male,36.0,Central,2,20-40k,Gold,Online Web,1,1
+C10064,2025-10-07,Male,38.0,East,2,20-40k,Bronze,In-Store,1,1
+C10065,2025-01-28,Female,27.0,South,2,20-40k,Bronze,In-Store,0,1
+C10066,2024-09-28,Male,38.0,Bangkok,1,20-40k,Gold,Mobile App,1,1
+C10067,2024-08-21,Female,30.0,East,1,70-120k,Silver,In-Store,1,0
+C10068,2025-03-16,Female,32.0,Bangkok,1,70-120k,Platinum,In-Store,1,0
+C10069,2024-10-26,Female,41.0,South,3,40-70k,Silver,Mobile App,0,1
+C10070,2025-01-29,F,,Central,1,20-40k,Silver,In-Store,0,0
+C10071,2024-11-17,Female,27.0,Northeast,3,,Silver,In-Store,0,1
+C10072,2026-04-21,F,41.0,East,1,20-40k,Bronze,Mobile App,1,1
+C10073,2024-10-23,Male,31.0,Central,2,20-40k,Gold,In-Store,1,0
+C10074,2024-10-11,Male,18.0,Central,1,40-70k,Gold,In-Store,1,0
+C10075,2024-12-14,M,39.0,Northeast,1,>120k,Silver,In-Store,0,1
+C10076,2026-01-07,Female,30.0,North,3,70-120k,Silver,In-Store,1,1
+C10077,2024-08-31,Male,38.0,Bangkok,2,40-70k,Silver,Online Web,0,1
+C10078,2025-02-28,Female,33.0,South,3,70-120k,Silver,In-Store,0,1
+C10079,2024-12-10,Female,33.0,Bangkok,3,<20k,Bronze,Online Web,1,0
+C10080,2025-03-02,Male,24.0,Central,1,<20k,Silver,In-Store,1,0
+C10081,2025-09-06,Female,40.0,Bangkok,1,<20k,Platinum,In-Store,1,0
+C10082,2025-04-04,F,37.0,Bangkok,1,<20k,Bronze,In-Store,1,0
+C10083,2024-10-02,Female,33.0,North,2,20-40k,Bronze,In-Store,1,0
+C10084,2024-11-22,M,56.0,Central,2,40-70k,Platinum,Online Web,1,1
+C10085,2025-09-22,Male,23.0,Bangkok,3,20-40k,Silver,Online Web,0,1
+C10086,2025-11-08,Female,29.0,Bangkok,2,40-70k,Bronze,In-Store,1,0
+C10087,2025-06-14,Female,46.0,Bangkok,2,,Silver,In-Store,1,0
+C10088,2025-08-11,Female,47.0,Northeast,1,20-40k,Gold,Mobile App,0,0
+C10089,2026-02-07,Female,28.0,Bangkok,3,40-70k,Silver,Online Web,1,0
+C10090,2026-06-01,Female,37.0,Bangkok,2,20-40k,Silver,Mobile App,0,1
+C10091,2025-08-14,F,39.0,Northeast,1,>120k,Gold,Mobile App,1,0
+C10092,2025-04-20,Female,43.0,Central,1,>120k,Gold,In-Store,0,1
+C10093,2025-06-20,Male,19.0,Bangkok,2,<20k,Silver,In-Store,1,0
+C10094,2026-04-09,male,27.0,Bangkok,2,20-40k,Bronze,In-Store,0,0
+C10095,2025-03-28,Female,26.0,Bangkok,1,20-40k,Silver,In-Store,0,0
+C10096,2025-11-12,Male,34.0,East,2,,Silver,In-Store,1,0
+C10097,2025-08-28,Male,34.0,North,2,40-70k,Gold,In-Store,0,1
+C10098,2025-11-01,M,46.0,Bangkok,2,40-70k,Bronze,In-Store,0,0
+C10099,2026-04-24,Male,31.0,Central,3,>120k,Bronze,In-Store,1,0
+C10100,2025-05-15,F,21.0,Bangkok,2,40-70k,Silver,In-Store,0,1
+C10101,2025-04-10,F,57.0,Bangkok,1,40-70k,Silver,Online Web,1,0
+C10102,2025-04-19,Male,30.0,North,2,>120k,Gold,In-Store,0,0
+C10103,2024-08-16,Male,41.0,Bangkok,1,70-120k,Platinum,In-Store,1,1
+C10104,2025-10-17,Male,37.0,Central,2,,Bronze,Mobile App,1,1
+C10105,2025-01-08,F,26.0,Central,1,20-40k,Bronze,In-Store,1,1
+C10106,2025-04-29,F,27.0,North,2,20-40k,Silver,Online Web,1,0
+C10107,2025-12-20,Male,41.0,North,3,20-40k,Bronze,Mobile App,1,1
+C10108,2024-12-29,Female,23.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C10109,2024-12-26,Male,39.0,Bangkok,2,20-40k,Silver,Online Web,1,0
+C10110,2026-05-19,F,20.0,Central,1,<20k,Bronze,In-Store,1,1
+C10111,2025-02-17,Female,37.0,South,3,>120k,Gold,In-Store,1,1
+C10112,2026-01-31,Female,27.0,North,1,40-70k,Silver,In-Store,0,0
+C10113,2025-06-21,M,44.0,Central,1,<20k,Gold,In-Store,1,0
+C10114,2026-05-03,Female,19.0,South,2,40-70k,Gold,In-Store,1,1
+C10115,2024-09-09,male,28.0,North,3,20-40k,Bronze,In-Store,1,1
+C10116,2025-04-19,male,21.0,Central,2,20-40k,Bronze,In-Store,0,0
+C10117,2025-02-18,Female,18.0,Bangkok,1,40-70k,Gold,Online Web,0,0
+C10118,2025-03-22,Female,31.0,Central,2,20-40k,Silver,In-Store,1,1
+C10119,2024-09-28,Female,51.0,North,1,,Platinum,In-Store,1,0
+C10120,2025-06-04,Male,38.0,Bangkok,1,40-70k,Gold,Mobile App,1,0
+C10121,2026-05-06,Female,,Bangkok,1,<20k,Bronze,Mobile App,1,1
+C10122,2025-06-16,Female,,Bangkok,2,20-40k,Bronze,In-Store,1,0
+C10123,2024-10-29,M,18.0,North,2,20-40k,Gold,In-Store,1,1
+C10124,2025-03-14,Male,30.0,East,1,>120k,Gold,In-Store,1,0
+C10125,2024-12-08,M,25.0,North,1,40-70k,Gold,In-Store,1,0
+C10126,2025-06-11,F,,South,1,20-40k,Silver,Mobile App,1,1
+C10127,2025-01-16,Male,35.0,Bangkok,2,40-70k,Silver,Online Web,1,1
+C10128,2024-12-20,Male,36.0,Northeast,2,<20k,Silver,In-Store,0,1
+C10129,2025-09-09,F,42.0,Northeast,1,40-70k,Gold,In-Store,1,1
+C10130,2025-01-29,Female,23.0,Northeast,1,70-120k,Platinum,Mobile App,1,1
+C10131,2024-09-12,Female,25.0,East,3,20-40k,Gold,In-Store,1,0
+C10132,2025-03-14,Female,43.0,,2,>120k,Gold,In-Store,1,0
+C10133,2024-10-25,Male,34.0,Northeast,3,>120k,Gold,In-Store,1,0
+C10134,2025-05-21,F,37.0,North,1,<20k,Bronze,Online Web,1,1
+C10135,2026-05-27,M,31.0,Northeast,2,20-40k,Silver,Mobile App,1,0
+C10136,2024-11-22,Female,30.0,Bangkok,1,70-120k,Gold,In-Store,1,0
+C10137,2025-06-12,F,46.0,Bangkok,3,20-40k,Gold,Mobile App,0,0
+C10138,2025-04-15,Male,44.0,Bangkok,2,40-70k,Gold,In-Store,1,0
+C10139,2026-06-17,F,18.0,Central,1,40-70k,Silver,In-Store,0,1
+C10140,2025-01-06,Male,58.0,East,2,40-70k,Silver,In-Store,1,1
+C10141,2025-01-21,M,56.0,Northeast,2,20-40k,Silver,Online Web,0,0
+C10142,2025-02-11,Female,30.0,East,1,40-70k,Silver,Online Web,0,0
+C10143,2026-04-09,female,44.0,Bangkok,2,<20k,Bronze,Mobile App,1,0
+C10144,2024-12-08,Female,29.0,North,1,70-120k,Gold,In-Store,0,0
+C10145,2025-05-29,Male,32.0,South,1,,Bronze,In-Store,1,0
+C10146,2026-06-15,Female,24.0,Bangkok,1,,Silver,In-Store,0,1
+C10147,2024-11-19,Male,18.0,East,1,70-120k,Bronze,In-Store,1,0
+C10148,2025-02-08,Female,28.0,Bangkok,2,20-40k,Silver,In-Store,0,1
+C10149,2024-09-22,Male,39.0,Bangkok,1,70-120k,Platinum,In-Store,1,0
+C10150,2025-04-11,Male,,Northeast,3,40-70k,Platinum,In-Store,1,0
+C10151,2025-10-31,M,34.0,Northeast,2,40-70k,Gold,Mobile App,0,1
+C10152,2025-11-26,Male,32.0,,1,70-120k,Bronze,In-Store,1,0
+C10153,2025-05-14,Female,38.0,Northeast,3,20-40k,Silver,In-Store,1,0
+C10154,2025-04-04,Female,58.0,Bangkok,1,40-70k,Platinum,Mobile App,0,1
+C10155,2026-02-19,Female,24.0,East,1,40-70k,Silver,In-Store,0,0
+C10156,2025-02-26,F,44.0,Northeast,2,70-120k,Platinum,Mobile App,1,1
+C10157,2025-09-12,Male,42.0,South,3,<20k,Silver,Mobile App,0,1
+C10158,2024-10-04,Male,18.0,South,1,>120k,Gold,Mobile App,1,1
+C10159,2025-02-19,Male,27.0,Bangkok,3,70-120k,Bronze,In-Store,1,0
+C10160,2025-03-03,F,35.0,Bangkok,2,40-70k,Gold,Mobile App,0,1
+C10161,2025-01-05,female,36.0,Central,3,20-40k,Silver,Mobile App,0,1
+C10162,2026-03-12,M,23.0,Central,3,20-40k,Bronze,In-Store,0,0
+C10163,2025-07-23,M,43.0,East,1,20-40k,Silver,Mobile App,0,1
+C10164,2024-08-26,Male,40.0,Bangkok,3,20-40k,Gold,In-Store,1,0
+C10165,2026-06-13,Male,31.0,Bangkok,2,20-40k,Bronze,Mobile App,1,1
+C10166,2025-02-12,Male,34.0,North,2,<20k,Silver,In-Store,0,1
+C10167,2024-09-16,Female,24.0,Northeast,2,70-120k,Silver,In-Store,0,1
+C10168,2026-06-10,F,31.0,Bangkok,1,40-70k,Bronze,Mobile App,0,1
+C10169,2025-03-22,f,48.0,Bangkok,2,<20k,Silver,In-Store,0,0
+C10170,2025-07-26,Male,27.0,East,2,20-40k,Silver,Mobile App,1,1
+C10171,2026-01-29,male,,Central,1,<20k,Bronze,Online Web,1,1
+C10172,2024-09-10,Female,22.0,,1,70-120k,Platinum,Mobile App,0,1
+C10173,2025-06-15,Female,36.0,South,2,70-120k,Bronze,In-Store,0,0
+C10174,2025-07-03,Female,35.0,Bangkok,1,20-40k,Gold,Online Web,1,0
+C10175,2026-01-13,M,18.0,East,1,40-70k,Bronze,In-Store,0,0
+C10176,2024-08-31,female,35.0,Bangkok,2,,Gold,Online Web,1,0
+C10177,2024-10-06,F,29.0,South,1,20-40k,Bronze,Mobile App,1,0
+C10178,2025-03-14,Female,25.0,Northeast,1,<20k,Bronze,In-Store,0,0
+C10179,2024-08-29,F,24.0,Northeast,3,20-40k,Silver,In-Store,0,1
+C10180,2025-07-11,Male,33.0,Central,1,20-40k,Silver,Mobile App,0,0
+C10181,2026-05-04,M,22.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C10182,2025-06-23,Female,37.0,East,1,40-70k,Bronze,In-Store,1,1
+C10183,2024-10-24,Male,29.0,Northeast,2,20-40k,Silver,In-Store,0,0
+C10184,2025-06-26,Male,51.0,Bangkok,2,20-40k,Gold,In-Store,1,1
+C10185,2026-02-25,M,21.0,South,2,,Gold,In-Store,0,0
+C10186,2025-07-17,F,25.0,Bangkok,1,40-70k,Silver,Online Web,1,0
+C10187,2025-03-28,male,41.0,Bangkok,3,70-120k,Gold,In-Store,0,1
+C10188,2025-02-26,Male,22.0,Bangkok,2,40-70k,Silver,In-Store,0,1
+C10189,2025-11-28,F,41.0,Northeast,2,<20k,Bronze,In-Store,1,0
+C10190,2024-09-02,Female,35.0,East,3,<20k,Gold,In-Store,0,1
+C10191,2026-02-14,female,33.0,Central,2,40-70k,Silver,In-Store,1,0
+C10192,2025-02-26,Male,26.0,Bangkok,2,70-120k,Platinum,In-Store,1,0
+C10193,2024-10-03,female,36.0,South,1,20-40k,Bronze,Online Web,1,0
+C10194,2026-01-31,Female,46.0,Bangkok,3,40-70k,Bronze,Online Web,0,0
+C10195,2024-10-01,Female,52.0,Central,3,<20k,Bronze,Online Web,1,1
+C10196,2026-01-14,M,20.0,Northeast,3,40-70k,Gold,Mobile App,0,1
+C10197,2024-12-31,Male,22.0,North,2,40-70k,Silver,In-Store,0,0
+C10198,2025-07-18,F,39.0,South,2,70-120k,Silver,In-Store,1,1
+C10199,2025-02-23,Male,30.0,Northeast,1,20-40k,Silver,Mobile App,1,1
+C10200,2024-11-27,Female,48.0,Northeast,2,20-40k,Bronze,Online Web,1,0
+C10201,2025-01-03,Male,33.0,Bangkok,2,,Bronze,Mobile App,1,1
+C10202,2025-02-02,F,35.0,Northeast,2,40-70k,Platinum,In-Store,1,1
+C10203,2025-06-26,f,18.0,Bangkok,1,40-70k,Bronze,In-Store,0,0
+C10204,2025-01-25,F,43.0,Bangkok,1,>120k,Gold,In-Store,0,1
+C10205,2025-12-14,Female,50.0,Central,3,20-40k,Bronze,In-Store,0,0
+C10206,2025-05-23,F,48.0,North,3,40-70k,Gold,Mobile App,1,0
+C10207,2024-09-16,Female,50.0,Northeast,2,<20k,Silver,Mobile App,0,1
+C10208,2025-08-29,Female,58.0,Northeast,3,>120k,Gold,In-Store,1,0
+C10209,2024-09-07,Female,30.0,East,1,40-70k,Silver,In-Store,1,0
+C10210,2026-05-05,M,29.0,North,1,40-70k,Silver,In-Store,0,1
+C10211,2025-07-23,F,37.0,Northeast,2,40-70k,Gold,Mobile App,1,0
+C10212,2025-02-06,Male,34.0,Central,2,40-70k,Gold,Mobile App,1,1
+C10213,2024-08-20,Female,28.0,Bangkok,2,70-120k,Platinum,In-Store,1,0
+C10214,2024-09-22,F,49.0,Northeast,3,>120k,Silver,In-Store,1,1
+C10215,2024-10-07,Female,41.0,Bangkok,2,70-120k,Silver,Mobile App,1,1
+C10216,2025-07-04,Male,32.0,Northeast,1,40-70k,Gold,In-Store,1,0
+C10217,2025-01-26,Male,21.0,Northeast,2,70-120k,Bronze,In-Store,1,1
+C10218,2025-05-30,Male,44.0,Northeast,1,70-120k,Silver,In-Store,1,0
+C10219,2025-05-30,male,41.0,Northeast,1,40-70k,Platinum,Mobile App,1,0
+C10220,2025-03-10,Male,45.0,Bangkok,2,20-40k,Bronze,Online Web,0,0
+C10221,2024-08-05,Female,23.0,Bangkok,2,40-70k,Silver,Mobile App,1,1
+C10222,2024-09-20,Male,40.0,North,1,20-40k,Silver,In-Store,0,0
+C10223,2026-04-12,Female,18.0,Bangkok,2,40-70k,Bronze,In-Store,1,1
+C10224,2025-12-03,M,31.0,Central,1,40-70k,Bronze,In-Store,0,0
+C10225,2025-04-28,Male,42.0,Bangkok,1,,Silver,In-Store,0,0
+C10226,2025-01-01,Male,35.0,Bangkok,1,20-40k,Platinum,In-Store,1,1
+C10227,2026-04-29,male,34.0,Central,1,40-70k,Bronze,In-Store,1,0
+C10228,2026-01-27,Female,26.0,South,1,70-120k,Silver,Mobile App,0,1
+C10229,2025-04-26,Female,21.0,North,1,40-70k,Silver,Mobile App,1,1
+C10230,2025-08-05,Female,32.0,Northeast,1,40-70k,Silver,In-Store,1,1
+C10231,2025-02-05,female,35.0,Northeast,2,>120k,Bronze,In-Store,1,0
+C10232,2024-09-09,F,,East,2,<20k,Silver,Mobile App,1,1
+C10233,2025-03-10,M,46.0,Bangkok,1,70-120k,Silver,In-Store,0,0
+C10234,2025-06-03,F,36.0,Northeast,3,20-40k,Gold,Online Web,1,1
+C10235,2024-08-14,Male,26.0,Central,3,20-40k,Silver,In-Store,1,1
+C10236,2025-01-21,female,23.0,Central,1,70-120k,Platinum,Mobile App,0,1
+C10237,2025-01-19,Male,27.0,Northeast,2,20-40k,Bronze,Mobile App,0,1
+C10238,2024-11-14,M,34.0,Bangkok,1,,Gold,Mobile App,1,0
+C10239,2025-04-25,Female,28.0,South,2,,Silver,In-Store,1,1
+C10240,2026-03-31,male,36.0,South,1,,Silver,In-Store,1,0
+C10241,2026-06-07,Female,18.0,Bangkok,1,20-40k,Silver,Online Web,1,0
+C10242,2026-05-01,male,41.0,Central,2,20-40k,Platinum,In-Store,0,1
+C10243,2024-09-24,F,37.0,East,2,20-40k,Silver,Mobile App,0,1
+C10244,2026-04-26,F,18.0,Bangkok,2,20-40k,Bronze,Online Web,1,1
+C10245,2024-12-07,Female,,Bangkok,2,40-70k,Bronze,In-Store,1,1
+C10246,2024-09-29,F,35.0,Bangkok,2,20-40k,Bronze,In-Store,0,0
+C10247,2024-08-08,F,31.0,East,2,40-70k,Platinum,In-Store,1,0
+C10248,2026-06-14,Female,29.0,Bangkok,2,40-70k,Bronze,In-Store,1,1
+C10249,2026-02-02,Male,,East,2,20-40k,Bronze,Mobile App,0,1
+C10250,2025-05-20,f,41.0,Bangkok,2,20-40k,Silver,In-Store,0,0
+C10251,2024-08-27,Female,51.0,Bangkok,2,20-40k,Bronze,In-Store,0,1
+C10252,2024-09-11,Male,28.0,Bangkok,3,20-40k,Silver,Mobile App,0,1
+C10253,2024-11-12,F,40.0,North,2,20-40k,Bronze,In-Store,1,0
+C10254,2025-12-13,Male,31.0,Northeast,1,70-120k,Bronze,In-Store,0,1
+C10255,2025-03-14,F,41.0,Northeast,1,20-40k,Gold,Mobile App,1,1
+C10256,2026-01-14,Female,18.0,Bangkok,1,70-120k,Silver,In-Store,0,0
+C10257,2026-04-25,Female,31.0,Bangkok,1,40-70k,Bronze,In-Store,1,0
+C10258,2025-07-16,Male,33.0,Bangkok,2,20-40k,Bronze,Online Web,0,0
+C10259,2026-01-20,Female,18.0,North,1,40-70k,Silver,In-Store,1,0
+C10260,2024-09-01,Male,41.0,Bangkok,2,<20k,Bronze,Mobile App,0,1
+C10261,2026-01-06,F,33.0,Bangkok,1,<20k,Bronze,In-Store,0,1
+C10262,2025-05-06,Female,18.0,,1,20-40k,Platinum,In-Store,0,0
+C10263,2025-01-22,Female,49.0,Northeast,2,70-120k,Gold,Mobile App,0,1
+C10264,2025-02-23,Female,42.0,,1,40-70k,Bronze,In-Store,0,1
+C10265,2026-03-15,Female,24.0,Bangkok,2,40-70k,Silver,Mobile App,0,1
+C10266,2024-12-15,Female,28.0,East,2,20-40k,Bronze,In-Store,0,0
+C10267,2025-03-29,Male,34.0,North,2,70-120k,Silver,Mobile App,0,1
+C10268,2024-11-06,Female,26.0,South,1,70-120k,Gold,In-Store,1,1
+C10269,2025-02-25,Male,48.0,Bangkok,2,70-120k,Bronze,Mobile App,1,1
+C10270,2025-07-01,Female,30.0,Northeast,2,<20k,Bronze,Mobile App,1,1
+C10271,2025-05-11,Male,49.0,Bangkok,1,>120k,Platinum,In-Store,0,1
+C10272,2024-12-19,Female,40.0,Bangkok,1,40-70k,Silver,Mobile App,0,1
+C10273,2025-04-28,F,36.0,Central,3,20-40k,Silver,In-Store,1,1
+C10274,2025-09-07,F,25.0,Central,2,<20k,Bronze,In-Store,1,1
+C10275,2025-05-05,Male,62.0,Bangkok,1,40-70k,Platinum,Online Web,1,0
+C10276,2025-05-30,Male,18.0,Central,1,<20k,Silver,In-Store,0,0
+C10277,2025-01-23,Male,,East,3,70-120k,Gold,Mobile App,1,1
+C10278,2025-03-11,Male,40.0,East,1,40-70k,Platinum,Online Web,0,0
+C10279,2025-09-10,Male,39.0,Bangkok,3,<20k,Silver,Mobile App,0,0
+C10280,2025-08-20,Female,44.0,Central,1,40-70k,Platinum,Online Web,1,0
+C10281,2025-05-23,Male,38.0,Northeast,1,70-120k,Silver,Mobile App,0,1
+C10282,2025-08-14,Male,41.0,Central,3,40-70k,Gold,In-Store,1,1
+C10283,2025-08-25,F,22.0,Northeast,1,20-40k,Silver,In-Store,0,0
+C10284,2025-01-16,Male,28.0,Central,2,70-120k,Gold,In-Store,1,0
+C10285,2026-04-11,M,34.0,South,2,70-120k,Silver,Mobile App,1,1
+C10286,2024-08-12,Female,39.0,Bangkok,1,40-70k,Platinum,In-Store,1,1
+C10287,2024-08-22,M,18.0,North,1,40-70k,Gold,Mobile App,1,1
+C10288,2024-08-16,Female,45.0,Northeast,2,70-120k,Gold,Mobile App,1,0
+C10289,2025-07-10,Male,24.0,Central,2,20-40k,Silver,In-Store,0,0
+C10290,2025-03-08,Male,52.0,,1,>120k,Gold,In-Store,1,0
+C10291,2025-01-22,M,32.0,East,2,70-120k,Gold,Mobile App,1,1
+C10292,2025-11-19,male,,East,3,<20k,Bronze,Mobile App,0,1
+C10293,2025-01-28,Female,24.0,South,2,40-70k,Silver,In-Store,0,1
+C10294,2024-09-06,Male,28.0,South,2,<20k,Bronze,Online Web,1,0
+C10295,2026-01-08,F,22.0,East,2,<20k,Bronze,In-Store,1,0
+C10296,2025-03-07,Female,21.0,Bangkok,1,40-70k,Silver,Online Web,0,0
+C10297,2024-11-26,Male,33.0,Bangkok,3,70-120k,Gold,Mobile App,1,0
+C10298,2025-04-22,F,36.0,Bangkok,2,<20k,Platinum,Mobile App,1,1
+C10299,2024-10-05,F,30.0,South,1,40-70k,Bronze,In-Store,1,0
+C10300,2025-02-01,Male,28.0,Central,2,<20k,Silver,Online Web,0,1
+C10301,2025-04-05,M,41.0,North,3,40-70k,Silver,In-Store,1,0
+C10302,2024-11-07,Female,48.0,Northeast,3,40-70k,Gold,Online Web,1,1
+C10303,2025-07-03,Male,47.0,Bangkok,1,40-70k,Silver,Online Web,0,1
+C10304,2026-03-09,Male,31.0,Northeast,2,70-120k,Silver,In-Store,1,1
+C10305,2024-08-06,Male,36.0,South,2,<20k,Bronze,Mobile App,1,0
+C10306,2026-06-14,M,31.0,North,2,40-70k,Bronze,Mobile App,0,1
+C10307,2024-08-11,F,42.0,Central,2,40-70k,Platinum,In-Store,1,1
+C10308,2024-10-28,m,43.0,South,3,40-70k,Silver,In-Store,1,0
+C10309,2025-09-25,F,36.0,Northeast,2,70-120k,Silver,In-Store,0,0
+C10310,2024-12-02,M,28.0,Northeast,1,,Gold,In-Store,1,0
+C10311,2024-10-08,Male,39.0,,1,20-40k,Silver,In-Store,0,1
+C10312,2024-11-26,F,28.0,East,2,20-40k,Bronze,Mobile App,0,0
+C10313,2025-04-30,Male,36.0,Northeast,3,20-40k,Silver,In-Store,1,0
+C10314,2025-02-16,Female,25.0,Central,3,20-40k,Bronze,In-Store,1,0
+C10315,2025-01-22,Male,36.0,Central,1,40-70k,Gold,In-Store,0,1
+C10316,2026-05-20,Female,36.0,Bangkok,1,20-40k,Silver,In-Store,1,1
+C10317,2025-03-16,Female,37.0,Bangkok,2,20-40k,Silver,In-Store,0,1
+C10318,2025-04-18,F,36.0,South,1,20-40k,Silver,Mobile App,1,1
+C10319,2025-03-15,Male,30.0,Bangkok,1,40-70k,Silver,Mobile App,1,1
+C10320,2025-03-26,Male,33.0,Bangkok,2,40-70k,Gold,In-Store,1,1
+C10321,2025-06-14,Female,18.0,North,1,<20k,Gold,In-Store,1,0
+C10322,2024-10-08,Female,33.0,Bangkok,2,40-70k,Silver,In-Store,1,1
+C10323,2025-07-06,F,43.0,,1,>120k,Bronze,Mobile App,0,1
+C10324,2024-11-10,Male,28.0,South,2,70-120k,Silver,In-Store,1,1
+C10325,2024-08-06,Male,32.0,Bangkok,2,,Silver,In-Store,1,0
+C10326,2026-02-26,Male,29.0,Northeast,1,40-70k,Silver,Mobile App,1,0
+C10327,2025-02-06,Female,33.0,Bangkok,1,<20k,Silver,Mobile App,1,0
+C10328,2025-02-01,Female,41.0,Bangkok,1,<20k,Bronze,In-Store,1,0
+C10329,2025-01-26,Male,37.0,South,2,20-40k,Gold,In-Store,0,1
+C10330,2025-08-09,female,20.0,Bangkok,3,20-40k,Silver,In-Store,0,0
+C10331,2026-02-20,f,34.0,Central,3,20-40k,Gold,Mobile App,1,0
+C10332,2025-03-17,Female,18.0,Bangkok,3,40-70k,Silver,In-Store,0,1
+C10333,2025-12-28,Female,35.0,South,2,40-70k,Bronze,In-Store,1,0
+C10334,2024-12-09,Male,38.0,Bangkok,3,<20k,Gold,In-Store,0,0
+C10335,2024-09-07,M,27.0,Bangkok,3,<20k,Bronze,Mobile App,0,0
+C10336,2024-09-20,F,41.0,,2,<20k,Gold,In-Store,1,1
+C10337,2024-08-29,Male,41.0,North,1,70-120k,Gold,In-Store,0,1
+C10338,2024-11-11,Female,18.0,Bangkok,2,70-120k,Silver,Mobile App,0,1
+C10339,2024-09-30,Male,27.0,East,1,20-40k,Bronze,In-Store,1,1
+C10340,2024-10-06,F,23.0,Central,1,20-40k,Silver,In-Store,0,0
+C10341,2026-04-13,M,32.0,North,1,70-120k,Silver,In-Store,1,0
+C10342,2025-05-22,female,35.0,Bangkok,1,>120k,Silver,In-Store,1,0
+C10343,2026-02-07,Male,36.0,Northeast,3,20-40k,Bronze,In-Store,1,1
+C10344,2025-02-27,Male,40.0,Central,2,70-120k,Silver,Online Web,0,0
+C10345,2026-01-23,M,26.0,Northeast,2,40-70k,Bronze,In-Store,0,1
+C10346,2025-06-08,Female,27.0,Bangkok,3,,Bronze,In-Store,0,1
+C10347,2025-02-01,Female,45.0,North,1,70-120k,Platinum,Online Web,1,0
+C10348,2024-08-18,Female,32.0,Bangkok,1,,Silver,In-Store,1,0
+C10349,2025-03-31,M,51.0,Bangkok,2,70-120k,Bronze,Mobile App,0,1
+C10350,2024-12-24,female,41.0,North,3,40-70k,Platinum,Online Web,1,0
+C10351,2025-12-15,Male,37.0,Northeast,1,20-40k,Bronze,In-Store,0,1
+C10352,2026-05-03,Male,24.0,Bangkok,1,70-120k,Bronze,In-Store,1,0
+C10353,2025-04-28,Male,36.0,South,1,40-70k,Bronze,In-Store,1,1
+C10354,2025-12-19,F,22.0,Bangkok,1,20-40k,Bronze,Mobile App,1,1
+C10355,2025-06-16,Female,32.0,Bangkok,1,,Bronze,Mobile App,0,1
+C10356,2026-03-07,Male,21.0,,1,40-70k,Silver,In-Store,1,1
+C10357,2025-03-19,male,43.0,Bangkok,2,20-40k,Silver,Online Web,0,0
+C10358,2025-03-09,M,47.0,Bangkok,2,40-70k,Silver,Mobile App,1,1
+C10359,2024-11-17,Female,35.0,East,1,,Bronze,Mobile App,1,1
+C10360,2025-03-23,Female,42.0,Northeast,2,70-120k,Gold,Mobile App,0,1
+C10361,2025-09-07,F,18.0,Bangkok,1,20-40k,Silver,Mobile App,0,1
+C10362,2025-05-03,Female,22.0,Bangkok,3,<20k,Bronze,Mobile App,1,1
+C10363,2024-10-01,Male,23.0,Northeast,2,,Silver,Mobile App,1,0
+C10364,2026-02-18,M,36.0,Central,3,<20k,Silver,Mobile App,0,0
+C10365,2025-03-14,Female,,North,1,70-120k,Bronze,In-Store,0,0
+C10366,2025-02-16,Female,29.0,Bangkok,2,,Silver,In-Store,1,0
+C10367,2025-04-20,Female,37.0,Northeast,1,<20k,Silver,In-Store,1,1
+C10368,2025-05-12,M,40.0,,2,70-120k,Platinum,Mobile App,1,1
+C10369,2024-10-21,F,51.0,Central,1,<20k,Gold,Online Web,1,1
+C10370,2025-04-26,Male,19.0,North,2,>120k,Silver,In-Store,0,1
+C10371,2024-09-03,F,44.0,North,3,70-120k,Gold,Mobile App,0,1
+C10372,2025-10-23,Female,19.0,North,2,>120k,Bronze,In-Store,0,0
+C10373,2025-09-19,m,48.0,Bangkok,2,,Gold,In-Store,1,1
+C10374,2024-08-22,female,40.0,South,2,20-40k,Silver,Online Web,1,0
+C10375,2025-01-29,Male,49.0,Bangkok,3,40-70k,Bronze,In-Store,1,0
+C10376,2024-08-16,Female,31.0,Central,2,40-70k,Bronze,In-Store,0,0
+C10377,2024-12-13,Female,33.0,North,3,40-70k,Bronze,In-Store,1,1
+C10378,2025-07-03,Female,32.0,Bangkok,1,40-70k,Platinum,In-Store,0,0
+C10379,2024-12-03,male,33.0,Bangkok,2,20-40k,Bronze,In-Store,1,0
+C10380,2025-02-10,F,34.0,Bangkok,2,70-120k,Bronze,Mobile App,1,1
+C10381,2025-12-20,M,36.0,South,3,40-70k,Bronze,In-Store,0,1
+C10382,2025-01-15,Female,36.0,East,1,20-40k,Silver,In-Store,1,0
+C10383,2026-04-07,Male,28.0,Bangkok,3,20-40k,Silver,In-Store,0,0
+C10384,2026-03-23,F,30.0,Central,2,20-40k,Silver,In-Store,0,0
+C10385,2026-04-22,m,28.0,South,1,<20k,Bronze,Mobile App,0,1
+C10386,2024-12-14,m,49.0,Bangkok,1,,Platinum,Mobile App,1,1
+C10387,2025-09-14,female,46.0,East,1,70-120k,Gold,In-Store,1,0
+C10388,2025-06-24,Male,36.0,Central,3,40-70k,Silver,Online Web,1,1
+C10389,2026-04-28,Female,28.0,Bangkok,2,>120k,Bronze,In-Store,1,1
+C10390,2025-03-21,Female,26.0,Northeast,2,70-120k,Bronze,In-Store,1,1
+C10391,2024-08-05,F,47.0,Bangkok,2,20-40k,Bronze,Mobile App,1,1
+C10392,2025-03-21,F,45.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C10393,2025-07-27,Female,28.0,East,2,40-70k,Gold,In-Store,1,1
+C10394,2025-10-28,F,18.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C10395,2024-11-21,Male,30.0,South,2,20-40k,Silver,In-Store,0,0
+C10396,2025-02-07,Male,35.0,Northeast,1,70-120k,Bronze,Online Web,0,0
+C10397,2026-02-14,Male,19.0,Central,2,20-40k,Bronze,Mobile App,1,1
+C10398,2026-03-13,F,46.0,North,1,<20k,Silver,In-Store,0,0
+C10399,2025-05-24,Male,39.0,South,1,40-70k,Bronze,In-Store,0,1
+C10400,2025-04-13,F,40.0,East,1,70-120k,Gold,In-Store,1,1
+C10401,2024-12-14,Female,29.0,Northeast,3,40-70k,Silver,In-Store,0,1
+C10402,2025-01-11,M,38.0,Northeast,1,40-70k,Gold,In-Store,0,1
+C10403,2024-10-27,F,,Central,2,,Platinum,In-Store,0,1
+C10404,2026-05-07,Female,21.0,Bangkok,3,20-40k,Bronze,In-Store,1,0
+C10405,2025-06-09,Male,38.0,Bangkok,2,,Bronze,In-Store,1,0
+C10406,2025-01-19,Male,27.0,Central,1,>120k,Silver,In-Store,1,1
+C10407,2025-07-02,Female,29.0,Central,1,40-70k,Bronze,In-Store,1,0
+C10408,2024-08-21,Female,33.0,Central,1,40-70k,Bronze,In-Store,0,0
+C10409,2025-01-28,Female,39.0,Central,1,40-70k,Silver,In-Store,0,1
+C10410,2025-04-26,male,33.0,Northeast,1,20-40k,Bronze,Mobile App,1,0
+C10411,2025-07-10,F,34.0,Central,3,20-40k,Platinum,In-Store,0,0
+C10412,2025-03-22,Female,38.0,Bangkok,2,40-70k,Gold,In-Store,0,1
+C10413,2024-10-17,M,38.0,Northeast,1,20-40k,Silver,In-Store,0,0
+C10414,2026-05-22,Female,33.0,Central,1,20-40k,Bronze,In-Store,0,1
+C10415,2025-05-15,F,38.0,Northeast,1,<20k,Silver,In-Store,0,0
+C10416,2025-05-21,M,39.0,Northeast,3,20-40k,Bronze,In-Store,1,1
+C10417,2024-12-20,Female,42.0,Bangkok,3,70-120k,Silver,In-Store,1,1
+C10418,2025-06-14,M,43.0,Bangkok,1,,Gold,In-Store,1,1
+C10419,2025-01-13,F,19.0,,2,20-40k,Bronze,Online Web,1,0
+C10420,2025-04-18,F,18.0,South,3,20-40k,Gold,Mobile App,1,1
+C10421,2025-04-09,Male,35.0,Bangkok,2,>120k,Gold,In-Store,1,1
+C10422,2026-01-11,Female,,Northeast,2,20-40k,Bronze,Mobile App,0,1
+C10423,2026-02-17,Female,36.0,Northeast,2,,Gold,In-Store,0,1
+C10424,2026-02-28,M,18.0,Central,1,20-40k,Gold,In-Store,1,1
+C10425,2026-04-17,f,24.0,East,2,40-70k,Bronze,In-Store,0,0
+C10426,2026-04-24,M,27.0,Central,2,<20k,Bronze,Online Web,1,0
+C10427,2024-09-29,Female,18.0,North,1,40-70k,Bronze,In-Store,0,1
+C10428,2025-06-08,Female,41.0,Northeast,3,40-70k,Silver,Mobile App,1,1
+C10429,2025-08-04,M,30.0,Bangkok,1,<20k,Bronze,In-Store,0,0
+C10430,2025-05-03,M,42.0,East,2,70-120k,Bronze,In-Store,0,0
+C10431,2025-01-17,female,53.0,South,1,40-70k,Silver,In-Store,1,1
+C10432,2025-07-28,Female,42.0,Bangkok,3,20-40k,Bronze,In-Store,0,0
+C10433,2026-02-21,Female,20.0,Northeast,1,70-120k,Bronze,In-Store,0,1
+C10434,2026-04-02,Male,35.0,Northeast,3,20-40k,Silver,Online Web,1,1
+C10435,2025-04-04,Female,26.0,Bangkok,1,40-70k,Silver,In-Store,1,0
+C10436,2026-01-04,f,23.0,East,3,40-70k,Gold,Mobile App,1,1
+C10437,2024-11-03,F,52.0,North,3,20-40k,Gold,In-Store,1,0
+C10438,2025-05-03,female,44.0,Bangkok,3,<20k,Silver,Mobile App,1,0
+C10439,2025-07-16,Male,36.0,Central,2,20-40k,Silver,In-Store,0,0
+C10440,2025-05-23,Female,34.0,Central,1,20-40k,Gold,Mobile App,1,1
+C10441,2025-01-09,M,26.0,Central,1,20-40k,Bronze,Online Web,0,1
+C10442,2024-11-30,Male,47.0,Bangkok,2,>120k,Bronze,In-Store,1,1
+C10443,2026-01-16,Male,37.0,East,1,<20k,Gold,In-Store,1,0
+C10444,2024-11-13,Female,32.0,Central,1,20-40k,Bronze,Mobile App,1,1
+C10445,2024-10-31,Male,45.0,Bangkok,1,>120k,Gold,Mobile App,1,1
+C10446,2026-03-31,Female,25.0,Bangkok,1,40-70k,Bronze,Mobile App,0,1
+C10447,2025-03-27,F,47.0,South,1,<20k,Silver,In-Store,0,0
+C10448,2025-07-27,Female,50.0,Bangkok,2,70-120k,Platinum,Mobile App,1,0
+C10449,2026-06-05,Male,46.0,North,2,20-40k,Gold,In-Store,1,0
+C10450,2024-09-16,Male,34.0,Northeast,2,70-120k,Gold,Mobile App,1,1
+C10451,2025-07-25,Male,30.0,Bangkok,1,40-70k,Bronze,In-Store,0,1
+C10452,2026-02-06,f,24.0,Northeast,1,40-70k,Bronze,In-Store,0,0
+C10453,2024-11-05,F,22.0,Bangkok,1,70-120k,Bronze,In-Store,1,1
+C10454,2025-05-20,Male,27.0,East,1,70-120k,Gold,In-Store,0,0
+C10455,2024-08-09,f,25.0,,3,40-70k,Silver,Mobile App,1,1
+C10456,2025-10-24,Male,26.0,North,1,70-120k,Silver,In-Store,0,0
+C10457,2025-04-13,Female,40.0,Bangkok,1,70-120k,Silver,Mobile App,1,1
+C10458,2025-06-13,F,52.0,Northeast,3,>120k,Bronze,In-Store,1,0
+C10459,2025-06-05,F,37.0,North,1,20-40k,Bronze,In-Store,1,0
+C10460,2025-06-06,F,22.0,Central,2,40-70k,Silver,Online Web,0,1
+C10461,2025-08-26,M,,North,1,20-40k,Gold,In-Store,1,0
+C10462,2026-01-09,Female,18.0,Bangkok,3,20-40k,Silver,In-Store,0,0
+C10463,2025-02-03,F,44.0,Bangkok,3,70-120k,Bronze,In-Store,1,1
+C10464,2025-04-12,M,18.0,Bangkok,1,<20k,Gold,In-Store,1,1
+C10465,2026-04-20,female,18.0,East,3,40-70k,Bronze,Online Web,0,0
+C10466,2026-01-16,Female,36.0,East,3,40-70k,Silver,In-Store,1,0
+C10467,2024-12-07,M,31.0,South,2,40-70k,Silver,In-Store,1,1
+C10468,2024-08-23,Male,34.0,North,1,<20k,Bronze,In-Store,0,0
+C10469,2024-12-02,Male,41.0,Central,2,40-70k,Gold,In-Store,0,1
+C10470,2025-06-19,M,29.0,Bangkok,3,40-70k,Silver,In-Store,1,0
+C10471,2025-03-10,M,46.0,Central,2,40-70k,Bronze,In-Store,1,1
+C10472,2025-02-15,Female,28.0,Central,3,<20k,Silver,In-Store,0,0
+C10473,2025-01-18,female,30.0,Central,2,40-70k,Silver,In-Store,1,1
+C10474,2025-01-09,Male,44.0,Northeast,2,20-40k,Gold,In-Store,1,1
+C10475,2025-08-01,F,33.0,East,2,,Bronze,In-Store,1,1
+C10476,2026-06-08,M,29.0,Bangkok,2,40-70k,Bronze,In-Store,0,1
+C10477,2025-06-27,Male,27.0,Bangkok,2,20-40k,Silver,In-Store,0,0
+C10478,2025-02-04,Male,56.0,Bangkok,1,40-70k,Gold,Mobile App,1,1
+C10479,2025-04-12,F,36.0,Bangkok,2,40-70k,Silver,Mobile App,1,1
+C10480,2025-04-27,Female,40.0,East,3,20-40k,Gold,In-Store,1,1
+C10481,2025-08-01,Female,36.0,Bangkok,2,>120k,Bronze,In-Store,1,1
+C10482,2024-08-10,m,32.0,Northeast,3,70-120k,Bronze,In-Store,1,0
+C10483,2024-12-23,male,28.0,North,1,<20k,Bronze,In-Store,1,0
+C10484,2025-04-15,Female,34.0,Bangkok,2,40-70k,Silver,In-Store,1,0
+C10485,2025-03-03,M,49.0,North,2,>120k,Bronze,In-Store,1,0
+C10486,2025-01-08,Female,35.0,South,2,40-70k,Bronze,In-Store,0,0
+C10487,2025-03-13,M,27.0,Bangkok,3,,Bronze,In-Store,0,1
+C10488,2025-01-27,M,20.0,South,3,<20k,Bronze,Mobile App,1,1
+C10489,2025-04-30,M,33.0,Bangkok,1,40-70k,Silver,In-Store,1,0
+C10490,2025-03-06,Female,38.0,Bangkok,2,<20k,Bronze,In-Store,1,1
+C10491,2024-11-14,Male,30.0,Bangkok,1,<20k,Bronze,Mobile App,0,1
+C10492,2024-11-02,F,44.0,Bangkok,2,40-70k,Platinum,In-Store,1,0
+C10493,2024-11-26,F,35.0,,2,20-40k,Gold,Online Web,1,0
+C10494,2024-12-27,Male,41.0,Bangkok,3,<20k,Silver,In-Store,1,1
+C10495,2025-01-17,female,36.0,Bangkok,2,20-40k,Bronze,In-Store,0,1
+C10496,2025-06-23,F,41.0,Bangkok,2,70-120k,Bronze,In-Store,0,0
+C10497,2025-04-29,Female,34.0,Northeast,3,40-70k,Gold,In-Store,0,0
+C10498,2025-02-02,Male,,North,1,70-120k,Platinum,Online Web,0,0
+C10499,2024-09-02,Male,32.0,North,1,,Bronze,Mobile App,1,1
+C10500,2026-05-25,Female,36.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C10501,2025-08-26,Male,26.0,Northeast,2,<20k,Gold,In-Store,0,0
+C10502,2024-09-18,Male,36.0,Bangkok,2,70-120k,Gold,In-Store,1,0
+C10503,2025-03-06,Female,36.0,Bangkok,3,40-70k,Silver,In-Store,0,1
+C10504,2025-12-31,Male,26.0,Central,2,20-40k,Silver,In-Store,0,0
+C10505,2025-11-04,Male,20.0,East,1,40-70k,Bronze,In-Store,1,0
+C10506,2024-08-05,M,38.0,Northeast,1,40-70k,Platinum,Mobile App,1,0
+C10507,2025-02-05,Male,32.0,Northeast,1,70-120k,Gold,Online Web,0,0
+C10508,2024-10-30,m,23.0,Bangkok,3,70-120k,Bronze,Mobile App,1,1
+C10509,2024-09-18,f,54.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C10510,2025-03-06,Male,46.0,Bangkok,3,,Gold,Online Web,1,1
+C10511,2025-01-08,Female,37.0,East,1,<20k,Silver,In-Store,1,0
+C10512,2026-02-06,M,32.0,South,1,20-40k,Bronze,Online Web,1,1
+C10513,2025-11-24,Female,41.0,Bangkok,1,20-40k,Silver,In-Store,1,1
+C10514,2025-01-30,F,23.0,Bangkok,1,20-40k,Platinum,In-Store,1,1
+C10515,2024-09-21,Female,18.0,North,1,<20k,Gold,In-Store,0,1
+C10516,2025-07-15,Male,32.0,Bangkok,2,20-40k,Silver,Mobile App,0,1
+C10517,2025-01-06,F,24.0,Bangkok,1,40-70k,Silver,Online Web,0,0
+C10518,2024-11-02,Male,47.0,North,3,70-120k,Bronze,In-Store,0,1
+C10519,2024-12-30,Female,32.0,Northeast,1,20-40k,Silver,In-Store,1,0
+C10520,2026-03-15,Female,18.0,Northeast,2,40-70k,Silver,Online Web,1,0
+C10521,2025-12-17,Female,23.0,North,2,,Bronze,Online Web,1,0
+C10522,2026-01-07,female,,South,1,20-40k,Silver,Mobile App,1,0
+C10523,2025-09-24,Male,33.0,East,3,<20k,Bronze,In-Store,1,1
+C10524,2026-05-13,Male,,Bangkok,2,<20k,Bronze,In-Store,1,0
+C10525,2025-07-07,Male,42.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C10526,2025-02-05,m,42.0,Bangkok,1,20-40k,Gold,In-Store,1,1
+C10527,2025-07-27,m,26.0,Bangkok,1,,Bronze,In-Store,0,0
+C10528,2025-06-30,Male,35.0,Central,1,>120k,Silver,In-Store,1,1
+C10529,2025-01-03,Male,30.0,Central,1,40-70k,Bronze,In-Store,1,1
+C10530,2025-02-07,F,43.0,Central,1,,Platinum,Mobile App,1,1
+C10531,2025-08-23,Female,43.0,Northeast,2,20-40k,Silver,In-Store,1,0
+C10532,2024-09-01,Female,47.0,Bangkok,2,,Silver,Mobile App,0,1
+C10533,2024-11-05,Female,39.0,East,2,70-120k,Silver,Mobile App,0,0
+C10534,2026-05-13,F,45.0,North,3,,Silver,Online Web,1,0
+C10535,2026-02-10,M,38.0,Northeast,2,40-70k,Silver,Mobile App,1,1
+C10536,2024-09-14,F,50.0,Northeast,2,70-120k,Platinum,In-Store,1,1
+C10537,2025-06-27,Male,36.0,Central,1,<20k,Platinum,In-Store,0,1
+C10538,2025-06-03,M,24.0,Central,2,20-40k,Bronze,Online Web,0,1
+C10539,2026-04-02,F,24.0,Bangkok,1,20-40k,Bronze,In-Store,1,1
+C10540,2025-01-15,Male,35.0,Central,1,40-70k,Bronze,In-Store,0,0
+C10541,2024-08-25,F,54.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C10542,2025-01-11,M,26.0,East,1,<20k,Silver,In-Store,1,1
+C10543,2024-10-06,Male,26.0,Northeast,3,>120k,Silver,In-Store,1,0
+C10544,2025-06-07,Female,30.0,Central,2,<20k,Bronze,In-Store,1,1
+C10545,2024-08-24,Male,19.0,South,1,<20k,Silver,In-Store,0,0
+C10546,2024-09-18,M,,Bangkok,3,20-40k,Silver,In-Store,1,1
+C10547,2025-08-04,Female,23.0,Bangkok,2,20-40k,Bronze,In-Store,0,0
+C10548,2026-02-06,Female,20.0,Central,2,20-40k,Silver,Mobile App,1,1
+C10549,2025-08-04,Male,52.0,East,2,40-70k,Gold,In-Store,1,0
+C10550,2024-10-25,F,45.0,Bangkok,2,70-120k,Silver,In-Store,1,1
+C10551,2025-04-28,Female,,Northeast,1,20-40k,Gold,In-Store,1,0
+C10552,2025-02-07,Male,26.0,Bangkok,3,20-40k,Silver,In-Store,0,1
+C10553,2026-04-09,Female,21.0,South,2,<20k,Gold,In-Store,0,0
+C10554,2025-03-30,Male,39.0,North,1,20-40k,Bronze,Mobile App,1,0
+C10555,2024-08-26,Male,34.0,Bangkok,3,20-40k,Bronze,In-Store,0,1
+C10556,2024-11-19,Male,42.0,Bangkok,2,70-120k,Platinum,In-Store,1,0
+C10557,2024-10-05,Female,36.0,Northeast,1,,Silver,Online Web,1,0
+C10558,2025-05-25,F,25.0,Northeast,1,20-40k,Bronze,In-Store,1,0
+C10559,2024-08-04,Male,47.0,Central,3,,Gold,In-Store,1,1
+C10560,2025-10-27,F,40.0,Central,3,20-40k,Platinum,In-Store,0,0
+C10561,2025-08-24,F,29.0,North,1,20-40k,Bronze,Mobile App,1,0
+C10562,2025-06-25,Male,36.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C10563,2025-04-01,Male,25.0,Central,2,<20k,Bronze,Mobile App,1,1
+C10564,2025-02-17,Female,39.0,North,2,40-70k,Bronze,Mobile App,0,0
+C10565,2025-04-22,female,18.0,North,1,70-120k,Silver,Online Web,1,0
+C10566,2025-12-26,Female,28.0,Bangkok,1,20-40k,Bronze,In-Store,1,1
+C10567,2025-02-26,male,43.0,North,2,20-40k,Silver,In-Store,0,0
+C10568,2025-08-10,Male,28.0,Bangkok,2,20-40k,Bronze,Online Web,1,1
+C10569,2024-12-19,Female,43.0,Central,1,20-40k,Gold,In-Store,0,1
+C10570,2025-09-11,Female,33.0,South,3,20-40k,Gold,In-Store,1,0
+C10571,2025-05-10,M,30.0,South,2,40-70k,Silver,In-Store,0,1
+C10572,2025-09-06,F,37.0,Northeast,1,>120k,Silver,In-Store,0,0
+C10573,2026-01-10,Female,18.0,East,3,20-40k,Silver,Online Web,0,1
+C10574,2024-11-12,Male,29.0,Bangkok,2,20-40k,Gold,Mobile App,0,1
+C10575,2024-12-16,Male,62.0,Central,3,70-120k,Platinum,Mobile App,0,1
+C10576,2024-12-15,F,137.0,Northeast,2,40-70k,Silver,In-Store,1,1
+C10577,2025-01-14,Female,42.0,East,2,20-40k,Gold,Online Web,1,1
+C10578,2026-02-11,F,18.0,Bangkok,2,,Silver,In-Store,1,1
+C10579,2025-05-31,M,35.0,South,3,<20k,Bronze,In-Store,1,0
+C10580,2026-02-08,M,35.0,Northeast,2,<20k,Bronze,In-Store,1,0
+C10581,2025-05-02,Male,53.0,South,1,40-70k,Bronze,Mobile App,1,1
+C10582,2024-10-26,F,28.0,Bangkok,1,40-70k,Platinum,In-Store,0,1
+C10583,2024-11-30,Male,46.0,Bangkok,1,20-40k,Platinum,In-Store,0,0
+C10584,2024-11-16,Male,30.0,,3,20-40k,Silver,In-Store,0,1
+C10585,2025-08-27,F,35.0,Northeast,1,70-120k,Platinum,In-Store,1,1
+C10586,2026-04-01,Female,28.0,South,3,70-120k,Bronze,In-Store,0,0
+C10587,2026-04-15,f,30.0,Bangkok,2,20-40k,Bronze,In-Store,1,0
+C10588,2025-09-19,Male,33.0,Northeast,1,70-120k,Platinum,In-Store,1,0
+C10589,2025-07-27,F,32.0,Northeast,3,<20k,Platinum,In-Store,0,0
+C10590,2025-08-17,Male,46.0,Northeast,3,40-70k,Gold,In-Store,1,1
+C10591,2024-09-10,male,40.0,Bangkok,2,70-120k,Bronze,In-Store,1,0
+C10592,2024-11-03,F,32.0,Bangkok,1,20-40k,Bronze,Mobile App,1,0
+C10593,2024-10-23,Male,31.0,South,1,40-70k,Platinum,In-Store,1,1
+C10594,2026-05-22,F,27.0,Central,3,40-70k,Bronze,In-Store,0,0
+C10595,2024-12-23,Male,28.0,,1,70-120k,Bronze,Mobile App,1,1
+C10596,2025-03-21,Male,44.0,Central,1,70-120k,Platinum,Online Web,1,1
+C10597,2024-10-12,Female,33.0,Northeast,3,<20k,Silver,Online Web,1,0
+C10598,2024-08-31,Male,52.0,Northeast,2,40-70k,Platinum,In-Store,1,1
+C10599,2025-04-20,Female,46.0,Bangkok,1,40-70k,Gold,Mobile App,0,1
+C10600,2024-12-10,Female,37.0,Northeast,2,40-70k,Platinum,In-Store,1,0
+C10601,2025-05-12,Female,40.0,Bangkok,1,<20k,Silver,Mobile App,0,1
+C10602,2025-03-13,F,35.0,Central,2,20-40k,Platinum,In-Store,1,1
+C10603,2025-09-19,Male,42.0,Central,2,40-70k,Silver,In-Store,1,0
+C10604,2024-10-05,male,25.0,Bangkok,2,40-70k,Silver,Mobile App,1,1
+C10605,2026-03-26,M,31.0,South,2,<20k,Silver,In-Store,1,1
+C10606,2024-09-21,Male,31.0,Central,1,<20k,Bronze,Mobile App,0,1
+C10607,2025-03-10,F,34.0,East,3,,Silver,In-Store,1,1
+C10608,2024-12-23,Female,33.0,Bangkok,1,20-40k,Gold,Online Web,1,0
+C10609,2025-01-11,M,34.0,Northeast,2,<20k,Bronze,Mobile App,1,1
+C10610,2024-12-31,Male,25.0,Central,2,>120k,Bronze,Mobile App,0,1
+C10611,2024-10-14,M,32.0,East,3,40-70k,Gold,Mobile App,1,1
+C10612,2024-08-24,Female,42.0,North,1,<20k,Bronze,In-Store,0,1
+C10613,2024-12-10,M,35.0,South,2,70-120k,Silver,In-Store,0,0
+C10614,2024-11-06,F,,Bangkok,1,<20k,Silver,Mobile App,0,1
+C10615,2026-01-21,Female,39.0,South,2,<20k,Silver,Mobile App,1,1
+C10616,2025-07-21,Female,32.0,South,1,,Platinum,Mobile App,1,1
+C10617,2024-12-07,Female,43.0,Bangkok,2,40-70k,Bronze,In-Store,1,1
+C10618,2026-03-19,Male,28.0,Northeast,2,70-120k,Silver,Mobile App,0,1
+C10619,2024-08-27,Male,36.0,East,3,40-70k,Gold,In-Store,0,1
+C10620,2024-11-14,F,39.0,North,1,20-40k,Bronze,In-Store,0,1
+C10621,2025-01-14,male,36.0,Bangkok,1,20-40k,Gold,Online Web,1,0
+C10622,2026-06-13,Female,32.0,Northeast,1,20-40k,Silver,Online Web,1,1
+C10623,2025-09-22,Male,21.0,East,1,70-120k,Bronze,In-Store,0,0
+C10624,2024-10-24,Female,30.0,Bangkok,1,20-40k,Silver,Mobile App,0,0
+C10625,2025-08-15,male,32.0,North,1,40-70k,Gold,Mobile App,1,1
+C10626,2026-05-16,Male,18.0,Bangkok,1,20-40k,Silver,Online Web,1,1
+C10627,2024-10-17,Male,47.0,Central,1,40-70k,Silver,In-Store,1,1
+C10628,2025-04-05,female,47.0,Central,1,40-70k,Silver,Mobile App,0,1
+C10629,2024-12-01,M,35.0,Northeast,1,70-120k,Gold,Mobile App,1,0
+C10630,2025-09-20,Male,50.0,Bangkok,1,20-40k,Silver,Online Web,1,0
+C10631,2025-08-09,F,33.0,Bangkok,2,,Gold,Online Web,1,0
+C10632,2024-09-11,Male,39.0,Bangkok,2,20-40k,Gold,Online Web,1,1
+C10633,2025-01-03,Female,56.0,East,1,20-40k,Bronze,In-Store,1,0
+C10634,2025-03-28,M,40.0,Central,1,>120k,Gold,In-Store,1,1
+C10635,2026-05-13,Male,40.0,North,1,20-40k,Silver,In-Store,1,0
+C10636,2024-12-18,Female,44.0,Northeast,2,20-40k,Bronze,Online Web,1,1
+C10637,2024-08-19,Male,21.0,South,2,<20k,Silver,In-Store,1,1
+C10638,2025-10-31,M,41.0,North,3,20-40k,Silver,Mobile App,0,1
+C10639,2026-04-06,Male,46.0,South,1,20-40k,Gold,In-Store,1,1
+C10640,2025-03-20,Male,31.0,Central,3,<20k,Bronze,In-Store,1,0
+C10641,2024-10-15,Male,32.0,South,3,70-120k,Bronze,Online Web,1,1
+C10642,2025-09-17,Male,32.0,Bangkok,2,40-70k,Bronze,Mobile App,0,0
+C10643,2026-03-06,M,26.0,Bangkok,1,20-40k,Bronze,Online Web,0,0
+C10644,2024-09-22,Female,42.0,,3,20-40k,Gold,In-Store,0,1
+C10645,2024-08-14,F,20.0,Bangkok,2,40-70k,Gold,Online Web,1,0
+C10646,2026-01-05,Female,29.0,Bangkok,3,<20k,Silver,In-Store,1,0
+C10647,2025-12-09,Female,23.0,South,3,20-40k,Bronze,In-Store,1,1
+C10648,2024-11-07,Female,22.0,Bangkok,3,40-70k,Bronze,In-Store,1,0
+C10649,2024-08-13,Female,,Bangkok,3,40-70k,Silver,Online Web,0,0
+C10650,2025-05-02,M,45.0,Bangkok,1,70-120k,Silver,In-Store,0,1
+C10651,2024-11-04,Female,31.0,Bangkok,2,70-120k,Silver,In-Store,1,1
+C10652,2025-07-03,Male,21.0,South,1,70-120k,Gold,In-Store,1,0
+C10653,2024-08-19,Female,40.0,Northeast,1,70-120k,Gold,In-Store,1,1
+C10654,2025-06-29,F,37.0,South,1,<20k,Bronze,Online Web,1,1
+C10655,2026-01-30,female,34.0,Bangkok,2,20-40k,Bronze,Online Web,0,0
+C10656,2025-02-15,Male,38.0,Bangkok,1,40-70k,Gold,Online Web,1,0
+C10657,2025-09-25,Female,43.0,Bangkok,1,>120k,Silver,In-Store,0,0
+C10658,2025-06-23,Female,37.0,North,1,40-70k,Silver,In-Store,0,1
+C10659,2024-12-03,Female,47.0,Bangkok,3,20-40k,Bronze,Online Web,1,1
+C10660,2025-05-23,M,39.0,Bangkok,1,40-70k,Bronze,In-Store,1,1
+C10661,2025-10-29,Female,35.0,East,1,40-70k,Silver,In-Store,0,1
+C10662,2024-09-02,M,43.0,Northeast,2,20-40k,Silver,Mobile App,1,1
+C10663,2025-04-21,Female,37.0,East,1,20-40k,Platinum,In-Store,1,1
+C10664,2024-08-07,Male,24.0,East,2,,Bronze,In-Store,1,0
+C10665,2026-04-14,Female,18.0,Bangkok,1,20-40k,Silver,Online Web,1,1
+C10666,2025-02-03,F,49.0,Central,3,40-70k,Silver,Online Web,0,0
+C10667,2025-08-13,Female,44.0,Central,3,40-70k,Bronze,In-Store,1,1
+C10668,2024-12-23,m,33.0,Central,1,40-70k,Silver,In-Store,0,1
+C10669,2024-12-09,Female,51.0,Central,1,<20k,Silver,Online Web,1,0
+C10670,2024-10-15,M,31.0,Bangkok,2,70-120k,Platinum,In-Store,0,0
+C10671,2024-09-07,M,38.0,East,3,70-120k,Gold,In-Store,1,1
+C10672,2024-11-16,F,47.0,Bangkok,2,20-40k,Platinum,In-Store,1,0
+C10673,2024-10-17,Female,,Bangkok,1,20-40k,Bronze,In-Store,0,1
+C10674,2025-01-18,F,34.0,Bangkok,2,40-70k,Bronze,In-Store,1,0
+C10675,2024-11-02,Female,33.0,South,3,20-40k,Gold,Mobile App,1,1
+C10676,2025-01-16,F,33.0,Northeast,1,,Bronze,Mobile App,1,0
+C10677,2024-08-02,Male,28.0,Central,1,<20k,Bronze,In-Store,1,0
+C10678,2024-12-17,Male,38.0,Bangkok,3,20-40k,Silver,In-Store,1,0
+C10679,2025-07-24,Male,43.0,East,2,70-120k,Gold,Online Web,0,1
+C10680,2025-03-28,M,31.0,Northeast,2,20-40k,Silver,In-Store,0,1
+C10681,2024-10-05,F,43.0,Central,2,20-40k,Silver,In-Store,0,1
+C10682,2025-07-29,M,32.0,Central,2,40-70k,Bronze,In-Store,0,0
+C10683,2026-04-27,Female,30.0,North,2,20-40k,Bronze,In-Store,0,0
+C10684,2025-05-25,M,,Central,1,>120k,Silver,Mobile App,1,1
+C10685,2026-01-27,Male,35.0,Bangkok,1,20-40k,Bronze,In-Store,1,0
+C10686,2025-03-28,F,35.0,South,2,20-40k,Bronze,In-Store,1,0
+C10687,2024-09-03,Female,39.0,East,2,<20k,Bronze,In-Store,1,0
+C10688,2025-04-10,Female,32.0,Northeast,2,40-70k,Silver,In-Store,1,1
+C10689,2025-06-04,Female,48.0,Bangkok,2,40-70k,Platinum,Mobile App,0,0
+C10690,2025-03-15,Male,46.0,Central,2,40-70k,Gold,Mobile App,0,1
+C10691,2025-03-30,F,32.0,Bangkok,1,20-40k,Gold,Mobile App,1,1
+C10692,2024-08-20,Female,39.0,Central,1,70-120k,Silver,Mobile App,1,1
+C10693,2026-04-23,F,22.0,Northeast,3,20-40k,Silver,In-Store,1,0
+C10694,2024-08-25,M,36.0,South,1,40-70k,Bronze,Mobile App,0,1
+C10695,2025-09-19,F,32.0,Bangkok,2,>120k,Platinum,Mobile App,1,1
+C10696,2025-04-15,Female,41.0,Northeast,1,<20k,Bronze,In-Store,0,0
+C10697,2025-12-11,Male,18.0,Bangkok,1,,Silver,In-Store,1,1
+C10698,2025-01-01,Male,,Bangkok,1,40-70k,Bronze,Mobile App,1,0
+C10699,2025-04-23,F,28.0,Bangkok,3,70-120k,Silver,In-Store,0,0
+C10700,2025-08-09,M,36.0,South,1,40-70k,Silver,Online Web,1,0
+C10701,2025-09-03,Female,33.0,Northeast,1,>120k,Gold,Mobile App,1,1
+C10702,2026-03-04,M,18.0,,1,>120k,Silver,In-Store,0,1
+C10703,2025-01-13,male,40.0,East,2,20-40k,Silver,In-Store,1,0
+C10704,2024-09-03,M,36.0,,1,20-40k,Bronze,In-Store,1,0
+C10705,2025-03-07,Male,42.0,Bangkok,3,40-70k,Gold,Online Web,1,0
+C10706,2024-11-13,Female,30.0,Central,1,70-120k,Silver,Online Web,1,0
+C10707,2024-10-31,Male,40.0,Northeast,2,40-70k,Gold,Online Web,1,0
+C10708,2024-08-08,Female,44.0,Northeast,1,40-70k,Gold,Mobile App,0,1
+C10709,2025-01-31,F,34.0,North,2,20-40k,Bronze,In-Store,0,0
+C10710,2025-01-25,Female,19.0,Bangkok,1,40-70k,Bronze,Mobile App,1,1
+C10711,2026-05-26,male,38.0,East,1,20-40k,Bronze,In-Store,0,0
+C10712,2025-05-03,Female,33.0,South,1,40-70k,Silver,Mobile App,1,0
+C10713,2025-06-05,Female,23.0,Bangkok,2,<20k,Silver,In-Store,1,0
+C10714,2025-06-28,f,50.0,Bangkok,1,40-70k,Bronze,Mobile App,1,1
+C10715,2025-02-19,Female,28.0,Northeast,1,20-40k,Bronze,In-Store,0,0
+C10716,2024-08-02,M,53.0,East,1,>120k,Silver,Online Web,0,1
+C10717,2025-06-01,M,33.0,Northeast,1,20-40k,Gold,In-Store,1,0
+C10718,2024-08-13,M,39.0,Central,3,40-70k,Gold,Mobile App,1,0
+C10719,2025-04-19,F,45.0,Northeast,1,40-70k,Silver,In-Store,1,0
+C10720,2025-05-31,M,45.0,Northeast,2,40-70k,Gold,In-Store,1,1
+C10721,2024-11-05,Female,41.0,Bangkok,1,<20k,Bronze,Mobile App,0,1
+C10722,2025-02-16,f,18.0,South,1,40-70k,Bronze,In-Store,1,1
+C10723,2026-06-15,M,18.0,East,2,<20k,Silver,In-Store,1,1
+C10724,2025-05-14,Male,39.0,East,1,20-40k,Platinum,Mobile App,0,1
+C10725,2025-09-07,Male,31.0,Bangkok,1,40-70k,Bronze,In-Store,0,1
+C10726,2025-05-10,Male,,Bangkok,3,70-120k,Gold,In-Store,0,1
+C10727,2025-05-27,F,24.0,South,2,,Gold,Mobile App,1,1
+C10728,2025-05-09,Female,30.0,Bangkok,2,40-70k,Silver,Mobile App,1,1
+C10729,2024-08-18,F,37.0,Central,3,40-70k,Bronze,In-Store,0,0
+C10730,2025-09-16,Female,41.0,Bangkok,1,20-40k,Gold,Mobile App,1,1
+C10731,2026-03-17,M,23.0,East,1,<20k,Silver,In-Store,1,0
+C10732,2024-08-29,male,25.0,South,1,20-40k,Silver,In-Store,1,0
+C10733,2025-02-03,Female,20.0,Northeast,3,40-70k,Gold,In-Store,1,0
+C10734,2025-04-05,Male,68.0,Bangkok,1,,Silver,In-Store,1,0
+C10735,2026-05-31,Male,,Bangkok,1,20-40k,Silver,Online Web,0,1
+C10736,2025-02-04,Male,36.0,Bangkok,3,70-120k,Gold,Mobile App,0,1
+C10737,2025-08-21,Male,29.0,Bangkok,3,20-40k,Gold,In-Store,0,0
+C10738,2025-03-03,f,51.0,Bangkok,1,20-40k,Bronze,Online Web,0,1
+C10739,2025-04-24,M,49.0,Central,2,<20k,Silver,In-Store,0,0
+C10740,2025-11-21,Female,20.0,Bangkok,2,20-40k,Bronze,In-Store,0,1
+C10741,2025-09-18,Female,39.0,Bangkok,1,20-40k,Bronze,In-Store,1,0
+C10742,2024-08-23,Male,40.0,South,2,40-70k,Bronze,In-Store,1,1
+C10743,2026-05-05,Male,24.0,East,1,40-70k,Bronze,Online Web,0,0
+C10744,2025-08-23,F,25.0,North,1,<20k,Silver,In-Store,1,0
+C10745,2025-01-16,Male,21.0,Northeast,3,<20k,Bronze,In-Store,1,1
+C10746,2024-09-11,F,30.0,Northeast,1,70-120k,Silver,In-Store,1,0
+C10747,2024-08-17,M,33.0,Central,2,<20k,Silver,Mobile App,1,1
+C10748,2026-04-24,Female,24.0,Central,3,70-120k,Bronze,Online Web,1,0
+C10749,2025-02-19,F,26.0,Northeast,2,70-120k,Platinum,Mobile App,1,1
+C10750,2024-09-05,F,32.0,Central,2,<20k,Bronze,In-Store,1,0
+C10751,2025-04-04,female,37.0,Central,1,<20k,Bronze,In-Store,0,0
+C10752,2026-05-05,male,34.0,Bangkok,3,70-120k,Gold,In-Store,1,1
+C10753,2025-04-14,Female,50.0,Central,3,>120k,Gold,Mobile App,0,1
+C10754,2025-11-28,M,30.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C10755,2026-01-19,Male,23.0,Northeast,1,40-70k,Bronze,In-Store,0,0
+C10756,2025-02-08,Male,48.0,Bangkok,2,40-70k,Gold,In-Store,1,0
+C10757,2026-05-08,Female,25.0,North,2,70-120k,Gold,In-Store,1,1
+C10758,2026-06-08,Female,32.0,Central,1,70-120k,Bronze,In-Store,1,0
+C10759,2025-11-18,M,41.0,East,2,40-70k,Bronze,In-Store,1,1
+C10760,2025-05-28,Male,50.0,Northeast,1,>120k,Silver,Mobile App,1,0
+C10761,2025-06-16,Male,35.0,Central,1,>120k,Bronze,In-Store,0,0
+C10762,2025-11-15,M,37.0,East,3,<20k,Bronze,In-Store,1,0
+C10763,2026-05-17,Female,43.0,South,1,<20k,Bronze,Mobile App,0,1
+C10764,2025-05-06,M,38.0,Bangkok,1,70-120k,Platinum,Mobile App,1,1
+C10765,2025-02-11,Male,37.0,North,1,40-70k,Gold,In-Store,1,0
+C10766,2025-12-31,F,36.0,Northeast,3,20-40k,Bronze,In-Store,0,0
+C10767,2024-09-27,F,44.0,Northeast,3,20-40k,Gold,In-Store,1,0
+C10768,2025-09-02,Female,35.0,South,1,20-40k,Silver,In-Store,1,0
+C10769,2025-02-16,Female,35.0,Northeast,1,40-70k,Platinum,In-Store,1,0
+C10770,2025-07-03,Female,18.0,Central,1,20-40k,Silver,Mobile App,1,0
+C10771,2024-10-24,Male,45.0,Northeast,1,20-40k,Silver,In-Store,1,0
+C10772,2024-09-04,Male,32.0,Northeast,2,20-40k,Silver,In-Store,0,0
+C10773,2025-03-10,Male,45.0,Bangkok,1,40-70k,Bronze,Mobile App,1,1
+C10774,2025-05-25,Male,135.0,Northeast,1,40-70k,Platinum,In-Store,1,0
+C10775,2025-04-06,Male,24.0,Bangkok,2,40-70k,Silver,Online Web,1,0
+C10776,2025-07-24,M,,East,3,70-120k,Silver,Mobile App,1,0
+C10777,2026-03-07,F,26.0,Central,3,40-70k,Bronze,In-Store,1,1
+C10778,2026-01-14,Female,20.0,South,1,,Bronze,Online Web,1,0
+C10779,2024-09-25,Female,40.0,Bangkok,3,>120k,Gold,In-Store,0,0
+C10780,2025-04-01,M,45.0,Bangkok,1,20-40k,Silver,In-Store,0,1
+C10781,2026-05-20,Female,,Bangkok,1,20-40k,Gold,In-Store,0,0
+C10782,2024-09-17,M,35.0,North,1,<20k,Gold,Mobile App,1,1
+C10783,2026-03-13,Female,40.0,Northeast,1,40-70k,Bronze,Online Web,1,0
+C10784,2024-08-15,Female,,East,2,70-120k,Silver,In-Store,1,1
+C10785,2025-11-23,F,35.0,Central,2,<20k,Silver,Online Web,1,1
+C10786,2025-05-10,Female,33.0,,3,20-40k,Platinum,Mobile App,1,0
+C10787,2026-03-24,Female,140.0,North,2,>120k,Silver,In-Store,0,0
+C10788,2025-06-17,female,28.0,,2,,Silver,Mobile App,1,1
+C10789,2026-01-30,M,26.0,Central,2,40-70k,Gold,Online Web,0,1
+C10790,2025-09-28,Male,,Bangkok,3,20-40k,Bronze,Mobile App,0,1
+C10791,2025-03-31,M,42.0,Bangkok,2,<20k,Gold,In-Store,0,1
+C10792,2025-03-24,Male,30.0,Northeast,2,70-120k,Silver,Online Web,1,1
+C10793,2025-02-23,Male,24.0,Central,1,<20k,Silver,Mobile App,1,1
+C10794,2024-12-05,male,48.0,,2,20-40k,Bronze,Mobile App,0,1
+C10795,2025-04-17,F,20.0,Bangkok,2,>120k,Silver,In-Store,0,0
+C10796,2024-12-11,Male,25.0,Central,2,<20k,Gold,Mobile App,0,1
+C10797,2026-05-07,M,31.0,Bangkok,2,<20k,Silver,In-Store,1,1
+C10798,2025-01-16,Female,34.0,Bangkok,1,40-70k,Gold,In-Store,0,1
+C10799,2025-01-13,Female,41.0,Northeast,2,,Silver,Mobile App,1,1
+C10800,2024-09-23,Male,43.0,Central,2,70-120k,Bronze,In-Store,1,0
+C10801,2026-03-15,Female,29.0,Central,2,40-70k,Bronze,Mobile App,1,1
+C10802,2024-09-06,female,44.0,Central,1,20-40k,Gold,In-Store,0,0
+C10803,2024-10-16,Male,32.0,Bangkok,2,20-40k,Platinum,Mobile App,1,0
+C10804,2025-09-07,F,36.0,Northeast,2,20-40k,Gold,In-Store,0,0
+C10805,2025-03-22,Female,49.0,Northeast,2,70-120k,Platinum,In-Store,1,0
+C10806,2025-04-22,Male,40.0,East,3,40-70k,Platinum,In-Store,1,0
+C10807,2026-06-11,Female,39.0,,1,20-40k,Bronze,In-Store,1,0
+C10808,2024-09-13,Male,28.0,South,1,40-70k,Gold,In-Store,1,0
+C10809,2025-05-16,Male,21.0,South,1,20-40k,Bronze,In-Store,1,1
+C10810,2024-11-29,M,25.0,Northeast,1,40-70k,Bronze,In-Store,1,1
+C10811,2025-03-11,Female,50.0,Bangkok,1,40-70k,Silver,In-Store,0,0
+C10812,2025-03-06,M,46.0,Bangkok,2,40-70k,Gold,In-Store,1,0
+C10813,2025-02-15,Male,39.0,Central,2,40-70k,Gold,Mobile App,1,1
+C10814,2025-08-25,M,39.0,Bangkok,1,70-120k,Silver,Mobile App,0,1
+C10815,2025-03-25,Male,30.0,Bangkok,1,<20k,Silver,In-Store,1,0
+C10816,2025-02-01,M,,North,2,40-70k,Silver,Online Web,1,0
+C10817,2025-07-06,Female,25.0,North,1,70-120k,Bronze,In-Store,0,1
+C10818,2024-08-18,Female,33.0,North,1,40-70k,Silver,In-Store,1,1
+C10819,2024-11-18,female,20.0,Bangkok,2,70-120k,Bronze,Mobile App,1,1
+C10820,2025-06-03,Male,37.0,North,3,70-120k,Silver,In-Store,1,0
+C10821,2025-03-21,Female,35.0,Bangkok,3,70-120k,Bronze,In-Store,1,0
+C10822,2025-09-14,Female,36.0,Central,2,>120k,Gold,In-Store,1,0
+C10823,2026-03-10,m,18.0,Central,1,>120k,Silver,In-Store,1,1
+C10824,2024-09-11,Male,35.0,Bangkok,2,70-120k,Platinum,Mobile App,1,1
+C10825,2025-03-10,M,46.0,Bangkok,3,40-70k,Platinum,Mobile App,0,1
+C10826,2025-05-03,Male,41.0,Bangkok,2,40-70k,Silver,Online Web,0,0
+C10827,2025-05-27,Female,30.0,Bangkok,3,70-120k,Silver,In-Store,0,1
+C10828,2025-01-05,Female,24.0,South,1,40-70k,Bronze,In-Store,0,0
+C10829,2025-03-06,Male,55.0,Northeast,1,40-70k,Gold,In-Store,1,0
+C10830,2026-04-12,F,18.0,East,3,40-70k,Bronze,In-Store,1,0
+C10831,2025-02-23,Female,33.0,Bangkok,3,40-70k,Gold,Mobile App,1,0
+C10832,2026-01-06,M,31.0,East,1,40-70k,Silver,In-Store,1,1
+C10833,2025-04-08,Male,21.0,Bangkok,1,<20k,Bronze,Mobile App,1,1
+C10834,2025-06-14,female,23.0,Central,2,20-40k,Bronze,In-Store,0,0
+C10835,2025-01-17,Male,32.0,Central,2,40-70k,Silver,Mobile App,1,0
+C10836,2024-12-07,female,34.0,South,3,,Gold,In-Store,1,1
+C10837,2026-02-24,M,29.0,Central,2,<20k,Silver,Mobile App,1,0
+C10838,2024-11-20,F,28.0,North,2,20-40k,Bronze,Online Web,1,0
+C10839,2026-04-20,F,26.0,South,2,,Bronze,In-Store,1,0
+C10840,2025-10-25,m,36.0,South,1,,Bronze,Online Web,0,0
+C10841,2025-04-02,male,,East,2,40-70k,Silver,Online Web,1,0
+C10842,2025-01-03,Male,41.0,Central,1,70-120k,Gold,In-Store,0,0
+C10843,2025-01-07,Female,29.0,Bangkok,2,40-70k,Platinum,Online Web,1,0
+C10844,2024-09-01,Male,23.0,North,3,70-120k,Gold,In-Store,1,0
+C10845,2025-03-28,Male,,Bangkok,2,20-40k,Bronze,Mobile App,0,1
+C10846,2024-08-26,female,41.0,Northeast,2,<20k,Gold,Mobile App,1,0
+C10847,2025-06-20,Male,26.0,Bangkok,1,<20k,Silver,In-Store,0,0
+C10848,2026-02-05,M,18.0,North,1,40-70k,Bronze,Online Web,0,0
+C10849,2025-11-28,Female,37.0,South,2,20-40k,Bronze,In-Store,0,0
+C10850,2024-10-20,Female,35.0,North,1,40-70k,Bronze,In-Store,0,0
+C10851,2025-02-22,Female,29.0,East,1,<20k,Silver,Online Web,0,0
+C10852,2024-10-20,F,,North,2,,Silver,Mobile App,1,1
+C10853,2025-07-17,M,48.0,Bangkok,1,20-40k,Silver,Online Web,0,1
+C10854,2025-07-25,Male,40.0,North,2,<20k,Silver,Mobile App,1,1
+C10855,2025-12-28,F,36.0,East,1,20-40k,Silver,In-Store,1,0
+C10856,2024-08-28,F,29.0,Bangkok,1,,Silver,In-Store,1,1
+C10857,2024-12-01,Male,32.0,Central,2,40-70k,Platinum,Mobile App,0,1
+C10858,2025-01-16,F,36.0,South,3,70-120k,Platinum,Mobile App,1,1
+C10859,2026-02-11,F,26.0,Bangkok,2,40-70k,Gold,Online Web,1,0
+C10860,2025-01-07,F,33.0,East,1,,Platinum,Online Web,0,0
+C10861,2025-07-22,Female,32.0,East,1,40-70k,Silver,Mobile App,1,0
+C10862,2025-10-22,Male,32.0,South,2,20-40k,Bronze,Mobile App,1,1
+C10863,2026-02-15,M,38.0,Bangkok,3,40-70k,Bronze,In-Store,0,1
+C10864,2026-03-24,M,35.0,Central,1,<20k,Gold,Mobile App,0,1
+C10865,2025-02-28,Male,22.0,East,1,20-40k,Bronze,Mobile App,1,1
+C10866,2026-06-22,female,31.0,North,2,,Bronze,In-Store,1,0
+C10867,2025-07-14,Male,40.0,North,2,20-40k,Gold,Mobile App,1,1
+C10868,2025-03-27,Male,37.0,South,2,<20k,Bronze,In-Store,1,1
+C10869,2026-04-20,Female,40.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C10870,2025-09-27,M,31.0,Central,1,,Gold,In-Store,1,0
+C10871,2025-02-19,F,36.0,Bangkok,2,40-70k,Gold,Mobile App,1,1
+C10872,2024-12-18,M,43.0,Bangkok,3,70-120k,Silver,In-Store,1,0
+C10873,2025-06-28,Male,35.0,Northeast,1,40-70k,Platinum,In-Store,0,1
+C10874,2025-01-28,Male,38.0,East,3,40-70k,Bronze,In-Store,1,1
+C10875,2024-11-13,F,51.0,Northeast,2,,Gold,In-Store,1,0
+C10876,2024-10-17,F,18.0,Bangkok,2,20-40k,Platinum,In-Store,0,1
+C10877,2025-02-15,F,25.0,East,3,<20k,Bronze,In-Store,0,1
+C10878,2026-03-04,Male,40.0,Central,2,20-40k,Silver,In-Store,0,1
+C10879,2025-04-26,female,43.0,Central,1,40-70k,Silver,In-Store,0,0
+C10880,2025-12-08,Male,35.0,South,2,40-70k,Gold,In-Store,0,0
+C10881,2025-11-16,F,32.0,Central,1,70-120k,Bronze,In-Store,0,1
+C10882,2024-12-09,male,41.0,Central,3,40-70k,Platinum,In-Store,1,1
+C10883,2025-03-02,F,50.0,Bangkok,1,20-40k,Gold,Mobile App,0,1
+C10884,2025-03-02,M,41.0,South,3,70-120k,Silver,Online Web,0,0
+C10885,2024-11-24,M,21.0,Bangkok,3,40-70k,Bronze,Mobile App,0,0
+C10886,2024-10-03,Female,34.0,Bangkok,1,40-70k,Silver,In-Store,1,0
+C10887,2025-08-09,Female,,North,2,70-120k,Silver,In-Store,1,0
+C10888,2025-06-07,F,31.0,Bangkok,2,70-120k,Platinum,In-Store,1,1
+C10889,2024-11-19,female,25.0,Bangkok,2,70-120k,Bronze,Mobile App,0,1
+C10890,2024-11-15,Female,31.0,Bangkok,1,70-120k,Silver,In-Store,1,0
+C10891,2026-04-14,Female,19.0,Bangkok,3,20-40k,Gold,Mobile App,1,1
+C10892,2025-04-12,Female,39.0,Central,1,40-70k,Silver,Online Web,1,0
+C10893,2025-06-06,Female,24.0,South,3,20-40k,Bronze,In-Store,0,0
+C10894,2024-10-10,Male,39.0,North,1,>120k,Silver,Online Web,1,0
+C10895,2026-06-21,M,20.0,South,1,20-40k,Bronze,Online Web,1,1
+C10896,2024-08-05,Male,44.0,Bangkok,3,20-40k,Silver,In-Store,1,0
+C10897,2024-09-16,M,35.0,Bangkok,1,,Bronze,Online Web,1,0
+C10898,2025-01-18,Female,54.0,Bangkok,2,40-70k,Gold,Online Web,1,0
+C10899,2024-09-20,Female,45.0,Bangkok,1,,Platinum,Online Web,1,1
+C10900,2025-03-15,M,18.0,South,1,>120k,Gold,In-Store,1,0
+C10901,2024-09-23,female,36.0,North,1,40-70k,Silver,In-Store,0,0
+C10902,2026-03-03,Female,22.0,Bangkok,1,<20k,Silver,In-Store,0,0
+C10903,2025-04-16,Female,33.0,Bangkok,3,<20k,Bronze,In-Store,0,0
+C10904,2024-08-26,Male,28.0,Central,1,,Silver,In-Store,1,0
+C10905,2024-08-18,F,46.0,East,1,40-70k,Gold,In-Store,1,0
+C10906,2025-07-07,male,43.0,Central,3,70-120k,Platinum,In-Store,1,1
+C10907,2025-09-22,M,,Central,2,40-70k,Gold,In-Store,1,0
+C10908,2025-04-27,f,38.0,East,1,>120k,Silver,Mobile App,1,0
+C10909,2025-03-25,male,,Bangkok,2,40-70k,Silver,Mobile App,1,0
+C10910,2025-10-13,f,45.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C10911,2025-05-03,Female,37.0,Bangkok,1,40-70k,Silver,In-Store,0,1
+C10912,2025-06-01,Male,54.0,Bangkok,1,<20k,Gold,Mobile App,1,1
+C10913,2025-01-23,Female,37.0,Central,2,20-40k,Gold,In-Store,1,1
+C10914,2025-03-13,M,42.0,Bangkok,1,20-40k,Gold,In-Store,1,0
+C10915,2025-05-26,F,19.0,South,2,70-120k,Silver,In-Store,1,1
+C10916,2025-04-02,Female,50.0,Northeast,3,70-120k,Bronze,Mobile App,1,1
+C10917,2025-01-07,Female,,Bangkok,1,70-120k,Silver,In-Store,1,1
+C10918,2025-02-08,Male,41.0,Northeast,2,20-40k,Bronze,Mobile App,1,1
+C10919,2025-03-13,Male,,Central,2,>120k,Platinum,In-Store,1,1
+C10920,2024-08-13,F,28.0,Bangkok,2,20-40k,Bronze,Mobile App,1,1
+C10921,2025-08-26,Male,40.0,Bangkok,2,40-70k,Silver,In-Store,0,0
+C10922,2026-05-21,F,26.0,Bangkok,2,<20k,Bronze,In-Store,1,0
+C10923,2024-09-04,Female,38.0,Central,1,,Gold,In-Store,0,0
+C10924,2025-08-19,female,,,3,>120k,Bronze,In-Store,1,0
+C10925,2025-04-10,Male,35.0,Northeast,1,20-40k,Silver,In-Store,0,0
+C10926,2026-06-10,m,35.0,,1,40-70k,Silver,Mobile App,1,1
+C10927,2025-01-05,Female,30.0,South,1,40-70k,Silver,In-Store,1,0
+C10928,2025-02-08,Female,25.0,Central,1,70-120k,Silver,In-Store,1,1
+C10929,2024-08-09,M,41.0,North,3,70-120k,Silver,Online Web,1,1
+C10930,2024-09-15,female,26.0,South,1,40-70k,Gold,In-Store,0,0
+C10931,2026-04-20,Male,27.0,Bangkok,3,40-70k,Bronze,In-Store,1,1
+C10932,2024-10-28,Female,32.0,Central,2,20-40k,Bronze,In-Store,1,1
+C10933,2025-08-27,F,35.0,Bangkok,1,40-70k,Bronze,In-Store,1,0
+C10934,2025-07-04,F,59.0,Bangkok,1,,Silver,In-Store,1,1
+C10935,2025-06-01,Female,23.0,Bangkok,1,<20k,Platinum,In-Store,0,0
+C10936,2024-09-13,F,42.0,South,2,70-120k,Gold,In-Store,0,1
+C10937,2025-05-31,Female,34.0,South,2,40-70k,Gold,In-Store,0,0
+C10938,2025-02-17,m,32.0,South,1,,Silver,In-Store,0,1
+C10939,2025-01-19,M,128.0,Bangkok,1,70-120k,Gold,In-Store,1,1
+C10940,2025-02-28,F,33.0,Bangkok,1,70-120k,Platinum,In-Store,1,0
+C10941,2026-04-30,Female,51.0,Bangkok,2,20-40k,Silver,In-Store,1,1
+C10942,2026-04-14,f,19.0,North,2,40-70k,Bronze,In-Store,0,1
+C10943,2024-11-23,Female,35.0,Northeast,2,20-40k,Silver,In-Store,1,0
+C10944,2025-07-22,Male,47.0,Bangkok,1,,Gold,Mobile App,0,1
+C10945,2026-06-12,Female,18.0,North,3,40-70k,Bronze,In-Store,1,0
+C10946,2024-08-29,Male,32.0,East,1,70-120k,Platinum,In-Store,0,0
+C10947,2024-08-19,F,54.0,Bangkok,3,>120k,Gold,Online Web,1,0
+C10948,2025-03-08,F,29.0,Central,3,40-70k,Silver,In-Store,1,1
+C10949,2025-07-05,Female,49.0,North,2,40-70k,Silver,In-Store,1,0
+C10950,2024-11-09,female,34.0,East,1,20-40k,Silver,In-Store,1,0
+C10951,2025-05-16,Female,,South,2,40-70k,Silver,Mobile App,0,1
+C10952,2025-07-04,Female,39.0,Bangkok,1,<20k,Silver,In-Store,1,0
+C10953,2024-10-07,Female,29.0,South,1,20-40k,Bronze,Online Web,0,0
+C10954,2024-08-27,Female,45.0,Northeast,1,40-70k,Silver,In-Store,1,0
+C10955,2026-01-23,Female,27.0,Northeast,2,20-40k,Bronze,Online Web,0,1
+C10956,2025-02-27,Male,34.0,Bangkok,2,40-70k,Silver,In-Store,0,0
+C10957,2025-06-11,M,34.0,Northeast,1,,Silver,In-Store,1,0
+C10958,2026-02-26,Male,39.0,Northeast,1,<20k,Bronze,In-Store,1,0
+C10959,2024-08-02,F,30.0,North,1,20-40k,Gold,In-Store,1,1
+C10960,2025-04-18,Male,33.0,East,1,<20k,Silver,Mobile App,0,1
+C10961,2025-06-16,Female,30.0,North,2,70-120k,Platinum,In-Store,1,0
+C10962,2025-02-03,Female,40.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C10963,2024-12-09,Female,41.0,Central,2,20-40k,Platinum,Mobile App,0,1
+C10964,2024-10-27,Male,44.0,North,2,20-40k,Bronze,In-Store,1,1
+C10965,2025-09-13,F,22.0,Bangkok,2,>120k,Bronze,Mobile App,1,1
+C10966,2025-01-20,Female,18.0,Northeast,1,<20k,Bronze,In-Store,1,0
+C10967,2025-07-19,Female,18.0,Northeast,1,20-40k,Bronze,Online Web,1,1
+C10968,2025-08-09,female,43.0,Northeast,1,70-120k,Gold,In-Store,1,0
+C10969,2025-02-19,M,35.0,Bangkok,1,20-40k,Silver,In-Store,0,0
+C10970,2025-03-27,M,43.0,Northeast,2,40-70k,Silver,In-Store,1,0
+C10971,2024-09-13,F,33.0,Bangkok,2,<20k,Bronze,In-Store,1,0
+C10972,2024-10-03,Male,36.0,North,2,>120k,Bronze,In-Store,1,1
+C10973,2025-04-23,F,35.0,South,3,40-70k,Platinum,In-Store,0,1
+C10974,2025-11-30,Female,27.0,Bangkok,2,40-70k,Bronze,In-Store,1,1
+C10975,2024-11-22,f,33.0,North,1,,Bronze,Online Web,1,0
+C10976,2026-03-29,Female,29.0,Central,3,<20k,Bronze,Online Web,1,0
+C10977,2026-02-17,Male,18.0,Bangkok,2,20-40k,Silver,Online Web,0,0
+C10978,2025-03-07,F,18.0,Northeast,1,40-70k,Bronze,In-Store,1,1
+C10979,2025-03-30,Male,32.0,Bangkok,2,20-40k,Gold,In-Store,1,0
+C10980,2025-02-18,Female,34.0,Bangkok,2,70-120k,Bronze,In-Store,0,0
+C10981,2026-01-05,Female,18.0,Central,3,70-120k,Bronze,Mobile App,1,1
+C10982,2024-09-19,Female,18.0,North,3,<20k,Silver,In-Store,0,1
+C10983,2024-11-05,F,29.0,Bangkok,1,40-70k,Silver,In-Store,1,0
+C10984,2025-01-28,Female,36.0,Bangkok,2,40-70k,Bronze,In-Store,1,1
+C10985,2024-08-25,F,40.0,Central,1,,Bronze,Mobile App,0,1
+C10986,2025-01-14,Male,36.0,Bangkok,2,40-70k,Platinum,Mobile App,1,1
+C10987,2025-02-24,F,34.0,Bangkok,1,20-40k,Platinum,Mobile App,1,1
+C10988,2025-01-10,Female,47.0,North,1,>120k,Silver,In-Store,1,1
+C10989,2025-05-02,Male,37.0,,1,20-40k,Gold,In-Store,0,0
+C10990,2025-04-14,Female,33.0,Northeast,2,40-70k,Silver,In-Store,1,1
+C10991,2025-04-05,Male,52.0,Bangkok,1,40-70k,Silver,In-Store,0,1
+C10992,2026-06-02,Male,18.0,North,3,20-40k,Silver,Online Web,0,0
+C10993,2026-06-05,Male,32.0,East,2,40-70k,Bronze,Online Web,0,1
+C10994,2024-08-04,Female,33.0,North,1,<20k,Bronze,In-Store,1,1
+C10995,2025-02-24,F,22.0,North,2,40-70k,Bronze,Mobile App,0,1
+C10996,2026-05-27,F,18.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C10997,2024-08-10,Male,43.0,Central,1,40-70k,Gold,In-Store,0,1
+C10998,2025-02-13,M,31.0,,1,20-40k,Bronze,In-Store,0,0
+C10999,2024-12-27,F,31.0,Northeast,3,40-70k,Bronze,Online Web,0,0
+C11000,2026-01-15,Female,20.0,Central,2,40-70k,Bronze,Online Web,1,0
+C11001,2024-09-17,Female,51.0,Central,1,40-70k,Platinum,Online Web,1,0
+C11002,2025-05-06,f,39.0,Northeast,2,70-120k,Bronze,Online Web,1,1
+C11003,2024-10-27,male,36.0,East,1,20-40k,Silver,In-Store,0,1
+C11004,2026-03-18,Male,19.0,Central,1,40-70k,Bronze,In-Store,0,1
+C11005,2025-08-10,Female,49.0,Northeast,1,20-40k,Bronze,In-Store,0,0
+C11006,2024-12-23,Male,40.0,Central,3,<20k,Silver,Online Web,1,0
+C11007,2025-04-26,Female,39.0,Bangkok,1,20-40k,Silver,In-Store,1,1
+C11008,2024-11-12,F,22.0,Central,1,20-40k,Gold,Mobile App,1,1
+C11009,2025-05-09,f,36.0,Central,1,40-70k,Silver,Online Web,1,0
+C11010,2026-06-17,Female,38.0,Bangkok,1,40-70k,Bronze,Online Web,0,1
+C11011,2025-03-11,F,45.0,South,3,70-120k,Platinum,Mobile App,1,1
+C11012,2024-09-13,M,26.0,South,1,70-120k,Bronze,Online Web,1,0
+C11013,2025-03-14,Male,35.0,South,2,<20k,Platinum,In-Store,1,1
+C11014,2025-03-25,Male,43.0,South,2,70-120k,Gold,Mobile App,1,1
+C11015,2024-12-28,F,39.0,Bangkok,2,40-70k,Bronze,Mobile App,1,0
+C11016,2025-02-07,F,37.0,Northeast,1,70-120k,Silver,In-Store,1,1
+C11017,2025-04-27,M,36.0,East,1,20-40k,Bronze,Mobile App,0,0
+C11018,2026-03-28,F,36.0,Northeast,2,<20k,Bronze,In-Store,1,1
+C11019,2025-07-11,F,,Bangkok,1,20-40k,Silver,Mobile App,1,1
+C11020,2025-08-21,Male,25.0,Bangkok,1,40-70k,Silver,In-Store,0,0
+C11021,2025-04-29,Female,44.0,Northeast,1,70-120k,Silver,In-Store,1,1
+C11022,2026-02-01,F,23.0,Northeast,2,40-70k,Silver,Mobile App,0,1
+C11023,2025-07-23,m,30.0,Northeast,1,20-40k,Silver,Mobile App,0,1
+C11024,2025-05-07,Female,50.0,South,1,40-70k,Silver,In-Store,0,0
+C11025,2025-06-08,F,29.0,Northeast,2,70-120k,Silver,In-Store,0,0
+C11026,2025-03-31,Male,18.0,Bangkok,1,<20k,Bronze,In-Store,1,0
+C11027,2025-03-13,Male,43.0,Northeast,3,,Bronze,In-Store,1,0
+C11028,2025-03-19,F,58.0,Northeast,1,70-120k,Gold,Online Web,1,1
+C11029,2025-06-10,female,18.0,Northeast,2,20-40k,Gold,In-Store,1,1
+C11030,2025-12-28,Male,46.0,North,2,<20k,Silver,In-Store,0,0
+C11031,2024-11-18,Female,43.0,Bangkok,1,70-120k,Bronze,In-Store,1,0
+C11032,2025-07-18,Female,41.0,Central,2,<20k,Silver,Mobile App,1,1
+C11033,2025-01-20,Male,,Central,1,20-40k,Bronze,Mobile App,0,0
+C11034,2025-05-19,F,49.0,Northeast,1,40-70k,Silver,In-Store,0,0
+C11035,2025-06-02,Female,43.0,East,3,,Silver,In-Store,1,0
+C11036,2025-02-12,M,27.0,Bangkok,3,20-40k,Silver,Mobile App,0,1
+C11037,2025-02-01,Female,52.0,Northeast,1,>120k,Gold,In-Store,1,0
+C11038,2026-01-09,Female,28.0,Bangkok,1,40-70k,Bronze,In-Store,0,0
+C11039,2025-10-16,Female,37.0,Central,1,40-70k,Bronze,Online Web,1,1
+C11040,2025-06-08,Male,44.0,Northeast,2,40-70k,Platinum,Mobile App,1,1
+C11041,2025-08-25,Male,26.0,North,1,70-120k,Gold,In-Store,1,0
+C11042,2025-07-20,F,35.0,Bangkok,1,40-70k,Gold,Online Web,1,1
+C11043,2025-02-08,Female,50.0,Central,1,20-40k,Gold,In-Store,0,1
+C11044,2024-10-12,F,20.0,Northeast,3,<20k,Silver,In-Store,1,0
+C11045,2025-09-25,Male,32.0,Bangkok,2,40-70k,Gold,Online Web,1,0
+C11046,2025-04-27,F,39.0,Bangkok,2,40-70k,Silver,In-Store,0,0
+C11047,2025-04-06,Male,32.0,Northeast,1,>120k,Bronze,In-Store,1,1
+C11048,2025-05-12,Female,39.0,Northeast,1,20-40k,Silver,In-Store,1,0
+C11049,2024-10-10,Female,,Bangkok,2,20-40k,Bronze,In-Store,1,0
+C11050,2025-07-05,M,,Bangkok,1,<20k,Silver,In-Store,1,0
+C11051,2026-05-03,female,,East,2,40-70k,Gold,In-Store,0,1
+C11052,2025-03-22,F,36.0,Central,1,70-120k,Gold,In-Store,0,1
+C11053,2024-09-17,Female,27.0,Northeast,1,70-120k,Bronze,In-Store,0,0
+C11054,2025-09-11,F,45.0,Bangkok,3,>120k,Platinum,In-Store,0,1
+C11055,2026-06-02,Female,18.0,North,1,20-40k,Bronze,Mobile App,0,0
+C11056,2026-04-30,Male,36.0,North,1,40-70k,Silver,In-Store,0,1
+C11057,2024-12-06,Male,32.0,Northeast,2,<20k,Bronze,In-Store,0,0
+C11058,2025-05-29,Female,36.0,East,3,<20k,Bronze,In-Store,1,1
+C11059,2024-11-23,Male,45.0,Northeast,1,20-40k,Silver,In-Store,1,0
+C11060,2025-10-11,Male,36.0,Northeast,2,<20k,Gold,In-Store,1,1
+C11061,2025-02-24,Male,46.0,Central,2,70-120k,Silver,Mobile App,1,0
+C11062,2025-10-18,Female,23.0,East,2,<20k,Silver,In-Store,1,0
+C11063,2024-11-12,F,46.0,Central,2,40-70k,Silver,Mobile App,1,1
+C11064,2024-12-05,F,48.0,Bangkok,1,70-120k,Bronze,Mobile App,1,1
+C11065,2024-12-31,F,38.0,Bangkok,1,70-120k,Silver,In-Store,0,0
+C11066,2025-11-24,F,32.0,Bangkok,2,20-40k,Silver,In-Store,1,1
+C11067,2025-10-30,Male,30.0,East,2,20-40k,Silver,Online Web,0,0
+C11068,2025-03-06,Female,20.0,Central,1,20-40k,Silver,In-Store,1,0
+C11069,2025-10-21,Female,39.0,North,3,20-40k,Silver,Online Web,0,0
+C11070,2025-09-17,Male,25.0,Bangkok,2,40-70k,Silver,In-Store,0,1
+C11071,2025-01-17,M,18.0,Northeast,3,70-120k,Platinum,Mobile App,1,1
+C11072,2024-11-07,F,45.0,Bangkok,1,20-40k,Gold,Online Web,0,1
+C11073,2024-10-12,Female,19.0,Central,3,70-120k,Bronze,Mobile App,1,0
+C11074,2025-03-03,male,25.0,Central,1,20-40k,Platinum,Online Web,0,1
+C11075,2024-11-23,F,26.0,Bangkok,1,40-70k,Silver,In-Store,1,0
+C11076,2025-04-14,male,33.0,Northeast,2,70-120k,Silver,In-Store,1,0
+C11077,2024-12-20,M,37.0,Northeast,3,70-120k,Bronze,In-Store,0,1
+C11078,2025-03-12,M,51.0,East,1,40-70k,Silver,Mobile App,0,1
+C11079,2025-03-22,F,38.0,North,2,70-120k,Bronze,Mobile App,0,0
+C11080,2025-08-22,Male,29.0,Bangkok,1,20-40k,Bronze,In-Store,1,0
+C11081,2025-07-02,F,33.0,Central,3,<20k,Gold,Mobile App,0,1
+C11082,2025-12-16,Female,38.0,Bangkok,1,<20k,Bronze,Mobile App,0,0
+C11083,2026-04-15,F,30.0,Northeast,1,40-70k,Silver,In-Store,0,0
+C11084,2025-02-13,F,25.0,South,2,40-70k,Bronze,Online Web,1,1
+C11085,2026-05-21,Female,28.0,Northeast,3,70-120k,Bronze,In-Store,0,0
+C11086,2024-12-15,F,58.0,Central,1,40-70k,Gold,Mobile App,1,1
+C11087,2025-01-13,Female,22.0,Central,3,70-120k,Silver,In-Store,0,0
+C11088,2025-04-20,Female,34.0,Bangkok,1,20-40k,Silver,In-Store,0,1
+C11089,2025-03-18,Female,20.0,North,1,20-40k,Gold,In-Store,1,1
+C11090,2025-04-10,Male,46.0,Central,2,70-120k,Gold,In-Store,1,0
+C11091,2025-11-25,Female,32.0,Northeast,1,40-70k,Bronze,Online Web,1,0
+C11092,2024-11-20,Female,37.0,East,2,<20k,Bronze,In-Store,1,0
+C11093,2025-05-05,F,28.0,Bangkok,1,40-70k,Silver,Mobile App,1,1
+C11094,2025-06-17,male,45.0,Bangkok,3,<20k,Gold,Mobile App,1,1
+C11095,2025-02-07,Male,47.0,Bangkok,2,20-40k,Platinum,Online Web,1,1
+C11096,2026-05-16,Female,46.0,Bangkok,1,70-120k,Bronze,Online Web,0,0
+C11097,2025-09-12,F,34.0,Bangkok,3,20-40k,Bronze,In-Store,0,1
+C11098,2024-08-24,Female,30.0,North,2,70-120k,Silver,Online Web,1,0
+C11099,2025-06-14,M,18.0,Bangkok,1,40-70k,Platinum,Mobile App,1,1
+C11100,2026-02-04,Female,20.0,Bangkok,2,70-120k,Bronze,Mobile App,1,1
+C11101,2025-02-11,Male,36.0,Central,2,<20k,Gold,Online Web,1,1
+C11102,2026-05-19,F,26.0,South,3,70-120k,Silver,Online Web,1,1
+C11103,2025-06-01,Female,51.0,Bangkok,2,40-70k,Gold,In-Store,0,1
+C11104,2024-10-12,Female,,Bangkok,1,40-70k,Platinum,In-Store,1,0
+C11105,2024-11-21,M,40.0,North,2,70-120k,Silver,Online Web,1,0
+C11106,2024-11-25,female,36.0,Bangkok,1,40-70k,Bronze,Online Web,1,1
+C11107,2024-11-21,Male,38.0,Central,2,20-40k,Bronze,In-Store,1,0
+C11108,2025-01-24,Male,21.0,South,1,70-120k,Silver,In-Store,1,0
+C11109,2024-11-28,Female,46.0,Bangkok,3,40-70k,Platinum,Mobile App,1,1
+C11110,2025-02-02,F,33.0,South,2,20-40k,Silver,In-Store,0,1
+C11111,2025-08-03,F,22.0,Northeast,1,20-40k,Gold,Online Web,1,0
+C11112,2025-03-23,Female,35.0,Central,2,20-40k,Bronze,In-Store,1,0
+C11113,2024-08-23,Female,40.0,Bangkok,1,20-40k,Platinum,In-Store,1,0
+C11114,2026-06-04,M,24.0,Central,2,<20k,Bronze,In-Store,0,1
+C11115,2024-11-16,F,44.0,Central,2,>120k,Silver,Online Web,0,1
+C11116,2025-04-06,Female,45.0,Northeast,3,20-40k,Bronze,Online Web,0,1
+C11117,2025-10-18,Male,36.0,South,1,20-40k,Bronze,Mobile App,0,1
+C11118,2025-09-18,Male,46.0,Bangkok,2,20-40k,Bronze,In-Store,1,1
+C11119,2026-04-09,M,24.0,Northeast,2,20-40k,Bronze,In-Store,0,0
+C11120,2025-03-14,Female,43.0,Central,2,<20k,Silver,In-Store,1,1
+C11121,2024-10-25,Female,39.0,South,2,20-40k,Silver,In-Store,1,0
+C11122,2025-08-14,Male,36.0,South,1,20-40k,Silver,In-Store,0,0
+C11123,2025-02-27,Male,34.0,Bangkok,2,20-40k,Silver,Online Web,1,0
+C11124,2024-12-20,Female,39.0,Bangkok,1,>120k,Gold,In-Store,1,1
+C11125,2025-03-02,Male,50.0,North,2,40-70k,Silver,Mobile App,0,1
+C11126,2025-12-21,Female,18.0,Bangkok,1,40-70k,Bronze,In-Store,1,1
+C11127,2024-11-06,Male,26.0,North,2,40-70k,Silver,Online Web,1,1
+C11128,2025-07-15,F,25.0,Central,1,40-70k,Silver,In-Store,0,0
+C11129,2024-08-21,Female,30.0,Bangkok,3,40-70k,Bronze,In-Store,0,1
+C11130,2024-12-22,M,29.0,North,2,<20k,Bronze,Mobile App,0,1
+C11131,2024-09-25,male,49.0,South,1,,Gold,In-Store,1,0
+C11132,2026-05-12,Male,18.0,Bangkok,1,<20k,Silver,Mobile App,0,0
+C11133,2025-04-03,Female,24.0,East,1,,Bronze,Online Web,1,1
+C11134,2025-06-15,Female,46.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C11135,2024-09-30,Male,40.0,South,1,<20k,Silver,In-Store,0,0
+C11136,2025-05-21,Female,46.0,Central,1,<20k,Silver,In-Store,1,0
+C11137,2024-09-09,Female,35.0,Northeast,2,40-70k,Silver,Mobile App,1,1
+C11138,2025-04-29,Male,36.0,Bangkok,1,70-120k,Silver,Mobile App,1,1
+C11139,2025-03-04,F,22.0,Central,1,>120k,Silver,In-Store,1,0
+C11140,2025-09-06,Male,39.0,Bangkok,1,20-40k,Gold,In-Store,0,0
+C11141,2024-12-05,M,44.0,Northeast,2,40-70k,Gold,In-Store,0,1
+C11142,2026-04-25,Female,50.0,Northeast,1,<20k,Bronze,Mobile App,1,1
+C11143,2025-04-13,Male,34.0,South,1,20-40k,Bronze,Mobile App,1,0
+C11144,2025-04-29,Male,33.0,East,2,40-70k,Gold,In-Store,1,1
+C11145,2025-12-21,Male,30.0,Central,1,40-70k,Bronze,Mobile App,0,0
+C11146,2025-11-22,M,29.0,East,3,20-40k,Silver,Online Web,0,0
+C11147,2024-09-12,Female,41.0,North,1,20-40k,Silver,Mobile App,1,1
+C11148,2024-08-31,Male,39.0,North,3,<20k,Bronze,In-Store,1,0
+C11149,2024-10-24,Male,41.0,North,1,40-70k,Silver,Mobile App,1,1
+C11150,2026-04-17,M,21.0,Bangkok,1,40-70k,Bronze,In-Store,0,0
+C11151,2025-02-17,Male,40.0,Bangkok,2,40-70k,Gold,In-Store,0,1
+C11152,2025-06-04,Female,18.0,Bangkok,2,<20k,Silver,Mobile App,1,0
+C11153,2024-08-31,Male,50.0,Bangkok,1,>120k,Gold,In-Store,1,1
+C11154,2025-11-03,Male,34.0,Northeast,1,40-70k,Bronze,Mobile App,1,1
+C11155,2024-11-10,Male,47.0,Bangkok,1,40-70k,Silver,In-Store,1,1
+C11156,2026-03-04,Male,33.0,Northeast,3,20-40k,Bronze,Mobile App,1,1
+C11157,2025-01-06,Female,50.0,Bangkok,1,70-120k,Gold,Online Web,1,1
+C11158,2025-07-07,Female,,Bangkok,2,70-120k,Silver,In-Store,1,0
+C11159,2025-01-31,M,34.0,Northeast,2,20-40k,Platinum,In-Store,1,0
+C11160,2025-04-16,Male,36.0,Bangkok,2,20-40k,Silver,Online Web,1,0
+C11161,2026-06-11,F,33.0,Central,3,,Bronze,In-Store,1,0
+C11162,2024-12-09,F,36.0,,1,40-70k,Silver,In-Store,0,0
+C11163,2024-11-11,F,29.0,Bangkok,1,<20k,Bronze,Online Web,0,0
+C11164,2025-07-17,Male,18.0,Northeast,1,40-70k,Bronze,Mobile App,1,1
+C11165,2024-09-02,M,40.0,Northeast,2,>120k,Gold,In-Store,1,0
+C11166,2025-12-21,Male,29.0,Northeast,2,20-40k,Silver,In-Store,0,0
+C11167,2026-04-28,female,26.0,North,2,70-120k,Silver,In-Store,0,1
+C11168,2026-04-24,male,32.0,East,1,20-40k,Silver,In-Store,1,1
+C11169,2024-10-10,F,33.0,,1,70-120k,Platinum,In-Store,1,0
+C11170,2025-03-09,male,41.0,Bangkok,1,20-40k,Gold,In-Store,0,0
+C11171,2026-04-09,Female,37.0,Bangkok,2,40-70k,Bronze,Online Web,1,0
+C11172,2025-11-21,Male,39.0,South,1,70-120k,Bronze,In-Store,0,0
+C11173,2024-12-19,M,32.0,Northeast,2,20-40k,Gold,In-Store,0,0
+C11174,2024-09-10,Male,136.0,East,1,70-120k,Platinum,In-Store,1,0
+C11175,2025-02-07,Female,32.0,East,2,20-40k,Gold,In-Store,1,0
+C11176,2025-01-10,F,23.0,South,3,40-70k,Gold,In-Store,0,1
+C11177,2026-03-16,Male,26.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C11178,2025-04-24,Female,32.0,Northeast,1,70-120k,Bronze,Online Web,1,0
+C11179,2024-10-13,M,26.0,Bangkok,2,40-70k,Bronze,Mobile App,1,0
+C11180,2024-11-20,M,52.0,Bangkok,3,>120k,Platinum,In-Store,1,0
+C11181,2025-09-22,Female,47.0,Bangkok,2,40-70k,Gold,Mobile App,1,1
+C11182,2025-08-18,Male,54.0,Bangkok,2,70-120k,Silver,In-Store,0,0
+C11183,2026-04-23,Female,23.0,East,2,40-70k,Bronze,Mobile App,0,1
+C11184,2024-11-04,Male,46.0,Bangkok,2,70-120k,Platinum,Mobile App,1,0
+C11185,2024-11-25,Female,38.0,Central,3,70-120k,Gold,Mobile App,1,1
+C11186,2024-10-09,Male,43.0,Central,2,40-70k,Silver,In-Store,1,0
+C11187,2024-11-28,F,45.0,Bangkok,2,40-70k,Gold,Mobile App,1,1
+C11188,2024-10-12,Male,34.0,North,3,70-120k,Bronze,In-Store,1,1
+C11189,2025-03-09,Male,46.0,East,1,<20k,Gold,Mobile App,1,1
+C11190,2025-05-22,Male,42.0,Central,1,>120k,Gold,Online Web,0,0
+C11191,2025-08-14,Female,48.0,Bangkok,3,70-120k,Silver,Mobile App,1,0
+C11192,2025-08-23,Male,23.0,Northeast,1,40-70k,Silver,Online Web,0,0
+C11193,2024-11-25,Female,43.0,North,1,,Gold,Mobile App,0,1
+C11194,2024-08-09,Female,24.0,Bangkok,1,20-40k,Silver,Online Web,0,0
+C11195,2025-03-02,Male,33.0,Central,3,40-70k,Bronze,Mobile App,1,1
+C11196,2025-04-24,Female,31.0,,2,<20k,Bronze,In-Store,1,0
+C11197,2024-10-21,F,38.0,Bangkok,1,<20k,Bronze,Mobile App,1,1
+C11198,2025-01-26,M,18.0,Bangkok,1,40-70k,Silver,In-Store,1,1
+C11199,2025-01-19,Female,18.0,Bangkok,2,40-70k,Bronze,Mobile App,1,1
+C11200,2025-04-16,F,30.0,South,1,70-120k,Gold,Mobile App,1,0
+C11201,2025-09-19,Male,35.0,Bangkok,2,20-40k,Gold,In-Store,0,1
+C11202,2024-11-27,Male,38.0,Central,1,40-70k,Silver,In-Store,0,1
+C11203,2024-09-13,Male,57.0,Bangkok,1,40-70k,Gold,Mobile App,0,1
+C11204,2024-08-09,Female,31.0,Bangkok,3,20-40k,Gold,In-Store,0,0
+C11205,2025-07-18,F,46.0,Bangkok,1,40-70k,Gold,In-Store,0,1
+C11206,2025-05-15,Female,26.0,Central,1,>120k,Silver,Mobile App,1,1
+C11207,2024-09-11,Male,48.0,Bangkok,1,40-70k,Silver,Mobile App,1,1
+C11208,2025-01-31,M,37.0,Northeast,1,,Bronze,In-Store,1,1
+C11209,2025-02-26,M,58.0,Northeast,2,20-40k,Bronze,In-Store,1,1
+C11210,2025-03-12,Male,38.0,Bangkok,1,40-70k,Silver,In-Store,1,0
+C11211,2025-05-02,F,44.0,South,1,40-70k,Gold,Online Web,1,1
+C11212,2024-11-27,F,36.0,Bangkok,1,40-70k,Gold,In-Store,1,0
+C11213,2025-09-01,Female,35.0,Central,3,40-70k,Platinum,Online Web,1,1
+C11214,2025-05-27,F,30.0,Central,1,20-40k,Gold,In-Store,0,0
+C11215,2024-12-06,F,45.0,North,3,40-70k,Bronze,In-Store,0,0
+C11216,2025-05-16,Male,23.0,North,1,40-70k,Gold,In-Store,1,1
+C11217,2024-08-23,Female,36.0,Bangkok,1,40-70k,Platinum,Mobile App,1,1
+C11218,2025-08-07,Female,35.0,Northeast,1,,Silver,Mobile App,0,1
+C11219,2026-05-08,Female,18.0,Bangkok,2,20-40k,Bronze,Online Web,1,0
+C11220,2025-09-01,Female,,Bangkok,2,20-40k,Silver,In-Store,0,0
+C11221,2025-01-07,Female,30.0,South,3,40-70k,Gold,In-Store,1,1
+C11222,2026-02-13,M,19.0,Central,3,70-120k,Silver,Mobile App,1,1
+C11223,2024-09-12,M,47.0,South,2,40-70k,Silver,In-Store,0,0
+C11224,2025-07-14,Female,56.0,Bangkok,1,<20k,Gold,Mobile App,0,1
+C11225,2026-02-15,F,31.0,Bangkok,3,>120k,Gold,In-Store,1,0
+C11226,2024-12-23,Female,37.0,East,2,,Gold,In-Store,1,1
+C11227,2024-09-15,Female,54.0,Central,1,40-70k,Platinum,In-Store,1,1
+C11228,2025-03-22,Male,43.0,Northeast,1,40-70k,Silver,In-Store,1,1
+C11229,2026-03-07,F,34.0,South,3,40-70k,Bronze,In-Store,1,1
+C11230,2025-08-16,F,49.0,South,3,70-120k,Silver,In-Store,0,0
+C11231,2024-08-14,Male,43.0,Bangkok,1,<20k,Bronze,In-Store,0,1
+C11232,2025-04-16,Male,42.0,Bangkok,1,20-40k,Bronze,In-Store,1,1
+C11233,2025-01-23,Female,31.0,Northeast,3,20-40k,Bronze,Online Web,1,1
+C11234,2025-05-18,Male,18.0,Bangkok,2,20-40k,Bronze,Mobile App,0,1
+C11235,2025-05-15,Female,33.0,East,1,20-40k,Gold,In-Store,1,0
+C11236,2024-12-25,M,52.0,Northeast,1,<20k,Gold,In-Store,1,1
+C11237,2025-03-10,Female,28.0,,1,70-120k,Gold,Mobile App,0,1
+C11238,2024-08-12,Female,49.0,Bangkok,2,40-70k,Platinum,In-Store,0,1
+C11239,2025-06-24,Female,34.0,East,1,<20k,Gold,In-Store,0,0
+C11240,2025-02-21,Female,27.0,Bangkok,3,20-40k,Gold,In-Store,1,1
+C11241,2026-01-06,Female,28.0,Northeast,3,40-70k,Bronze,Online Web,0,0
+C11242,2026-02-20,Female,28.0,Bangkok,1,20-40k,Bronze,In-Store,1,1
+C11243,2024-12-19,f,39.0,Bangkok,1,70-120k,Gold,Mobile App,1,1
+C11244,2025-04-18,Male,27.0,East,2,70-120k,Bronze,In-Store,0,0
+C11245,2024-08-26,Male,48.0,East,2,40-70k,Bronze,Mobile App,1,0
+C11246,2025-03-23,female,36.0,Northeast,3,20-40k,Silver,In-Store,1,0
+C11247,2026-06-13,Female,,Northeast,1,<20k,Gold,In-Store,0,0
+C11248,2024-08-24,Female,38.0,Bangkok,2,40-70k,Platinum,Mobile App,1,1
+C11249,2025-03-18,M,30.0,Bangkok,1,40-70k,Silver,In-Store,1,0
+C11250,2024-08-04,Female,60.0,Bangkok,2,40-70k,Silver,In-Store,1,1
+C11251,2024-12-25,Male,35.0,East,3,70-120k,Bronze,In-Store,1,0
+C11252,2026-01-18,Male,23.0,Northeast,2,<20k,Bronze,Online Web,0,1
+C11253,2025-09-05,M,51.0,Northeast,1,40-70k,Gold,Mobile App,1,1
+C11254,2024-10-07,M,29.0,Central,3,20-40k,Bronze,Mobile App,0,1
+C11255,2025-08-08,M,40.0,North,2,40-70k,Silver,Mobile App,0,1
+C11256,2025-06-24,Male,32.0,South,2,20-40k,Gold,Mobile App,1,0
+C11257,2024-10-17,Male,35.0,Central,1,40-70k,Silver,In-Store,1,1
+C11258,2025-04-20,Female,46.0,North,2,40-70k,Gold,In-Store,1,1
+C11259,2024-11-07,Female,33.0,North,1,20-40k,Bronze,Mobile App,0,1
+C11260,2026-03-06,Male,25.0,Northeast,2,20-40k,Bronze,In-Store,1,0
+C11261,2025-01-09,Male,44.0,Central,3,40-70k,Silver,In-Store,0,0
+C11262,2025-09-24,Male,45.0,North,2,40-70k,Silver,Mobile App,1,1
+C11263,2024-10-29,Female,21.0,Central,1,<20k,Silver,Mobile App,0,1
+C11264,2024-12-11,Male,40.0,Central,1,40-70k,Gold,Mobile App,1,1
+C11265,2025-02-11,M,61.0,Northeast,3,20-40k,Silver,Mobile App,1,1
+C11266,2024-09-08,f,46.0,Bangkok,1,<20k,Gold,Mobile App,0,1
+C11267,2024-12-23,Female,22.0,North,1,40-70k,Gold,Mobile App,1,1
+C11268,2025-07-20,male,43.0,Central,1,40-70k,Gold,In-Store,1,1
+C11269,2025-01-19,Male,40.0,North,2,20-40k,Silver,Mobile App,1,1
+C11270,2026-02-13,Male,24.0,Northeast,2,20-40k,Bronze,In-Store,0,0
+C11271,2025-01-18,M,43.0,Central,1,>120k,Platinum,Mobile App,1,0
+C11272,2025-04-13,Male,44.0,Central,1,40-70k,Platinum,In-Store,1,1
+C11273,2025-04-24,Male,36.0,Bangkok,1,40-70k,Gold,In-Store,0,0
+C11274,2024-11-28,Male,44.0,Central,2,20-40k,Platinum,In-Store,1,0
+C11275,2025-03-25,Female,31.0,Central,1,40-70k,Bronze,Mobile App,1,1
+C11276,2025-11-06,Male,50.0,South,2,40-70k,Bronze,Online Web,1,0
+C11277,2024-08-26,F,40.0,North,1,20-40k,Bronze,Mobile App,1,0
+C11278,2025-06-13,F,45.0,North,2,40-70k,Platinum,Online Web,1,1
+C11279,2025-04-12,M,31.0,Northeast,1,20-40k,Silver,In-Store,0,0
+C11280,2025-01-21,Male,48.0,South,1,>120k,Silver,In-Store,0,1
+C11281,2025-11-09,F,39.0,North,2,20-40k,Bronze,In-Store,1,0
+C11282,2025-06-13,Male,37.0,North,1,70-120k,Silver,In-Store,1,1
+C11283,2024-12-27,Female,47.0,Bangkok,1,>120k,Gold,In-Store,1,0
+C11284,2025-03-21,Male,30.0,Central,1,40-70k,Silver,Online Web,1,1
+C11285,2025-02-27,f,35.0,Bangkok,1,70-120k,Gold,In-Store,1,0
+C11286,2025-12-12,female,50.0,Bangkok,1,40-70k,Bronze,In-Store,0,0
+C11287,2024-08-10,Female,39.0,South,2,70-120k,Silver,In-Store,1,0
+C11288,2025-12-01,Female,36.0,North,1,<20k,Silver,Mobile App,0,1
+C11289,2025-03-01,F,32.0,Bangkok,1,<20k,Silver,Mobile App,1,1
+C11290,2025-11-16,Female,24.0,Bangkok,1,70-120k,Bronze,Mobile App,1,1
+C11291,2025-09-21,Male,31.0,South,2,40-70k,Silver,Online Web,1,1
+C11292,2024-09-28,female,32.0,Bangkok,2,20-40k,Gold,Online Web,1,1
+C11293,2026-04-06,M,21.0,Bangkok,1,<20k,Silver,In-Store,0,0
+C11294,2025-05-09,M,,East,2,70-120k,Platinum,In-Store,1,1
+C11295,2025-06-02,Male,28.0,East,2,,Silver,In-Store,1,1
+C11296,2025-05-23,Female,45.0,Bangkok,2,70-120k,Platinum,Online Web,1,1
+C11297,2024-11-09,Female,33.0,Northeast,2,20-40k,Gold,Online Web,0,0
+C11298,2025-08-16,Female,29.0,North,1,40-70k,Bronze,In-Store,1,0
+C11299,2025-01-13,F,56.0,Central,1,<20k,Silver,In-Store,1,1
+C11300,2024-08-13,F,22.0,Bangkok,2,<20k,Silver,Online Web,0,0
+C11301,2024-09-29,female,30.0,East,1,70-120k,Gold,In-Store,1,0
+C11302,2026-02-06,M,,Bangkok,1,20-40k,Silver,In-Store,0,1
+C11303,2025-07-26,Male,45.0,Northeast,1,<20k,Silver,Mobile App,0,1
+C11304,2025-02-01,Female,24.0,Central,1,20-40k,Bronze,Mobile App,0,0
+C11305,2025-04-22,Female,42.0,Northeast,2,40-70k,Silver,In-Store,0,0
+C11306,2026-06-02,Female,26.0,East,2,40-70k,Bronze,In-Store,0,1
+C11307,2024-08-15,Female,20.0,Bangkok,3,20-40k,Silver,Mobile App,1,1
+C11308,2026-02-26,M,21.0,Central,2,40-70k,Silver,Mobile App,1,1
+C11309,2026-05-26,Female,41.0,Bangkok,3,20-40k,Bronze,In-Store,0,0
+C11310,2025-06-22,F,43.0,Bangkok,1,40-70k,Bronze,Mobile App,0,0
+C11311,2025-06-03,F,35.0,South,2,20-40k,Gold,In-Store,1,0
+C11312,2024-12-25,F,46.0,Bangkok,1,70-120k,Platinum,In-Store,1,0
+C11313,2026-06-20,M,20.0,Bangkok,1,20-40k,Gold,In-Store,0,0
+C11314,2024-09-02,Female,29.0,North,2,40-70k,Silver,In-Store,0,0
+C11315,2025-02-22,Female,43.0,Central,2,40-70k,Silver,Online Web,0,0
+C11316,2024-11-03,Female,36.0,Central,1,40-70k,Bronze,In-Store,0,0
+C11317,2026-01-15,F,33.0,Central,3,20-40k,Silver,Online Web,1,0
+C11318,2026-01-31,Male,20.0,Bangkok,1,20-40k,Bronze,In-Store,1,0
+C11319,2025-09-01,Female,30.0,Bangkok,1,,Silver,Online Web,1,0
+C11320,2024-11-13,Female,38.0,North,2,>120k,Bronze,In-Store,1,1
+C11321,2024-08-23,M,31.0,Northeast,3,70-120k,Platinum,In-Store,0,1
+C11322,2024-12-05,m,34.0,Bangkok,3,>120k,Silver,Mobile App,1,1
+C11323,2025-08-07,Male,39.0,Northeast,2,40-70k,Gold,Mobile App,1,1
+C11324,2024-09-22,F,30.0,Northeast,1,<20k,Silver,Mobile App,0,1
+C11325,2025-06-29,Male,45.0,Northeast,1,40-70k,Bronze,Online Web,0,0
+C11326,2025-01-24,Male,42.0,South,1,40-70k,Gold,In-Store,1,0
+C11327,2025-09-27,F,35.0,Bangkok,2,20-40k,Bronze,Mobile App,0,1
+C11328,2024-12-31,Female,30.0,Central,2,40-70k,Silver,Mobile App,1,1
+C11329,2025-05-08,Male,34.0,Bangkok,1,,Platinum,In-Store,1,0
+C11330,2025-08-22,Male,18.0,Bangkok,1,,Bronze,Online Web,0,0
+C11331,2024-09-21,M,31.0,Bangkok,2,<20k,Silver,Mobile App,0,1
+C11332,2024-08-11,F,,Central,1,20-40k,Bronze,In-Store,1,0
+C11333,2025-01-08,Male,33.0,Bangkok,2,20-40k,Platinum,Mobile App,0,1
+C11334,2025-05-12,F,35.0,Bangkok,3,70-120k,Bronze,In-Store,0,0
+C11335,2024-08-13,F,27.0,Northeast,2,20-40k,Platinum,In-Store,1,1
+C11336,2025-01-11,Female,34.0,Bangkok,3,70-120k,Silver,In-Store,1,0
+C11337,2025-08-06,male,33.0,Northeast,2,20-40k,Bronze,In-Store,1,0
+C11338,2025-08-19,Female,37.0,Central,2,70-120k,Gold,Online Web,1,1
+C11339,2024-09-11,M,51.0,Bangkok,2,40-70k,Platinum,In-Store,1,0
+C11340,2024-11-04,Male,35.0,Northeast,3,20-40k,Gold,In-Store,0,0
+C11341,2026-02-19,female,30.0,Central,2,40-70k,Gold,In-Store,0,0
+C11342,2025-11-21,M,35.0,North,1,20-40k,Bronze,In-Store,1,0
+C11343,2024-12-07,Female,41.0,,3,>120k,Platinum,Online Web,0,0
+C11344,2025-09-17,Female,37.0,Bangkok,2,,Silver,Online Web,0,0
+C11345,2026-04-28,Female,32.0,East,2,20-40k,Bronze,In-Store,0,0
+C11346,2025-02-11,Female,34.0,Bangkok,2,20-40k,Bronze,Mobile App,1,1
+C11347,2024-10-07,Female,48.0,Bangkok,3,70-120k,Gold,In-Store,1,1
+C11348,2025-12-16,F,25.0,North,1,<20k,Bronze,In-Store,0,0
+C11349,2025-08-13,Female,34.0,North,3,20-40k,Bronze,In-Store,1,0
+C11350,2025-04-26,Female,33.0,Northeast,1,20-40k,Silver,In-Store,1,0
+C11351,2026-03-08,Male,33.0,South,2,<20k,Platinum,In-Store,1,0
+C11352,2025-01-03,m,32.0,East,1,20-40k,Bronze,Mobile App,1,1
+C11353,2025-03-12,M,50.0,Bangkok,2,20-40k,Gold,Mobile App,1,1
+C11354,2024-11-01,M,36.0,Bangkok,1,70-120k,Bronze,In-Store,0,1
+C11355,2025-01-10,F,48.0,Bangkok,2,70-120k,Gold,Mobile App,1,1
+C11356,2026-03-30,Female,23.0,East,2,40-70k,Silver,In-Store,1,1
+C11357,2026-03-30,M,37.0,Central,2,,Bronze,In-Store,1,1
+C11358,2024-11-01,Female,27.0,Bangkok,1,<20k,Silver,In-Store,1,1
+C11359,2025-06-09,Female,31.0,Bangkok,2,20-40k,Silver,In-Store,1,0
+C11360,2025-04-09,Female,21.0,South,2,20-40k,Bronze,Mobile App,1,1
+C11361,2025-05-11,Female,20.0,South,2,70-120k,Gold,In-Store,0,0
+C11362,2025-06-28,Female,36.0,Bangkok,3,20-40k,Bronze,In-Store,1,1
+C11363,2024-12-08,F,40.0,East,1,20-40k,Silver,Online Web,1,0
+C11364,2024-11-23,M,25.0,Bangkok,2,<20k,Silver,In-Store,0,1
+C11365,2024-12-29,Male,18.0,Bangkok,1,40-70k,Gold,In-Store,1,1
+C11366,2025-03-11,Male,39.0,South,3,70-120k,Gold,Mobile App,1,0
+C11367,2024-12-17,Female,18.0,South,3,>120k,Bronze,In-Store,1,0
+C11368,2025-07-27,Male,,South,2,40-70k,Bronze,Mobile App,0,0
+C11369,2025-01-28,Female,43.0,North,3,70-120k,Gold,Online Web,1,0
+C11370,2025-09-01,Female,18.0,Central,2,40-70k,Silver,Mobile App,0,1
+C11371,2024-09-14,F,42.0,East,3,20-40k,Silver,In-Store,0,0
+C11372,2025-07-14,M,39.0,Central,2,,Gold,In-Store,1,0
+C11373,2024-09-06,Female,34.0,North,1,70-120k,Bronze,Mobile App,1,1
+C11374,2024-09-03,f,39.0,Bangkok,1,40-70k,Gold,In-Store,1,0
+C11375,2025-05-14,male,44.0,Central,1,40-70k,Platinum,In-Store,1,0
+C11376,2024-12-03,Male,46.0,Bangkok,1,70-120k,Bronze,In-Store,0,0
+C11377,2024-09-11,Male,37.0,Bangkok,3,70-120k,Silver,Mobile App,1,0
+C11378,2025-10-05,Male,36.0,Bangkok,2,20-40k,Silver,Online Web,0,0
+C11379,2025-04-04,Male,25.0,South,1,40-70k,Silver,Mobile App,0,1
+C11380,2026-04-10,M,19.0,Central,1,40-70k,Silver,In-Store,0,0
+C11381,2025-07-17,F,29.0,South,2,20-40k,Silver,In-Store,1,0
+C11382,2025-11-20,M,40.0,Bangkok,1,20-40k,Silver,Online Web,1,1
+C11383,2025-06-28,male,28.0,North,3,<20k,Gold,Mobile App,0,1
+C11384,2024-08-16,Male,23.0,Northeast,1,70-120k,Gold,In-Store,1,1
+C11385,2024-12-02,female,31.0,Central,1,<20k,Platinum,In-Store,1,0
+C11386,2025-03-25,Female,45.0,Bangkok,2,40-70k,Bronze,In-Store,0,0
+C11387,2025-01-24,Male,18.0,Bangkok,1,<20k,Bronze,In-Store,1,0
+C11388,2024-11-03,M,31.0,Bangkok,2,20-40k,Silver,In-Store,1,1
+C11389,2025-07-24,Male,40.0,Central,1,20-40k,Bronze,In-Store,0,0
+C11390,2025-01-23,Female,34.0,South,2,<20k,Gold,In-Store,0,1
+C11391,2026-05-25,female,18.0,,3,70-120k,Silver,In-Store,0,1
+C11392,2025-01-27,Male,35.0,Central,1,40-70k,Bronze,Mobile App,1,1
+C11393,2024-11-08,Female,39.0,Northeast,2,>120k,Gold,In-Store,0,0
+C11394,2025-12-22,Male,22.0,East,1,20-40k,Bronze,Mobile App,0,0
+C11395,2025-12-20,Male,26.0,Northeast,1,,Bronze,In-Store,0,1
+C11396,2024-12-13,Female,52.0,Bangkok,1,20-40k,Gold,In-Store,1,1
+C11397,2026-04-18,Female,24.0,Bangkok,1,40-70k,Bronze,In-Store,0,1
+C11398,2025-09-13,Male,28.0,Central,2,70-120k,Gold,In-Store,1,0
+C11399,2025-12-24,Male,40.0,Bangkok,3,<20k,Bronze,Online Web,1,0
+C11400,2024-10-25,M,24.0,Bangkok,1,40-70k,Gold,In-Store,0,1
+C11401,2026-04-06,Female,31.0,Bangkok,3,40-70k,Bronze,In-Store,1,0
+C11402,2024-12-01,Female,31.0,Bangkok,1,<20k,Silver,In-Store,1,0
+C11403,2025-05-11,M,44.0,Northeast,2,20-40k,Gold,In-Store,1,1
+C11404,2025-06-01,Female,22.0,Bangkok,3,40-70k,Bronze,In-Store,1,1
+C11405,2024-11-28,Male,21.0,South,2,20-40k,Bronze,Mobile App,1,1
+C11406,2024-10-20,Male,33.0,Bangkok,1,20-40k,Bronze,Online Web,0,0
+C11407,2024-10-20,Female,44.0,East,1,<20k,Gold,Mobile App,0,1
+C11408,2025-06-16,F,37.0,Central,2,40-70k,Gold,In-Store,0,1
+C11409,2025-01-22,Male,42.0,East,1,70-120k,Gold,In-Store,1,1
+C11410,2025-01-12,m,43.0,Northeast,1,70-120k,Silver,Online Web,1,0
+C11411,2024-10-27,Female,49.0,Central,2,>120k,Bronze,Online Web,1,1
+C11412,2026-04-28,Female,33.0,Bangkok,1,20-40k,Gold,In-Store,1,1
+C11413,2025-04-04,m,18.0,Bangkok,2,20-40k,Bronze,In-Store,1,0
+C11414,2026-05-06,M,,Bangkok,3,70-120k,Silver,In-Store,0,1
+C11415,2026-04-11,Male,31.0,Bangkok,1,40-70k,Bronze,Mobile App,0,1
+C11416,2026-03-20,F,30.0,Central,3,20-40k,Silver,Mobile App,0,1
+C11417,2026-05-14,Male,27.0,North,2,70-120k,Bronze,Mobile App,1,0
+C11418,2025-03-29,M,23.0,South,3,40-70k,Silver,In-Store,0,1
+C11419,2025-05-03,Male,28.0,Bangkok,1,70-120k,Platinum,Online Web,0,1
+C11420,2025-02-07,F,20.0,North,2,<20k,Silver,In-Store,0,1
+C11421,2025-03-04,M,27.0,Bangkok,2,>120k,Gold,Mobile App,0,1
+C11422,2025-03-07,Male,30.0,Bangkok,2,40-70k,Silver,Mobile App,1,0
+C11423,2026-03-27,Female,19.0,Central,3,<20k,Bronze,In-Store,0,0
+C11424,2025-04-24,Female,52.0,East,1,40-70k,Gold,In-Store,0,1
+C11425,2024-09-06,male,47.0,Northeast,1,<20k,Silver,Online Web,1,0
+C11426,2026-04-13,Female,40.0,Northeast,2,40-70k,Bronze,In-Store,0,0
+C11427,2024-08-04,Female,25.0,Bangkok,1,40-70k,Bronze,Online Web,1,0
+C11428,2024-11-11,M,39.0,East,3,<20k,Bronze,Online Web,1,0
+C11429,2024-08-03,M,45.0,North,3,40-70k,Gold,Online Web,0,0
+C11430,2024-10-07,Female,35.0,Bangkok,2,40-70k,Gold,Mobile App,1,1
+C11431,2024-10-16,Female,18.0,Central,1,40-70k,Silver,In-Store,1,0
+C11432,2025-04-17,F,46.0,Northeast,1,40-70k,Platinum,Mobile App,1,1
+C11433,2025-11-23,M,18.0,North,1,20-40k,Bronze,Mobile App,0,1
+C11434,2025-12-31,Male,43.0,Bangkok,2,20-40k,Gold,In-Store,0,1
+C11435,2024-08-04,F,38.0,Northeast,1,70-120k,Gold,Online Web,1,0
+C11436,2025-01-04,F,36.0,Northeast,1,70-120k,Gold,Online Web,0,1
+C11437,2026-04-28,F,22.0,East,1,20-40k,Bronze,In-Store,1,1
+C11438,2025-04-15,Female,,North,3,20-40k,Silver,In-Store,1,0
+C11439,2026-04-10,Female,28.0,North,3,<20k,Silver,Mobile App,0,1
+C11440,2024-11-08,Female,48.0,Bangkok,1,70-120k,Gold,Mobile App,1,0
+C11441,2024-12-04,M,,Bangkok,1,20-40k,Gold,In-Store,0,1
+C11442,2025-07-26,Female,48.0,East,2,40-70k,Bronze,In-Store,0,0
+C11443,2026-01-05,Female,24.0,East,1,20-40k,Gold,Online Web,1,1
+C11444,2025-05-19,Male,27.0,Bangkok,1,70-120k,Gold,Mobile App,0,1
+C11445,2025-08-06,F,27.0,Central,1,40-70k,Bronze,Mobile App,0,1
+C11446,2026-06-01,Female,27.0,Central,3,20-40k,Silver,In-Store,0,0
+C11447,2024-10-20,Male,46.0,South,1,40-70k,Bronze,Mobile App,1,0
+C11448,2024-08-27,Female,35.0,Central,1,40-70k,Bronze,Mobile App,1,1
+C11449,2025-05-21,F,46.0,North,1,70-120k,Platinum,Mobile App,1,0
+C11450,2024-10-28,Female,34.0,North,2,70-120k,Silver,Mobile App,1,1
+C11451,2025-03-12,M,32.0,,1,<20k,Bronze,In-Store,0,1
+C11452,2026-06-13,M,25.0,Central,2,20-40k,Silver,In-Store,1,1
+C11453,2024-12-22,Male,50.0,North,2,,Platinum,In-Store,1,1
+C11454,2024-12-14,Male,48.0,Northeast,2,40-70k,Silver,In-Store,1,1
+C11455,2024-11-05,Female,19.0,North,1,<20k,Gold,In-Store,0,0
+C11456,2025-11-13,Male,36.0,,2,20-40k,Bronze,In-Store,1,0
+C11457,2025-09-01,Female,43.0,South,1,,Bronze,In-Store,0,0
+C11458,2024-09-04,male,28.0,Bangkok,2,,Gold,Mobile App,1,0
+C11459,2024-11-01,M,35.0,Bangkok,1,40-70k,Gold,Mobile App,1,1
+C11460,2026-05-06,female,34.0,Bangkok,2,<20k,Bronze,Mobile App,1,0
+C11461,2024-09-07,M,39.0,Bangkok,2,20-40k,Silver,Online Web,1,1
+C11462,2025-03-23,Female,26.0,East,2,70-120k,Bronze,In-Store,1,0
+C11463,2024-11-09,f,18.0,Northeast,2,40-70k,Platinum,Mobile App,0,1
+C11464,2024-12-08,M,33.0,Bangkok,2,40-70k,Bronze,Online Web,0,1
+C11465,2025-03-31,F,31.0,Bangkok,2,40-70k,Silver,Online Web,0,0
+C11466,2025-05-17,f,19.0,East,2,40-70k,Silver,In-Store,1,0
+C11467,2025-05-30,M,41.0,South,3,40-70k,Gold,In-Store,1,1
+C11468,2025-11-22,Female,31.0,Bangkok,1,,Bronze,In-Store,0,0
+C11469,2024-12-29,Female,35.0,Bangkok,2,40-70k,Silver,In-Store,1,1
+C11470,2025-05-24,female,41.0,Northeast,1,40-70k,Bronze,Mobile App,1,1
+C11471,2026-04-23,Female,18.0,Northeast,3,20-40k,Silver,In-Store,1,0
+C11472,2024-12-04,F,33.0,Central,1,>120k,Platinum,Mobile App,1,1
+C11473,2024-08-23,Male,32.0,Bangkok,2,20-40k,Bronze,Mobile App,1,1
+C11474,2025-09-20,Male,31.0,Bangkok,3,,Silver,In-Store,1,0
+C11475,2024-11-01,F,40.0,Northeast,3,70-120k,Gold,In-Store,1,1
+C11476,2024-08-02,F,49.0,Bangkok,3,,Silver,In-Store,1,0
+C11477,2024-12-28,Male,44.0,Northeast,3,20-40k,Gold,Mobile App,0,0
+C11478,2024-09-05,Male,40.0,South,1,20-40k,Gold,Mobile App,1,1
+C11479,2026-04-13,Female,18.0,Northeast,3,,Gold,In-Store,1,0
+C11480,2025-06-05,Female,48.0,Bangkok,2,<20k,Silver,In-Store,0,0
+C11481,2025-08-23,M,31.0,Bangkok,2,<20k,Bronze,In-Store,0,1
+C11482,2024-08-23,Female,38.0,Bangkok,3,40-70k,Gold,In-Store,1,1
+C11483,2024-10-02,F,36.0,East,2,70-120k,Silver,In-Store,1,1
+C11484,2025-07-23,Male,39.0,Bangkok,1,40-70k,Bronze,In-Store,1,0
+C11485,2024-11-14,Female,23.0,Central,1,40-70k,Silver,Online Web,1,1
+C11486,2025-02-01,female,34.0,East,1,>120k,Silver,In-Store,1,0
+C11487,2026-02-10,Female,32.0,Northeast,2,40-70k,Silver,Mobile App,1,1
+C11488,2024-11-15,Male,30.0,Northeast,1,20-40k,Bronze,In-Store,1,1
+C11489,2025-01-15,Male,31.0,South,1,20-40k,Silver,In-Store,0,0
+C11490,2025-02-13,female,31.0,Central,1,40-70k,Platinum,Mobile App,1,0
+C11491,2025-12-16,male,,North,2,40-70k,Gold,In-Store,1,0
+C11492,2024-10-21,Male,31.0,North,3,40-70k,Platinum,In-Store,0,0
+C11493,2024-11-29,female,36.0,Bangkok,1,,Silver,Mobile App,0,0
+C11494,2026-04-07,Male,,East,3,20-40k,Gold,In-Store,1,1
+C11495,2026-06-14,F,23.0,,2,20-40k,Bronze,In-Store,1,0
+C11496,2026-05-04,M,38.0,Central,2,<20k,Bronze,In-Store,1,0
+C11497,2024-08-04,Male,20.0,East,1,<20k,Silver,In-Store,0,0
+C11498,2024-12-03,F,21.0,South,1,<20k,Bronze,In-Store,0,1
+C11499,2025-02-25,F,21.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C11500,2025-03-31,f,38.0,Northeast,3,40-70k,Bronze,Mobile App,0,0
+C11501,2024-10-29,f,65.0,Bangkok,2,70-120k,Platinum,In-Store,1,0
+C11502,2026-03-03,Male,25.0,Bangkok,2,20-40k,Bronze,In-Store,0,1
+C11503,2025-08-26,M,22.0,South,2,70-120k,Silver,Mobile App,1,1
+C11504,2024-11-03,Female,20.0,Bangkok,3,40-70k,Gold,Online Web,0,0
+C11505,2026-03-02,Male,23.0,East,1,20-40k,Silver,In-Store,0,1
+C11506,2026-04-11,male,,,3,20-40k,Silver,Online Web,0,1
+C11507,2024-10-23,Female,30.0,East,2,40-70k,Bronze,In-Store,1,0
+C11508,2024-12-12,Female,,North,1,,Silver,In-Store,1,0
+C11509,2025-09-25,Male,49.0,Bangkok,3,<20k,Gold,In-Store,1,0
+C11510,2025-02-03,Female,49.0,Central,1,<20k,Gold,Mobile App,1,1
+C11511,2024-10-01,Female,30.0,Central,2,<20k,Bronze,In-Store,1,1
+C11512,2026-01-24,Female,22.0,Bangkok,1,20-40k,Silver,In-Store,0,0
+C11513,2025-11-01,M,33.0,Northeast,1,70-120k,Gold,In-Store,1,1
+C11514,2024-12-30,Male,36.0,Central,1,,Bronze,In-Store,1,0
+C11515,2025-05-22,M,34.0,East,1,40-70k,Platinum,In-Store,1,0
+C11516,2024-09-07,Male,21.0,East,2,70-120k,Platinum,Online Web,0,0
+C11517,2024-08-10,M,23.0,Central,1,40-70k,Gold,Mobile App,1,1
+C11518,2024-09-16,Male,35.0,Central,2,,Gold,In-Store,0,0
+C11519,2025-08-26,Female,37.0,Central,1,,Platinum,In-Store,0,0
+C11520,2025-10-02,Female,43.0,,2,20-40k,Silver,In-Store,0,0
+C11521,2026-02-13,Male,,South,3,40-70k,Silver,In-Store,1,0
+C11522,2025-05-14,Female,26.0,Northeast,2,20-40k,Silver,In-Store,1,0
+C11523,2025-09-09,Female,37.0,Bangkok,1,20-40k,Silver,In-Store,0,1
+C11524,2024-11-19,Male,37.0,Northeast,2,40-70k,Silver,Mobile App,1,0
+C11525,2026-04-01,Female,34.0,Bangkok,1,20-40k,Bronze,In-Store,1,1
+C11526,2026-03-25,female,21.0,East,1,20-40k,Silver,In-Store,1,1
+C11527,2024-08-08,F,32.0,Bangkok,2,20-40k,Bronze,Mobile App,0,1
+C11528,2024-08-04,F,34.0,Bangkok,1,70-120k,Bronze,In-Store,1,0
+C11529,2025-09-06,male,18.0,South,2,20-40k,Bronze,In-Store,0,1
+C11530,2025-11-11,F,34.0,South,1,20-40k,Gold,In-Store,0,1
+C11531,2026-02-09,Male,26.0,Bangkok,2,20-40k,Bronze,In-Store,0,1
+C11532,2024-08-03,F,38.0,Northeast,2,>120k,Platinum,In-Store,1,0
+C11533,2025-07-16,Female,30.0,South,2,40-70k,Gold,In-Store,1,1
+C11534,2024-12-27,Male,33.0,Central,1,70-120k,Silver,In-Store,1,0
+C11535,2026-03-14,Female,27.0,Central,1,20-40k,Silver,In-Store,1,0
+C11536,2025-01-21,F,18.0,Central,2,20-40k,Silver,Online Web,1,0
+C11537,2025-08-23,Male,33.0,Northeast,3,20-40k,Bronze,Online Web,0,0
+C11538,2025-03-15,Male,36.0,North,2,<20k,Silver,In-Store,1,1
+C11539,2024-10-07,male,50.0,Bangkok,3,40-70k,Silver,Mobile App,0,1
+C11540,2025-12-27,Male,47.0,East,1,20-40k,Silver,In-Store,0,0
+C11541,2024-10-25,m,39.0,Bangkok,3,40-70k,Gold,Online Web,0,0
+C11542,2025-08-24,M,33.0,Central,1,20-40k,Platinum,Online Web,1,1
+C11543,2025-07-18,Female,23.0,East,2,20-40k,Gold,In-Store,1,1
+C11544,2024-08-21,Male,54.0,South,1,,Silver,Online Web,1,1
+C11545,2025-02-06,Male,44.0,East,1,>120k,Platinum,Mobile App,1,1
+C11546,2025-01-22,M,35.0,Bangkok,2,40-70k,Bronze,In-Store,1,1
+C11547,2025-07-12,F,18.0,Bangkok,1,40-70k,Bronze,In-Store,1,1
+C11548,2025-05-26,F,,Northeast,1,70-120k,Gold,In-Store,1,1
+C11549,2025-01-24,Female,41.0,Bangkok,3,70-120k,Gold,Mobile App,0,1
+C11550,2026-06-04,M,27.0,Central,2,20-40k,Silver,Mobile App,1,0
+C11551,2025-05-09,male,22.0,North,2,40-70k,Gold,In-Store,1,1
+C11552,2025-09-25,F,46.0,North,2,40-70k,Gold,Online Web,1,1
+C11553,2024-10-21,F,21.0,Central,1,40-70k,Gold,Online Web,1,0
+C11554,2025-12-13,Female,48.0,Bangkok,2,20-40k,Silver,In-Store,1,1
+C11555,2024-09-07,female,28.0,Bangkok,1,70-120k,Silver,In-Store,1,0
+C11556,2025-01-01,Male,,Bangkok,2,70-120k,Silver,Mobile App,1,0
+C11557,2025-02-20,Female,47.0,Bangkok,2,70-120k,Silver,In-Store,0,1
+C11558,2026-02-22,Female,18.0,Northeast,1,70-120k,Bronze,Online Web,1,1
+C11559,2025-12-29,Male,38.0,Central,1,<20k,Bronze,In-Store,0,1
+C11560,2025-02-01,male,21.0,Northeast,2,20-40k,Silver,In-Store,0,1
+C11561,2026-04-10,male,33.0,Bangkok,1,40-70k,Silver,In-Store,1,1
+C11562,2026-01-23,F,18.0,Bangkok,1,>120k,Bronze,In-Store,0,0
+C11563,2024-12-08,Female,18.0,Bangkok,1,<20k,Silver,In-Store,1,0
+C11564,2025-09-13,M,44.0,Northeast,2,70-120k,Silver,Mobile App,0,1
+C11565,2026-01-30,Male,18.0,Northeast,1,20-40k,Bronze,In-Store,0,1
+C11566,2024-08-04,Female,31.0,South,2,70-120k,Platinum,Mobile App,1,1
+C11567,2026-05-11,Male,19.0,Central,1,40-70k,Silver,In-Store,1,0
+C11568,2026-04-01,F,30.0,Bangkok,2,20-40k,Silver,In-Store,1,0
+C11569,2024-10-11,Male,21.0,Central,1,20-40k,Bronze,In-Store,1,1
+C11570,2025-05-18,Male,35.0,Bangkok,2,<20k,Bronze,In-Store,1,1
+C11571,2024-09-25,Female,18.0,Bangkok,1,70-120k,Gold,Mobile App,0,0
+C11572,2025-05-25,M,54.0,North,2,>120k,Platinum,Mobile App,1,0
+C11573,2025-09-10,Male,24.0,East,1,20-40k,Silver,In-Store,0,1
+C11574,2026-02-24,Male,22.0,Bangkok,1,,Bronze,Mobile App,1,1
+C11575,2025-10-26,Male,,Northeast,3,20-40k,Gold,Online Web,1,0
+C11576,2026-06-19,Male,19.0,Northeast,1,<20k,Bronze,In-Store,0,0
+C11577,2025-04-22,F,,Bangkok,3,40-70k,Bronze,In-Store,0,0
+C11578,2025-01-20,Female,45.0,Central,2,40-70k,Silver,Mobile App,1,1
+C11579,2026-02-21,Female,30.0,Bangkok,1,40-70k,Silver,In-Store,0,0
+C11580,2024-12-24,M,45.0,South,1,>120k,Platinum,Mobile App,1,1
+C11581,2024-08-30,Female,43.0,Northeast,1,20-40k,Silver,In-Store,1,0
+C11582,2025-01-04,Female,35.0,South,1,>120k,Gold,Online Web,1,0
+C11583,2026-03-06,Female,32.0,East,3,40-70k,Bronze,In-Store,1,1
+C11584,2024-10-09,Male,50.0,Bangkok,1,40-70k,Gold,In-Store,1,1
+C11585,2025-08-31,M,34.0,North,3,<20k,Bronze,Mobile App,1,1
+C11586,2026-05-12,Male,40.0,Bangkok,1,70-120k,Platinum,Mobile App,1,1
+C11587,2025-07-13,female,32.0,Bangkok,1,>120k,Silver,In-Store,1,1
+C11588,2025-05-09,Male,40.0,East,2,20-40k,Bronze,Mobile App,0,1
+C11589,2025-05-29,female,46.0,East,3,40-70k,Platinum,In-Store,0,0
+C11590,2025-09-23,M,39.0,Bangkok,2,20-40k,Silver,In-Store,1,0
+C11591,2025-05-22,Female,45.0,South,1,,Silver,Mobile App,0,1
+C11592,2024-08-20,M,34.0,Northeast,2,20-40k,Bronze,In-Store,1,0
+C11593,2024-09-15,Female,21.0,Bangkok,1,70-120k,Gold,Online Web,1,1
+C11594,2025-05-03,Male,18.0,Bangkok,3,40-70k,Silver,In-Store,1,0
+C11595,2024-11-18,Female,31.0,Northeast,2,20-40k,Bronze,In-Store,0,0
+C11596,2025-04-13,Female,45.0,South,2,40-70k,Gold,In-Store,0,1
+C11597,2024-10-17,Male,28.0,East,2,<20k,Silver,Mobile App,0,0
+C11598,2026-01-09,F,31.0,Central,1,>120k,Gold,Mobile App,1,1
+C11599,2024-11-21,M,26.0,Bangkok,3,70-120k,Platinum,In-Store,1,0
+C11600,2026-06-07,Male,34.0,Northeast,2,20-40k,Bronze,In-Store,1,0
+C11601,2024-09-01,Female,32.0,South,1,40-70k,Gold,In-Store,1,1
+C11602,2025-02-18,Male,48.0,Bangkok,1,70-120k,Bronze,In-Store,1,1
+C11603,2024-09-28,M,37.0,South,3,40-70k,Gold,Online Web,1,0
+C11604,2024-09-26,M,32.0,Central,2,<20k,Silver,In-Store,1,1
+C11605,2025-06-03,Female,,Central,1,70-120k,Gold,In-Store,1,1
+C11606,2025-04-28,M,39.0,Northeast,2,20-40k,Silver,In-Store,0,0
+C11607,2026-03-10,Male,,Bangkok,1,,Bronze,In-Store,1,0
+C11608,2025-12-06,female,29.0,Bangkok,2,20-40k,Silver,In-Store,0,1
+C11609,2024-10-05,F,35.0,Bangkok,1,40-70k,Bronze,Mobile App,0,1
+C11610,2024-12-21,Male,24.0,North,1,,Bronze,In-Store,1,1
+C11611,2025-03-03,F,18.0,North,1,70-120k,Bronze,Online Web,1,1
+C11612,2025-02-14,Female,33.0,East,1,>120k,Silver,In-Store,1,0
+C11613,2026-04-26,Male,20.0,Bangkok,1,40-70k,Bronze,In-Store,0,1
+C11614,2025-02-11,Female,22.0,,2,40-70k,Gold,In-Store,1,1
+C11615,2024-09-07,Female,26.0,Northeast,2,70-120k,Platinum,In-Store,1,0
+C11616,2025-04-04,Female,29.0,North,3,40-70k,Silver,In-Store,0,0
+C11617,2026-04-11,Male,18.0,Central,2,20-40k,Gold,Online Web,0,1
+C11618,2024-11-14,F,47.0,,1,<20k,Silver,In-Store,1,0
+C11619,2025-06-17,Male,22.0,Central,1,20-40k,Silver,In-Store,0,1
+C11620,2025-09-10,Female,44.0,Bangkok,3,70-120k,Silver,Mobile App,0,1
+C11621,2025-05-17,Female,34.0,Northeast,3,40-70k,Bronze,In-Store,1,1
+C11622,2025-06-09,Female,36.0,Central,2,20-40k,Bronze,Online Web,1,0
+C11623,2026-04-17,M,23.0,Central,3,40-70k,Silver,Online Web,0,0
+C11624,2026-02-20,female,30.0,Bangkok,2,40-70k,Silver,In-Store,1,0
+C11625,2024-08-16,M,36.0,Northeast,1,20-40k,Silver,Mobile App,1,0
+C11626,2024-09-24,Female,40.0,Bangkok,2,20-40k,Platinum,Mobile App,1,1
+C11627,2024-09-22,Male,50.0,Bangkok,2,40-70k,Platinum,In-Store,0,0
+C11628,2024-10-27,Male,62.0,Bangkok,1,20-40k,Silver,Mobile App,0,1
+C11629,2025-03-01,Male,18.0,Bangkok,2,70-120k,Silver,Mobile App,1,1
+C11630,2025-03-04,Male,31.0,South,1,70-120k,Silver,Online Web,1,0
+C11631,2025-07-19,Female,52.0,South,1,20-40k,Bronze,Mobile App,1,1
+C11632,2025-03-25,Male,32.0,Central,2,>120k,Silver,Mobile App,1,0
+C11633,2025-02-26,Male,43.0,Northeast,2,20-40k,Silver,Mobile App,1,1
+C11634,2025-07-12,Male,40.0,Northeast,2,>120k,Gold,In-Store,1,0
+C11635,2026-06-06,F,33.0,Northeast,2,40-70k,Silver,Mobile App,0,1
+C11636,2024-10-20,Male,43.0,South,2,20-40k,Bronze,In-Store,0,0
+C11637,2024-09-03,Female,33.0,Bangkok,1,40-70k,Gold,In-Store,0,0
+C11638,2024-10-04,Female,46.0,North,1,20-40k,Gold,In-Store,1,0
+C11639,2025-10-11,Male,38.0,South,2,40-70k,Gold,Online Web,0,1
+C11640,2025-04-24,M,28.0,Northeast,1,20-40k,Silver,Mobile App,0,0
+C11641,2025-08-29,Female,43.0,Northeast,2,<20k,Bronze,Online Web,0,0
+C11642,2024-09-14,Male,33.0,Central,3,,Gold,In-Store,1,0
+C11643,2025-09-23,female,42.0,Northeast,2,>120k,Bronze,In-Store,1,1
+C11644,2024-08-05,M,39.0,Bangkok,2,<20k,Bronze,Mobile App,0,1
+C11645,2025-04-03,Male,32.0,North,3,20-40k,Platinum,Online Web,1,1
+C11646,2025-01-08,Male,34.0,Central,2,20-40k,Gold,Mobile App,1,1
+C11647,2024-08-11,Male,40.0,Northeast,1,20-40k,Gold,Mobile App,1,1
+C11648,2024-09-24,M,36.0,Bangkok,2,,Silver,In-Store,0,0
+C11649,2025-04-10,Male,56.0,East,1,70-120k,Gold,In-Store,1,1
+C11650,2025-07-09,F,31.0,North,1,<20k,Bronze,In-Store,0,1
+C11651,2026-06-12,male,24.0,Central,2,<20k,Bronze,In-Store,0,0
+C11652,2025-03-16,Male,38.0,Bangkok,2,20-40k,Gold,Online Web,0,0
+C11653,2026-06-04,F,21.0,Central,2,20-40k,Bronze,In-Store,1,1
+C11654,2024-08-27,Female,19.0,Bangkok,2,70-120k,Gold,Mobile App,0,1
+C11655,2025-01-25,m,28.0,Bangkok,2,40-70k,Silver,Online Web,0,1
+C11656,2026-03-22,F,22.0,Bangkok,1,40-70k,Silver,In-Store,0,1
+C11657,2025-03-30,Male,18.0,North,1,40-70k,Bronze,Mobile App,0,0
+C11658,2025-12-30,Female,35.0,East,1,<20k,Silver,Online Web,0,0
+C11659,2024-10-16,F,26.0,Central,2,70-120k,Gold,In-Store,0,0
+C11660,2024-08-07,M,37.0,Central,1,40-70k,Bronze,Online Web,1,1
+C11661,2024-12-29,Male,32.0,Bangkok,2,20-40k,Silver,In-Store,1,1
+C11662,2025-12-09,Male,22.0,Northeast,1,70-120k,Bronze,In-Store,0,1
+C11663,2025-04-25,Male,22.0,South,3,20-40k,Bronze,Mobile App,0,1
+C11664,2026-03-28,Female,37.0,Bangkok,3,,Bronze,In-Store,1,1
+C11665,2025-11-03,Female,25.0,Northeast,1,40-70k,Silver,In-Store,1,1
+C11666,2026-02-11,Male,30.0,Northeast,2,,Gold,In-Store,0,0
+C11667,2025-11-23,Male,42.0,Northeast,3,20-40k,Bronze,Mobile App,0,0
+C11668,2025-01-23,female,32.0,Central,3,20-40k,Bronze,Mobile App,1,1
+C11669,2025-05-08,Female,26.0,Bangkok,2,20-40k,Silver,Mobile App,1,1
+C11670,2024-08-10,M,23.0,Bangkok,1,20-40k,Gold,Mobile App,1,0
+C11671,2025-12-24,Male,29.0,North,2,20-40k,Bronze,In-Store,1,0
+C11672,2025-03-28,F,35.0,Bangkok,1,20-40k,Bronze,In-Store,0,1
+C11673,2024-11-12,F,34.0,Bangkok,2,20-40k,Gold,Online Web,1,1
+C11674,2025-05-24,Male,39.0,Northeast,2,70-120k,Platinum,In-Store,1,0
+C11675,2024-08-22,F,37.0,Northeast,3,,Bronze,Mobile App,0,1
+C11676,2026-01-23,Male,43.0,North,3,70-120k,Bronze,In-Store,0,0
+C11677,2025-04-17,Male,35.0,Bangkok,2,20-40k,Platinum,In-Store,0,0
+C11678,2025-08-22,Male,35.0,,3,20-40k,Silver,Mobile App,0,1
+C11679,2024-08-29,F,49.0,Northeast,2,20-40k,Bronze,In-Store,0,0
+C11680,2025-07-12,M,,Northeast,1,70-120k,Silver,In-Store,1,1
+C11681,2025-05-23,Female,32.0,North,2,20-40k,Silver,In-Store,1,1
+C11682,2026-02-16,F,31.0,Central,2,>120k,Silver,In-Store,1,1
+C11683,2026-02-06,Male,21.0,Bangkok,3,40-70k,Silver,Online Web,1,0
+C11684,2026-02-03,male,38.0,North,2,40-70k,Silver,Mobile App,1,1
+C11685,2025-04-26,female,48.0,Bangkok,3,70-120k,Gold,In-Store,0,0
+C11686,2026-03-30,Female,,South,1,40-70k,Silver,Online Web,1,1
+C11687,2025-11-19,f,33.0,South,1,<20k,Bronze,In-Store,0,0
+C11688,2025-04-19,M,29.0,Northeast,1,20-40k,Gold,Mobile App,1,1
+C11689,2025-03-27,M,41.0,Northeast,2,70-120k,Platinum,Mobile App,0,1
+C11690,2025-05-18,Female,34.0,Northeast,2,40-70k,Bronze,In-Store,1,0
+C11691,2026-01-31,Female,40.0,North,2,20-40k,Gold,In-Store,1,0
+C11692,2025-11-29,F,32.0,Central,2,<20k,Bronze,Mobile App,0,1
+C11693,2025-01-23,Female,54.0,Bangkok,1,>120k,Gold,In-Store,1,0
+C11694,2024-08-02,Female,53.0,Bangkok,2,40-70k,Gold,In-Store,1,0
+C11695,2025-05-05,Male,33.0,Bangkok,2,<20k,Bronze,In-Store,0,1
+C11696,2026-06-02,Male,26.0,,1,20-40k,Bronze,In-Store,1,1
+C11697,2025-02-11,F,27.0,South,1,<20k,Bronze,In-Store,0,1
+C11698,2025-04-08,M,31.0,South,3,,Silver,In-Store,1,1
+C11699,2025-03-13,Male,34.0,,1,20-40k,Bronze,Mobile App,0,0
+C11700,2024-12-02,Female,39.0,Bangkok,1,40-70k,Bronze,Online Web,1,1
+C11701,2025-08-25,Male,37.0,North,2,<20k,Bronze,Mobile App,1,1
+C11702,2024-10-19,Male,51.0,East,2,40-70k,Silver,In-Store,1,0
+C11703,2025-06-19,M,29.0,Northeast,1,<20k,Silver,In-Store,0,0
+C11704,2025-06-03,female,41.0,Northeast,1,,Platinum,Mobile App,1,1
+C11705,2025-09-16,Male,37.0,Bangkok,3,40-70k,Gold,In-Store,1,0
+C11706,2025-01-18,Male,41.0,Northeast,2,40-70k,Gold,Mobile App,0,1
+C11707,2025-02-19,Female,32.0,Central,3,20-40k,Silver,Mobile App,1,1
+C11708,2026-01-17,f,33.0,Bangkok,1,20-40k,Bronze,Online Web,1,0
+C11709,2025-08-08,F,28.0,Bangkok,2,20-40k,Bronze,Mobile App,0,1
+C11710,2026-04-22,Male,27.0,Bangkok,2,70-120k,Bronze,In-Store,1,0
+C11711,2025-04-28,Male,43.0,South,2,40-70k,Platinum,Mobile App,1,1
+C11712,2026-05-04,male,41.0,Bangkok,1,,Bronze,Online Web,1,1
+C11713,2025-04-23,Female,40.0,South,3,20-40k,Silver,Online Web,0,0
+C11714,2024-10-14,Male,33.0,North,3,70-120k,Silver,In-Store,1,0
+C11715,2025-03-20,Female,31.0,Bangkok,1,>120k,Gold,Mobile App,1,1
+C11716,2025-05-16,Female,23.0,East,1,20-40k,Platinum,In-Store,0,0
+C11717,2025-09-16,female,,Central,1,20-40k,Bronze,Mobile App,1,1
+C11718,2024-08-10,Male,28.0,East,2,40-70k,Gold,Mobile App,0,1
+C11719,2024-10-29,Male,41.0,Bangkok,1,40-70k,Silver,In-Store,1,0
+C11720,2025-10-06,Female,44.0,Central,2,40-70k,Silver,In-Store,0,0
+C11721,2024-09-21,Male,51.0,North,1,70-120k,Gold,In-Store,1,0
+C11722,2025-12-29,Male,21.0,Central,1,20-40k,Bronze,Online Web,0,0
+C11723,2025-06-12,F,24.0,Central,2,70-120k,Bronze,In-Store,1,0
+C11724,2025-05-04,Male,32.0,Northeast,2,20-40k,Bronze,Online Web,0,0
+C11725,2024-08-20,Male,27.0,Central,3,70-120k,Bronze,In-Store,1,0
+C11726,2024-08-24,Male,38.0,East,2,<20k,Silver,In-Store,1,1
+C11727,2025-03-27,F,45.0,South,2,70-120k,Gold,Online Web,1,0
+C11728,2025-06-18,F,32.0,North,1,>120k,Gold,In-Store,1,0
+C11729,2025-03-20,F,42.0,Bangkok,1,<20k,Silver,Online Web,0,0
+C11730,2025-05-24,m,18.0,Bangkok,3,40-70k,Silver,Mobile App,0,1
+C11731,2025-09-10,Male,35.0,Northeast,1,40-70k,Bronze,Online Web,1,0
+C11732,2025-06-29,Male,34.0,Bangkok,3,<20k,Silver,In-Store,0,0
+C11733,2025-08-03,Male,33.0,Bangkok,2,70-120k,Silver,In-Store,1,1
+C11734,2025-08-27,Male,37.0,East,2,40-70k,Gold,In-Store,1,1
+C11735,2024-12-04,M,22.0,South,1,40-70k,Bronze,In-Store,0,0
+C11736,2025-05-04,F,22.0,Bangkok,1,20-40k,Platinum,In-Store,1,1
+C11737,2025-02-01,Female,18.0,Central,1,20-40k,Bronze,In-Store,1,1
+C11738,2025-03-09,Female,34.0,East,2,<20k,Bronze,In-Store,0,1
+C11739,2026-03-09,Male,18.0,Central,2,20-40k,Bronze,In-Store,0,0
+C11740,2026-03-12,M,28.0,Northeast,1,70-120k,Bronze,Mobile App,1,1
+C11741,2025-07-31,M,31.0,Bangkok,1,40-70k,Bronze,In-Store,1,1
+C11742,2024-12-09,Male,31.0,Central,3,20-40k,Gold,Online Web,1,1
+C11743,2025-06-17,Male,30.0,North,3,>120k,Bronze,In-Store,0,1
+C11744,2025-01-24,Female,47.0,Bangkok,2,70-120k,Gold,Mobile App,1,1
+C11745,2026-03-29,Female,31.0,Bangkok,2,20-40k,Bronze,Online Web,1,1
+C11746,2025-07-06,Male,28.0,Bangkok,1,40-70k,Gold,In-Store,0,0
+C11747,2024-12-13,Female,39.0,Northeast,2,40-70k,Silver,In-Store,1,0
+C11748,2025-03-20,Male,43.0,Bangkok,1,20-40k,Bronze,Online Web,1,1
+C11749,2025-09-08,F,40.0,Central,2,40-70k,Gold,Online Web,1,1
+C11750,2024-11-15,Female,53.0,Bangkok,2,70-120k,Gold,Mobile App,1,1
+C11751,2025-01-12,Female,32.0,Northeast,1,40-70k,Bronze,Mobile App,1,0
+C11752,2026-02-28,Male,36.0,North,1,<20k,Bronze,In-Store,1,0
+C11753,2025-09-10,F,,Northeast,2,<20k,Bronze,In-Store,1,0
+C11754,2025-02-27,Male,29.0,Bangkok,3,70-120k,Gold,In-Store,0,1
+C11755,2026-05-20,Female,21.0,Bangkok,3,<20k,Bronze,Online Web,0,0
+C11756,2026-06-03,Male,18.0,Bangkok,3,<20k,Bronze,In-Store,1,0
+C11757,2024-08-04,M,42.0,Northeast,1,70-120k,Bronze,In-Store,0,1
+C11758,2025-09-19,F,20.0,South,1,20-40k,Bronze,In-Store,0,0
+C11759,2024-09-24,Female,57.0,South,3,,Platinum,In-Store,1,1
+C11760,2024-08-18,F,29.0,North,2,<20k,Gold,In-Store,0,0
+C11761,2025-08-05,F,38.0,Bangkok,1,20-40k,Bronze,In-Store,1,0
+C11762,2024-09-01,Female,61.0,East,1,40-70k,Platinum,Mobile App,1,1
+C11763,2024-10-10,M,31.0,Central,1,70-120k,Platinum,In-Store,0,1
+C11764,2025-02-22,F,20.0,South,1,40-70k,Gold,In-Store,0,0
+C11765,2025-02-03,M,46.0,Bangkok,1,<20k,Gold,Mobile App,1,1
+C11766,2024-10-22,F,28.0,North,1,40-70k,Bronze,Online Web,1,0
+C11767,2025-06-09,Female,27.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C11768,2025-02-02,Female,34.0,North,1,20-40k,Silver,Online Web,0,1
+C11769,2024-08-24,M,49.0,Bangkok,3,<20k,Silver,In-Store,0,0
+C11770,2024-11-05,Female,29.0,East,2,40-70k,Bronze,In-Store,1,0
+C11771,2025-05-16,M,49.0,Bangkok,1,,Gold,Mobile App,0,0
+C11772,2024-10-04,male,31.0,Central,1,20-40k,Silver,Mobile App,1,1
+C11773,2025-04-17,Female,173.0,Bangkok,3,20-40k,Gold,In-Store,0,0
+C11774,2025-11-10,M,29.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C11775,2024-08-06,Female,44.0,Bangkok,3,20-40k,Bronze,Mobile App,1,1
+C11776,2025-02-14,F,50.0,East,1,<20k,Bronze,Mobile App,0,0
+C11777,2024-09-27,Female,36.0,Central,2,40-70k,Bronze,In-Store,1,0
+C11778,2025-09-25,Male,18.0,Central,3,<20k,Bronze,In-Store,1,1
+C11779,2024-12-06,Male,50.0,Central,3,<20k,Platinum,In-Store,1,1
+C11780,2024-12-31,Male,28.0,Central,1,40-70k,Bronze,In-Store,1,0
+C11781,2025-05-25,Female,25.0,Northeast,2,40-70k,Gold,Mobile App,1,1
+C11782,2025-11-28,male,37.0,East,3,40-70k,Bronze,Mobile App,1,1
+C11783,2026-01-28,Male,39.0,Bangkok,2,40-70k,Bronze,In-Store,0,0
+C11784,2026-04-12,F,21.0,Northeast,1,20-40k,Silver,In-Store,0,0
+C11785,2025-06-25,M,34.0,Bangkok,1,20-40k,Bronze,In-Store,0,1
+C11786,2025-04-14,F,47.0,Bangkok,1,70-120k,Gold,Mobile App,1,1
+C11787,2024-10-30,Female,30.0,South,1,<20k,Silver,Online Web,0,0
+C11788,2026-05-15,Male,28.0,Bangkok,1,40-70k,Silver,Mobile App,0,1
+C11789,2026-06-12,F,18.0,North,1,20-40k,Silver,In-Store,0,0
+C11790,2024-08-15,Female,21.0,Bangkok,1,20-40k,Bronze,In-Store,1,0
+C11791,2025-06-17,F,54.0,Bangkok,1,40-70k,Bronze,In-Store,1,0
+C11792,2024-09-30,f,33.0,North,2,40-70k,Platinum,Mobile App,1,1
+C11793,2025-07-20,M,44.0,Central,1,40-70k,Bronze,Mobile App,1,0
+C11794,2025-05-23,F,49.0,East,2,70-120k,Silver,In-Store,1,1
+C11795,2026-03-23,male,35.0,Northeast,1,,Bronze,In-Store,0,1
+C11796,2026-06-14,Male,31.0,South,2,<20k,Silver,Mobile App,0,0
+C11797,2024-10-22,M,23.0,Northeast,3,40-70k,Gold,In-Store,1,1
+C11798,2025-02-01,Male,27.0,North,2,20-40k,Bronze,In-Store,1,0
+C11799,2026-06-03,female,29.0,Northeast,1,40-70k,Silver,In-Store,1,1
+C11800,2025-11-18,F,25.0,Bangkok,3,40-70k,Silver,In-Store,1,0
+C11801,2025-03-09,F,43.0,Northeast,2,20-40k,Bronze,Online Web,0,0
+C11802,2025-10-27,F,44.0,Central,1,40-70k,Bronze,In-Store,1,1
+C11803,2024-09-25,male,19.0,North,3,70-120k,Silver,In-Store,0,1
+C11804,2026-03-05,F,27.0,North,1,>120k,Bronze,Mobile App,1,1
+C11805,2026-06-15,Male,18.0,Central,1,20-40k,Bronze,Online Web,0,1
+C11806,2025-01-03,M,29.0,Bangkok,1,20-40k,Silver,In-Store,0,0
+C11807,2025-03-05,Female,46.0,Bangkok,1,40-70k,Gold,Mobile App,1,1
+C11808,2026-05-11,M,24.0,Northeast,3,40-70k,Bronze,In-Store,0,1
+C11809,2026-01-30,Female,24.0,Northeast,3,70-120k,Silver,In-Store,1,0
+C11810,2024-09-23,Male,32.0,East,1,70-120k,Silver,Mobile App,1,0
+C11811,2026-03-24,male,29.0,South,1,20-40k,Bronze,Mobile App,1,1
+C11812,2025-07-25,Female,26.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C11813,2026-04-19,Female,,Northeast,1,20-40k,Bronze,In-Store,0,0
+C11814,2026-05-01,Male,34.0,Central,1,20-40k,Bronze,In-Store,0,0
+C11815,2026-06-09,M,19.0,Northeast,2,20-40k,Bronze,In-Store,1,0
+C11816,2025-03-03,M,37.0,Bangkok,2,>120k,Silver,Online Web,0,0
+C11817,2024-11-26,Male,35.0,East,1,,Gold,In-Store,1,0
+C11818,2024-08-15,M,33.0,South,1,20-40k,Bronze,In-Store,0,1
+C11819,2025-06-03,Male,25.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C11820,2025-04-23,F,43.0,Central,1,70-120k,Gold,In-Store,1,0
+C11821,2025-03-25,M,41.0,North,2,20-40k,Platinum,Mobile App,1,0
+C11822,2026-02-24,Female,33.0,Northeast,1,70-120k,Bronze,In-Store,0,1
+C11823,2025-02-12,Male,27.0,Bangkok,1,<20k,Silver,Online Web,1,1
+C11824,2025-06-03,F,44.0,Central,3,20-40k,Silver,In-Store,1,0
+C11825,2025-05-21,F,43.0,Central,2,40-70k,Gold,Online Web,1,1
+C11826,2024-11-07,Female,43.0,Northeast,1,40-70k,Gold,Mobile App,1,1
+C11827,2024-11-24,Female,69.0,South,2,20-40k,Bronze,Mobile App,1,0
+C11828,2024-09-09,m,19.0,East,3,<20k,Bronze,Mobile App,1,1
+C11829,2024-11-14,Female,32.0,East,2,20-40k,Silver,In-Store,1,1
+C11830,2026-04-06,F,39.0,Central,1,70-120k,Bronze,In-Store,0,1
+C11831,2026-01-28,Male,20.0,Bangkok,1,20-40k,Gold,In-Store,0,1
+C11832,2024-08-17,Female,55.0,Bangkok,2,40-70k,Platinum,In-Store,1,1
+C11833,2025-04-07,m,36.0,North,1,>120k,Bronze,Online Web,1,1
+C11834,2025-01-12,Male,47.0,Central,1,70-120k,Platinum,Mobile App,1,1
+C11835,2024-12-04,F,35.0,South,3,70-120k,Bronze,In-Store,0,0
+C11836,2025-07-19,Male,40.0,East,3,40-70k,Bronze,In-Store,1,1
+C11837,2025-11-03,Male,25.0,Central,3,40-70k,Silver,In-Store,0,1
+C11838,2025-05-03,Male,33.0,Central,1,40-70k,Bronze,In-Store,0,1
+C11839,2024-12-19,M,46.0,North,2,70-120k,Gold,In-Store,1,1
+C11840,2024-08-23,Male,55.0,Central,1,40-70k,Gold,In-Store,1,0
+C11841,2024-11-24,male,32.0,Northeast,3,40-70k,Silver,In-Store,1,0
+C11842,2025-01-21,female,37.0,South,2,>120k,Platinum,In-Store,1,1
+C11843,2024-10-01,Male,34.0,Bangkok,3,<20k,Gold,In-Store,1,0
+C11844,2025-03-29,F,21.0,Northeast,3,40-70k,Gold,Online Web,0,1
+C11845,2025-02-17,Female,34.0,South,1,70-120k,Silver,Mobile App,1,1
+C11846,2025-07-25,male,27.0,Central,1,<20k,Silver,In-Store,1,1
+C11847,2024-10-30,Female,41.0,Northeast,1,20-40k,Silver,Online Web,1,1
+C11848,2026-06-07,Female,36.0,North,3,40-70k,Bronze,In-Store,1,1
+C11849,2025-01-29,Male,44.0,Central,3,40-70k,Bronze,In-Store,0,0
+C11850,2024-11-18,Male,26.0,South,2,>120k,Platinum,Online Web,1,0
+C11851,2025-02-19,Female,38.0,North,3,40-70k,Silver,In-Store,1,1
+C11852,2025-01-26,Female,28.0,Bangkok,1,70-120k,Bronze,Mobile App,1,0
+C11853,2026-01-28,Male,35.0,East,1,,Bronze,In-Store,1,1
+C11854,2024-08-21,F,40.0,East,3,20-40k,Bronze,Online Web,0,0
+C11855,2024-12-22,Female,50.0,East,1,<20k,Platinum,In-Store,1,1
+C11856,2024-11-07,Female,29.0,Bangkok,2,40-70k,Silver,Online Web,0,1
+C11857,2026-06-04,Female,31.0,Bangkok,1,20-40k,Gold,Mobile App,0,0
+C11858,2025-05-23,female,31.0,South,3,40-70k,Silver,In-Store,0,0
+C11859,2025-11-01,Male,30.0,Bangkok,1,20-40k,Silver,In-Store,0,0
+C11860,2025-04-20,Male,35.0,North,2,40-70k,Silver,In-Store,1,0
+C11861,2024-09-21,f,36.0,Northeast,1,40-70k,Silver,In-Store,1,0
+C11862,2026-06-13,F,42.0,East,2,20-40k,Platinum,In-Store,0,1
+C11863,2026-03-31,F,25.0,North,2,40-70k,Gold,Mobile App,1,1
+C11864,2025-05-05,M,35.0,Northeast,1,20-40k,Bronze,Mobile App,1,0
+C11865,2024-12-13,Female,32.0,,2,<20k,Silver,Online Web,1,0
+C11866,2025-06-15,Male,29.0,South,2,20-40k,Bronze,Online Web,1,1
+C11867,2026-01-13,Female,28.0,Central,1,<20k,Bronze,In-Store,0,1
+C11868,2025-05-27,F,40.0,Bangkok,1,40-70k,Gold,In-Store,1,0
+C11869,2026-01-17,female,36.0,Central,3,70-120k,Bronze,Online Web,1,1
+C11870,2025-01-28,M,33.0,South,3,70-120k,Gold,Mobile App,1,0
+C11871,2024-09-12,M,32.0,Central,3,40-70k,Gold,Online Web,1,1
+C11872,2025-05-03,Female,35.0,Bangkok,2,40-70k,Bronze,Online Web,0,1
+C11873,2024-09-12,Female,37.0,Northeast,1,<20k,Gold,Mobile App,0,1
+C11874,2026-05-19,Female,31.0,South,3,20-40k,Gold,Mobile App,0,1
+C11875,2025-12-07,F,47.0,Northeast,1,20-40k,Gold,In-Store,1,0
+C11876,2025-04-17,Male,,,1,<20k,Silver,In-Store,1,0
+C11877,2025-01-09,male,28.0,Central,2,20-40k,Gold,Online Web,0,0
+C11878,2026-06-14,M,26.0,South,1,20-40k,Bronze,Mobile App,0,1
+C11879,2025-06-01,Male,,South,2,20-40k,Bronze,Mobile App,0,1
+C11880,2024-12-12,Male,,East,3,20-40k,Platinum,Online Web,0,1
+C11881,2025-10-29,Male,33.0,Bangkok,2,,Silver,In-Store,1,1
+C11882,2026-06-11,F,27.0,Northeast,1,20-40k,Bronze,In-Store,1,1
+C11883,2025-08-04,Male,,Bangkok,1,70-120k,Gold,In-Store,1,1
+C11884,2025-09-13,Male,32.0,South,2,20-40k,Gold,Online Web,1,1
+C11885,2025-07-23,Male,29.0,Northeast,3,>120k,Silver,Mobile App,1,1
+C11886,2025-05-20,Male,40.0,,2,40-70k,Gold,In-Store,1,1
+C11887,2025-03-10,F,33.0,Bangkok,3,<20k,Bronze,Mobile App,1,1
+C11888,2025-03-31,Male,31.0,Bangkok,2,<20k,Bronze,In-Store,0,1
+C11889,2025-03-07,Male,30.0,East,1,40-70k,Silver,In-Store,1,1
+C11890,2025-03-23,Male,35.0,East,2,40-70k,Bronze,Mobile App,0,1
+C11891,2024-08-05,Female,46.0,Bangkok,1,70-120k,Silver,Online Web,0,1
+C11892,2025-04-12,F,50.0,Bangkok,1,40-70k,Platinum,Online Web,1,0
+C11893,2025-05-31,Male,18.0,Bangkok,2,20-40k,Silver,In-Store,0,1
+C11894,2024-12-15,Female,52.0,Central,1,70-120k,Bronze,In-Store,0,1
+C11895,2025-05-16,Male,42.0,Northeast,1,20-40k,Gold,In-Store,1,1
+C11896,2026-04-06,Male,18.0,Bangkok,3,40-70k,Silver,Online Web,1,0
+C11897,2024-12-11,Female,44.0,Bangkok,2,70-120k,Gold,In-Store,1,0
+C11898,2026-03-22,Female,29.0,East,1,40-70k,Silver,In-Store,1,0
+C11899,2024-12-01,Male,48.0,Northeast,2,40-70k,Platinum,Mobile App,0,1
+C11900,2025-07-15,Male,43.0,Central,1,70-120k,Bronze,Mobile App,1,1
+C11901,2024-08-14,Female,30.0,North,3,70-120k,Silver,Online Web,0,0
+C11902,2026-06-11,male,,South,3,<20k,Bronze,In-Store,1,1
+C11903,2026-03-31,Male,31.0,North,1,,Bronze,In-Store,0,0
+C11904,2024-12-26,Female,50.0,Bangkok,2,20-40k,Silver,In-Store,0,1
+C11905,2025-02-13,Female,33.0,Northeast,1,>120k,Platinum,In-Store,1,0
+C11906,2026-02-26,Male,25.0,Bangkok,1,40-70k,Bronze,In-Store,1,1
+C11907,2024-10-24,m,34.0,Central,3,<20k,Bronze,Online Web,0,1
+C11908,2026-02-18,Female,20.0,Central,3,20-40k,Bronze,Mobile App,0,1
+C11909,2025-02-08,Female,40.0,Bangkok,1,<20k,Gold,Mobile App,0,0
+C11910,2024-08-17,F,33.0,Central,1,20-40k,Bronze,In-Store,1,1
+C11911,2025-03-19,Female,33.0,Central,1,70-120k,Platinum,Mobile App,1,1
+C11912,2024-08-31,F,38.0,Bangkok,2,40-70k,Gold,Mobile App,1,1
+C11913,2025-01-31,Male,18.0,,2,>120k,Platinum,Online Web,1,1
+C11914,2024-08-25,Female,41.0,East,3,>120k,Gold,In-Store,1,0
+C11915,2024-11-10,M,26.0,North,1,,Silver,Mobile App,1,1
+C11916,2026-01-27,Female,24.0,Northeast,2,<20k,Silver,In-Store,0,1
+C11917,2025-06-19,Female,21.0,South,3,,Bronze,In-Store,1,0
+C11918,2026-04-02,Female,35.0,Central,2,40-70k,Bronze,In-Store,1,0
+C11919,2024-08-21,Male,45.0,Bangkok,1,20-40k,Silver,In-Store,0,1
+C11920,2024-12-25,F,41.0,Bangkok,2,70-120k,Bronze,Mobile App,0,1
+C11921,2026-01-09,female,27.0,Northeast,1,70-120k,Gold,In-Store,1,1
+C11922,2024-09-22,F,24.0,Bangkok,3,40-70k,Gold,In-Store,1,0
+C11923,2024-10-31,Female,,Bangkok,1,70-120k,Bronze,Online Web,0,1
+C11924,2025-10-15,Male,44.0,North,3,20-40k,Silver,In-Store,0,1
+C11925,2025-07-04,Female,27.0,Bangkok,1,40-70k,Bronze,Mobile App,0,1
+C11926,2026-05-20,F,18.0,Bangkok,3,40-70k,Silver,Mobile App,0,1
+C11927,2024-12-19,Male,41.0,Bangkok,2,70-120k,Platinum,In-Store,0,1
+C11928,2024-10-13,F,27.0,Northeast,3,<20k,Gold,Mobile App,1,1
+C11929,2024-11-24,Male,44.0,Northeast,2,70-120k,Gold,In-Store,1,1
+C11930,2025-11-23,F,35.0,South,1,70-120k,Silver,In-Store,1,1
+C11931,2025-04-14,M,23.0,South,1,20-40k,Platinum,In-Store,0,1
+C11932,2025-03-20,Male,33.0,Bangkok,1,20-40k,Bronze,In-Store,1,0
+C11933,2025-12-27,Male,37.0,North,1,20-40k,Bronze,In-Store,1,0
+C11934,2025-05-24,F,36.0,North,2,70-120k,Silver,In-Store,1,0
+C11935,2025-06-13,female,23.0,Northeast,3,<20k,Silver,In-Store,1,0
+C11936,2025-03-03,F,36.0,Bangkok,3,20-40k,Gold,In-Store,1,0
+C11937,2024-08-31,Female,,Bangkok,2,40-70k,Gold,Online Web,0,1
+C11938,2025-07-03,Female,27.0,Northeast,1,<20k,Silver,Mobile App,0,1
+C11939,2025-07-26,Male,22.0,Bangkok,2,40-70k,Silver,In-Store,0,0
+C11940,2025-05-23,Male,41.0,Bangkok,2,40-70k,Gold,In-Store,0,1
+C11941,2026-06-17,F,24.0,Bangkok,3,,Bronze,In-Store,1,0
+C11942,2024-08-06,male,35.0,South,1,40-70k,Silver,In-Store,0,1
+C11943,2025-03-10,Male,26.0,Bangkok,2,,Platinum,In-Store,0,0
+C11944,2025-06-27,f,40.0,Northeast,3,40-70k,Silver,In-Store,0,0
+C11945,2025-06-12,Female,18.0,South,2,70-120k,Bronze,In-Store,0,0
+C11946,2025-04-20,M,45.0,South,2,>120k,Silver,Mobile App,1,1
+C11947,2024-12-28,Female,35.0,Northeast,1,<20k,Gold,Mobile App,0,1
+C11948,2025-09-03,Female,60.0,Central,3,20-40k,Bronze,Mobile App,1,1
+C11949,2024-09-27,Female,32.0,Central,2,<20k,Gold,Online Web,1,0
+C11950,2024-08-15,Male,18.0,Bangkok,1,40-70k,Gold,Mobile App,0,1
+C11951,2025-04-01,Male,47.0,Central,2,70-120k,Silver,Online Web,1,1
+C11952,2025-07-11,Male,41.0,Northeast,3,40-70k,Gold,Mobile App,1,1
+C11953,2024-11-20,F,35.0,Bangkok,2,70-120k,Platinum,In-Store,1,0
+C11954,2025-05-02,female,33.0,East,3,40-70k,Platinum,Mobile App,1,1
+C11955,2025-04-05,M,25.0,Central,2,40-70k,Platinum,In-Store,1,0
+C11956,2025-06-05,Male,39.0,Central,3,>120k,Bronze,In-Store,0,1
+C11957,2025-05-12,Female,50.0,Central,1,<20k,Bronze,In-Store,0,0
+C11958,2025-02-22,female,41.0,North,3,40-70k,Bronze,Online Web,0,0
+C11959,2024-11-14,Female,18.0,Northeast,2,70-120k,Bronze,Online Web,0,0
+C11960,2025-03-08,F,29.0,North,2,<20k,Bronze,In-Store,1,1
+C11961,2024-11-20,Male,,,2,20-40k,Bronze,In-Store,0,1
+C11962,2024-10-06,Male,26.0,Central,3,20-40k,Gold,Mobile App,1,1
+C11963,2026-03-01,Female,43.0,Northeast,2,,Bronze,In-Store,0,1
+C11964,2024-08-08,Male,,Bangkok,2,40-70k,Bronze,In-Store,1,0
+C11965,2024-08-04,Female,36.0,Northeast,2,20-40k,Silver,In-Store,1,0
+C11966,2025-02-24,F,44.0,Northeast,3,40-70k,Silver,Mobile App,0,1
+C11967,2025-03-02,male,33.0,Bangkok,2,40-70k,Platinum,In-Store,1,1
+C11968,2024-12-11,male,36.0,East,3,40-70k,Silver,In-Store,1,0
+C11969,2025-01-19,F,34.0,East,1,40-70k,Gold,In-Store,1,0
+C11970,2026-04-15,Female,31.0,North,1,70-120k,Bronze,In-Store,1,1
+C11971,2026-01-31,F,23.0,Bangkok,1,70-120k,Bronze,In-Store,1,0
+C11972,2024-09-08,Male,38.0,Bangkok,2,40-70k,Bronze,In-Store,0,1
+C11973,2024-12-09,Male,35.0,North,3,70-120k,Platinum,Mobile App,1,1
+C11974,2025-11-24,Male,25.0,East,3,20-40k,Silver,In-Store,0,0
+C11975,2024-08-04,M,44.0,Central,1,40-70k,Silver,In-Store,0,0
+C11976,2025-05-19,f,39.0,Northeast,1,20-40k,Silver,In-Store,1,1
+C11977,2026-02-21,Female,35.0,East,2,40-70k,Silver,In-Store,0,1
+C11978,2026-06-20,Male,42.0,Northeast,2,<20k,Bronze,Mobile App,0,1
+C11979,2025-06-12,M,33.0,East,3,20-40k,Gold,Mobile App,0,1
+C11980,2025-07-20,Female,43.0,Bangkok,2,40-70k,Gold,Online Web,0,0
+C11981,2025-02-01,M,122.0,North,3,40-70k,Silver,In-Store,1,0
+C11982,2024-08-31,F,27.0,South,2,70-120k,Platinum,Mobile App,0,1
+C11983,2025-12-07,F,27.0,Bangkok,1,40-70k,Bronze,Mobile App,1,1
+C11984,2024-12-11,Female,25.0,North,1,<20k,Bronze,Mobile App,0,1
+C11985,2024-08-29,Male,41.0,North,3,>120k,Platinum,In-Store,1,1
+C11986,2025-03-22,Male,45.0,Bangkok,3,20-40k,Gold,In-Store,0,1
+C11987,2025-04-01,Male,30.0,Bangkok,1,70-120k,Silver,Mobile App,0,1
+C11988,2026-05-19,F,18.0,North,2,40-70k,Silver,Online Web,1,0
+C11989,2025-01-11,Male,26.0,Central,2,>120k,Gold,In-Store,1,0
+C11990,2026-06-07,male,24.0,Central,3,<20k,Gold,In-Store,1,0
+C11991,2024-12-28,Female,25.0,Bangkok,1,40-70k,Silver,Mobile App,0,0
+C11992,2025-08-10,M,27.0,East,2,>120k,Bronze,In-Store,1,1
+C11993,2024-09-15,Male,29.0,Bangkok,2,<20k,Platinum,Mobile App,1,1
+C11994,2025-03-29,F,19.0,Bangkok,1,<20k,Silver,In-Store,1,1
+C11995,2025-05-10,F,44.0,North,2,,Silver,In-Store,1,0
+C11996,2024-08-11,M,32.0,Bangkok,1,70-120k,Silver,In-Store,1,1
+C11997,2026-05-12,Female,26.0,East,2,40-70k,Bronze,In-Store,0,0
+C11998,2025-03-29,Male,28.0,South,3,20-40k,Gold,In-Store,0,1
+C11999,2026-01-09,Female,48.0,Northeast,2,20-40k,Gold,In-Store,1,1
+C12000,2024-12-14,Female,48.0,Northeast,1,40-70k,Silver,In-Store,0,0
+C12001,2025-02-26,Female,46.0,Bangkok,1,<20k,Bronze,Online Web,0,0
+C12002,2026-02-14,Female,41.0,Bangkok,3,20-40k,Bronze,In-Store,1,0
+C12003,2026-02-13,Female,28.0,Bangkok,1,<20k,Bronze,Mobile App,0,1
+C12004,2025-03-10,F,38.0,Central,3,40-70k,Silver,In-Store,1,1
+C12005,2025-10-02,Male,22.0,Bangkok,3,<20k,Silver,In-Store,1,1
+C12006,2024-09-21,Male,39.0,Northeast,2,70-120k,Bronze,Online Web,1,1
+C12007,2025-12-28,Female,29.0,Northeast,2,40-70k,Bronze,In-Store,0,1
+C12008,2025-02-22,F,43.0,Northeast,1,70-120k,Platinum,In-Store,1,0
+C12009,2024-11-28,male,63.0,North,2,<20k,Silver,Online Web,1,0
+C12010,2025-01-23,Male,24.0,Bangkok,2,<20k,Silver,Mobile App,1,1
+C12011,2025-03-01,Male,,East,2,70-120k,Gold,In-Store,1,1
+C12012,2024-09-04,Female,31.0,Bangkok,1,40-70k,Platinum,In-Store,1,1
+C12013,2025-09-25,F,45.0,Bangkok,1,70-120k,Bronze,In-Store,1,0
+C12014,2025-02-18,M,42.0,South,3,<20k,Silver,Mobile App,1,0
+C12015,2025-05-05,Female,33.0,,1,>120k,Gold,Mobile App,1,1
+C12016,2025-01-28,Female,42.0,,1,20-40k,Platinum,In-Store,0,0
+C12017,2025-06-16,Male,37.0,East,3,20-40k,Bronze,Mobile App,1,0
+C12018,2025-03-15,Female,30.0,Central,1,40-70k,Silver,In-Store,1,0
+C12019,2026-05-28,Male,21.0,Central,1,70-120k,Gold,In-Store,0,1
+C12020,2025-08-03,Male,27.0,Northeast,1,<20k,Silver,In-Store,0,0
+C12021,2025-03-04,female,26.0,Central,1,20-40k,Silver,In-Store,1,0
+C12022,2025-05-24,Male,39.0,Northeast,2,40-70k,Gold,Online Web,1,0
+C12023,2024-11-08,F,51.0,Northeast,3,40-70k,Gold,In-Store,1,1
+C12024,2026-05-24,F,18.0,Northeast,3,40-70k,Bronze,In-Store,1,0
+C12025,2026-01-13,Male,37.0,East,1,20-40k,Silver,In-Store,1,0
+C12026,2024-11-27,male,20.0,Northeast,1,<20k,Bronze,In-Store,1,1
+C12027,2024-08-28,Male,40.0,North,2,20-40k,Silver,In-Store,0,0
+C12028,2024-08-25,Male,36.0,East,2,20-40k,Gold,Mobile App,1,1
+C12029,2024-12-13,Female,28.0,Bangkok,1,40-70k,Silver,Online Web,1,0
+C12030,2025-05-14,M,31.0,Bangkok,2,40-70k,Platinum,Mobile App,1,1
+C12031,2026-04-03,Female,24.0,North,2,40-70k,Silver,Online Web,0,1
+C12032,2025-07-02,Female,39.0,Bangkok,1,40-70k,Gold,Mobile App,0,1
+C12033,2025-02-24,Female,37.0,Central,3,20-40k,Silver,In-Store,1,1
+C12034,2025-03-04,Female,32.0,Bangkok,1,<20k,Bronze,In-Store,1,1
+C12035,2025-04-05,f,,Northeast,1,70-120k,Gold,Online Web,1,1
+C12036,2025-03-14,Female,40.0,Central,3,20-40k,Bronze,In-Store,1,0
+C12037,2024-11-30,F,33.0,Bangkok,3,70-120k,Silver,In-Store,1,0
+C12038,2024-12-18,F,43.0,Central,2,>120k,Gold,In-Store,1,1
+C12039,2025-03-13,M,26.0,Central,2,20-40k,Bronze,Online Web,0,1
+C12040,2025-01-03,Male,32.0,North,2,70-120k,Gold,Mobile App,1,1
+C12041,2024-12-18,Male,59.0,Central,2,40-70k,Bronze,In-Store,1,0
+C12042,2025-04-11,F,27.0,Northeast,2,70-120k,Gold,Mobile App,1,1
+C12043,2024-11-05,Male,29.0,Central,1,40-70k,Silver,In-Store,1,1
+C12044,2024-12-27,Female,20.0,Central,3,40-70k,Gold,In-Store,1,1
+C12045,2026-01-16,Female,18.0,Central,2,<20k,Bronze,Online Web,1,1
+C12046,2024-11-03,F,31.0,Central,2,70-120k,Silver,In-Store,1,1
+C12047,2025-04-23,F,37.0,Bangkok,2,>120k,Silver,In-Store,0,1
+C12048,2024-08-21,Male,18.0,North,3,20-40k,Silver,In-Store,1,1
+C12049,2024-11-20,Male,,Bangkok,2,40-70k,Silver,In-Store,1,0
+C12050,2025-11-23,Female,20.0,Bangkok,2,40-70k,Bronze,In-Store,0,0
+C12051,2025-01-26,Female,39.0,Bangkok,2,20-40k,Silver,In-Store,0,1
+C12052,2024-11-29,F,44.0,Bangkok,2,20-40k,Bronze,Online Web,0,0
+C12053,2024-08-21,F,30.0,South,2,40-70k,Gold,In-Store,1,0
+C12054,2024-08-13,Male,52.0,Northeast,1,70-120k,Platinum,Online Web,0,1
+C12055,2024-08-29,m,31.0,South,1,40-70k,Silver,Online Web,1,1
+C12056,2024-08-26,Female,45.0,Northeast,1,<20k,Gold,In-Store,1,0
+C12057,2026-03-18,Male,27.0,Northeast,1,40-70k,Platinum,Mobile App,1,1
+C12058,2025-05-04,F,20.0,South,2,70-120k,Gold,In-Store,0,0
+C12059,2025-04-27,Female,42.0,Bangkok,2,>120k,Platinum,Mobile App,0,1
+C12060,2024-12-22,Female,45.0,North,1,,Silver,In-Store,1,0
+C12061,2024-10-08,Male,23.0,Bangkok,1,70-120k,Gold,In-Store,0,0
+C12062,2025-08-29,Female,29.0,Central,1,20-40k,Gold,In-Store,1,0
+C12063,2024-10-25,F,39.0,Bangkok,1,40-70k,Gold,In-Store,1,0
+C12064,2025-07-06,f,28.0,North,1,70-120k,Silver,In-Store,0,0
+C12065,2024-08-18,F,23.0,Northeast,2,40-70k,Bronze,Online Web,1,0
+C12066,2024-08-24,Male,27.0,Bangkok,1,40-70k,Gold,In-Store,1,1
+C12067,2026-02-22,M,40.0,Northeast,1,<20k,Bronze,In-Store,1,0
+C12068,2025-05-01,M,34.0,Bangkok,1,40-70k,Gold,In-Store,1,0
+C12069,2025-03-17,F,29.0,North,1,20-40k,Bronze,In-Store,1,0
+C12070,2026-01-06,F,18.0,North,1,<20k,Bronze,In-Store,1,1
+C12071,2025-07-15,Female,43.0,Bangkok,2,40-70k,Silver,In-Store,1,1
+C12072,2024-11-22,Male,34.0,Bangkok,3,40-70k,Silver,In-Store,0,1
+C12073,2025-05-10,F,28.0,Bangkok,1,<20k,Silver,In-Store,0,0
+C12074,2025-11-14,Female,48.0,North,1,40-70k,Bronze,In-Store,0,1
+C12075,2026-06-12,Female,31.0,Bangkok,1,<20k,Bronze,In-Store,0,0
+C12076,2024-11-16,Male,48.0,North,2,40-70k,Platinum,Mobile App,1,1
+C12077,2024-11-25,Male,25.0,Central,1,<20k,Bronze,In-Store,0,0
+C12078,2026-04-13,M,26.0,,1,40-70k,Silver,In-Store,1,1
+C12079,2025-04-25,Female,39.0,North,1,40-70k,Bronze,Online Web,0,0
+C12080,2024-11-06,Female,23.0,Central,3,40-70k,Silver,Mobile App,1,1
+C12081,2024-08-29,F,37.0,North,3,20-40k,Gold,Online Web,1,1
+C12082,2024-10-03,F,,Bangkok,1,20-40k,Silver,In-Store,1,0
+C12083,2025-06-02,female,22.0,Bangkok,2,,Platinum,Mobile App,1,1
+C12084,2025-05-07,M,43.0,Bangkok,3,20-40k,Silver,In-Store,1,0
+C12085,2025-03-16,M,28.0,Bangkok,1,>120k,Platinum,In-Store,0,0
+C12086,2026-03-20,F,31.0,Bangkok,1,20-40k,Gold,In-Store,0,0
+C12087,2024-11-02,male,33.0,Central,1,70-120k,Bronze,Mobile App,1,0
+C12088,2024-08-30,Male,52.0,Bangkok,2,40-70k,Bronze,In-Store,0,0
+C12089,2025-03-07,f,35.0,South,3,70-120k,Gold,In-Store,0,0
+C12090,2026-04-02,Male,28.0,Bangkok,3,20-40k,Bronze,In-Store,0,1
+C12091,2024-09-03,F,49.0,Central,1,20-40k,Silver,In-Store,1,0
+C12092,2026-03-19,F,35.0,Central,1,40-70k,Bronze,In-Store,1,1
+C12093,2024-11-04,Female,41.0,Northeast,2,40-70k,Bronze,In-Store,0,1
+C12094,2026-06-19,Male,18.0,Bangkok,1,,Bronze,In-Store,1,0
+C12095,2025-06-29,Female,44.0,Central,3,<20k,Bronze,In-Store,0,1
+C12096,2024-11-09,M,25.0,East,1,40-70k,Silver,In-Store,1,1
+C12097,2024-10-27,Male,22.0,Central,1,>120k,Gold,Mobile App,1,0
+C12098,2025-01-03,Female,40.0,Northeast,3,>120k,Gold,In-Store,1,0
+C12099,2026-02-13,Female,28.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C12100,2025-01-19,M,23.0,Central,2,20-40k,Silver,In-Store,0,1
+C12101,2025-06-11,F,21.0,North,3,40-70k,Bronze,In-Store,1,0
+C12102,2024-12-30,Male,18.0,Northeast,2,20-40k,Gold,In-Store,1,1
+C12103,2026-03-04,Female,23.0,Northeast,3,40-70k,Bronze,In-Store,0,1
+C12104,2025-05-20,Male,42.0,North,1,40-70k,Platinum,Mobile App,1,1
+C12105,2024-09-10,Female,34.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C12106,2025-09-06,Female,38.0,East,1,40-70k,Silver,In-Store,0,1
+C12107,2025-07-17,Male,31.0,Northeast,1,40-70k,Silver,In-Store,0,0
+C12108,2026-04-05,Female,38.0,Northeast,2,<20k,Silver,Online Web,1,0
+C12109,2024-08-09,f,38.0,Bangkok,1,40-70k,Gold,Online Web,1,0
+C12110,2025-03-01,Male,26.0,Northeast,2,20-40k,Silver,In-Store,1,0
+C12111,2025-02-13,F,32.0,Northeast,3,20-40k,Bronze,In-Store,0,0
+C12112,2024-10-07,F,29.0,Bangkok,1,40-70k,Gold,In-Store,1,0
+C12113,2024-08-12,Male,38.0,Bangkok,2,70-120k,Gold,In-Store,1,1
+C12114,2025-02-26,Female,27.0,Central,1,70-120k,Platinum,In-Store,1,0
+C12115,2025-09-02,Male,20.0,Central,3,70-120k,Silver,Mobile App,1,1
+C12116,2024-08-18,Male,45.0,Bangkok,1,20-40k,Gold,In-Store,0,1
+C12117,2024-09-17,male,32.0,South,2,20-40k,Silver,In-Store,0,0
+C12118,2026-05-12,female,27.0,Bangkok,2,,Silver,Mobile App,1,0
+C12119,2025-09-02,female,,South,1,,Silver,In-Store,1,0
+C12120,2025-12-26,Female,34.0,North,3,20-40k,Bronze,Online Web,1,1
+C12121,2024-09-02,F,31.0,Bangkok,1,20-40k,Gold,In-Store,0,1
+C12122,2025-12-18,Female,39.0,Bangkok,2,70-120k,Silver,In-Store,1,0
+C12123,2025-04-06,F,27.0,North,1,70-120k,Platinum,Mobile App,1,1
+C12124,2025-06-06,F,45.0,,2,70-120k,Silver,In-Store,0,0
+C12125,2025-04-15,F,33.0,Bangkok,1,70-120k,Gold,In-Store,1,1
+C12126,2024-11-20,F,43.0,South,3,40-70k,Platinum,Mobile App,1,1
+C12127,2026-03-05,Male,24.0,Bangkok,2,<20k,Silver,In-Store,1,1
+C12128,2026-04-07,F,23.0,Northeast,3,20-40k,Bronze,In-Store,0,1
+C12129,2025-03-09,Female,,South,1,40-70k,Gold,Mobile App,1,1
+C12130,2025-07-11,F,46.0,East,3,70-120k,Silver,Online Web,1,0
+C12131,2025-02-19,Female,47.0,Bangkok,2,>120k,Platinum,In-Store,1,1
+C12132,2025-05-01,M,41.0,Northeast,2,40-70k,Silver,In-Store,1,1
+C12133,2026-01-05,Female,35.0,Bangkok,2,20-40k,Bronze,Online Web,1,0
+C12134,2024-12-05,f,26.0,Bangkok,1,,Platinum,In-Store,1,0
+C12135,2025-03-15,Female,43.0,Central,3,70-120k,Gold,Mobile App,0,1
+C12136,2024-08-26,Male,41.0,Central,1,<20k,Gold,Mobile App,1,1
+C12137,2025-08-05,male,30.0,Northeast,1,40-70k,Bronze,Mobile App,1,1
+C12138,2025-04-05,M,43.0,Northeast,1,<20k,Bronze,In-Store,0,1
+C12139,2025-06-07,Female,34.0,Bangkok,1,40-70k,Bronze,In-Store,1,1
+C12140,2024-08-28,Male,43.0,North,1,<20k,Bronze,In-Store,0,0
+C12141,2025-05-04,Male,44.0,Central,3,<20k,Bronze,In-Store,1,0
+C12142,2026-04-30,Male,29.0,Bangkok,1,40-70k,Bronze,In-Store,1,0
+C12143,2026-03-13,f,43.0,East,3,20-40k,Bronze,In-Store,1,1
+C12144,2025-04-13,Male,25.0,South,1,20-40k,Silver,Online Web,1,1
+C12145,2025-05-28,Female,33.0,Bangkok,1,20-40k,Bronze,Online Web,0,1
+C12146,2024-09-02,M,50.0,Bangkok,1,>120k,Silver,In-Store,1,0
+C12147,2025-01-10,Male,29.0,Northeast,1,,Bronze,In-Store,1,0
+C12148,2025-03-06,Female,33.0,Bangkok,1,20-40k,Gold,In-Store,1,1
+C12149,2025-01-17,Female,34.0,North,1,70-120k,Silver,Online Web,1,0
+C12150,2025-10-24,Female,39.0,North,2,<20k,Bronze,In-Store,1,1
+C12151,2025-01-23,M,32.0,Bangkok,3,<20k,Bronze,Mobile App,1,1
+C12152,2025-05-05,M,48.0,North,2,<20k,Silver,In-Store,1,0
+C12153,2026-05-19,Male,42.0,Bangkok,1,20-40k,Bronze,In-Store,1,0
+C12154,2024-10-31,M,32.0,East,1,>120k,Silver,In-Store,0,0
+C12155,2024-12-22,Female,39.0,Bangkok,1,40-70k,Platinum,In-Store,1,1
+C12156,2026-01-16,Male,33.0,Northeast,3,70-120k,Silver,Online Web,1,0
+C12157,2025-07-23,F,32.0,Northeast,3,,Silver,Online Web,0,0
+C12158,2025-01-20,Female,39.0,East,2,40-70k,Silver,In-Store,1,1
+C12159,2026-02-20,Male,39.0,Bangkok,1,40-70k,Bronze,In-Store,0,0
+C12160,2025-04-29,M,39.0,East,2,40-70k,Bronze,In-Store,1,1
+C12161,2025-05-15,Male,18.0,Northeast,3,40-70k,Bronze,In-Store,0,0
+C12162,2026-03-23,Female,46.0,Central,2,20-40k,Bronze,Online Web,0,1
+C12163,2026-04-14,F,40.0,Central,1,70-120k,Bronze,In-Store,1,0
+C12164,2024-11-26,Male,26.0,Northeast,2,20-40k,Platinum,In-Store,1,0
+C12165,2024-10-14,Female,29.0,Central,3,40-70k,Bronze,Mobile App,0,1
+C12166,2025-05-29,F,32.0,Bangkok,2,,Silver,In-Store,1,0
+C12167,2025-05-03,M,33.0,,3,40-70k,Silver,Mobile App,0,0
+C12168,2024-12-31,Female,45.0,Northeast,1,70-120k,Bronze,Online Web,1,0
+C12169,2025-01-04,Female,41.0,Central,2,20-40k,Platinum,Mobile App,0,1
+C12170,2026-04-14,F,19.0,Bangkok,2,70-120k,Bronze,Mobile App,0,1
+C12171,2026-05-24,F,39.0,Bangkok,2,70-120k,Platinum,Mobile App,0,1
+C12172,2024-11-14,M,29.0,South,2,40-70k,Bronze,In-Store,0,1
+C12173,2025-06-24,M,27.0,Bangkok,1,40-70k,Bronze,In-Store,0,1
+C12174,2025-01-23,F,31.0,Bangkok,1,>120k,Bronze,Mobile App,1,1
+C12175,2025-04-11,Male,51.0,,1,20-40k,Gold,In-Store,1,1
+C12176,2025-01-01,f,48.0,Northeast,1,<20k,Silver,In-Store,1,1
+C12177,2024-11-30,Female,52.0,Bangkok,3,70-120k,Gold,Online Web,0,1
+C12178,2025-07-26,Female,30.0,Central,1,70-120k,Bronze,Online Web,0,1
+C12179,2025-07-19,f,44.0,Northeast,1,<20k,Bronze,Mobile App,1,1
+C12180,2025-06-14,Female,,Central,2,40-70k,Bronze,In-Store,1,0
+C12181,2024-11-20,Female,43.0,Bangkok,3,40-70k,Bronze,In-Store,1,0
+C12182,2024-09-27,Female,32.0,Bangkok,1,70-120k,Gold,In-Store,1,0
+C12183,2025-01-08,Female,39.0,Bangkok,1,40-70k,Gold,Online Web,0,0
+C12184,2024-09-18,Female,29.0,Bangkok,1,20-40k,Silver,Mobile App,0,1
+C12185,2025-07-28,M,36.0,Central,1,40-70k,Silver,In-Store,0,0
+C12186,2025-10-05,Male,30.0,South,3,20-40k,Bronze,In-Store,0,0
+C12187,2025-06-25,F,48.0,North,1,<20k,Gold,In-Store,1,0
+C12188,2025-04-18,Female,39.0,Central,1,,Gold,In-Store,0,1
+C12189,2025-02-17,F,23.0,Central,1,20-40k,Silver,Mobile App,1,1
+C12190,2025-08-23,Female,33.0,Northeast,1,<20k,Bronze,Mobile App,1,1
+C12191,2025-03-17,Male,37.0,East,2,20-40k,Silver,In-Store,1,1
+C12192,2024-12-14,Female,39.0,Northeast,1,20-40k,Silver,In-Store,0,1
+C12193,2026-01-23,female,28.0,East,2,,Gold,Mobile App,0,1
+C12194,2025-02-23,Female,32.0,Central,1,20-40k,Silver,In-Store,0,1
+C12195,2024-11-07,Male,43.0,Northeast,3,70-120k,Silver,In-Store,1,0
+C12196,2025-05-02,M,37.0,Bangkok,2,<20k,Bronze,In-Store,0,0
+C12197,2025-11-12,Male,35.0,North,1,40-70k,Gold,In-Store,0,0
+C12198,2025-01-18,F,36.0,South,2,,Gold,Mobile App,1,1
+C12199,2024-09-12,Female,32.0,Northeast,1,>120k,Gold,In-Store,1,1
+C12200,2024-12-05,Female,45.0,East,1,20-40k,Silver,In-Store,0,1
+C12201,2024-08-31,M,46.0,Bangkok,1,70-120k,Platinum,In-Store,1,0
+C12202,2026-03-10,Male,34.0,North,2,70-120k,Bronze,In-Store,1,0
+C12203,2024-08-25,Female,51.0,Northeast,1,20-40k,Bronze,Mobile App,1,1
+C12204,2024-10-23,F,30.0,South,3,70-120k,Silver,In-Store,1,1
+C12205,2024-11-02,Male,29.0,Central,1,40-70k,Silver,Online Web,0,0
+C12206,2026-04-10,Male,25.0,North,2,<20k,Silver,Online Web,1,0
+C12207,2025-12-06,Female,43.0,Central,1,70-120k,Bronze,Mobile App,1,1
+C12208,2025-06-13,M,28.0,South,1,70-120k,Bronze,Mobile App,1,1
+C12209,2024-12-23,Male,18.0,Bangkok,2,40-70k,Gold,In-Store,1,1
+C12210,2024-12-02,Female,35.0,Northeast,1,20-40k,Silver,Mobile App,0,1
+C12211,2025-10-14,M,25.0,North,1,,Bronze,In-Store,0,1
+C12212,2026-01-18,Male,26.0,North,1,40-70k,Silver,Mobile App,0,1
+C12213,2024-11-21,male,32.0,North,2,<20k,Bronze,In-Store,0,1
+C12214,2026-02-09,M,47.0,Northeast,3,40-70k,Gold,In-Store,0,0
+C12215,2025-09-20,Female,40.0,Central,3,40-70k,Bronze,Mobile App,1,1
+C12216,2025-04-23,M,39.0,Central,3,70-120k,Silver,In-Store,1,1
+C12217,2025-03-23,Male,42.0,North,1,70-120k,Bronze,In-Store,0,1
+C12218,2025-06-12,Male,48.0,Bangkok,2,70-120k,Gold,In-Store,1,0
+C12219,2025-02-23,F,25.0,North,2,40-70k,Silver,In-Store,0,1
+C12220,2025-01-05,Male,26.0,East,2,20-40k,Gold,Online Web,1,1
+C12221,2024-11-01,Female,41.0,Bangkok,2,40-70k,Gold,In-Store,1,1
+C12222,2025-08-31,Female,42.0,Bangkok,2,40-70k,Gold,In-Store,0,0
+C12223,2024-09-22,Female,35.0,Central,2,40-70k,Bronze,In-Store,1,1
+C12224,2024-11-06,F,,Bangkok,1,40-70k,Silver,In-Store,0,1
+C12225,2025-11-26,F,53.0,Central,3,20-40k,Silver,In-Store,1,0
+C12226,2025-01-26,Female,,North,1,20-40k,Bronze,Mobile App,0,1
+C12227,2025-07-16,M,26.0,Bangkok,1,20-40k,Bronze,In-Store,1,1
+C12228,2026-01-08,Male,21.0,South,3,20-40k,Bronze,In-Store,1,1
+C12229,2025-01-04,F,37.0,North,1,20-40k,Platinum,Mobile App,1,1
+C12230,2025-07-01,F,18.0,Bangkok,2,20-40k,Silver,In-Store,0,1
+C12231,2024-08-02,Male,,Bangkok,1,40-70k,Bronze,Mobile App,0,1
+C12232,2024-11-29,Male,48.0,North,2,>120k,Platinum,In-Store,1,1
+C12233,2025-12-28,Male,37.0,Bangkok,2,40-70k,Bronze,In-Store,1,1
+C12234,2025-03-09,M,38.0,Central,2,,Bronze,In-Store,0,0
+C12235,2026-01-11,female,,Central,1,20-40k,Gold,In-Store,0,1
+C12236,2025-06-13,Male,21.0,Bangkok,1,<20k,Silver,In-Store,1,0
+C12237,2026-06-13,M,19.0,South,1,40-70k,Bronze,In-Store,1,0
+C12238,2026-04-21,Male,38.0,North,3,<20k,Silver,In-Store,0,0
+C12239,2025-05-19,Male,38.0,Northeast,3,20-40k,Bronze,Mobile App,0,1
+C12240,2025-03-08,F,28.0,Northeast,1,<20k,Bronze,Mobile App,1,0
+C12241,2024-09-19,F,36.0,East,1,20-40k,Gold,In-Store,1,1
+C12242,2025-05-12,Female,30.0,Bangkok,1,20-40k,Bronze,Online Web,1,0
+C12243,2025-07-03,Male,26.0,Central,1,40-70k,Gold,Mobile App,1,1
+C12244,2025-05-23,Female,50.0,Bangkok,2,40-70k,Bronze,Online Web,0,0
+C12245,2026-05-24,Female,21.0,Northeast,3,70-120k,Silver,In-Store,1,0
+C12246,2025-01-20,F,32.0,East,1,20-40k,Silver,Mobile App,1,1
+C12247,2025-02-19,Female,28.0,Bangkok,2,20-40k,Bronze,Mobile App,0,1
+C12248,2024-12-14,Male,32.0,North,1,40-70k,Bronze,Mobile App,1,1
+C12249,2026-03-23,Female,36.0,Central,1,40-70k,Gold,Online Web,0,1
+C12250,2026-06-11,Male,28.0,Bangkok,2,40-70k,Silver,In-Store,1,0
+C12251,2024-12-05,Female,,Bangkok,3,40-70k,Platinum,Mobile App,1,0
+C12252,2026-01-16,M,21.0,Bangkok,3,40-70k,Bronze,In-Store,0,0
+C12253,2026-05-07,F,35.0,South,2,<20k,Bronze,Mobile App,1,1
+C12254,2025-01-05,Female,29.0,Central,3,20-40k,Bronze,In-Store,0,1
+C12255,2025-07-08,Female,30.0,Northeast,1,20-40k,Bronze,Mobile App,1,1
+C12256,2025-04-17,Female,24.0,Northeast,1,,Silver,In-Store,1,0
+C12257,2025-10-29,M,43.0,Northeast,1,70-120k,Bronze,In-Store,0,0
+C12258,2025-04-14,M,,East,1,20-40k,Platinum,Mobile App,1,1
+C12259,2025-04-19,F,30.0,Bangkok,1,70-120k,Gold,Online Web,1,0
+C12260,2025-03-22,Male,27.0,Central,1,20-40k,Silver,In-Store,1,0
+C12261,2025-05-29,M,42.0,South,2,20-40k,Bronze,In-Store,0,0
+C12262,2024-10-20,Female,21.0,Bangkok,2,20-40k,Platinum,In-Store,1,0
+C12263,2025-09-01,Female,28.0,South,1,,Gold,In-Store,1,0
+C12264,2025-11-27,female,33.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C12265,2025-06-28,male,29.0,Central,1,40-70k,Silver,In-Store,1,0
+C12266,2025-09-23,Male,38.0,Bangkok,3,20-40k,Bronze,In-Store,0,1
+C12267,2025-06-05,F,41.0,East,2,<20k,Bronze,In-Store,0,1
+C12268,2024-09-01,Male,40.0,Bangkok,1,40-70k,Platinum,Mobile App,1,1
+C12269,2024-11-19,Female,31.0,Bangkok,1,40-70k,Gold,In-Store,1,1
+C12270,2025-08-05,Female,45.0,Northeast,1,20-40k,Gold,In-Store,1,0
+C12271,2025-03-01,Female,48.0,Bangkok,1,40-70k,Bronze,Online Web,0,1
+C12272,2025-01-26,Female,55.0,Northeast,1,>120k,Bronze,In-Store,1,1
+C12273,2026-04-07,Male,39.0,North,2,20-40k,Silver,In-Store,1,0
+C12274,2025-06-29,Male,52.0,Bangkok,1,20-40k,Silver,Online Web,1,0
+C12275,2025-06-15,Male,39.0,Northeast,3,20-40k,Bronze,Online Web,0,0
+C12276,2025-11-07,M,25.0,Bangkok,1,20-40k,Gold,In-Store,1,0
+C12277,2024-12-27,Female,58.0,North,1,40-70k,Silver,In-Store,1,1
+C12278,2025-06-05,Female,24.0,East,1,40-70k,Silver,In-Store,1,1
+C12279,2024-10-03,Male,29.0,Central,2,20-40k,Silver,Online Web,0,0
+C12280,2024-08-22,Male,37.0,East,1,70-120k,Gold,Mobile App,1,1
+C12281,2025-08-30,M,30.0,Bangkok,2,<20k,Silver,In-Store,0,0
+C12282,2026-03-26,Male,42.0,Bangkok,2,>120k,Bronze,In-Store,0,0
+C12283,2024-10-23,F,51.0,Central,1,20-40k,Silver,Mobile App,1,1
+C12284,2024-11-12,Male,32.0,Northeast,3,>120k,Platinum,In-Store,1,1
+C12285,2025-01-17,Female,47.0,Northeast,2,20-40k,Bronze,In-Store,1,1
+C12286,2025-05-02,F,18.0,,2,20-40k,Silver,In-Store,1,0
+C12287,2024-12-28,Female,35.0,South,1,,Silver,Mobile App,1,1
+C12288,2025-05-28,male,41.0,,2,20-40k,Silver,In-Store,1,0
+C12289,2025-07-30,Male,47.0,Bangkok,3,40-70k,Silver,In-Store,0,1
+C12290,2025-02-10,M,33.0,Bangkok,2,20-40k,Silver,Online Web,1,1
+C12291,2024-11-21,Female,24.0,South,1,20-40k,Silver,In-Store,1,1
+C12292,2025-12-24,M,18.0,Northeast,3,20-40k,Bronze,In-Store,0,1
+C12293,2024-09-09,Male,41.0,Bangkok,1,20-40k,Bronze,In-Store,0,1
+C12294,2026-04-18,Male,24.0,Northeast,1,40-70k,Bronze,Mobile App,0,1
+C12295,2024-12-28,M,37.0,North,2,20-40k,Bronze,In-Store,0,1
+C12296,2025-05-19,F,49.0,Northeast,1,<20k,Bronze,Mobile App,1,1
+C12297,2025-12-19,Male,,Central,3,20-40k,Gold,In-Store,0,0
+C12298,2024-11-15,Female,37.0,Bangkok,2,70-120k,Silver,In-Store,1,1
+C12299,2026-03-05,F,38.0,Central,1,20-40k,Gold,Mobile App,1,1
+C12300,2025-07-21,M,23.0,Bangkok,1,<20k,Bronze,In-Store,1,1
+C12301,2025-05-02,Male,43.0,Central,3,40-70k,Gold,Mobile App,1,1
+C12302,2025-05-12,Male,21.0,Central,1,40-70k,Bronze,In-Store,1,1
+C12303,2024-08-24,f,30.0,Bangkok,1,20-40k,Silver,In-Store,1,1
+C12304,2025-12-12,M,45.0,Bangkok,3,<20k,Bronze,In-Store,0,0
+C12305,2026-04-08,F,18.0,North,1,40-70k,Bronze,In-Store,1,0
+C12306,2024-09-04,Female,18.0,Bangkok,1,>120k,Bronze,In-Store,1,0
+C12307,2024-12-18,Female,37.0,Bangkok,2,>120k,Gold,In-Store,0,0
+C12308,2025-01-06,Female,28.0,Bangkok,1,>120k,Silver,In-Store,1,0
+C12309,2026-02-06,F,50.0,Bangkok,2,<20k,Bronze,In-Store,1,0
+C12310,2026-02-26,M,,Bangkok,3,20-40k,Platinum,In-Store,0,1
+C12311,2025-03-19,F,31.0,North,3,20-40k,Bronze,Mobile App,0,1
+C12312,2025-01-21,Male,34.0,Bangkok,2,40-70k,Platinum,In-Store,1,0
+C12313,2025-03-19,Male,31.0,Bangkok,1,<20k,Bronze,In-Store,1,1
+C12314,2024-12-09,M,31.0,Bangkok,2,20-40k,Bronze,Mobile App,1,1
+C12315,2025-06-26,Female,36.0,East,1,20-40k,Bronze,In-Store,1,0
+C12316,2026-04-11,Male,35.0,South,1,>120k,Bronze,Online Web,0,0
+C12317,2026-03-08,Male,34.0,North,2,20-40k,Bronze,In-Store,0,0
+C12318,2024-08-11,Female,40.0,Central,2,20-40k,Gold,Online Web,1,0
+C12319,2026-04-27,Female,39.0,North,2,40-70k,Silver,In-Store,1,1
+C12320,2024-12-04,Female,41.0,Bangkok,2,70-120k,Silver,Online Web,0,0
+C12321,2024-09-13,Female,33.0,North,1,20-40k,Silver,Online Web,1,1
+C12322,2025-09-06,male,46.0,North,2,>120k,Bronze,In-Store,1,0
+C12323,2024-12-25,Female,57.0,Bangkok,2,70-120k,Platinum,Online Web,1,0
+C12324,2024-12-14,female,40.0,East,2,40-70k,Platinum,In-Store,1,1
+C12325,2024-09-20,female,18.0,Northeast,2,40-70k,Silver,In-Store,0,0
+C12326,2025-01-17,Male,31.0,Northeast,1,70-120k,Gold,In-Store,1,1
+C12327,2025-04-23,M,35.0,East,3,<20k,Silver,In-Store,1,0
+C12328,2025-05-11,Female,26.0,Central,2,<20k,Bronze,In-Store,1,1
+C12329,2024-10-28,Female,49.0,Northeast,1,70-120k,Silver,Mobile App,0,1
+C12330,2025-05-04,F,40.0,Northeast,1,>120k,Gold,Mobile App,1,1
+C12331,2026-03-16,Female,21.0,North,2,20-40k,Bronze,Online Web,0,0
+C12332,2025-11-18,Female,40.0,Northeast,3,40-70k,Silver,In-Store,0,1
+C12333,2025-08-04,Male,24.0,South,2,20-40k,Bronze,In-Store,0,1
+C12334,2026-01-26,M,25.0,East,1,20-40k,Gold,In-Store,1,0
+C12335,2026-04-01,Female,,East,2,,Platinum,Mobile App,1,1
+C12336,2024-08-18,Male,37.0,Bangkok,1,70-120k,Silver,In-Store,0,0
+C12337,2026-01-10,Female,25.0,Bangkok,1,20-40k,Gold,In-Store,1,0
+C12338,2025-02-12,Male,36.0,North,2,70-120k,Silver,Online Web,1,0
+C12339,2025-07-18,Female,44.0,Central,1,70-120k,Silver,Mobile App,1,1
+C12340,2025-05-06,Male,40.0,Bangkok,3,40-70k,Silver,Mobile App,1,1
+C12341,2024-11-23,Male,,Bangkok,1,40-70k,Silver,Online Web,1,1
+C12342,2025-08-05,Female,31.0,,1,20-40k,Bronze,Mobile App,1,0
+C12343,2025-04-27,Male,46.0,South,2,>120k,Gold,Mobile App,1,0
+C12344,2026-04-04,Female,29.0,Bangkok,1,20-40k,Silver,Online Web,1,1
+C12345,2025-04-14,Female,38.0,Northeast,1,70-120k,Silver,In-Store,1,1
+C12346,2024-09-10,Male,38.0,Northeast,3,20-40k,Platinum,In-Store,1,1
+C12347,2025-05-05,Female,28.0,South,2,<20k,Bronze,Online Web,0,1
+C12348,2026-02-28,M,18.0,Bangkok,2,20-40k,Bronze,In-Store,1,1
+C12349,2025-10-11,M,48.0,Central,1,40-70k,Silver,In-Store,1,1
+C12350,2025-04-25,Female,37.0,Central,1,40-70k,Gold,Mobile App,0,0
+C12351,2024-10-25,female,36.0,Bangkok,2,40-70k,Gold,Mobile App,0,1
+C12352,2025-03-15,Female,48.0,Central,1,20-40k,Silver,Online Web,1,0
+C12353,2026-05-02,Female,24.0,North,2,40-70k,Gold,In-Store,0,0
+C12354,2025-07-22,Female,31.0,North,2,,Gold,Online Web,1,1
+C12355,2024-08-29,Male,32.0,South,2,40-70k,Bronze,Mobile App,0,1
+C12356,2025-10-03,F,35.0,Northeast,2,40-70k,Bronze,In-Store,0,1
+C12357,2024-09-05,Female,52.0,Bangkok,3,<20k,Bronze,In-Store,1,1
+C12358,2025-01-05,Male,22.0,Bangkok,1,<20k,Silver,In-Store,0,0
+C12359,2025-09-12,Female,41.0,Northeast,1,>120k,Gold,In-Store,1,1
+C12360,2025-11-16,Female,28.0,East,3,<20k,Bronze,In-Store,1,1
+C12361,2025-02-09,Male,30.0,,2,70-120k,Bronze,Mobile App,1,1
+C12362,2026-05-14,Female,27.0,Central,2,<20k,Bronze,In-Store,0,1
+C12363,2025-06-07,Male,52.0,Central,3,70-120k,Platinum,In-Store,1,1
+C12364,2025-07-16,female,42.0,East,1,70-120k,Silver,Mobile App,0,0
+C12365,2024-09-05,female,33.0,South,2,20-40k,Silver,In-Store,1,0
+C12366,2026-05-10,F,40.0,South,2,40-70k,Bronze,Online Web,0,1
+C12367,2024-09-15,F,31.0,North,3,70-120k,Bronze,In-Store,1,1
+C12368,2024-12-13,Female,46.0,Bangkok,2,40-70k,Gold,Online Web,1,1
+C12369,2026-04-14,M,33.0,Bangkok,1,40-70k,Gold,In-Store,0,1
+C12370,2024-08-02,Female,26.0,South,3,20-40k,Bronze,In-Store,1,1
+C12371,2025-01-22,Male,27.0,Northeast,2,40-70k,Bronze,Online Web,0,0
+C12372,2026-01-14,Male,38.0,North,3,20-40k,Silver,Mobile App,0,1
+C12373,2024-08-24,Female,36.0,,3,40-70k,Gold,Mobile App,1,1
+C12374,2024-12-16,Male,26.0,East,3,40-70k,Gold,Mobile App,0,0
+C12375,2025-04-29,Female,34.0,North,2,40-70k,Silver,Online Web,1,0
+C12376,2026-01-07,Male,18.0,Bangkok,3,40-70k,Bronze,Online Web,0,0
+C12377,2024-09-06,Male,32.0,Bangkok,1,20-40k,Bronze,Mobile App,0,1
+C12378,2025-04-21,F,38.0,North,2,70-120k,Platinum,In-Store,1,0
+C12379,2025-01-14,Female,58.0,Central,1,40-70k,Platinum,Mobile App,0,1
+C12380,2025-05-15,Male,42.0,South,3,40-70k,Silver,In-Store,1,0
+C12381,2025-06-05,F,46.0,Bangkok,3,20-40k,Silver,Online Web,0,1
+C12382,2024-11-01,Female,26.0,Northeast,1,20-40k,Silver,In-Store,1,1
+C12383,2025-02-10,Male,34.0,Central,1,20-40k,Silver,In-Store,0,1
+C12384,2025-06-01,Male,28.0,East,1,<20k,Gold,In-Store,1,0
+C12385,2026-06-01,m,23.0,Bangkok,3,40-70k,Silver,In-Store,0,0
+C12386,2025-12-14,F,30.0,Central,1,20-40k,Silver,In-Store,1,0
+C12387,2025-06-11,Male,33.0,North,2,40-70k,Bronze,In-Store,0,0
+C12388,2025-02-19,f,47.0,Bangkok,3,40-70k,Gold,Online Web,1,0
+C12389,2026-06-17,M,42.0,Northeast,1,40-70k,Bronze,Mobile App,0,1
+C12390,2025-10-04,M,21.0,Bangkok,1,20-40k,Silver,Mobile App,1,1
+C12391,2026-06-04,Male,18.0,Bangkok,3,,Bronze,In-Store,1,0
+C12392,2025-03-31,Male,35.0,Bangkok,2,,Platinum,Mobile App,0,1
+C12393,2025-04-08,F,22.0,Bangkok,3,20-40k,Silver,In-Store,0,1
+C12394,2025-05-09,Male,37.0,Northeast,3,20-40k,Gold,Mobile App,1,1
+C12395,2025-07-21,Female,31.0,East,2,40-70k,Silver,Mobile App,1,1
+C12396,2024-12-09,Female,43.0,South,1,70-120k,Bronze,In-Store,1,0
+C12397,2025-04-08,Female,47.0,Bangkok,2,40-70k,Platinum,In-Store,1,1
+C12398,2026-02-05,M,22.0,Bangkok,2,40-70k,Bronze,In-Store,0,1
+C12399,2024-12-07,Male,28.0,Northeast,2,20-40k,Silver,In-Store,0,0
+C12400,2025-01-08,Male,37.0,Northeast,2,<20k,Silver,Online Web,0,1
+C12401,2024-12-12,Male,35.0,South,1,>120k,Platinum,In-Store,1,0
+C12402,2025-09-23,m,26.0,North,3,20-40k,Silver,In-Store,1,0
+C12403,2025-03-11,M,27.0,Bangkok,2,20-40k,Bronze,In-Store,0,1
+C12404,2025-08-18,Female,43.0,Bangkok,2,70-120k,Bronze,In-Store,1,1
+C12405,2024-11-27,M,18.0,Bangkok,3,<20k,Silver,In-Store,1,0
+C12406,2025-08-29,Female,41.0,North,1,20-40k,Gold,In-Store,1,0
+C12407,2024-08-17,female,45.0,,1,40-70k,Platinum,In-Store,1,1
+C12408,2025-02-22,Male,28.0,Central,2,20-40k,Bronze,Online Web,0,1
+C12409,2024-10-16,M,31.0,Central,1,70-120k,Bronze,Online Web,1,0
+C12410,2026-04-15,Male,28.0,Central,3,70-120k,Bronze,In-Store,1,1
+C12411,2024-08-09,M,18.0,North,2,70-120k,Silver,In-Store,1,1
+C12412,2024-08-20,M,25.0,Bangkok,1,20-40k,Silver,Mobile App,1,1
+C12413,2025-03-11,M,37.0,Bangkok,2,40-70k,Gold,Mobile App,1,1
+C12414,2025-06-22,F,28.0,North,2,<20k,Gold,Mobile App,1,1
+C12415,2024-09-29,F,48.0,Bangkok,1,,Bronze,In-Store,0,0
+C12416,2026-03-12,Male,27.0,Northeast,2,40-70k,Silver,Mobile App,0,1
+C12417,2025-05-26,Male,,Bangkok,2,<20k,Gold,In-Store,0,1
+C12418,2025-02-14,F,37.0,Bangkok,3,20-40k,Gold,In-Store,0,1
+C12419,2026-04-15,Female,32.0,East,2,70-120k,Bronze,Online Web,0,1
+C12420,2025-02-07,Female,47.0,Bangkok,1,<20k,Bronze,Mobile App,1,1
+C12421,2025-05-08,M,58.0,North,1,70-120k,Gold,In-Store,0,1
+C12422,2025-03-28,Female,39.0,Bangkok,3,,Silver,In-Store,0,0
+C12423,2024-11-08,Male,24.0,North,3,20-40k,Platinum,Mobile App,1,1
+C12424,2025-07-23,Male,43.0,Bangkok,1,70-120k,Bronze,Online Web,0,1
+C12425,2025-01-09,female,21.0,Northeast,3,40-70k,Bronze,In-Store,1,0
+C12426,2025-02-20,Female,,Northeast,2,40-70k,Silver,In-Store,1,1
+C12427,2024-08-07,Female,35.0,East,1,<20k,Gold,In-Store,1,0
+C12428,2025-05-12,female,31.0,South,2,20-40k,Gold,In-Store,0,1
+C12429,2026-06-11,m,34.0,Bangkok,2,20-40k,Silver,Mobile App,1,1
+C12430,2025-06-23,Male,31.0,East,2,20-40k,Bronze,In-Store,1,1
+C12431,2024-11-25,Female,32.0,East,1,70-120k,Platinum,In-Store,0,0
+C12432,2025-05-17,Female,41.0,Central,3,70-120k,Gold,In-Store,0,1
+C12433,2026-05-28,Female,43.0,North,2,20-40k,Bronze,Mobile App,1,1
+C12434,2025-04-23,F,,Bangkok,2,40-70k,Gold,In-Store,1,1
+C12435,2024-10-14,Female,31.0,Bangkok,2,20-40k,Silver,In-Store,1,0
+C12436,2025-07-19,F,23.0,Bangkok,1,70-120k,Bronze,Mobile App,0,1
+C12437,2024-10-04,Male,32.0,Bangkok,3,40-70k,Platinum,In-Store,1,0
+C12438,2026-03-10,F,29.0,Northeast,1,20-40k,Bronze,In-Store,0,0
+C12439,2025-12-02,f,29.0,Bangkok,2,20-40k,Silver,In-Store,1,1
+C12440,2026-01-08,F,28.0,Northeast,1,20-40k,Silver,Online Web,0,1
+C12441,2025-08-27,F,39.0,Northeast,1,70-120k,Gold,Online Web,1,0
+C12442,2025-06-04,M,40.0,Bangkok,1,40-70k,Silver,Mobile App,1,1
+C12443,2025-01-13,Female,21.0,Northeast,2,40-70k,Silver,Mobile App,0,1
+C12444,2024-08-17,M,37.0,North,2,20-40k,Silver,Mobile App,1,0
+C12445,2025-01-21,Female,40.0,North,1,20-40k,Gold,Online Web,1,0
+C12446,2024-11-20,Female,41.0,North,2,20-40k,Bronze,Mobile App,1,0
+C12447,2025-03-23,F,36.0,Bangkok,3,20-40k,Bronze,Mobile App,1,1
+C12448,2025-07-09,M,47.0,North,3,40-70k,Silver,Mobile App,1,1
+C12449,2026-06-11,M,21.0,Bangkok,1,40-70k,Silver,In-Store,0,0
+C12450,2025-04-20,M,38.0,Northeast,2,40-70k,Gold,Mobile App,1,1
+C12451,2025-06-07,F,30.0,South,2,20-40k,Platinum,Mobile App,1,1
+C12452,2024-10-15,Female,53.0,North,2,70-120k,Bronze,In-Store,1,0
+C12453,2024-12-21,F,36.0,,3,40-70k,Bronze,In-Store,1,0
+C12454,2025-09-17,M,,Bangkok,1,40-70k,Silver,In-Store,0,1
+C12455,2026-02-19,m,18.0,South,3,40-70k,Silver,In-Store,0,0
+C12456,2026-05-20,F,,North,1,20-40k,Bronze,In-Store,1,0
+C12457,2025-03-18,Male,26.0,Bangkok,3,<20k,Silver,In-Store,0,1
+C12458,2026-03-05,M,18.0,Bangkok,3,>120k,Bronze,In-Store,0,0
+C12459,2024-12-03,Male,25.0,East,2,70-120k,Gold,In-Store,1,1
+C12460,2025-02-01,Female,44.0,Bangkok,2,40-70k,Gold,Mobile App,1,0
+C12461,2025-01-02,F,,Bangkok,2,>120k,Platinum,Mobile App,1,1
+C12462,2025-07-17,Female,51.0,South,1,<20k,Bronze,In-Store,1,1
+C12463,2024-11-23,M,18.0,Central,2,40-70k,Silver,Mobile App,0,1
+C12464,2026-01-25,Female,34.0,Central,1,<20k,Bronze,Mobile App,1,1
+C12465,2025-08-18,Female,36.0,South,1,40-70k,Gold,In-Store,1,0
+C12466,2025-03-14,M,42.0,Central,1,20-40k,Silver,In-Store,1,1
+C12467,2026-02-10,Female,35.0,Northeast,1,20-40k,Silver,In-Store,1,1
+C12468,2025-04-17,F,38.0,Central,2,20-40k,Bronze,In-Store,1,0
+C12469,2025-04-12,Female,43.0,North,1,40-70k,Gold,In-Store,1,1
+C12470,2025-04-26,f,27.0,South,2,20-40k,Bronze,Mobile App,1,0
+C12471,2025-07-08,Male,46.0,Central,3,40-70k,Silver,In-Store,0,0
+C12472,2025-07-29,Female,33.0,Bangkok,1,40-70k,Bronze,In-Store,1,1
+C12473,2026-06-06,Male,34.0,North,3,20-40k,Gold,Online Web,0,1
+C12474,2025-11-04,Male,30.0,Northeast,2,40-70k,Silver,In-Store,0,0
+C12475,2025-07-23,Female,35.0,Central,3,20-40k,Silver,Mobile App,1,0
+C12476,2025-12-04,Male,29.0,Northeast,2,40-70k,Bronze,Online Web,0,0
+C12477,2025-09-07,Male,48.0,Central,1,<20k,Bronze,Mobile App,0,0
+C12478,2024-10-06,Female,43.0,Bangkok,3,70-120k,Gold,Online Web,0,1
+C12479,2025-04-20,female,37.0,South,2,20-40k,Silver,In-Store,1,1
+C12480,2026-05-08,male,43.0,Northeast,2,20-40k,Bronze,In-Store,1,1
+C12481,2025-01-07,Male,18.0,Northeast,2,20-40k,Gold,Online Web,0,1
+C12482,2025-06-22,M,34.0,East,1,70-120k,Gold,In-Store,0,0
+C12483,2024-11-01,Female,25.0,Northeast,3,40-70k,Platinum,In-Store,1,0
+C12484,2025-04-29,F,24.0,Bangkok,2,40-70k,Bronze,In-Store,1,1
+C12485,2026-04-30,Male,18.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C12486,2026-01-14,M,36.0,South,2,70-120k,Silver,In-Store,1,0
+C12487,2025-04-18,Male,44.0,North,3,20-40k,Gold,In-Store,1,0
+C12488,2026-04-03,M,20.0,South,1,20-40k,Bronze,Online Web,0,1
+C12489,2024-12-26,Female,45.0,Northeast,1,20-40k,Gold,In-Store,1,0
+C12490,2025-01-31,Male,42.0,Central,1,>120k,Gold,In-Store,0,1
+C12491,2024-09-26,Female,29.0,South,1,20-40k,Silver,In-Store,1,0
+C12492,2024-08-16,Female,42.0,North,1,<20k,Bronze,In-Store,0,0
+C12493,2025-07-30,Male,37.0,South,1,40-70k,Gold,In-Store,1,0
+C12494,2024-09-18,Male,48.0,Bangkok,1,>120k,Silver,In-Store,1,0
+C12495,2025-05-24,Male,32.0,South,1,>120k,Bronze,Mobile App,1,1
+C12496,2025-01-16,Male,34.0,Bangkok,3,<20k,Bronze,In-Store,1,1
+C12497,2024-10-27,M,36.0,Bangkok,1,70-120k,Silver,In-Store,1,0
+C12498,2024-09-30,Female,41.0,Central,2,40-70k,Gold,In-Store,1,1
+C12499,2025-05-17,Male,38.0,North,1,70-120k,Silver,In-Store,0,1
+C12500,2024-09-24,Male,28.0,Bangkok,2,40-70k,Silver,Online Web,1,0
+C12501,2025-07-21,M,45.0,South,2,70-120k,Gold,In-Store,0,0
+C12502,2024-09-05,female,30.0,Central,1,70-120k,Gold,In-Store,0,1
+C12503,2025-02-07,F,26.0,North,3,20-40k,Gold,In-Store,0,1
+C12504,2024-12-07,M,27.0,Bangkok,3,20-40k,Bronze,Mobile App,1,1
+C12505,2025-07-22,Male,25.0,East,3,40-70k,Silver,In-Store,1,1
+C12506,2025-03-10,Female,35.0,Bangkok,1,20-40k,Bronze,Online Web,1,1
+C12507,2025-02-03,Male,36.0,North,1,20-40k,Bronze,Mobile App,1,1
+C12508,2025-05-01,Male,,Northeast,2,20-40k,Silver,In-Store,1,1
+C12509,2025-08-01,Female,39.0,Central,2,40-70k,Silver,Mobile App,1,1
+C12510,2025-07-01,M,26.0,North,3,,Silver,In-Store,0,1
+C12511,2025-04-30,Female,41.0,Bangkok,3,<20k,Bronze,Mobile App,0,1
+C12512,2025-01-11,Male,,Northeast,1,40-70k,Bronze,Mobile App,0,1
+C12513,2025-05-09,M,40.0,South,1,40-70k,Gold,In-Store,1,0
+C12514,2025-09-29,Female,23.0,Bangkok,2,<20k,Silver,In-Store,0,0
+C12515,2024-09-04,Male,22.0,South,1,20-40k,Bronze,Online Web,1,1
+C12516,2025-03-01,F,31.0,Northeast,1,70-120k,Silver,Mobile App,1,0
+C12517,2025-12-07,Female,32.0,Northeast,1,70-120k,Gold,Mobile App,1,1
+C12518,2024-10-26,Male,47.0,Bangkok,1,<20k,Bronze,In-Store,1,0
+C12519,2025-06-01,Male,35.0,Bangkok,2,20-40k,Platinum,In-Store,1,1
+C12520,2024-10-26,Male,45.0,Northeast,1,40-70k,Silver,In-Store,1,1
+C12521,2025-10-23,Male,26.0,Bangkok,1,20-40k,Platinum,In-Store,1,0
+C12522,2026-03-29,F,27.0,Northeast,2,40-70k,Silver,In-Store,1,0
+C12523,2025-12-12,M,33.0,Central,1,<20k,Silver,In-Store,0,0
+C12524,2025-07-01,Female,18.0,East,2,70-120k,Silver,In-Store,1,1
+C12525,2026-01-05,M,29.0,Central,1,,Silver,In-Store,1,0
+C12526,2026-01-07,M,27.0,Central,1,70-120k,Bronze,Online Web,1,0
+C12527,2024-11-05,F,43.0,Central,2,20-40k,Gold,Mobile App,1,1
+C12528,2025-01-09,Female,,Bangkok,3,40-70k,Bronze,In-Store,0,1
+C12529,2024-11-30,Female,28.0,Central,1,70-120k,Silver,In-Store,1,0
+C12530,2025-01-10,Female,49.0,Central,1,>120k,Gold,In-Store,1,1
+C12531,2024-09-01,Female,56.0,Northeast,1,>120k,Bronze,In-Store,0,0
+C12532,2024-08-24,F,30.0,North,2,40-70k,Bronze,Mobile App,1,1
+C12533,2025-02-23,Male,50.0,Bangkok,1,>120k,Gold,In-Store,1,0
+C12534,2025-07-11,F,39.0,Bangkok,1,>120k,Gold,Online Web,1,1
+C12535,2025-04-08,F,29.0,Northeast,1,40-70k,Silver,In-Store,0,1
+C12536,2025-06-05,Female,37.0,Bangkok,3,70-120k,Platinum,In-Store,1,1
+C12537,2025-08-22,Female,41.0,Central,3,40-70k,Silver,In-Store,1,0
+C12538,2026-05-24,Female,43.0,North,3,40-70k,Silver,In-Store,0,0
+C12539,2025-08-24,F,26.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C12540,2025-07-08,Male,26.0,North,2,40-70k,Bronze,Mobile App,1,1
+C12541,2025-05-22,M,41.0,Bangkok,1,<20k,Bronze,In-Store,0,1
+C12542,2026-04-25,M,23.0,North,2,20-40k,Bronze,Mobile App,1,0
+C12543,2025-01-22,F,40.0,Bangkok,2,40-70k,Silver,In-Store,0,0
+C12544,2025-05-30,Male,34.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C12545,2024-08-29,Male,37.0,Bangkok,2,40-70k,Bronze,Mobile App,1,0
+C12546,2024-08-15,Male,26.0,Northeast,3,40-70k,Gold,In-Store,0,1
+C12547,2025-04-15,F,45.0,Bangkok,2,40-70k,Silver,Mobile App,0,1
+C12548,2025-06-06,f,30.0,Bangkok,1,20-40k,Gold,Mobile App,0,1
+C12549,2025-02-17,F,27.0,Central,2,20-40k,Platinum,In-Store,1,0
+C12550,2025-04-24,Female,29.0,Bangkok,2,40-70k,Silver,In-Store,0,1
+C12551,2025-01-03,female,39.0,Northeast,1,70-120k,Platinum,In-Store,0,1
+C12552,2026-05-23,Male,21.0,Central,1,20-40k,Silver,Mobile App,1,1
+C12553,2025-01-25,Male,31.0,Central,1,20-40k,Bronze,In-Store,1,1
+C12554,2025-06-08,M,21.0,East,1,<20k,Bronze,In-Store,0,0
+C12555,2026-05-09,F,25.0,Central,1,20-40k,Gold,Mobile App,0,0
+C12556,2024-10-26,Female,38.0,East,2,20-40k,Silver,Online Web,0,1
+C12557,2026-05-09,M,18.0,Northeast,2,20-40k,Bronze,In-Store,0,0
+C12558,2025-03-04,F,35.0,Bangkok,3,20-40k,Silver,In-Store,1,1
+C12559,2024-10-11,F,23.0,North,3,<20k,Silver,Mobile App,0,1
+C12560,2024-12-13,F,22.0,North,3,,Platinum,Online Web,1,1
+C12561,2025-01-02,M,23.0,Central,2,70-120k,Silver,In-Store,1,0
+C12562,2024-08-21,Male,49.0,South,3,70-120k,Silver,In-Store,0,0
+C12563,2024-09-24,Male,23.0,Northeast,1,20-40k,Gold,In-Store,1,0
+C12564,2025-09-04,M,32.0,Bangkok,1,20-40k,Silver,Online Web,1,1
+C12565,2026-03-06,male,30.0,Bangkok,3,40-70k,Bronze,In-Store,0,0
+C12566,2026-02-01,Female,53.0,South,1,70-120k,Silver,In-Store,1,1
+C12567,2026-03-13,Female,18.0,Bangkok,1,20-40k,Silver,In-Store,0,0
+C12568,2025-05-08,Male,59.0,Central,3,<20k,Platinum,In-Store,1,0
+C12569,2024-10-06,F,42.0,Central,2,40-70k,Silver,In-Store,1,1
+C12570,2025-06-13,F,,Bangkok,3,20-40k,Gold,Mobile App,1,1
+C12571,2024-09-24,Female,28.0,South,1,40-70k,Bronze,In-Store,1,0
+C12572,2025-11-15,Male,33.0,North,3,20-40k,Silver,In-Store,0,0
+C12573,2025-12-25,Female,31.0,Central,1,40-70k,Silver,In-Store,1,0
+C12574,2026-06-07,Female,18.0,North,2,20-40k,Silver,In-Store,0,0
+C12575,2025-05-08,M,32.0,Northeast,3,40-70k,Gold,Mobile App,1,0
+C12576,2025-02-15,m,20.0,Northeast,1,40-70k,Silver,In-Store,0,0
+C12577,2026-05-03,Male,18.0,Central,2,40-70k,Bronze,In-Store,0,0
+C12578,2024-09-14,F,36.0,Central,1,20-40k,Gold,Mobile App,0,1
+C12579,2025-10-16,Male,29.0,East,2,<20k,Bronze,Mobile App,1,1
+C12580,2024-11-14,Female,48.0,South,2,20-40k,Platinum,In-Store,1,1
+C12581,2024-10-15,m,21.0,East,3,20-40k,Bronze,Online Web,1,0
+C12582,2025-02-04,male,54.0,Bangkok,3,<20k,Gold,In-Store,1,1
+C12583,2024-09-27,F,53.0,South,3,20-40k,Gold,In-Store,1,0
+C12584,2024-12-08,Female,34.0,Central,2,40-70k,Silver,In-Store,0,0
+C12585,2024-08-29,Female,40.0,Northeast,1,20-40k,Gold,In-Store,0,0
+C12586,2024-11-10,Female,45.0,Northeast,1,>120k,Gold,Online Web,1,0
+C12587,2025-02-21,Female,20.0,Bangkok,3,40-70k,Platinum,Online Web,1,0
+C12588,2024-08-11,M,32.0,Central,3,>120k,Gold,Mobile App,1,1
+C12589,2025-12-06,f,41.0,Bangkok,2,<20k,Bronze,In-Store,0,0
+C12590,2025-01-30,Female,35.0,North,1,<20k,Bronze,In-Store,0,0
+C12591,2025-09-03,Female,50.0,North,1,>120k,Silver,Mobile App,1,1
+C12592,2026-04-16,F,26.0,Central,2,40-70k,Silver,In-Store,1,1
+C12593,2025-03-27,Female,40.0,Bangkok,1,,Platinum,In-Store,1,1
+C12594,2025-07-30,F,24.0,Central,2,70-120k,Silver,In-Store,0,0
+C12595,2025-02-15,Female,37.0,Bangkok,2,40-70k,Bronze,In-Store,0,0
+C12596,2025-03-01,Male,37.0,Bangkok,2,<20k,Silver,Online Web,0,1
+C12597,2025-02-08,female,30.0,Bangkok,2,70-120k,Silver,Online Web,0,0
+C12598,2025-06-18,Female,,Bangkok,1,40-70k,Silver,In-Store,1,1
+C12599,2025-03-17,Male,35.0,Bangkok,2,40-70k,Bronze,Online Web,1,1
+C12600,2026-04-21,Female,18.0,Bangkok,2,40-70k,Bronze,In-Store,0,0
+C12601,2025-04-18,Female,18.0,South,2,40-70k,Gold,In-Store,1,0
+C12602,2025-11-06,Female,35.0,Central,2,<20k,Silver,Mobile App,0,0
+C12603,2026-03-26,female,18.0,North,2,20-40k,Silver,In-Store,1,0
+C12604,2025-05-09,Male,42.0,Bangkok,2,40-70k,Gold,Mobile App,1,1
+C12605,2025-11-18,F,44.0,East,2,<20k,Bronze,Mobile App,0,1
+C12606,2024-10-26,M,38.0,South,1,,Platinum,In-Store,1,1
+C12607,2025-05-17,Female,,Northeast,2,40-70k,Bronze,In-Store,1,1
+C12608,2025-04-25,Female,41.0,East,1,>120k,Gold,In-Store,1,1
+C12609,2024-09-03,Female,33.0,Bangkok,1,<20k,Silver,In-Store,0,0
+C12610,2025-02-05,Female,59.0,North,3,<20k,Gold,In-Store,1,1
+C12611,2025-09-24,Female,36.0,Bangkok,1,40-70k,Bronze,In-Store,0,0
+C12612,2025-07-02,Female,34.0,North,3,20-40k,Bronze,In-Store,0,0
+C12613,2025-08-24,female,50.0,Bangkok,1,,Silver,In-Store,1,1
+C12614,2025-02-06,female,48.0,Central,2,,Gold,In-Store,1,1
+C12615,2025-11-16,male,34.0,Central,1,20-40k,Silver,Online Web,1,1
+C12616,2024-08-27,M,,Central,1,,Silver,Mobile App,1,1
+C12617,2025-02-01,F,30.0,Bangkok,1,40-70k,Silver,Online Web,0,0
+C12618,2024-10-28,female,61.0,North,2,40-70k,Gold,In-Store,1,1
+C12619,2026-02-07,Male,36.0,South,2,70-120k,Bronze,Online Web,1,0
+C12620,2024-09-21,Male,38.0,Northeast,1,>120k,Silver,Mobile App,1,1
+C12621,2025-09-03,male,37.0,North,2,20-40k,Silver,In-Store,1,1
+C12622,2026-06-03,Male,25.0,Central,3,40-70k,Bronze,In-Store,0,1
+C12623,2026-01-17,Female,39.0,Central,1,<20k,Gold,Online Web,1,1
+C12624,2024-12-11,Male,19.0,,1,70-120k,Silver,In-Store,0,0
+C12625,2025-05-28,F,22.0,Bangkok,3,,Silver,Mobile App,1,1
+C12626,2025-09-30,Female,28.0,Central,2,20-40k,Silver,In-Store,0,1
+C12627,2024-12-02,M,25.0,Northeast,3,40-70k,Bronze,In-Store,1,0
+C12628,2024-08-11,Female,43.0,South,1,<20k,Silver,In-Store,1,0
+C12629,2025-09-02,F,34.0,Central,2,20-40k,Gold,Mobile App,1,1
+C12630,2024-12-21,Female,31.0,Central,3,70-120k,Gold,In-Store,1,1
+C12631,2026-01-05,Female,35.0,Bangkok,2,40-70k,Bronze,In-Store,1,1
+C12632,2024-11-20,Female,27.0,North,1,20-40k,Gold,Mobile App,0,1
+C12633,2025-02-05,Female,,Bangkok,1,20-40k,Bronze,In-Store,0,1
+C12634,2024-12-12,M,21.0,South,1,<20k,Bronze,In-Store,1,0
+C12635,2024-12-10,M,20.0,Bangkok,3,70-120k,Bronze,Mobile App,0,1
+C12636,2026-03-28,M,22.0,Bangkok,1,20-40k,Bronze,In-Store,1,0
+C12637,2024-10-24,Male,37.0,Bangkok,2,20-40k,Gold,In-Store,1,0
+C12638,2025-03-27,Female,51.0,Northeast,2,20-40k,Platinum,Online Web,1,0
+C12639,2024-08-30,Male,24.0,North,1,>120k,Silver,Mobile App,1,1
+C12640,2026-06-22,Female,18.0,Northeast,3,20-40k,Silver,In-Store,1,1
+C12641,2025-02-11,Female,,Central,1,>120k,Gold,In-Store,0,1
+C12642,2025-03-10,F,37.0,Northeast,1,40-70k,Silver,In-Store,1,0
+C12643,2025-05-31,M,40.0,Central,2,20-40k,Silver,In-Store,1,0
+C12644,2025-01-28,Female,32.0,North,1,40-70k,Bronze,Online Web,1,0
+C12645,2024-12-06,F,35.0,Central,1,40-70k,Gold,Online Web,0,1
+C12646,2025-12-29,M,33.0,Bangkok,2,<20k,Bronze,Mobile App,1,1
+C12647,2024-09-07,F,39.0,North,1,20-40k,Silver,In-Store,0,1
+C12648,2025-08-14,male,44.0,Bangkok,1,,Platinum,Online Web,1,1
+C12649,2025-04-21,Female,20.0,East,2,20-40k,Silver,In-Store,1,0
+C12650,2026-05-04,Female,42.0,North,1,20-40k,Bronze,In-Store,0,0
+C12651,2024-09-25,Male,47.0,South,3,70-120k,Gold,Mobile App,1,0
+C12652,2025-03-20,M,36.0,Bangkok,3,<20k,Bronze,In-Store,1,0
+C12653,2024-11-22,Female,32.0,South,1,20-40k,Platinum,In-Store,0,1
+C12654,2025-08-30,Male,36.0,Bangkok,1,20-40k,Bronze,Mobile App,1,1
+C12655,2025-04-07,Female,34.0,South,2,20-40k,Bronze,In-Store,1,1
+C12656,2024-08-06,Male,54.0,Central,1,40-70k,Gold,In-Store,1,0
+C12657,2026-02-25,Female,27.0,East,1,20-40k,Bronze,Online Web,1,1
+C12658,2025-08-21,M,41.0,Central,1,40-70k,Bronze,In-Store,1,1
+C12659,2025-09-17,F,23.0,Bangkok,1,70-120k,Bronze,Mobile App,1,0
+C12660,2025-02-08,f,27.0,Central,2,20-40k,Bronze,In-Store,0,0
+C12661,2025-06-07,F,45.0,Central,3,40-70k,Silver,Mobile App,1,1
+C12662,2026-06-03,Male,28.0,Northeast,3,20-40k,Bronze,In-Store,1,1
+C12663,2025-03-04,M,35.0,Central,1,40-70k,Gold,Mobile App,1,0
+C12664,2026-04-11,m,24.0,East,1,,Gold,Mobile App,0,1
+C12665,2024-12-12,F,24.0,Northeast,2,,Bronze,In-Store,0,1
+C12666,2025-01-23,Female,40.0,Bangkok,1,40-70k,Gold,Mobile App,1,1
+C12667,2026-04-24,Female,18.0,Northeast,2,>120k,Silver,Mobile App,1,0
+C12668,2025-04-16,Male,27.0,Central,1,70-120k,Bronze,In-Store,0,1
+C12669,2024-12-01,Female,29.0,East,1,20-40k,Bronze,Mobile App,1,0
+C12670,2026-04-18,Male,19.0,Bangkok,1,20-40k,Bronze,Online Web,0,0
+C12671,2025-10-03,m,35.0,South,1,70-120k,Silver,Mobile App,0,0
+C12672,2026-05-26,M,34.0,Bangkok,2,20-40k,Silver,In-Store,1,0
+C12673,2024-11-09,Female,38.0,South,1,<20k,Silver,Mobile App,1,0
+C12674,2025-03-29,Female,23.0,Central,2,20-40k,Gold,In-Store,0,0
+C12675,2025-04-01,Male,27.0,Central,1,20-40k,Bronze,In-Store,1,1
+C12676,2026-05-09,Male,23.0,East,2,40-70k,Bronze,In-Store,1,0
+C12677,2024-11-12,F,54.0,Northeast,2,70-120k,Gold,Mobile App,1,1
+C12678,2025-07-02,Male,46.0,Central,1,70-120k,Silver,Online Web,1,0
+C12679,2025-06-18,m,44.0,Bangkok,2,>120k,Platinum,Online Web,1,0
+C12680,2024-10-26,Female,34.0,South,3,40-70k,Gold,Online Web,1,1
+C12681,2025-01-18,F,47.0,Central,2,70-120k,Platinum,Online Web,1,0
+C12682,2025-12-16,Female,24.0,Bangkok,1,20-40k,Bronze,In-Store,1,0
+C12683,2025-10-22,Male,36.0,Central,2,<20k,Bronze,Online Web,1,1
+C12684,2025-01-24,Female,41.0,Bangkok,2,>120k,Silver,In-Store,1,1
+C12685,2026-03-01,F,38.0,Bangkok,2,70-120k,Bronze,Mobile App,0,1
+C12686,2025-12-29,Female,26.0,Bangkok,2,20-40k,Silver,Online Web,0,0
+C12687,2025-01-17,Male,24.0,Bangkok,3,70-120k,Bronze,Mobile App,1,1
+C12688,2025-01-23,m,18.0,Northeast,1,70-120k,Gold,In-Store,1,1
+C12689,2025-02-18,Male,28.0,Central,1,<20k,Bronze,In-Store,0,0
+C12690,2026-05-21,Male,46.0,Bangkok,2,20-40k,Bronze,In-Store,0,0
+C12691,2026-03-10,Female,22.0,Northeast,1,40-70k,Bronze,Online Web,0,0
+C12692,2025-02-28,f,23.0,Bangkok,3,,Bronze,Mobile App,1,1
+C12693,2026-03-20,M,21.0,Bangkok,2,20-40k,Bronze,In-Store,0,1
+C12694,2024-08-25,Male,44.0,Northeast,1,70-120k,Platinum,Online Web,1,0
+C12695,2025-02-07,Male,48.0,South,1,20-40k,Bronze,In-Store,1,1
+C12696,2025-01-09,F,28.0,North,2,20-40k,Silver,In-Store,1,0
+C12697,2024-10-03,Female,43.0,Northeast,2,70-120k,Gold,Mobile App,1,1
+C12698,2025-01-19,Female,,Bangkok,3,70-120k,Bronze,In-Store,0,1
+C12699,2025-07-04,Male,44.0,Central,1,<20k,Silver,In-Store,1,0
+C12700,2024-12-06,Male,35.0,East,1,40-70k,Bronze,In-Store,0,1
+C12701,2025-04-21,Male,44.0,Northeast,1,20-40k,Bronze,In-Store,0,0
+C12702,2025-03-09,Female,30.0,Bangkok,3,40-70k,Bronze,In-Store,0,0
+C12703,2025-01-25,F,42.0,North,3,70-120k,Gold,Mobile App,1,0
+C12704,2025-04-24,Male,30.0,Central,2,20-40k,Silver,In-Store,0,0
+C12705,2024-10-03,Female,32.0,Bangkok,1,40-70k,Silver,In-Store,1,1
+C12706,2024-09-21,M,36.0,Bangkok,1,>120k,Platinum,In-Store,0,1
+C12707,2025-07-01,Female,43.0,Bangkok,2,40-70k,Silver,In-Store,1,0
+C12708,2025-07-06,Female,41.0,Bangkok,2,40-70k,Platinum,In-Store,1,0
+C12709,2024-10-29,Male,19.0,Bangkok,2,40-70k,Gold,Online Web,0,1
+C12710,2025-03-16,Female,23.0,Northeast,1,40-70k,Bronze,In-Store,0,0
+C12711,2025-06-20,Female,48.0,Northeast,2,<20k,Gold,In-Store,0,1
+C12712,2025-01-02,male,41.0,Northeast,3,70-120k,Platinum,In-Store,1,1
+C12713,2024-08-14,F,37.0,Northeast,1,40-70k,Bronze,In-Store,0,1
+C12714,2024-08-29,Female,44.0,East,3,<20k,Gold,In-Store,1,1
+C12715,2024-12-10,M,35.0,Central,2,40-70k,Silver,Online Web,0,0
+C12716,2024-08-20,M,35.0,East,1,20-40k,Gold,Online Web,0,1
+C12717,2025-07-26,F,,Northeast,1,40-70k,Gold,In-Store,0,1
+C12718,2026-04-30,M,26.0,South,1,>120k,Bronze,Mobile App,1,1
+C12719,2025-01-24,Male,36.0,Bangkok,2,70-120k,Platinum,Mobile App,1,1
+C12720,2025-07-19,Male,28.0,Northeast,2,20-40k,Bronze,In-Store,1,1
+C12721,2025-01-31,Female,40.0,Northeast,1,70-120k,Gold,In-Store,1,0
+C12722,2024-10-29,M,35.0,Bangkok,1,,Bronze,In-Store,1,1
+C12723,2026-01-21,Female,29.0,Northeast,1,20-40k,Silver,In-Store,0,0
+C12724,2025-03-18,Female,40.0,Central,1,70-120k,Silver,In-Store,0,0
+C12725,2024-11-30,Female,50.0,South,1,20-40k,Gold,In-Store,1,0
+C12726,2024-09-14,f,48.0,Bangkok,2,70-120k,Silver,In-Store,1,1
+C12727,2025-01-25,F,44.0,Northeast,3,20-40k,Gold,Mobile App,0,1
+C12728,2025-04-13,Female,47.0,Bangkok,2,20-40k,Gold,Mobile App,1,0
+C12729,2026-02-10,F,43.0,Bangkok,1,<20k,Silver,In-Store,0,1
+C12730,2026-06-04,Male,19.0,Bangkok,3,40-70k,Bronze,In-Store,1,0
+C12731,2026-05-19,m,36.0,Central,2,20-40k,Bronze,In-Store,1,1
+C12732,2025-01-13,F,27.0,North,2,>120k,Bronze,Mobile App,1,1
+C12733,2026-06-05,Female,46.0,Northeast,2,<20k,Bronze,In-Store,1,0
+C12734,2025-05-24,f,36.0,Bangkok,3,<20k,Gold,Mobile App,1,1
+C12735,2025-05-29,Female,33.0,East,1,20-40k,Bronze,Online Web,0,0
+C12736,2025-04-13,M,35.0,North,2,<20k,Platinum,In-Store,0,1
+C12737,2024-10-02,F,60.0,North,2,70-120k,Platinum,Mobile App,1,0
+C12738,2024-08-06,M,44.0,Northeast,1,70-120k,Platinum,In-Store,1,0
+C12739,2026-03-24,Female,18.0,Bangkok,1,,Silver,In-Store,1,1
+C12740,2025-02-27,Female,,Northeast,3,<20k,Silver,Mobile App,1,1
+C12741,2025-01-06,f,50.0,East,3,>120k,Platinum,In-Store,0,0
+C12742,2024-08-16,F,40.0,Bangkok,2,20-40k,Gold,Mobile App,1,1
+C12743,2025-06-17,f,35.0,Central,3,40-70k,Bronze,In-Store,1,0
+C12744,2025-06-16,Male,43.0,Bangkok,2,40-70k,Platinum,Mobile App,1,1
+C12745,2025-08-14,Female,38.0,Northeast,2,20-40k,Gold,Mobile App,1,1
+C12746,2024-10-30,Male,29.0,Northeast,2,<20k,Silver,In-Store,1,0
+C12747,2025-07-07,F,38.0,Bangkok,2,40-70k,Silver,In-Store,1,1
+C12748,2024-12-03,Female,47.0,Bangkok,1,20-40k,Gold,Mobile App,0,0
+C12749,2024-08-09,Male,44.0,Bangkok,1,20-40k,Gold,Mobile App,1,1
+C12750,2025-12-26,Male,35.0,East,3,20-40k,Gold,In-Store,1,0
+C12751,2025-01-31,Female,35.0,North,2,>120k,Silver,Online Web,1,0
+C12752,2025-02-17,Female,24.0,Central,3,20-40k,Silver,In-Store,1,0
+C12753,2024-12-27,F,40.0,Northeast,1,70-120k,Silver,Mobile App,0,1
+C12754,2025-06-10,Female,34.0,Bangkok,1,20-40k,Silver,Online Web,1,1
+C12755,2025-07-05,F,44.0,North,3,<20k,Bronze,In-Store,0,1
+C12756,2025-01-16,Female,43.0,East,2,20-40k,Bronze,Mobile App,0,1
+C12757,2024-12-04,M,40.0,Northeast,3,70-120k,Platinum,In-Store,1,0
+C12758,2025-03-02,Female,49.0,Bangkok,2,40-70k,Platinum,Mobile App,1,1
+C12759,2024-10-19,female,30.0,Northeast,2,40-70k,Bronze,In-Store,1,0
+C12760,2026-01-02,F,20.0,Central,2,40-70k,Bronze,Mobile App,1,1
+C12761,2026-02-17,Male,31.0,Central,1,20-40k,Silver,In-Store,0,1
+C12762,2026-04-16,Male,32.0,Northeast,2,70-120k,Bronze,In-Store,1,0
+C12763,2024-12-03,Female,24.0,North,1,40-70k,Gold,In-Store,1,0
+C12764,2025-03-09,Male,38.0,South,1,40-70k,Gold,Online Web,1,1
+C12765,2026-06-17,M,30.0,Central,1,70-120k,Silver,In-Store,1,1
+C12766,2025-02-04,Female,31.0,South,1,40-70k,Gold,Mobile App,1,1
+C12767,2026-01-17,Male,23.0,Bangkok,3,40-70k,Gold,In-Store,1,1
+C12768,2026-01-05,F,18.0,East,3,>120k,Silver,Online Web,1,0
+C12769,2024-10-04,Female,63.0,North,1,20-40k,Bronze,In-Store,0,1
+C12770,2025-02-26,F,44.0,North,1,,Silver,In-Store,0,1
+C12771,2024-08-26,Female,28.0,Central,1,40-70k,Gold,In-Store,1,1
+C12772,2024-09-27,Female,50.0,Northeast,1,,Silver,In-Store,0,0
+C12773,2025-02-11,Male,35.0,South,2,70-120k,Silver,In-Store,1,0
+C12774,2024-11-21,M,39.0,Northeast,3,<20k,Bronze,Mobile App,0,1
+C12775,2026-02-24,m,22.0,Northeast,1,<20k,Silver,Mobile App,0,1
+C12776,2025-05-28,F,39.0,South,2,<20k,Silver,Mobile App,1,0
+C12777,2026-02-14,M,19.0,Bangkok,3,<20k,Gold,In-Store,0,0
+C12778,2026-04-30,M,25.0,Bangkok,2,20-40k,Gold,Online Web,1,1
+C12779,2026-05-11,Female,34.0,Bangkok,1,40-70k,Silver,In-Store,1,0
+C12780,2025-06-14,F,40.0,South,1,<20k,Platinum,Online Web,1,0
+C12781,2025-05-30,Male,49.0,Bangkok,1,40-70k,Platinum,Online Web,0,1
+C12782,2025-03-24,Male,37.0,Northeast,2,40-70k,Bronze,In-Store,0,0
+C12783,2025-07-31,F,26.0,North,1,40-70k,Silver,Mobile App,0,1
+C12784,2024-12-16,Female,51.0,Bangkok,1,,Bronze,Online Web,1,0
+C12785,2025-06-20,M,38.0,Bangkok,2,>120k,Gold,Mobile App,0,1
+C12786,2026-05-09,Male,26.0,East,2,40-70k,Bronze,In-Store,1,0
+C12787,2026-02-21,Female,19.0,Northeast,2,20-40k,Bronze,In-Store,0,1
+C12788,2025-02-01,Female,27.0,Central,2,40-70k,Silver,In-Store,0,0
+C12789,2025-06-29,Male,44.0,Northeast,1,70-120k,Bronze,In-Store,0,1
+C12790,2025-11-21,M,36.0,Central,2,>120k,Silver,In-Store,1,1
+C12791,2026-05-18,M,18.0,Central,1,20-40k,Gold,Mobile App,0,1
+C12792,2025-05-17,Female,26.0,Bangkok,1,40-70k,Bronze,Mobile App,1,1
+C12793,2026-03-03,F,24.0,Central,2,70-120k,Gold,In-Store,0,0
+C12794,2026-03-10,Female,26.0,Bangkok,3,<20k,Silver,Online Web,0,1
+C12795,2024-12-19,Female,52.0,Bangkok,2,40-70k,Gold,In-Store,1,1
+C12796,2025-10-21,Female,41.0,Northeast,3,40-70k,Silver,Mobile App,0,1
+C12797,2024-12-12,M,25.0,,3,40-70k,Platinum,In-Store,1,1
+C12798,2024-11-20,Male,40.0,Northeast,3,20-40k,Gold,In-Store,1,0
+C12799,2024-10-08,Female,54.0,South,1,,Silver,In-Store,0,0
+C12800,2025-03-09,M,40.0,Central,1,40-70k,Platinum,Mobile App,1,1
+C12801,2025-10-25,Female,36.0,Northeast,1,40-70k,Silver,In-Store,1,0
+C12802,2025-09-10,Female,38.0,Northeast,1,20-40k,Bronze,In-Store,1,1
+C12803,2025-05-30,Male,33.0,Bangkok,1,40-70k,Gold,In-Store,1,0
+C12804,2025-04-23,male,49.0,Bangkok,1,<20k,Silver,In-Store,1,0
+C12805,2024-08-26,F,36.0,South,1,40-70k,Silver,Mobile App,0,0
+C12806,2026-01-03,Female,42.0,Central,1,40-70k,Bronze,Mobile App,1,1
+C12807,2025-04-24,Female,47.0,Northeast,3,>120k,Silver,In-Store,1,1
+C12808,2024-12-11,female,34.0,Central,3,20-40k,Silver,In-Store,1,0
+C12809,2026-02-20,Male,43.0,Central,3,40-70k,Bronze,Online Web,0,1
+C12810,2024-12-21,Male,24.0,Bangkok,1,20-40k,Bronze,Online Web,0,0
+C12811,2025-09-25,female,48.0,Bangkok,3,20-40k,Silver,In-Store,1,0
+C12812,2024-10-15,Female,33.0,Central,3,20-40k,Gold,Mobile App,1,1
+C12813,2025-08-05,m,44.0,North,3,40-70k,Silver,Mobile App,0,1
+C12814,2025-03-28,Male,32.0,Central,2,<20k,Silver,In-Store,1,0
+C12815,2024-08-18,Male,50.0,East,1,70-120k,Gold,Mobile App,1,1
+C12816,2024-10-14,Male,31.0,East,3,20-40k,Bronze,Mobile App,1,0
+C12817,2025-07-12,F,30.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C12818,2024-09-20,M,32.0,North,3,20-40k,Bronze,Mobile App,0,1
+C12819,2024-09-29,Male,38.0,Northeast,2,20-40k,Gold,In-Store,0,0
+C12820,2025-01-28,F,45.0,East,2,20-40k,Silver,In-Store,0,1
+C12821,2025-09-21,F,49.0,North,3,20-40k,Bronze,Mobile App,1,1
+C12822,2024-08-26,M,18.0,North,2,70-120k,Bronze,In-Store,0,1
+C12823,2025-03-10,M,39.0,Bangkok,2,<20k,Silver,Mobile App,1,1
+C12824,2026-03-26,Female,46.0,Central,3,70-120k,Bronze,Mobile App,1,1
+C12825,2026-03-27,Female,60.0,Northeast,3,20-40k,Silver,In-Store,1,1
+C12826,2025-01-16,Male,41.0,Bangkok,1,20-40k,Silver,In-Store,0,1
+C12827,2025-05-20,F,29.0,Northeast,3,<20k,Gold,In-Store,1,0
+C12828,2026-02-01,F,30.0,East,1,70-120k,Bronze,Mobile App,1,1
+C12829,2025-01-08,F,31.0,East,1,20-40k,Bronze,Online Web,1,0
+C12830,2024-11-17,Female,35.0,Bangkok,3,40-70k,Silver,Online Web,1,0
+C12831,2024-09-09,male,18.0,Bangkok,3,20-40k,Silver,In-Store,0,1
+C12832,2025-01-14,M,48.0,Central,3,20-40k,Bronze,Mobile App,1,1
+C12833,2025-01-14,M,38.0,Central,2,>120k,Bronze,In-Store,0,1
+C12834,2024-11-03,F,48.0,South,2,>120k,Platinum,Mobile App,1,0
+C12835,2026-06-15,F,23.0,Central,1,70-120k,Platinum,In-Store,0,0
+C12836,2026-02-17,m,18.0,North,2,40-70k,Bronze,Online Web,1,0
+C12837,2026-05-28,Male,44.0,Bangkok,2,70-120k,Gold,Mobile App,1,1
+C12838,2024-12-03,Male,42.0,Bangkok,1,20-40k,Silver,In-Store,0,1
+C12839,2024-12-05,M,34.0,Northeast,2,40-70k,Gold,In-Store,0,1
+C12840,2025-05-14,M,33.0,Northeast,3,40-70k,Bronze,In-Store,0,1
+C12841,2025-02-16,male,24.0,Bangkok,2,<20k,Bronze,In-Store,0,0
+C12842,2026-01-23,male,29.0,Central,3,40-70k,Silver,In-Store,1,0
+C12843,2025-11-11,male,25.0,Bangkok,2,70-120k,Bronze,In-Store,1,0
+C12844,2025-10-10,M,46.0,Bangkok,1,40-70k,Bronze,In-Store,1,0
+C12845,2024-11-06,Male,23.0,Central,3,,Silver,Mobile App,1,1
+C12846,2025-02-11,Female,56.0,Northeast,1,40-70k,Platinum,In-Store,1,0
+C12847,2026-03-23,Female,20.0,,2,40-70k,Bronze,In-Store,1,0
+C12848,2026-04-25,Male,34.0,Bangkok,1,40-70k,Bronze,Mobile App,1,0
+C12849,2026-05-06,F,48.0,Bangkok,2,20-40k,Silver,In-Store,0,0
+C12850,2026-05-22,F,48.0,North,2,70-120k,Bronze,In-Store,0,1
+C12851,2025-12-26,Male,26.0,Bangkok,1,40-70k,Bronze,In-Store,0,1
+C12852,2024-08-22,Male,26.0,South,2,40-70k,Silver,Mobile App,1,1
+C12853,2025-01-17,m,26.0,Northeast,1,40-70k,Bronze,In-Store,0,1
+C12854,2024-08-25,Female,50.0,Bangkok,1,70-120k,Gold,In-Store,1,1
+C12855,2025-07-28,Female,41.0,East,1,40-70k,Silver,In-Store,1,0
+C12856,2026-05-20,Female,41.0,Northeast,2,<20k,Bronze,In-Store,0,0
+C12857,2025-07-23,Male,27.0,Central,2,20-40k,Bronze,Mobile App,1,1
+C12858,2025-05-31,F,41.0,Central,2,20-40k,Bronze,In-Store,1,0
+C12859,2025-01-04,Male,42.0,Bangkok,3,70-120k,Gold,In-Store,1,1
+C12860,2026-02-09,Male,29.0,Northeast,2,40-70k,Bronze,Mobile App,0,1
+C12861,2024-11-17,Female,32.0,North,1,20-40k,Bronze,In-Store,1,1
+C12862,2024-08-05,M,33.0,Central,3,40-70k,Gold,Mobile App,1,1
+C12863,2025-08-24,Female,39.0,Northeast,1,20-40k,Bronze,In-Store,1,0
+C12864,2025-03-04,Male,42.0,Bangkok,1,40-70k,Bronze,Mobile App,1,0
+C12865,2025-09-21,Female,49.0,South,1,20-40k,Bronze,In-Store,1,0
+C12866,2025-03-23,Female,41.0,North,1,40-70k,Gold,Mobile App,1,1
+C12867,2025-01-24,Male,33.0,South,3,<20k,Silver,In-Store,1,1
+C12868,2024-11-05,Female,40.0,East,1,40-70k,Silver,Online Web,1,0
+C12869,2025-05-10,m,30.0,Bangkok,1,70-120k,Silver,In-Store,1,0
+C12870,2024-09-07,F,28.0,Bangkok,2,40-70k,Silver,In-Store,1,1
+C12871,2025-11-05,m,25.0,Bangkok,2,20-40k,Bronze,In-Store,1,0
+C12872,2024-08-18,Male,40.0,Bangkok,3,,Gold,In-Store,1,0
+C12873,2026-02-09,F,18.0,Northeast,2,40-70k,Bronze,Mobile App,1,1
+C12874,2025-03-19,F,42.0,Bangkok,1,<20k,Bronze,In-Store,1,1
+C12875,2026-02-12,F,30.0,Central,3,70-120k,Silver,In-Store,0,0
+C12876,2026-02-20,Male,36.0,Bangkok,1,40-70k,Silver,Mobile App,1,1
+C12877,2024-09-13,Male,31.0,Bangkok,1,20-40k,Bronze,In-Store,1,1
+C12878,2026-01-06,F,30.0,Bangkok,3,20-40k,Bronze,Mobile App,1,1
+C12879,2026-04-27,F,33.0,Central,1,20-40k,Bronze,In-Store,0,1
+C12880,2025-02-09,M,19.0,Northeast,1,40-70k,Gold,In-Store,1,0
+C12881,2025-03-12,f,26.0,,2,40-70k,Silver,In-Store,0,1
+C12882,2025-10-27,Female,38.0,Bangkok,3,20-40k,Silver,In-Store,1,0
+C12883,2025-03-20,m,44.0,Bangkok,3,20-40k,Gold,Online Web,1,1
+C12884,2024-09-30,M,57.0,Bangkok,2,40-70k,Silver,Mobile App,1,1
+C12885,2025-01-16,Female,39.0,Bangkok,3,70-120k,Silver,In-Store,1,0
+C12886,2024-10-04,M,46.0,North,1,20-40k,Platinum,Mobile App,1,1
+C12887,2024-10-19,Male,44.0,Bangkok,1,<20k,Silver,In-Store,0,1
+C12888,2024-08-07,Female,31.0,Bangkok,1,40-70k,Bronze,In-Store,0,1
+C12889,2025-12-20,Female,26.0,Bangkok,1,40-70k,Bronze,In-Store,0,1
+C12890,2024-10-22,Male,46.0,Bangkok,2,70-120k,Gold,Mobile App,1,1
+C12891,2024-12-30,Female,40.0,Bangkok,1,<20k,Bronze,In-Store,0,1
+C12892,2025-06-13,male,41.0,North,1,40-70k,Silver,In-Store,0,0
+C12893,2024-08-11,Male,43.0,Bangkok,1,20-40k,Bronze,In-Store,1,1
+C12894,2024-09-07,Female,35.0,East,2,40-70k,Silver,In-Store,1,0
+C12895,2025-01-22,female,33.0,Bangkok,1,20-40k,Bronze,In-Store,0,0
+C12896,2025-01-26,M,20.0,Bangkok,3,40-70k,Gold,In-Store,1,1
+C12897,2024-11-23,Female,41.0,Bangkok,1,40-70k,Silver,Online Web,0,1
+C12898,2025-01-25,Male,46.0,Bangkok,2,20-40k,Gold,Mobile App,1,1
+C12899,2025-01-28,F,165.0,Northeast,2,40-70k,Platinum,Online Web,0,1
+C12900,2025-01-30,Male,59.0,East,3,>120k,Platinum,Mobile App,1,0
+C12901,2025-08-27,M,43.0,Northeast,2,,Silver,In-Store,1,0
+C12902,2026-04-07,M,18.0,Bangkok,2,20-40k,Silver,In-Store,0,0
+C12903,2024-08-05,f,48.0,Bangkok,3,70-120k,Silver,In-Store,1,0
+C12904,2025-03-21,Female,44.0,Bangkok,2,70-120k,Silver,In-Store,0,1
+C12905,2025-08-16,Female,,East,2,>120k,Bronze,In-Store,1,1
+C12906,2026-05-30,Female,37.0,Central,1,70-120k,Silver,Online Web,1,0
+C12907,2026-03-19,Female,29.0,Bangkok,1,70-120k,Silver,In-Store,1,1
+C12908,2025-09-15,Female,35.0,Bangkok,1,40-70k,Silver,Online Web,1,0
+C12909,2024-08-23,Male,39.0,,3,20-40k,Bronze,Mobile App,1,1
+C12910,2026-03-21,F,28.0,Bangkok,1,70-120k,Gold,Mobile App,1,0
+C12911,2024-08-28,Male,48.0,Central,1,70-120k,Gold,Mobile App,0,0
+C12912,2025-02-27,Female,48.0,Northeast,1,>120k,Gold,Mobile App,1,0
+C12913,2025-06-21,male,34.0,Central,1,20-40k,Silver,In-Store,1,0
+C12914,2025-06-01,Male,25.0,South,2,,Gold,In-Store,0,0
+C12915,2024-10-18,M,43.0,Bangkok,2,<20k,Platinum,In-Store,1,0
+C12916,2025-03-06,Female,43.0,North,2,40-70k,Platinum,Mobile App,0,1
+C12917,2026-06-06,F,19.0,Bangkok,1,20-40k,Bronze,In-Store,1,1
+C12918,2026-01-07,F,32.0,East,3,<20k,Bronze,In-Store,1,0
+C12919,2026-02-11,f,36.0,Northeast,1,20-40k,Bronze,In-Store,1,0
+C12920,2024-11-17,Male,38.0,Bangkok,2,40-70k,Platinum,In-Store,1,1
+C12921,2024-09-07,f,38.0,Bangkok,1,70-120k,Bronze,In-Store,0,1
+C12922,2025-04-30,Female,34.0,Northeast,2,>120k,Silver,In-Store,1,1
+C12923,2025-08-10,F,37.0,South,1,40-70k,Gold,Mobile App,1,0
+C12924,2026-06-09,male,20.0,Northeast,1,20-40k,Bronze,In-Store,1,1
+C12925,2025-12-18,Male,44.0,Bangkok,3,20-40k,Bronze,In-Store,1,1
+C12926,2025-12-27,M,32.0,South,2,,Silver,In-Store,1,0
+C12927,2024-09-03,female,47.0,Central,2,>120k,Platinum,Mobile App,0,0
+C12928,2026-05-16,F,40.0,Bangkok,3,<20k,Platinum,Online Web,1,0
+C12929,2025-09-28,F,30.0,North,1,40-70k,Gold,In-Store,0,0
+C12930,2026-05-22,Male,35.0,Central,3,20-40k,Silver,In-Store,1,0
+C12931,2025-02-05,M,38.0,Bangkok,1,70-120k,Platinum,Online Web,0,0
+C12932,2024-09-28,Male,36.0,Central,3,70-120k,Platinum,Mobile App,0,1
+C12933,2025-06-10,Male,53.0,North,3,<20k,Bronze,Mobile App,1,1
+C12934,2024-11-04,Female,33.0,Northeast,2,40-70k,Bronze,In-Store,0,0
+C12935,2025-06-01,Female,34.0,Northeast,1,20-40k,Bronze,Mobile App,1,1
+C12936,2025-07-13,M,58.0,Central,3,40-70k,Gold,Mobile App,1,0
+C12937,2024-12-28,female,41.0,North,2,40-70k,Bronze,In-Store,0,0
+C12938,2026-02-19,M,28.0,Bangkok,2,20-40k,Bronze,In-Store,1,1
+C12939,2026-01-29,Female,35.0,South,2,20-40k,Gold,In-Store,1,0
+C12940,2025-06-23,f,43.0,North,3,20-40k,Silver,In-Store,1,1
+C12941,2025-03-13,M,23.0,Central,1,20-40k,Bronze,Mobile App,0,1
+C12942,2026-03-09,Female,24.0,Northeast,1,70-120k,Bronze,Online Web,1,0
+C12943,2024-10-19,Female,56.0,Bangkok,1,40-70k,Bronze,In-Store,1,1
+C12944,2024-10-10,male,,,1,40-70k,Bronze,In-Store,0,0
+C12945,2026-05-14,M,33.0,Bangkok,1,<20k,Silver,In-Store,1,0
+C12946,2025-09-18,Male,,Bangkok,2,40-70k,Platinum,In-Store,1,1
+C12947,2024-10-08,male,32.0,Northeast,2,20-40k,Bronze,Mobile App,1,1
+C12948,2025-03-01,Female,27.0,East,3,20-40k,Silver,Mobile App,1,1
+C12949,2025-07-26,M,20.0,Bangkok,1,20-40k,Silver,In-Store,0,0
+C12950,2025-05-29,m,22.0,North,2,20-40k,Gold,Online Web,1,1
+C12951,2026-03-09,F,20.0,Bangkok,1,40-70k,Bronze,Online Web,1,0
+C12952,2024-08-31,F,32.0,East,1,,Silver,In-Store,0,1
+C12953,2025-03-11,Male,34.0,East,1,70-120k,Gold,Mobile App,1,1
+C12954,2024-10-09,Male,42.0,Northeast,3,20-40k,Bronze,Mobile App,1,1
+C12955,2025-07-03,Male,46.0,East,2,20-40k,Bronze,In-Store,1,1
+C12956,2025-03-08,Male,29.0,North,3,40-70k,Gold,In-Store,1,1
+C12957,2025-08-15,M,28.0,South,1,,Gold,Online Web,1,0
+C12958,2025-05-05,Male,39.0,North,2,40-70k,Platinum,Online Web,1,1
+C12959,2024-12-19,Female,26.0,Bangkok,2,20-40k,Gold,Mobile App,0,1
+C12960,2025-03-02,M,41.0,Bangkok,1,20-40k,Silver,Mobile App,0,1
+C12961,2025-06-06,Female,38.0,Bangkok,1,20-40k,Bronze,In-Store,1,1
+C12962,2024-12-14,Female,37.0,Bangkok,3,,Silver,In-Store,0,0
+C12963,2026-01-09,Male,42.0,Bangkok,2,,Silver,Online Web,0,1
+C12964,2026-04-22,F,28.0,South,1,40-70k,Silver,In-Store,1,0
+C12965,2025-05-03,Male,25.0,Central,3,20-40k,Bronze,In-Store,1,0
+C12966,2024-09-24,Male,34.0,Bangkok,1,>120k,Silver,In-Store,1,0
+C12967,2025-08-11,female,49.0,Northeast,3,40-70k,Gold,Online Web,1,0
+C12968,2025-02-22,Male,40.0,Bangkok,2,40-70k,Silver,In-Store,0,0
+C12969,2026-04-05,f,18.0,Central,2,20-40k,Bronze,In-Store,0,0
+C12970,2024-12-30,Female,33.0,Bangkok,1,20-40k,Silver,Online Web,0,0
+C12971,2026-03-25,Female,35.0,North,1,40-70k,Bronze,Online Web,1,1
+C12972,2025-04-15,Female,35.0,Bangkok,2,70-120k,Platinum,Online Web,1,1
+C12973,2026-02-18,Male,27.0,East,1,70-120k,Bronze,Online Web,0,0
+C12974,2024-11-04,Male,34.0,North,2,<20k,Silver,In-Store,0,0
+C12975,2025-03-06,Male,31.0,Bangkok,2,40-70k,Silver,In-Store,0,1
+C12976,2025-04-05,Female,41.0,North,1,40-70k,Gold,In-Store,0,0
+C12977,2024-11-08,Male,36.0,East,2,20-40k,Bronze,In-Store,0,1
+C12978,2024-08-04,Female,34.0,East,1,40-70k,Silver,In-Store,0,1
+C12979,2024-12-01,Male,38.0,East,2,20-40k,Platinum,In-Store,1,0
+C12980,2024-09-27,M,45.0,North,1,20-40k,Silver,Mobile App,1,0
+C12981,2024-11-02,Male,51.0,Northeast,3,70-120k,Silver,Mobile App,1,1
+C12982,2025-07-21,Male,46.0,Central,2,40-70k,Silver,In-Store,1,1
+C12983,2025-11-24,Female,18.0,Bangkok,1,<20k,Bronze,In-Store,1,1
+C12984,2024-12-25,F,31.0,Central,1,40-70k,Gold,In-Store,1,0
+C12985,2024-11-30,male,42.0,Bangkok,1,20-40k,Silver,In-Store,0,1
+C12986,2024-11-09,Female,27.0,East,1,40-70k,Silver,In-Store,0,1
+C12987,2024-08-09,Male,46.0,East,3,70-120k,Gold,Mobile App,1,1
+C12988,2024-10-29,M,32.0,North,2,70-120k,Bronze,In-Store,0,1
+C12989,2025-01-01,Male,33.0,Bangkok,1,20-40k,Silver,In-Store,1,0
+C12990,2026-06-22,Male,33.0,Central,3,<20k,Bronze,In-Store,1,1
+C12991,2024-08-03,Female,34.0,Bangkok,3,70-120k,Platinum,In-Store,1,0
+C12992,2025-07-14,Female,43.0,Central,3,20-40k,Silver,Mobile App,0,0
+C12993,2025-03-07,Male,48.0,Central,3,,Silver,In-Store,1,0
+C12994,2026-02-22,F,18.0,Bangkok,1,40-70k,Silver,In-Store,1,0
+C12995,2026-02-13,Male,37.0,Bangkok,1,,Gold,In-Store,1,0
+C12996,2026-06-10,Female,31.0,Bangkok,3,<20k,Silver,Mobile App,0,1
+C12997,2024-08-29,M,29.0,Bangkok,2,40-70k,Gold,Mobile App,1,1
+C12998,2026-05-03,F,34.0,Bangkok,3,70-120k,Silver,In-Store,0,1
+C12999,2025-04-21,Female,,Bangkok,2,,Bronze,In-Store,0,0
+C13000,2024-11-01,M,32.0,Bangkok,2,>120k,Platinum,In-Store,1,1
+C11284,2025-03-21,Male,30.0,Central,1,40-70k,Silver,Online Web,1,1
+C10251,2024-08-27,Female,51.0,Bangkok,2,20-40k,Bronze,In-Store,0,1
+C12154,2024-10-31,M,32.0,East,1,>120k,Silver,In-Store,0,0
+C12787,2026-02-21,Female,19.0,Northeast,2,20-40k,Bronze,In-Store,0,1
+C10633,2025-01-03,Female,56.0,East,1,20-40k,Bronze,In-Store,1,0
+C10071,2024-11-17,Female,27.0,Northeast,3,,Silver,In-Store,0,1
+C10022,2025-07-09,Male,44.0,Bangkok,1,20-40k,Silver,In-Store,1,1
+C10415,2025-05-15,F,38.0,Northeast,1,<20k,Silver,In-Store,0,0
+C10587,2026-04-15,f,30.0,Bangkok,2,20-40k,Bronze,In-Store,1,0
+C10604,2024-10-05,male,25.0,Bangkok,2,40-70k,Silver,Mobile App,1,1
+C12172,2024-11-14,M,29.0,South,2,40-70k,Bronze,In-Store,0,1
+C12800,2025-03-09,M,40.0,Central,1,40-70k,Platinum,Mobile App,1,1
+C12664,2026-04-11,m,24.0,East,1,,Gold,Mobile App,0,1
+C11733,2025-08-03,Male,33.0,Bangkok,2,70-120k,Silver,In-Store,1,1
+C12050,2025-11-23,Female,20.0,Bangkok,2,40-70k,Bronze,In-Store,0,0

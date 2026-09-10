@@ -1,0 +1,1630 @@
+{
+  "_figures": [
+    "outputs/figures/f01_business_overview.png",
+    "outputs/figures/f02_category_performance.png",
+    "outputs/figures/f03_rfm_skewness.png",
+    "outputs/figures/f04_churn_balance.png",
+    "outputs/figures/f05_association_rules.png",
+    "outputs/figures/f06_category_lift_heatmap.png",
+    "outputs/figures/f07_k_selection.png",
+    "outputs/figures/f08_dbscan_check.png",
+    "outputs/figures/f09_segments_pca.png",
+    "outputs/figures/f10_segment_radar.png",
+    "outputs/figures/f11_model_comparison.png",
+    "outputs/figures/f12b_threshold_sensitivity.png",
+    "outputs/figures/f12_evaluation.png",
+    "outputs/figures/f13_feature_importance.png",
+    "outputs/figures/f14_decision_tree_rules.png",
+    "outputs/figures/f15_risk_distribution.png"
+  ],
+  "_tables": [
+    {
+      "path": "outputs/tables/t01_table_overview.csv",
+      "rows": 6
+    },
+    {
+      "path": "outputs/tables/t02_data_quality_audit.csv",
+      "rows": 10
+    },
+    {
+      "path": "outputs/tables/t03_referential_integrity.csv",
+      "rows": 5
+    },
+    {
+      "path": "outputs/tables/t04_category_stats.csv",
+      "rows": 14
+    },
+    {
+      "path": "outputs/tables/t05_rfm_skewness.csv",
+      "rows": 3
+    },
+    {
+      "path": "outputs/tables/t06_customer_features.csv",
+      "rows": 3000
+    },
+    {
+      "path": "outputs/tables/t07_churn_modeling_frame.csv",
+      "rows": 3000
+    },
+    {
+      "path": "outputs/tables/t08_association_rules_all.csv",
+      "rows": 96
+    },
+    {
+      "path": "outputs/tables/t09_association_rules_top15.csv",
+      "rows": 15
+    },
+    {
+      "path": "outputs/tables/t10_product_bundles.csv",
+      "rows": 10
+    },
+    {
+      "path": "outputs/tables/t11_category_rules_top.csv",
+      "rows": 8
+    },
+    {
+      "path": "outputs/tables/t12_crosssell_opportunity.csv",
+      "rows": 20
+    },
+    {
+      "path": "outputs/tables/t13_kmeans_k_search.csv",
+      "rows": 9
+    },
+    {
+      "path": "outputs/tables/t14_dbscan_scan.csv",
+      "rows": 6
+    },
+    {
+      "path": "outputs/tables/t15_pca_loadings.csv",
+      "rows": 9
+    },
+    {
+      "path": "outputs/tables/t16_segment_profile_raw.csv",
+      "rows": 4
+    },
+    {
+      "path": "outputs/tables/t17_segment_personas.csv",
+      "rows": 4
+    },
+    {
+      "path": "outputs/tables/t18_model_comparison_cv.csv",
+      "rows": 9
+    },
+    {
+      "path": "outputs/tables/t19_tuning_results.csv",
+      "rows": 3
+    },
+    {
+      "path": "outputs/tables/t20_threshold_sweep.csv",
+      "rows": 181
+    },
+    {
+      "path": "outputs/tables/t21_threshold_comparison.csv",
+      "rows": 3
+    },
+    {
+      "path": "outputs/tables/t21b_threshold_sensitivity.csv",
+      "rows": 12
+    },
+    {
+      "path": "outputs/tables/t22_permutation_importance.csv",
+      "rows": 40
+    },
+    {
+      "path": "outputs/tables/t23_logreg_coefficients.csv",
+      "rows": 57
+    },
+    {
+      "path": "outputs/tables/t24b_decision_tree_rules.txt",
+      "rows": 43
+    },
+    {
+      "path": "outputs/tables/t24_warning_signals.csv",
+      "rows": 10
+    },
+    {
+      "path": "outputs/tables/t25_scenario_comparison.csv",
+      "rows": 2
+    },
+    {
+      "path": "outputs/tables/t26_business_goal_assessment.csv",
+      "rows": 3
+    },
+    {
+      "path": "outputs/tables/t27_customer_risk_list.csv",
+      "rows": 3000
+    },
+    {
+      "path": "outputs/tables/t29_value_at_risk_by_tier.csv",
+      "rows": 4
+    },
+    {
+      "path": "outputs/tables/t28_strategic_recommendations.csv",
+      "rows": 3
+    }
+  ],
+  "ar_algorithms_agree": {
+    "value": true
+  },
+  "ar_benchmark_repeats": {
+    "value": 5
+  },
+  "ar_bundle_names": {
+    "value": [
+      "Pet",
+      "Baby",
+      "Coffee & Tea",
+      "Personal Care",
+      "Coffee & Tea",
+      "Personal Care",
+      "Snacks",
+      "Dairy",
+      "Pantry",
+      "Bakery"
+    ]
+  },
+  "ar_bundle_sizes": {
+    "value": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  "ar_cat_n_rules": {
+    "value": 148
+  },
+  "ar_cat_top_lift": {
+    "value": 1.59
+  },
+  "ar_cat_top_pair": {
+    "value": "Snacks → Alcohol"
+  },
+  "ar_crosssell_top_opportunity_thb": {
+    "value": 1815498.0
+  },
+  "ar_crosssell_top_pair": {
+    "value": "Baby Wipes -> Baby Lotion, Diapers Pack"
+  },
+  "ar_crosssell_total_opportunity_thb": {
+    "value": 6143271.0
+  },
+  "ar_faster_algorithm": {
+    "value": "Apriori"
+  },
+  "ar_max_len": {
+    "value": 3
+  },
+  "ar_max_lift": {
+    "value": 22.55
+  },
+  "ar_min_confidence": {
+    "value": 0.3
+  },
+  "ar_min_lift": {
+    "value": 1.97
+  },
+  "ar_min_support": {
+    "value": 0.01
+  },
+  "ar_n_bundles": {
+    "value": 10
+  },
+  "ar_n_itemsets": {
+    "value": 410
+  },
+  "ar_n_rules": {
+    "value": 96
+  },
+  "ar_n_rules_lift_gt_10": {
+    "value": 43
+  },
+  "ar_n_rules_lift_gt_2": {
+    "value": 95
+  },
+  "ar_n_rules_lift_gt_5": {
+    "value": 79
+  },
+  "ar_speed_ratio": {
+    "value": 5.33
+  },
+  "ar_strong_lift_threshold": {
+    "value": 5.0
+  },
+  "ar_time_apriori_sec": {
+    "value": 0.0929
+  },
+  "ar_time_fpgrowth_sec": {
+    "value": 0.4951
+  },
+  "ar_top1_antecedent": {
+    "value": "Dog Food 3kg, Pet Shampoo"
+  },
+  "ar_top1_confidence": {
+    "value": 0.963
+  },
+  "ar_top1_consequent": {
+    "value": "Dog Treats"
+  },
+  "ar_top1_lift": {
+    "value": 22.55
+  },
+  "ar_top1_support": {
+    "value": 0.0122
+  },
+  "basket_mean_distinct_items": {
+    "value": 5.68
+  },
+  "basket_n_categories": {
+    "value": 14
+  },
+  "basket_n_products": {
+    "value": 89
+  },
+  "basket_n_transactions": {
+    "value": 65950
+  },
+  "churn_best_model_cv": {
+    "value": "Gradient Boosting"
+  },
+  "churn_best_prauc_cv": {
+    "value": 0.7979
+  },
+  "churn_best_recall_model": {
+    "value": "Logistic Regression"
+  },
+  "churn_best_recall_value": {
+    "value": 0.7811
+  },
+  "churn_best_rocauc_cv": {
+    "value": 0.9119
+  },
+  "churn_best_tuned_model": {
+    "value": "XGBoost"
+  },
+  "churn_best_tuned_prauc": {
+    "value": 0.8101
+  },
+  "churn_champion_model": {
+    "value": "XGBoost"
+  },
+  "churn_cv_folds": {
+    "value": 5
+  },
+  "churn_cv_results": {
+    "value": [
+      {
+        "accuracy": 0.8629,
+        "accuracy_std": 0.0096,
+        "average_precision": 0.7979,
+        "average_precision_std": 0.0286,
+        "f1": 0.6919,
+        "f1_std": 0.0246,
+        "fit_time_sec": 1.5137,
+        "model": "Gradient Boosting",
+        "precision": 0.7791,
+        "precision_std": 0.0222,
+        "recall": 0.6228,
+        "recall_std": 0.0311,
+        "roc_auc": 0.9119,
+        "roc_auc_std": 0.0128
+      },
+      {
+        "accuracy": 0.8575,
+        "accuracy_std": 0.0099,
+        "average_precision": 0.7914,
+        "average_precision_std": 0.0336,
+        "f1": 0.7138,
+        "f1_std": 0.0204,
+        "fit_time_sec": 0.2926,
+        "model": "XGBoost",
+        "precision": 0.7105,
+        "precision_std": 0.0252,
+        "recall": 0.7188,
+        "recall_std": 0.0365,
+        "roc_auc": 0.9095,
+        "roc_auc_std": 0.0166
+      },
+      {
+        "accuracy": 0.8496,
+        "accuracy_std": 0.0102,
+        "average_precision": 0.7887,
+        "average_precision_std": 0.0358,
+        "f1": 0.6267,
+        "f1_std": 0.0336,
+        "fit_time_sec": 1.2334,
+        "model": "Extra Trees",
+        "precision": 0.8104,
+        "precision_std": 0.0215,
+        "recall": 0.5118,
+        "recall_std": 0.0394,
+        "roc_auc": 0.9096,
+        "roc_auc_std": 0.0188
+      },
+      {
+        "accuracy": 0.8471,
+        "accuracy_std": 0.0225,
+        "average_precision": 0.7878,
+        "average_precision_std": 0.0394,
+        "f1": 0.6983,
+        "f1_std": 0.0485,
+        "fit_time_sec": 1.1808,
+        "model": "Random Forest",
+        "precision": 0.6821,
+        "precision_std": 0.0442,
+        "recall": 0.7187,
+        "recall_std": 0.0745,
+        "roc_auc": 0.909,
+        "roc_auc_std": 0.0177
+      },
+      {
+        "accuracy": 0.7996,
+        "accuracy_std": 0.0162,
+        "average_precision": 0.7352,
+        "average_precision_std": 0.0239,
+        "f1": 0.6587,
+        "f1_std": 0.0232,
+        "fit_time_sec": 1.201,
+        "model": "Logistic Regression",
+        "precision": 0.5706,
+        "precision_std": 0.0276,
+        "recall": 0.7811,
+        "recall_std": 0.0412,
+        "roc_auc": 0.8801,
+        "roc_auc_std": 0.0169
+      },
+      {
+        "accuracy": 0.8404,
+        "accuracy_std": 0.0191,
+        "average_precision": 0.7168,
+        "average_precision_std": 0.0514,
+        "f1": 0.6362,
+        "f1_std": 0.0484,
+        "fit_time_sec": 0.3044,
+        "model": "AdaBoost",
+        "precision": 0.7292,
+        "precision_std": 0.0502,
+        "recall": 0.5656,
+        "recall_std": 0.0544,
+        "roc_auc": 0.8805,
+        "roc_auc_std": 0.0206
+      },
+      {
+        "accuracy": 0.8233,
+        "accuracy_std": 0.0113,
+        "average_precision": 0.7117,
+        "average_precision_std": 0.0332,
+        "f1": 0.6334,
+        "f1_std": 0.02,
+        "fit_time_sec": 0.6153,
+        "model": "Neural Network (MLP)",
+        "precision": 0.6519,
+        "precision_std": 0.0281,
+        "recall": 0.6162,
+        "recall_std": 0.0145,
+        "roc_auc": 0.8696,
+        "roc_auc_std": 0.012
+      },
+      {
+        "accuracy": 0.8308,
+        "accuracy_std": 0.0097,
+        "average_precision": 0.707,
+        "average_precision_std": 0.0266,
+        "f1": 0.5613,
+        "f1_std": 0.0273,
+        "fit_time_sec": 0.7802,
+        "model": "K-Nearest Neighbors",
+        "precision": 0.7838,
+        "precision_std": 0.033,
+        "recall": 0.4378,
+        "recall_std": 0.0281,
+        "roc_auc": 0.8737,
+        "roc_auc_std": 0.0216
+      },
+      {
+        "accuracy": 0.7858,
+        "accuracy_std": 0.0299,
+        "average_precision": 0.6018,
+        "average_precision_std": 0.0637,
+        "f1": 0.6325,
+        "f1_std": 0.0396,
+        "fit_time_sec": 0.083,
+        "model": "Decision Tree",
+        "precision": 0.5547,
+        "precision_std": 0.0451,
+        "recall": 0.7456,
+        "recall_std": 0.0844,
+        "roc_auc": 0.8314,
+        "roc_auc_std": 0.0395
+      }
+    ]
+  },
+  "churn_label_reproducible": {
+    "value": true
+  },
+  "churn_majority_baseline_accuracy": {
+    "note": "Accuracy ที่ได้จากการทายว่าไม่มีใคร churn เลย - แสดงว่าทำไม Accuracy ใช้ไม่ได้",
+    "value": 0.7523
+  },
+  "churn_models_compared": {
+    "value": [
+      "Logistic Regression",
+      "K-Nearest Neighbors",
+      "Decision Tree",
+      "Random Forest",
+      "Extra Trees",
+      "AdaBoost",
+      "Gradient Boosting",
+      "XGBoost",
+      "Neural Network (MLP)"
+    ]
+  },
+  "churn_n_negative": {
+    "value": 2257
+  },
+  "churn_n_positive": {
+    "value": 743
+  },
+  "churn_n_test": {
+    "value": 600
+  },
+  "churn_n_train": {
+    "value": 2400
+  },
+  "churn_rate": {
+    "value": 0.2477
+  },
+  "churn_scale_pos_weight": {
+    "value": 3.04
+  },
+  "churn_stacking_gain": {
+    "value": 0.0003
+  },
+  "churn_stacking_helps": {
+    "value": false
+  },
+  "churn_stacking_prauc": {
+    "value": 0.8104
+  },
+  "churn_stacking_time_sec": {
+    "value": 12.2
+  },
+  "churn_test_churn_rate": {
+    "value": 0.2483
+  },
+  "churn_train_churn_rate": {
+    "value": 0.2475
+  },
+  "churn_tuned_models": {
+    "value": [
+      "Gradient Boosting",
+      "XGBoost",
+      "Extra Trees"
+    ]
+  },
+  "churn_tuning_results": {
+    "value": [
+      {
+        "PR-AUC ก่อนจูน": 0.7979,
+        "PR-AUC หลังจูน": 0.8047,
+        "เปลี่ยนแปลง": 0.0068,
+        "เวลาที่ใช้ (วินาที)": 34.0,
+        "โมเดล": "Gradient Boosting"
+      },
+      {
+        "PR-AUC ก่อนจูน": 0.7914,
+        "PR-AUC หลังจูน": 0.8101,
+        "เปลี่ยนแปลง": 0.0187,
+        "เวลาที่ใช้ (วินาที)": 6.8,
+        "โมเดล": "XGBoost"
+      },
+      {
+        "PR-AUC ก่อนจูน": 0.7887,
+        "PR-AUC หลังจูน": 0.7858,
+        "เปลี่ยนแปลง": -0.0029,
+        "เวลาที่ใช้ (วินาที)": 10.2,
+        "โมเดล": "Extra Trees"
+      }
+    ]
+  },
+  "clean_age_impossible_fixed": {
+    "value": 8
+  },
+  "clean_age_imputed_total": {
+    "value": 132
+  },
+  "clean_age_median": {
+    "value": 34.0
+  },
+  "clean_customers_removed_dupes": {
+    "value": 15
+  },
+  "clean_income_unknown": {
+    "value": 182
+  },
+  "clean_n_customers": {
+    "value": 3000
+  },
+  "clean_n_items": {
+    "value": 374306
+  },
+  "clean_n_items_full": {
+    "value": 374306
+  },
+  "clean_n_purchases": {
+    "value": 65950
+  },
+  "clean_n_returns": {
+    "value": 782
+  },
+  "clean_qty_cap": {
+    "value": 8.0
+  },
+  "clean_qty_legit_max": {
+    "value": 8
+  },
+  "clean_qty_max_after": {
+    "value": 8.0
+  },
+  "clean_qty_max_before": {
+    "value": 216
+  },
+  "clean_qty_n_capped": {
+    "value": 25
+  },
+  "clean_qty_n_would_hit_p995": {
+    "note": "จำนวนแถวที่จะถูกกระทบถ้าใช้เปอร์เซ็นไทล์ 99.5 - เหตุผลที่ไม่ใช้วิธีนั้น",
+    "value": 828
+  },
+  "clean_qty_outlier_min": {
+    "value": 32
+  },
+  "clean_qty_p995": {
+    "value": 5.0
+  },
+  "clean_region_unknown": {
+    "value": 68
+  },
+  "clean_return_value_thb": {
+    "value": -228344.42
+  },
+  "clean_tx_removed_dupes": {
+    "value": 267
+  },
+  "cohort_no_history_churn_rate": {
+    "value": 0.0
+  },
+  "cohort_no_history_n": {
+    "value": 124
+  },
+  "cohort_with_history_churn_rate": {
+    "value": 0.2583
+  },
+  "cohort_with_history_n": {
+    "value": 2876
+  },
+  "deploy_actionable_value_at_risk_thb": {
+    "value": 11169179.0
+  },
+  "deploy_n_actionable": {
+    "value": 1056
+  },
+  "deploy_n_scored": {
+    "value": 3000
+  },
+  "deploy_recommendations": {
+    "value": [
+      {
+        "ข้อ": 1,
+        "ข้อเสนอ": "จัดชุดโปรโมชัน 10 ชุดตามกลุ่มสินค้าที่ซื้อร่วมกัน เริ่มจากหมวด Pet ซึ่งมีความสัมพันธ์แน่นที่สุด",
+        "ความเสี่ยง": "กฎบอกความสัมพันธ์ ไม่ใช่เหตุและผล ลูกค้าอาจตั้งใจซื้อคู่กันอยู่แล้ว การลดราคาจึงอาจกัดกำไรโดยไม่เพิ่มยอดขาย",
+        "วิธีวัดผล": "ทดสอบ A/B วัดจำนวนรายการต่อบิลและกำไรขั้นต้นต่อบิล",
+        "หลักฐาน": "กฎความสัมพันธ์ 96 ข้อ · Lift สูงสุด 22.55 เท่า · มี 43 กฎที่ Lift เกิน 10 เท่า",
+        "โจทย์": "เพิ่มยอดขายต่อบิล"
+      },
+      {
+        "ข้อ": 2,
+        "ข้อเสนอ": "แบ่งงบการตลาดตาม 4 persona โดยให้งบ retention กับกลุ่ม At-Risk High-Value เป็นอันดับแรก",
+        "ความเสี่ยง": "กลุ่มเหล่านี้ไม่ใช่กลุ่มธรรมชาติ (ยืนยันด้วย DBSCAN ใน §4.2) ลูกค้าใกล้เส้นแบ่งอาจสลับกลุ่มเมื่อ retrain จึงไม่ควรผูกสิทธิประโยชน์ถาวรไว้กับหมายเลข segment",
+        "วิธีวัดผล": "เทียบ ROI ของแคมเปญรายกลุ่มกับการยิงแบบหว่านแหทั้งฐานลูกค้า",
+        "หลักฐาน": "กลุ่ม Champions มีเพียง 25.0% ของลูกค้า แต่สร้างรายได้ถึง 76.5% · ขณะที่กลุ่ม At-Risk High-Value มีอัตรา churn 45.2%",
+        "โจทย์": "ยิงโปรโมชันให้ตรงกลุ่ม"
+      },
+      {
+        "ข้อ": 3,
+        "ข้อเสนอ": "เดินแคมเปญ retention กับลูกค้า 1,056 ราย ที่โมเดลจัดอยู่ในระดับเสี่ยงสูงและวิกฤต",
+        "ความเสี่ยง": "เกณฑ์ตัดสิน 0.345 ไวต่อสมมติฐานต้นทุนมาก (เคลื่อนได้ในช่วง 0.11-0.95) ต้องยืนยันตัวเลขต้นทุนกับฝ่ายการเงินก่อนใช้จริง",
+        "วิธีวัดผล": "กันกลุ่มควบคุมไว้ไม่ส่งแคมเปญ แล้วเทียบอัตราการกลับมาซื้อจริง",
+        "หลักฐาน": "PR-AUC 0.8069 บนชุดทดสอบ · จับผู้ที่กำลังจะหายได้ 89% · มูลค่าที่มีความเสี่ยงในกลุ่มนี้ 11.2 ล้านบาท",
+        "โจทย์": "รักษาลูกค้าเดิม"
+      }
+    ]
+  },
+  "deploy_threshold_used": {
+    "value": 0.345
+  },
+  "deploy_tier_counts": {
+    "value": {
+      "ต่ำ": 1659,
+      "วิกฤต": 654,
+      "สูง": 402,
+      "เฝ้าระวัง": 285
+    }
+  },
+  "deploy_total_value_at_risk_thb": {
+    "value": 13603460.0
+  },
+  "dq_dup_customers": {
+    "value": 15
+  },
+  "dq_dup_transactions": {
+    "value": 267
+  },
+  "dq_gender_variant_list": {
+    "value": [
+      "F",
+      "Female",
+      "M",
+      "Male",
+      "f",
+      "female",
+      "m",
+      "male"
+    ]
+  },
+  "dq_gender_variants": {
+    "note": "จำนวนรูปแบบการสะกดของคอลัมน์ gender",
+    "value": 8
+  },
+  "dq_impossible_age": {
+    "value": 8
+  },
+  "dq_max_age_raw": {
+    "value": 173.0
+  },
+  "dq_max_quantity_raw": {
+    "value": 216
+  },
+  "dq_median_quantity": {
+    "value": 2.0
+  },
+  "dq_missing_age_pct": {
+    "value": 4.11
+  },
+  "dq_missing_income_pct": {
+    "value": 6.1
+  },
+  "dq_missing_region_pct": {
+    "value": 2.26
+  },
+  "dq_n_returns": {
+    "value": 784
+  },
+  "eda_mean_basket_items": {
+    "value": 5.68
+  },
+  "eda_mean_basket_value": {
+    "value": 1704.31
+  },
+  "eda_median_basket_items": {
+    "value": 5.0
+  },
+  "eda_n_categories": {
+    "value": 14
+  },
+  "eda_top_category_penetration": {
+    "value": "Pantry"
+  },
+  "eda_top_category_penetration_pct": {
+    "value": 54.9
+  },
+  "eda_top_category_revenue": {
+    "value": "Personal Care"
+  },
+  "eda_top_channel": {
+    "value": "In-Store"
+  },
+  "eda_total_revenue_thb": {
+    "value": 112399541.64
+  },
+  "eval_business_assessment": {
+    "value": [
+      {
+        "คำถามผู้บริหาร": "1. สินค้าใดซื้อคู่กัน ควรจัดโปรร่วมกัน",
+        "สถานะ": "ตอบได้ครบ",
+        "สิ่งที่ส่งมอบ": "กฎความสัมพันธ์ 96 กฎ และชุดสินค้าที่ซื้อร่วมกัน 10 ชุด",
+        "หลักฐานเชิงปริมาณ": "Lift สูงสุด 22.55 เท่า · มี 43 กฎที่ Lift เกิน 10 เท่า"
+      },
+      {
+        "คำถามผู้บริหาร": "2. แบ่งลูกค้าได้กี่กลุ่ม แต่ละกลุ่มเป็นอย่างไร",
+        "สถานะ": "ตอบได้ พร้อมระบุข้อจำกัด",
+        "สิ่งที่ส่งมอบ": "4 persona พร้อมกลยุทธ์เฉพาะกลุ่ม",
+        "หลักฐานเชิงปริมาณ": "Silhouette 0.2241 · DBSCAN ยืนยันว่าเป็นการแบ่งเชิงบริหาร ไม่ใช่กลุ่มธรรมชาติ"
+      },
+      {
+        "คำถามผู้บริหาร": "3. ใครจะหยุดซื้อ และสัญญาณเตือนคืออะไร",
+        "สถานะ": "ตอบได้ครบ",
+        "สิ่งที่ส่งมอบ": "โมเดล XGBoost + รายชื่อลูกค้าเสี่ยง + สัญญาณเตือน 10 ตัว",
+        "หลักฐานเชิงปริมาณ": "PR-AUC 0.8069 (ดีกว่าเดาสุ่ม 3.2 เท่า) · จับได้ 89% ของผู้ที่กำลังจะหาย"
+      }
+    ]
+  },
+  "eval_campaign_success_rate": {
+    "value": 0.3
+  },
+  "eval_cm_fn": {
+    "value": 17
+  },
+  "eval_cm_fp": {
+    "value": 81
+  },
+  "eval_cm_tn": {
+    "value": 370
+  },
+  "eval_cm_tp": {
+    "value": 132
+  },
+  "eval_contacted_at_050": {
+    "value": 168
+  },
+  "eval_contacted_at_chosen": {
+    "value": 213
+  },
+  "eval_cost_coupon_thb": {
+    "value": 150.0
+  },
+  "eval_explainer_dt_depth": {
+    "value": 4
+  },
+  "eval_explainer_dt_recall": {
+    "value": 0.7383
+  },
+  "eval_fn_fp_cost_ratio": {
+    "value": 6.22
+  },
+  "eval_margin_rate": {
+    "value": 0.25
+  },
+  "eval_median_90d_spend_thb": {
+    "value": 3107.87
+  },
+  "eval_n_signals_conflicting": {
+    "value": 5
+  },
+  "eval_n_signals_consistent": {
+    "value": 5
+  },
+  "eval_net_value_at_050": {
+    "value": 83886.0
+  },
+  "eval_net_value_at_chosen": {
+    "value": 91122.0
+  },
+  "eval_net_value_gain_vs_050": {
+    "value": 7235.0
+  },
+  "eval_precision_at_chosen": {
+    "value": 0.6197
+  },
+  "eval_random_baseline_pr_auc": {
+    "value": 0.2483
+  },
+  "eval_recall_at_chosen": {
+    "value": 0.8859
+  },
+  "eval_retention_horizon_quarters": {
+    "value": 4
+  },
+  "eval_scenarioA_pr_auc": {
+    "value": 0.8069
+  },
+  "eval_scenarioA_roc_auc": {
+    "value": 0.9217
+  },
+  "eval_scenarioB_pr_auc": {
+    "value": 0.8069
+  },
+  "eval_scenarioB_roc_auc": {
+    "value": 0.9184
+  },
+  "eval_scenario_n_excluded_test": {
+    "value": 18
+  },
+  "eval_scenario_pr_auc_drop": {
+    "value": 0.0
+  },
+  "eval_sensitivity_table": {
+    "value": [
+      {
+        "Recall ที่ได้": 0.725,
+        "ค่าคูปอง (บาท)": 100.0,
+        "มูลค่าต่อรายที่รักษาได้": 233.0,
+        "มูลค่าสุทธิ (บาท)": 11274.0,
+        "ระยะเวลา (ไตรมาส)": 1,
+        "อัตราส่วน FN:FP": 2.3,
+        "เกณฑ์ที่เหมาะสม": 0.615
+      },
+      {
+        "Recall ที่ได้": 0.577,
+        "ค่าคูปอง (บาท)": 150.0,
+        "มูลค่าต่อรายที่รักษาได้": 233.0,
+        "มูลค่าสุทธิ (บาท)": 5046.0,
+        "ระยะเวลา (ไตรมาส)": 1,
+        "อัตราส่วน FN:FP": 1.6,
+        "เกณฑ์ที่เหมาะสม": 0.745
+      },
+      {
+        "Recall ที่ได้": 0.168,
+        "ค่าคูปอง (บาท)": 250.0,
+        "มูลค่าต่อรายที่รักษาได้": 233.0,
+        "มูลค่าสุทธิ (บาท)": -923.0,
+        "ระยะเวลา (ไตรมาส)": 1,
+        "อัตราส่วน FN:FP": 0.9,
+        "เกณฑ์ที่เหมาะสม": 0.95
+      },
+      {
+        "Recall ที่ได้": 0.886,
+        "ค่าคูปอง (บาท)": 100.0,
+        "มูลค่าต่อรายที่รักษาได้": 466.0,
+        "มูลค่าสุทธิ (บาท)": 40236.0,
+        "ระยะเวลา (ไตรมาส)": 2,
+        "อัตราส่วน FN:FP": 4.7,
+        "เกณฑ์ที่เหมาะสม": 0.345
+      },
+      {
+        "Recall ที่ได้": 0.826,
+        "ค่าคูปอง (บาท)": 150.0,
+        "มูลค่าต่อรายที่รักษาได้": 466.0,
+        "มูลค่าสุทธิ (บาท)": 30640.0,
+        "ระยะเวลา (ไตรมาส)": 2,
+        "อัตราส่วน FN:FP": 3.1,
+        "เกณฑ์ที่เหมาะสม": 0.455
+      },
+      {
+        "Recall ที่ได้": 0.725,
+        "ค่าคูปอง (บาท)": 250.0,
+        "มูลค่าต่อรายที่รักษาได้": 466.0,
+        "มูลค่าสุทธิ (บาท)": 15597.0,
+        "ระยะเวลา (ไตรมาส)": 2,
+        "อัตราส่วน FN:FP": 1.9,
+        "เกณฑ์ที่เหมาะสม": 0.615
+      },
+      {
+        "Recall ที่ได้": 0.953,
+        "ค่าคูปอง (บาท)": 100.0,
+        "มูลค่าต่อรายที่รักษาได้": 932.0,
+        "มูลค่าสุทธิ (บาท)": 101995.0,
+        "ระยะเวลา (ไตรมาส)": 4,
+        "อัตราส่วน FN:FP": 9.3,
+        "เกณฑ์ที่เหมาะสม": 0.17
+      },
+      {
+        "Recall ที่ได้": 0.886,
+        "ค่าคูปอง (บาท)": 150.0,
+        "มูลค่าต่อรายที่รักษาได้": 932.0,
+        "มูลค่าสุทธิ (บาท)": 91122.0,
+        "ระยะเวลา (ไตรมาส)": 4,
+        "อัตราส่วน FN:FP": 6.2,
+        "เกณฑ์ที่เหมาะสม": 0.345
+      },
+      {
+        "Recall ที่ได้": 0.826,
+        "ค่าคูปอง (บาท)": 250.0,
+        "มูลค่าต่อรายที่รักษาได้": 932.0,
+        "มูลค่าสุทธิ (บาท)": 70180.0,
+        "ระยะเวลา (ไตรมาส)": 4,
+        "อัตราส่วน FN:FP": 3.7,
+        "เกณฑ์ที่เหมาะสม": 0.455
+      },
+      {
+        "Recall ที่ได้": 0.973,
+        "ค่าคูปอง (บาท)": 100.0,
+        "มูลค่าต่อรายที่รักษาได้": 1865.0,
+        "มูลค่าสุทธิ (บาท)": 236185.0,
+        "ระยะเวลา (ไตรมาส)": 8,
+        "อัตราส่วน FN:FP": 18.6,
+        "เกณฑ์ที่เหมาะสม": 0.11
+      },
+      {
+        "Recall ที่ได้": 0.953,
+        "ค่าคูปอง (บาท)": 150.0,
+        "มูลค่าต่อรายที่รักษาได้": 1865.0,
+        "มูลค่าสุทธิ (บาท)": 219191.0,
+        "ระยะเวลา (ไตรมาส)": 8,
+        "อัตราส่วน FN:FP": 12.4,
+        "เกณฑ์ที่เหมาะสม": 0.17
+      },
+      {
+        "Recall ที่ได้": 0.886,
+        "ค่าคูปอง (บาท)": 250.0,
+        "มูลค่าต่อรายที่รักษาได้": 1865.0,
+        "มูลค่าสุทธิ (บาท)": 192893.0,
+        "ระยะเวลา (ไตรมาส)": 8,
+        "อัตราส่วน FN:FP": 7.5,
+        "เกณฑ์ที่เหมาะสม": 0.345
+      }
+    ]
+  },
+  "eval_sensitivity_threshold_max": {
+    "value": 0.95
+  },
+  "eval_sensitivity_threshold_min": {
+    "value": 0.11
+  },
+  "eval_test_accuracy_at_050": {
+    "value": 0.8617
+  },
+  "eval_test_f1_at_050": {
+    "value": 0.7382
+  },
+  "eval_test_pr_auc": {
+    "value": 0.8069
+  },
+  "eval_test_precision_at_050": {
+    "value": 0.6964
+  },
+  "eval_test_recall_at_050": {
+    "value": 0.7852
+  },
+  "eval_test_roc_auc": {
+    "value": 0.9217
+  },
+  "eval_threshold_best_f1": {
+    "value": 0.455
+  },
+  "eval_threshold_chosen": {
+    "value": 0.345
+  },
+  "eval_top_feature": {
+    "value": "recency"
+  },
+  "eval_top_feature_importance": {
+    "value": 0.0824
+  },
+  "eval_top_features_permutation": {
+    "value": [
+      "recency",
+      "monetary",
+      "frequency",
+      "recency_vs_gap",
+      "avg_satisfaction",
+      "discount_ratio",
+      "avg_order_value",
+      "days_since_signup",
+      "spend_30d",
+      "spend_365d"
+    ]
+  },
+  "eval_tree_n_leaves": {
+    "value": 15
+  },
+  "eval_tree_rules_text": {
+    "value": "|--- recency <= 24.50\n|   |--- trend_90_over_prev90 <= 2.90\n|   |   |--- discount_ratio <= 0.03\n|   |   |   |--- gap_std <= 29.04\n|   |   |   |   |--- class: ยังซื้ออยู่\n|   |   |   |--- gap_std >  29.04\n|   |   |   |   |--- class: ยังซื้ออยู่\n|   |   |--- discount_ratio >  0.03\n|   |   |   |--- monetary <= 9113.60\n|   |   |   |   |--- class: ยังซื้ออยู่\n|   |   |   |--- monetary >  9113.60\n|   |   |   |   |--- class: ยังซื้ออยู่\n|   |--- trend_90_over_prev90 >  2.90\n|   |   |--- days_since_signup <= 91.00\n|   |   |   |--- days_since_signup <= 49.50\n|   |   |   |   |--- class: เสี่ยงหยุดซื้อ\n|   |   |   |--- days_since_signup >  49.50\n|   |   |   |   |--- class: เสี่ยงหยุดซื้อ\n|   |   |--- days_since_signup >  91.00\n|   |   |   |--- discount_ratio <= 0.03\n|   |   |   |   |--- class: ยังซื้ออยู่\n|   |   |   |--- discount_ratio >  0.03\n|   |   |   |   |--- class: ยังซื้ออยู่\n|--- recency >  24.50\n|   |--- recency_vs_gap <= 2.31\n|   |   |--- spend_365d <= 5563.25\n|   |   |   |--- spend_90d <= 146.82\n|   |   |   |   |--- class: เสี่ยงหยุดซื้อ\n|   |   |   |--- spend_90d >  146.82\n|   |   |   |   |--- class: ยังซื้ออยู่\n|   |   |--- spend_365d >  5563.25\n|   |   |   |--- n_tx_90d <= 3.50\n|   |   |   |   |--- class: เสี่ยงหยุดซื้อ\n|   |   |   |--- n_tx_90d >  3.50\n|   |   |   |   |--- class: ยังซื้ออยู่\n|   |--- recency_vs_gap >  2.31\n|   |   |--- n_tx_90d <= 3.50\n|   |   |   |--- monetary <= 6148.51\n|   |   |   |   |--- class: เสี่ยงหยุดซื้อ\n|   |   |   |--- monetary >  6148.51\n|   |   |   |   |--- class: เสี่ยงหยุดซื้อ\n|   |   |--- n_tx_90d >  3.50\n|   |   |   |--- class: ยังซื้ออยู่\n"
+  },
+  "eval_value_per_saved_customer_thb": {
+    "value": 932.36
+  },
+  "eval_warning_signals": {
+    "value": [
+      {
+        "การตรวจสอบไขว้": "สอดคล้อง",
+        "ข้อมูลดิบชี้ว่า": "ผู้ที่ churn มีค่านี้สูงขึ้น",
+        "ความสำคัญ": 0.0824,
+        "ค่าเฉลี่ยกลุ่มที่ churn": 87.89,
+        "ค่าเฉลี่ยกลุ่มที่อยู่ต่อ": 27.14,
+        "ฟีเจอร์": "recency",
+        "ฟีเจอร์นี้วัดอะไร": "จำนวนวันนับจากการซื้อครั้งล่าสุด (ณ วันตัด)",
+        "อันดับ": 1,
+        "โมเดลเชิงเส้นชี้ว่า": "ค่าสูง -> เสี่ยงมากขึ้น"
+      },
+      {
+        "การตรวจสอบไขว้": "สวนทาง (ดูหมายเหตุ)",
+        "ข้อมูลดิบชี้ว่า": "ผู้ที่ churn มีค่านี้ต่ำลง",
+        "ความสำคัญ": 0.0314,
+        "ค่าเฉลี่ยกลุ่มที่ churn": 14563.38,
+        "ค่าเฉลี่ยกลุ่มที่อยู่ต่อ": 39278.36,
+        "ฟีเจอร์": "monetary",
+        "ฟีเจอร์นี้วัดอะไร": "ยอดใช้จ่ายสะสมทั้งหมดในช่วงฟีเจอร์",
+        "อันดับ": 2,
+        "โมเดลเชิงเส้นชี้ว่า": "ค่าสูง -> เสี่ยงมากขึ้น"
+      },
+      {
+        "การตรวจสอบไขว้": "สวนทาง (ดูหมายเหตุ)",
+        "ข้อมูลดิบชี้ว่า": "ผู้ที่ churn มีค่านี้ต่ำลง",
+        "ความสำคัญ": 0.0291,
+        "ค่าเฉลี่ยกลุ่มที่ churn": 12.38,
+        "ค่าเฉลี่ยกลุ่มที่อยู่ต่อ": 21.6,
+        "ฟีเจอร์": "frequency",
+        "ฟีเจอร์นี้วัดอะไร": "จำนวนครั้งที่ซื้อทั้งหมดในช่วงฟีเจอร์",
+        "อันดับ": 3,
+        "โมเดลเชิงเส้นชี้ว่า": "ค่าสูง -> เสี่ยงมากขึ้น"
+      },
+      {
+        "การตรวจสอบไขว้": "สวนทาง (ดูหมายเหตุ)",
+        "ข้อมูลดิบชี้ว่า": "ผู้ที่ churn มีค่านี้สูงขึ้น",
+        "ความสำคัญ": 0.0252,
+        "ค่าเฉลี่ยกลุ่มที่ churn": 3.79,
+        "ค่าเฉลี่ยกลุ่มที่อยู่ต่อ": 1.15,
+        "ฟีเจอร์": "recency_vs_gap",
+        "ฟีเจอร์นี้วัดอะไร": "ความเงียบปัจจุบันเทียบกับจังหวะการซื้อปกติของลูกค้ารายนั้นเอง",
+        "อันดับ": 4,
+        "โมเดลเชิงเส้นชี้ว่า": "ค่าสูง -> เสี่ยงน้อยลง"
+      },
+      {
+        "การตรวจสอบไขว้": "สอดคล้อง",
+        "ข้อมูลดิบชี้ว่า": "ผู้ที่ churn มีค่านี้ต่ำลง",
+        "ความสำคัญ": 0.0239,
+        "ค่าเฉลี่ยกลุ่มที่ churn": 2.72,
+        "ค่าเฉลี่ยกลุ่มที่อยู่ต่อ": 3.39,
+        "ฟีเจอร์": "avg_satisfaction",
+        "ฟีเจอร์นี้วัดอะไร": "คะแนนความพึงพอใจเฉลี่ยจากการติดต่อฝ่ายบริการ",
+        "อันดับ": 5,
+        "โมเดลเชิงเส้นชี้ว่า": "ค่าสูง -> เสี่ยงน้อยลง"
+      },
+      {
+        "การตรวจสอบไขว้": "สอดคล้อง",
+        "ข้อมูลดิบชี้ว่า": "ผู้ที่ churn มีค่านี้สูงขึ้น",
+        "ความสำคัญ": 0.0229,
+        "ค่าเฉลี่ยกลุ่มที่ churn": 0.05,
+        "ค่าเฉลี่ยกลุ่มที่อยู่ต่อ": 0.04,
+        "ฟีเจอร์": "discount_ratio",
+        "ฟีเจอร์นี้วัดอะไร": "สัดส่วนส่วนลดต่อยอดซื้อรวม",
+        "อันดับ": 6,
+        "โมเดลเชิงเส้นชี้ว่า": "ค่าสูง -> เสี่ยงมากขึ้น"
+      },
+      {
+        "การตรวจสอบไขว้": "สวนทาง (ดูหมายเหตุ)",
+        "ข้อมูลดิบชี้ว่า": "ผู้ที่ churn มีค่านี้ต่ำลง",
+        "ความสำคัญ": 0.0193,
+        "ค่าเฉลี่ยกลุ่มที่ churn": 1030.83,
+        "ค่าเฉลี่ยกลุ่มที่อยู่ต่อ": 1236.4,
+        "ฟีเจอร์": "avg_order_value",
+        "ฟีเจอร์นี้วัดอะไร": "มูลค่าเฉลี่ยต่อบิล",
+        "อันดับ": 7,
+        "โมเดลเชิงเส้นชี้ว่า": "ค่าสูง -> เสี่ยงมากขึ้น"
+      },
+      {
+        "การตรวจสอบไขว้": "สวนทาง (ดูหมายเหตุ)",
+        "ข้อมูลดิบชี้ว่า": "ผู้ที่ churn มีค่านี้สูงขึ้น",
+        "ความสำคัญ": 0.0161,
+        "ค่าเฉลี่ยกลุ่มที่ churn": 407.74,
+        "ค่าเฉลี่ยกลุ่มที่อยู่ต่อ": 398.3,
+        "ฟีเจอร์": "days_since_signup",
+        "ฟีเจอร์นี้วัดอะไร": "จำนวนวันนับจากวันสมัครสมาชิก",
+        "อันดับ": 8,
+        "โมเดลเชิงเส้นชี้ว่า": "ค่าสูง -> เสี่ยงน้อยลง"
+      },
+      {
+        "การตรวจสอบไขว้": "สอดคล้อง",
+        "ข้อมูลดิบชี้ว่า": "ผู้ที่ churn มีค่านี้ต่ำลง",
+        "ความสำคัญ": 0.0152,
+        "ค่าเฉลี่ยกลุ่มที่ churn": 355.38,
+        "ค่าเฉลี่ยกลุ่มที่อยู่ต่อ": 2379.8,
+        "ฟีเจอร์": "spend_30d",
+        "ฟีเจอร์นี้วัดอะไร": "ยอดใช้จ่ายใน 30 วันก่อนวันตัด",
+        "อันดับ": 9,
+        "โมเดลเชิงเส้นชี้ว่า": "ค่าสูง -> เสี่ยงน้อยลง"
+      },
+      {
+        "การตรวจสอบไขว้": "สอดคล้อง",
+        "ข้อมูลดิบชี้ว่า": "ผู้ที่ churn มีค่านี้ต่ำลง",
+        "ความสำคัญ": 0.0126,
+        "ค่าเฉลี่ยกลุ่มที่ churn": 9906.67,
+        "ค่าเฉลี่ยกลุ่มที่อยู่ต่อ": 28738.78,
+        "ฟีเจอร์": "spend_365d",
+        "ฟีเจอร์นี้วัดอะไร": "ยอดใช้จ่ายใน 365 วันก่อนวันตัด",
+        "อันดับ": 10,
+        "โมเดลเชิงเส้นชี้ว่า": "ค่าสูง -> เสี่ยงน้อยลง"
+      }
+    ]
+  },
+  "fig_thai_font_name": {
+    "value": "Sukhumvit Set"
+  },
+  "fig_thai_render_ok": {
+    "value": true
+  },
+  "integrity_orphan_total": {
+    "value": 0
+  },
+  "leakage_feature_cutoff": {
+    "value": "2026-06-01"
+  },
+  "leakage_forbidden_columns": {
+    "value": [
+      "churn",
+      "last_purchase_date",
+      "recency_days",
+      "total_transactions"
+    ]
+  },
+  "leakage_guard_passed": {
+    "value": true
+  },
+  "leakage_offset_days": {
+    "value": 91
+  },
+  "leakage_reference_date": {
+    "value": "2026-08-31"
+  },
+  "model_categorical_feature_names": {
+    "value": [
+      "gender",
+      "region",
+      "membership_tier",
+      "income_bracket",
+      "preferred_channel"
+    ]
+  },
+  "model_n_categorical_features": {
+    "value": 5
+  },
+  "model_n_numeric_features": {
+    "value": 34
+  },
+  "model_n_rows": {
+    "value": 3000
+  },
+  "model_n_total_features": {
+    "value": 40
+  },
+  "model_numeric_feature_names": {
+    "value": [
+      "recency",
+      "frequency",
+      "monetary",
+      "avg_order_value",
+      "std_order_value",
+      "tenure_days",
+      "basket_depth",
+      "items_per_basket",
+      "channel_diversity",
+      "store_diversity",
+      "gap_mean",
+      "gap_std",
+      "gap_max",
+      "recency_vs_gap",
+      "n_tx_30d",
+      "spend_30d",
+      "n_tx_90d",
+      "spend_90d",
+      "n_tx_180d",
+      "spend_180d",
+      "n_tx_365d",
+      "spend_365d",
+      "trend_90_over_prev90",
+      "trend_180_over_prev180",
+      "discount_ratio",
+      "category_breadth",
+      "n_tickets",
+      "avg_satisfaction",
+      "n_unresolved_tickets",
+      "age",
+      "days_since_signup",
+      "marketing_optin",
+      "has_mobile_app",
+      "city_tier"
+    ]
+  },
+  "obs_window_end": {
+    "value": "2026-08-31"
+  },
+  "obs_window_months": {
+    "value": 23.9
+  },
+  "obs_window_start": {
+    "value": "2024-09-01"
+  },
+  "raw_n_churn_rows": {
+    "value": 3000
+  },
+  "raw_n_customers": {
+    "value": 3015
+  },
+  "raw_n_items": {
+    "value": 375088
+  },
+  "raw_n_products": {
+    "value": 89
+  },
+  "raw_n_tickets": {
+    "value": 1636
+  },
+  "raw_n_transactions": {
+    "value": 66999
+  },
+  "seg_best_silhouette_k": {
+    "value": 2
+  },
+  "seg_best_silhouette_value": {
+    "value": 0.339
+  },
+  "seg_cluster_sizes": {
+    "value": [
+      924,
+      749,
+      720,
+      607
+    ]
+  },
+  "seg_dbscan_found_natural_clusters": {
+    "value": false
+  },
+  "seg_dbscan_max_clusters_any": {
+    "value": 4
+  },
+  "seg_dbscan_min_samples": {
+    "value": 18
+  },
+  "seg_dbscan_n_eps_multicluster": {
+    "value": 1
+  },
+  "seg_dbscan_n_eps_robust": {
+    "value": 0
+  },
+  "seg_dbscan_n_eps_tested": {
+    "value": 6
+  },
+  "seg_dbscan_noise_threshold_pct": {
+    "value": 10.0
+  },
+  "seg_dbscan_scan_table": {
+    "value": [
+      {
+        "% noise": 23.5,
+        "eps": 1.204,
+        "จำนวนกลุ่มที่พบ": 4,
+        "จุดที่เป็น noise": 704
+      },
+      {
+        "% noise": 5.7,
+        "eps": 1.439,
+        "จำนวนกลุ่มที่พบ": 1,
+        "จุดที่เป็น noise": 172
+      },
+      {
+        "% noise": 1.6,
+        "eps": 1.675,
+        "จำนวนกลุ่มที่พบ": 1,
+        "จุดที่เป็น noise": 49
+      },
+      {
+        "% noise": 0.6,
+        "eps": 1.845,
+        "จำนวนกลุ่มที่พบ": 1,
+        "จุดที่เป็น noise": 18
+      },
+      {
+        "% noise": 0.2,
+        "eps": 2.103,
+        "จำนวนกลุ่มที่พบ": 1,
+        "จุดที่เป็น noise": 7
+      },
+      {
+        "% noise": 0.1,
+        "eps": 2.451,
+        "จำนวนกลุ่มที่พบ": 1,
+        "จุดที่เป็น noise": 2
+      }
+    ]
+  },
+  "seg_dbscan_verdict": {
+    "value": "ทดสอบ eps ทั้งหมด 6 ค่า พบว่าไม่มีค่าใดเลยที่ให้ผลการแบ่งกลุ่มที่ 'เชื่อถือได้' (นิยาม: ได้มากกว่า 1 กลุ่ม โดยทิ้งข้อมูลเป็น noise ไม่เกิน 10%)  รายละเอียด: มี eps เพียง 1 ค่าที่ให้มากกว่า 1 กลุ่ม คือค่าที่เล็กที่สุด (eps=1.204) ซึ่งได้ 4 กลุ่ม แต่ต้องทิ้งข้อมูลถึง 23.5% เป็น noise และเมื่อขยับ eps ขึ้นเพียงเล็กน้อย กลุ่มทั้งหมดก็ยุบรวมเป็นกลุ่มเดียวทันที  รูปแบบนี้คือลายเซ็นของ 'ก้อนข้อมูลต่อเนื่องที่มีแกนกลางหนาแน่น' ไม่ใช่กลุ่มที่แยกจากกันจริง — ที่ eps เล็ก DBSCAN เพียงแค่ซอยแกนกลางออกเป็นเสี่ยง ๆ แล้วโยนส่วนที่เหลือทิ้งเป็น noise"
+  },
+  "seg_features_log_transformed": {
+    "value": [
+      "recency",
+      "frequency",
+      "monetary",
+      "avg_order_value",
+      "basket_depth"
+    ]
+  },
+  "seg_features_used": {
+    "value": [
+      "recency",
+      "frequency",
+      "monetary",
+      "avg_order_value",
+      "tenure_days",
+      "basket_depth",
+      "discount_ratio",
+      "category_breadth",
+      "channel_diversity"
+    ]
+  },
+  "seg_inertia_chosen": {
+    "value": 11774.6
+  },
+  "seg_k_chosen": {
+    "value": 4
+  },
+  "seg_k_search_table": {
+    "value": [
+      {
+        "calinski_harabasz": 2050.8299,
+        "davies_bouldin": 1.1443,
+        "inertia": 16032.6383,
+        "k": 2,
+        "silhouette": 0.339
+      },
+      {
+        "calinski_harabasz": 1488.1027,
+        "davies_bouldin": 1.4662,
+        "inertia": 13547.0196,
+        "k": 3,
+        "silhouette": 0.2337
+      },
+      {
+        "calinski_harabasz": 1291.3503,
+        "davies_bouldin": 1.5144,
+        "inertia": 11774.6005,
+        "k": 4,
+        "silhouette": 0.2241
+      },
+      {
+        "calinski_harabasz": 1148.1375,
+        "davies_bouldin": 1.5026,
+        "inertia": 10657.6076,
+        "k": 5,
+        "silhouette": 0.2128
+      },
+      {
+        "calinski_harabasz": 1041.6466,
+        "davies_bouldin": 1.534,
+        "inertia": 9855.6432,
+        "k": 6,
+        "silhouette": 0.2011
+      },
+      {
+        "calinski_harabasz": 955.0206,
+        "davies_bouldin": 1.5357,
+        "inertia": 9263.9981,
+        "k": 7,
+        "silhouette": 0.1985
+      },
+      {
+        "calinski_harabasz": 881.2475,
+        "davies_bouldin": 1.5603,
+        "inertia": 8818.538,
+        "k": 8,
+        "silhouette": 0.1942
+      },
+      {
+        "calinski_harabasz": 822.5129,
+        "davies_bouldin": 1.5864,
+        "inertia": 8437.5851,
+        "k": 9,
+        "silhouette": 0.1867
+      },
+      {
+        "calinski_harabasz": 770.8097,
+        "davies_bouldin": 1.6017,
+        "inertia": 8132.1521,
+        "k": 10,
+        "silhouette": 0.1907
+      }
+    ]
+  },
+  "seg_n_customers": {
+    "value": 3000
+  },
+  "seg_n_features": {
+    "value": 9
+  },
+  "seg_pca_var_pc1": {
+    "value": 0.5677
+  },
+  "seg_pca_var_pc2": {
+    "value": 0.1394
+  },
+  "seg_pca_var_total": {
+    "value": 0.7071
+  },
+  "seg_persona_duplicate_names": {
+    "value": 0
+  },
+  "seg_persona_names": {
+    "value": [
+      "ลูกค้าคุณค่าสูงที่กำลังห่างหาย (At-Risk High-Value)",
+      "ลูกค้าชั้นยอด (Champions)",
+      "ลูกค้าห่างหายมูลค่าต่ำ (Dormant / Low-Value)",
+      "ลูกค้าใหม่กำลังก่อตัว (New / Developing)"
+    ]
+  },
+  "seg_personas": {
+    "value": [
+      {
+        "% ของรายได้": "17.6%",
+        "% ของลูกค้า": "30.8%",
+        "กลยุทธ์ที่แนะนำ": "ติดต่อเชิงรุกทันที · ข้อเสนอเฉพาะบุคคลจากประวัติการซื้อ · จัดเป็นลำดับความสำคัญสูงสุดของงบ retention",
+        "กลุ่ม": 0,
+        "ความถี่ (ครั้ง)": 19.4,
+        "จำนวนลูกค้า": 924,
+        "ชื่อ Persona": "ลูกค้าคุณค่าสูงที่กำลังห่างหาย (At-Risk High-Value)",
+        "ซื้อล่าสุด (วัน)": 95,
+        "ยอดรวม (บาท)": 21446,
+        "ลักษณะเด่น": "ใช้จ่ายสูงกว่าค่ากลาง (21,446 บาท) แต่เงียบไปแล้ว 95 วัน — กลุ่มที่เสียไปแล้วเจ็บที่สุด",
+        "อัตรา churn": "45.2%",
+        "อายุสมาชิก (วัน)": 545
+      },
+      {
+        "% ของรายได้": "76.5%",
+        "% ของลูกค้า": "25.0%",
+        "กลยุทธ์ที่แนะนำ": "โปรแกรม VIP · สิทธิ์เข้าถึงสินค้าใหม่ก่อน · ห้ามยิงส่วนลดทั่วไป เพราะกลุ่มนี้ซื้ออยู่แล้ว การลดราคาจึงกัดกำไรโดยเปล่าประโยชน์",
+        "กลุ่ม": 1,
+        "ความถี่ (ครั้ง)": 51.5,
+        "จำนวนลูกค้า": 749,
+        "ชื่อ Persona": "ลูกค้าชั้นยอด (Champions)",
+        "ซื้อล่าสุด (วัน)": 12,
+        "ยอดรวม (บาท)": 114841,
+        "ลักษณะเด่น": "ซื้อบ่อย ใช้จ่ายสูง และยังซื้ออยู่สม่ำเสมอ (ซื้อล่าสุด 12 วันก่อน · ยอดสะสม 114,841 บาท)",
+        "อัตรา churn": "1.2%",
+        "อายุสมาชิก (วัน)": 579
+      },
+      {
+        "% ของรายได้": "2.5%",
+        "% ของลูกค้า": "24.0%",
+        "กลยุทธ์ที่แนะนำ": "แคมเปญต้นทุนต่ำแบบอัตโนมัติเท่านั้น · อย่าทุ่มงบ เพราะมูลค่าที่จะได้คืนไม่คุ้ม",
+        "กลุ่ม": 2,
+        "ความถี่ (ครั้ง)": 8.0,
+        "จำนวนลูกค้า": 720,
+        "ชื่อ Persona": "ลูกค้าห่างหายมูลค่าต่ำ (Dormant / Low-Value)",
+        "ซื้อล่าสุด (วัน)": 84,
+        "ยอดรวม (บาท)": 3869,
+        "ลักษณะเด่น": "ซื้อไม่บ่อย ยอดต่อบิลต่ำ และเงียบไป 84 วัน · พึ่งส่วนลดสูงถึง 6.9% ของยอดซื้อ",
+        "อัตรา churn": "28.3%",
+        "อายุสมาชิก (วัน)": 419
+      },
+      {
+        "% ของรายได้": "3.4%",
+        "% ของลูกค้า": "20.2%",
+        "กลยุทธ์ที่แนะนำ": "โปรแกรม onboarding · แนะนำหมวดสินค้าที่ยังไม่เคยซื้อเพื่อสร้างความผูกพัน · วัดผลด้วยความถี่ในการซื้อซ้ำ ไม่ใช่ยอดสะสม",
+        "กลุ่ม": 3,
+        "ความถี่ (ครั้ง)": 6.0,
+        "จำนวนลูกค้า": 607,
+        "ชื่อ Persona": "ลูกค้าใหม่กำลังก่อตัว (New / Developing)",
+        "ซื้อล่าสุด (วัน)": 44,
+        "ยอดรวม (บาท)": 6231,
+        "ลักษณะเด่น": "เพิ่งเป็นสมาชิกเฉลี่ย 174 วัน (ค่ากลางทั้งฐาน 485 วัน) ยอดสะสมยังน้อยเพราะเวลายังสั้น ไม่ใช่เพราะคุณภาพต่ำ",
+        "อัตรา churn": "18.5%",
+        "อายุสมาชิก (วัน)": 174
+      }
+    ]
+  },
+  "seg_pop_median_frequency": {
+    "value": 14.0
+  },
+  "seg_pop_median_monetary": {
+    "value": 12040.3
+  },
+  "seg_pop_median_recency": {
+    "value": 28.0
+  },
+  "seg_pop_median_tenure": {
+    "value": 485.0
+  },
+  "seg_profile_table": {
+    "value": [
+      {
+        "avg_order_value": 1107.646,
+        "basket_depth": 8.477,
+        "category_breadth": 12.85,
+        "channel_diversity": 2.457,
+        "churn_rate": 0.452,
+        "discount_ratio": 0.04,
+        "frequency": 19.431,
+        "monetary": 21446.278,
+        "n_customers": 924,
+        "pct_customers": 0.308,
+        "pct_revenue": 0.176,
+        "recency": 94.505,
+        "segment": 0,
+        "tenure_days": 545.152,
+        "top_category": "Personal Care",
+        "total_revenue": 19816361.22
+      },
+      {
+        "avg_order_value": 2029.443,
+        "basket_depth": 12.312,
+        "category_breadth": 13.873,
+        "channel_diversity": 2.868,
+        "churn_rate": 0.012,
+        "discount_ratio": 0.017,
+        "frequency": 51.501,
+        "monetary": 114840.749,
+        "n_customers": 749,
+        "pct_customers": 0.25,
+        "pct_revenue": 0.765,
+        "recency": 12.255,
+        "segment": 1,
+        "tenure_days": 578.515,
+        "top_category": "Fresh Food",
+        "total_revenue": 86015720.77
+      },
+      {
+        "avg_order_value": 488.457,
+        "basket_depth": 5.195,
+        "category_breadth": 8.493,
+        "channel_diversity": 1.849,
+        "churn_rate": 0.283,
+        "discount_ratio": 0.069,
+        "frequency": 8.007,
+        "monetary": 3868.536,
+        "n_customers": 720,
+        "pct_customers": 0.24,
+        "pct_revenue": 0.025,
+        "recency": 84.171,
+        "segment": 2,
+        "tenure_days": 418.754,
+        "top_category": "Pantry",
+        "total_revenue": 2785346.25
+      },
+      {
+        "avg_order_value": 1059.279,
+        "basket_depth": 7.318,
+        "category_breadth": 9.397,
+        "channel_diversity": 1.61,
+        "churn_rate": 0.185,
+        "discount_ratio": 0.031,
+        "frequency": 6.025,
+        "monetary": 6230.829,
+        "n_customers": 607,
+        "pct_customers": 0.202,
+        "pct_revenue": 0.034,
+        "recency": 44.035,
+        "segment": 3,
+        "tenure_days": 173.949,
+        "top_category": "Personal Care",
+        "total_revenue": 3782113.4
+      }
+    ]
+  },
+  "seg_silhouette_chosen": {
+    "value": 0.2241
+  },
+  "segfeat_feature_names": {
+    "value": [
+      "recency",
+      "frequency",
+      "monetary",
+      "avg_order_value",
+      "tenure_days",
+      "basket_depth",
+      "items_per_basket",
+      "discount_ratio",
+      "category_breadth",
+      "channel_diversity"
+    ]
+  },
+  "segfeat_n_customers": {
+    "value": 3000
+  },
+  "segfeat_n_features": {
+    "value": 10
+  },
+  "skew_frequency_log": {
+    "value": 0.294
+  },
+  "skew_frequency_raw": {
+    "value": 1.798
+  },
+  "skew_monetary_log": {
+    "value": 0.282
+  },
+  "skew_monetary_raw": {
+    "value": 2.52
+  },
+  "skew_recency_log": {
+    "value": -0.266
+  },
+  "skew_recency_raw": {
+    "value": 2.141
+  }
+}

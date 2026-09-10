@@ -1,0 +1,1637 @@
+ticket_id,customer_id,ticket_date,issue_type,contact_channel,is_resolved,satisfaction_score
+K50001,C10002,2025-11-15,Refund Request,Call Center,1,4
+K50002,C10005,2026-05-24,Wrong Item,Call Center,0,3
+K50003,C10005,2026-08-11,Damaged Item,Social,1,4
+K50004,C10005,2025-09-25,Membership Points,Call Center,0,3
+K50005,C10010,2026-04-07,Damaged Item,Social,1,2
+K50006,C10010,2026-01-05,Wrong Item,Social,1,2
+K50007,C10010,2026-02-07,Payment Issue,Chat,1,2
+K50008,C10010,2025-10-25,Membership Points,Chat,0,4
+K50009,C10011,2026-06-07,Delivery Delay,Call Center,1,4
+K50010,C10015,2025-12-29,Wrong Item,Email,1,2
+K50011,C10016,2026-03-18,Wrong Item,Call Center,1,4
+K50012,C10017,2026-07-01,Damaged Item,Email,1,4
+K50013,C10019,2026-04-18,Payment Issue,Call Center,1,2
+K50014,C10020,2026-05-15,Delivery Delay,Chat,1,5
+K50015,C10020,2025-09-14,App/Website Problem,Social,1,4
+K50016,C10026,2026-02-09,Wrong Item,Call Center,1,4
+K50017,C10028,2025-10-05,Membership Points,Email,0,1
+K50018,C10028,2025-06-08,Wrong Item,Social,0,1
+K50019,C10029,2025-11-17,Damaged Item,Call Center,1,4
+K50020,C10030,2025-07-27,Membership Points,Email,1,3
+K50021,C10030,2025-03-20,Membership Points,Social,1,5
+K50022,C10030,2025-01-04,App/Website Problem,Call Center,1,3
+K50023,C10037,2026-03-14,Payment Issue,Email,0,2
+K50024,C10037,2025-11-06,Membership Points,Call Center,1,4
+K50025,C10038,2026-03-11,Refund Request,Chat,1,4
+K50026,C10040,2026-03-31,App/Website Problem,Social,1,1
+K50027,C10040,2026-02-23,Membership Points,Social,1,1
+K50028,C10040,2026-04-02,Refund Request,Call Center,1,3
+K50029,C10044,2026-06-15,Payment Issue,Social,1,4
+K50030,C10046,2026-03-18,Membership Points,Chat,0,4
+K50031,C10047,2025-06-03,Damaged Item,Chat,1,4
+K50032,C10047,2026-04-09,Refund Request,Chat,1,3
+K50033,C10048,2025-09-11,Membership Points,Email,0,3
+K50034,C10051,2025-05-13,Wrong Item,Chat,1,2
+K50035,C10051,2026-03-15,App/Website Problem,Email,0,5
+K50036,C10053,2025-09-10,App/Website Problem,Email,1,4
+K50037,C10054,2026-01-02,Wrong Item,Social,0,3
+K50038,C10059,2026-07-07,Refund Request,Chat,1,3
+K50039,C10059,2025-12-26,Damaged Item,Chat,1,4
+K50040,C10066,2024-10-07,App/Website Problem,Email,1,4
+K50041,C10072,2026-07-21,Refund Request,Social,1,3
+K50042,C10073,2026-04-25,Delivery Delay,Chat,1,3
+K50043,C10075,2025-02-27,App/Website Problem,Email,1,2
+K50044,C10075,2025-11-20,Damaged Item,Call Center,0,2
+K50045,C10075,2025-10-21,Refund Request,Social,0,1
+K50046,C10075,2025-10-30,Refund Request,Call Center,1,3
+K50047,C10076,2026-03-28,Damaged Item,Chat,1,5
+K50048,C10077,2026-02-10,Wrong Item,Chat,1,3
+K50049,C10079,2025-12-03,Payment Issue,Email,1,4
+K50050,C10080,2026-07-13,Wrong Item,Email,0,5
+K50051,C10082,2025-05-31,Refund Request,Social,1,1
+K50052,C10086,2025-12-12,Payment Issue,Call Center,0,3
+K50053,C10088,2025-11-12,Refund Request,Social,1,3
+K50054,C10089,2026-06-25,Membership Points,Chat,1,2
+K50055,C10091,2026-04-20,Delivery Delay,Email,1,4
+K50056,C10091,2026-07-14,Damaged Item,Chat,1,4
+K50057,C10091,2026-02-17,Payment Issue,Chat,1,3
+K50058,C10091,2025-10-26,Wrong Item,Call Center,1,5
+K50059,C10093,2026-05-04,Refund Request,Call Center,0,3
+K50060,C10094,2026-05-21,Wrong Item,Social,1,4
+K50061,C10096,2026-03-11,Damaged Item,Email,1,1
+K50062,C10102,2025-11-26,Payment Issue,Call Center,1,4
+K50063,C10103,2025-01-31,Membership Points,Chat,1,4
+K50064,C10105,2026-02-25,Delivery Delay,Chat,1,3
+K50065,C10105,2026-03-22,App/Website Problem,Call Center,1,4
+K50066,C10106,2026-01-24,Damaged Item,Call Center,1,5
+K50067,C10106,2025-09-14,Damaged Item,Social,1,4
+K50068,C10107,2026-03-07,Membership Points,Email,1,3
+K50069,C10107,2026-06-24,Membership Points,Email,1,3
+K50070,C10109,2026-02-15,Membership Points,Social,1,5
+K50071,C10110,2026-08-13,Wrong Item,Email,1,5
+K50072,C10113,2025-08-30,Delivery Delay,Chat,0,2
+K50073,C10118,2025-06-18,Damaged Item,Social,1,5
+K50074,C10121,2026-03-26,Delivery Delay,Email,1,1
+K50075,C10123,2025-07-19,Refund Request,Chat,1,5
+K50076,C10123,2026-03-22,Payment Issue,Email,1,5
+K50077,C10131,2025-11-11,Refund Request,Call Center,1,3
+K50078,C10135,2026-07-13,App/Website Problem,Email,1,4
+K50079,C10136,2025-10-05,Membership Points,Call Center,1,2
+K50080,C10138,2026-01-01,App/Website Problem,Call Center,1,3
+K50081,C10138,2026-02-03,Damaged Item,Social,1,2
+K50082,C10139,2026-08-11,Damaged Item,Call Center,1,3
+K50083,C10141,2025-11-25,Damaged Item,Social,0,3
+K50084,C10142,2025-09-22,App/Website Problem,Email,1,3
+K50085,C10145,2025-11-08,Damaged Item,Email,1,3
+K50086,C10146,2026-07-13,Membership Points,Chat,0,3
+K50087,C10146,2026-08-03,Wrong Item,Chat,1,2
+K50088,C10146,2026-07-09,Payment Issue,Email,1,3
+K50089,C10150,2026-05-24,Membership Points,Chat,1,3
+K50090,C10153,2025-07-18,App/Website Problem,Social,1,5
+K50091,C10158,2026-04-10,App/Website Problem,Email,1,3
+K50092,C10159,2025-09-03,App/Website Problem,Call Center,1,1
+K50093,C10160,2026-06-16,Membership Points,Chat,0,2
+K50094,C10163,2026-02-18,Refund Request,Chat,1,3
+K50095,C10166,2025-12-23,Wrong Item,Chat,1,2
+K50096,C10168,2026-07-28,App/Website Problem,Chat,1,2
+K50097,C10169,2026-05-05,Delivery Delay,Chat,1,3
+K50098,C10175,2026-05-02,Damaged Item,Chat,1,2
+K50099,C10178,2026-07-10,Wrong Item,Chat,1,3
+K50100,C10179,2025-09-26,Delivery Delay,Call Center,1,3
+K50101,C10180,2026-03-02,Refund Request,Social,0,3
+K50102,C10183,2025-02-15,App/Website Problem,Social,1,3
+K50103,C10185,2026-04-14,Membership Points,Call Center,1,2
+K50104,C10192,2025-10-16,Membership Points,Social,1,5
+K50105,C10194,2026-06-16,Wrong Item,Social,1,3
+K50106,C10198,2026-03-14,Delivery Delay,Chat,1,3
+K50107,C10199,2025-05-18,Delivery Delay,Email,1,2
+K50108,C10199,2025-05-01,Wrong Item,Email,1,3
+K50109,C10201,2026-03-06,Delivery Delay,Chat,1,3
+K50110,C10205,2026-08-10,Membership Points,Social,1,4
+K50111,C10206,2026-06-19,Delivery Delay,Email,1,3
+K50112,C10206,2025-12-26,Refund Request,Email,1,4
+K50113,C10206,2025-10-26,Payment Issue,Chat,1,2
+K50114,C10207,2025-12-24,App/Website Problem,Social,0,3
+K50115,C10214,2025-04-19,Membership Points,Call Center,1,2
+K50116,C10215,2025-01-03,Membership Points,Email,1,3
+K50117,C10218,2025-07-30,Payment Issue,Chat,1,3
+K50118,C10221,2025-08-19,Refund Request,Email,0,4
+K50119,C10223,2026-07-24,Delivery Delay,Social,1,3
+K50120,C10224,2026-04-08,Membership Points,Social,1,2
+K50121,C10224,2026-02-21,Wrong Item,Email,1,3
+K50122,C10229,2026-04-02,Delivery Delay,Social,1,3
+K50123,C10229,2026-01-25,Delivery Delay,Chat,1,3
+K50124,C10230,2026-06-25,Refund Request,Chat,1,5
+K50125,C10233,2025-06-30,Damaged Item,Social,0,1
+K50126,C10236,2025-11-24,App/Website Problem,Call Center,1,5
+K50127,C10237,2026-01-13,Refund Request,Social,1,2
+K50128,C10240,2026-05-01,App/Website Problem,Email,1,4
+K50129,C10242,2026-06-03,Membership Points,Chat,1,3
+K50130,C10247,2026-04-19,Delivery Delay,Social,1,5
+K50131,C10247,2026-06-11,Refund Request,Email,1,3
+K50132,C10247,2026-03-26,Membership Points,Social,0,4
+K50133,C10249,2026-03-30,App/Website Problem,Social,1,1
+K50134,C10250,2025-10-23,Payment Issue,Social,1,5
+K50135,C10253,2025-10-28,Delivery Delay,Call Center,0,3
+K50136,C10259,2026-02-25,Payment Issue,Social,0,5
+K50137,C10261,2026-08-06,Refund Request,Social,0,3
+K50138,C10261,2026-07-02,Wrong Item,Chat,1,3
+K50139,C10262,2026-02-04,Damaged Item,Chat,1,2
+K50140,C10264,2026-03-15,Payment Issue,Chat,1,4
+K50141,C10264,2026-02-18,Damaged Item,Chat,1,4
+K50142,C10266,2025-04-29,Refund Request,Call Center,1,4
+K50143,C10266,2026-07-12,Wrong Item,Email,1,4
+K50144,C10266,2026-07-22,Delivery Delay,Social,1,3
+K50145,C10267,2025-10-06,Refund Request,Social,1,3
+K50146,C10270,2026-02-03,App/Website Problem,Call Center,1,2
+K50147,C10271,2026-05-27,Delivery Delay,Social,1,4
+K50148,C10272,2025-12-19,Damaged Item,Social,1,4
+K50149,C10272,2025-11-14,Payment Issue,Chat,1,1
+K50150,C10273,2025-11-16,Payment Issue,Chat,1,3
+K50151,C10274,2026-03-07,Damaged Item,Chat,1,5
+K50152,C10279,2026-05-23,Wrong Item,Call Center,1,3
+K50153,C10281,2026-04-07,Refund Request,Social,1,5
+K50154,C10285,2026-05-23,Payment Issue,Social,1,3
+K50155,C10285,2026-06-04,Delivery Delay,Email,1,4
+K50156,C10288,2026-08-29,Payment Issue,Social,1,2
+K50157,C10288,2024-12-04,Delivery Delay,Call Center,1,2
+K50158,C10289,2026-03-05,Delivery Delay,Call Center,1,4
+K50159,C10290,2026-04-17,App/Website Problem,Chat,0,3
+K50160,C10292,2026-04-26,App/Website Problem,Call Center,0,3
+K50161,C10292,2026-03-17,Payment Issue,Call Center,1,3
+K50162,C10293,2025-04-06,Payment Issue,Social,1,2
+K50163,C10294,2026-02-02,Membership Points,Social,1,3
+K50164,C10295,2026-05-03,App/Website Problem,Email,1,5
+K50165,C10297,2026-03-14,Delivery Delay,Chat,1,4
+K50166,C10298,2026-05-10,Wrong Item,Email,0,3
+K50167,C10298,2025-11-03,Membership Points,Social,1,4
+K50168,C10298,2025-10-27,Refund Request,Chat,0,4
+K50169,C10299,2025-03-24,Wrong Item,Social,1,4
+K50170,C10306,2026-07-13,Membership Points,Chat,0,4
+K50171,C10307,2024-09-08,Delivery Delay,Email,0,3
+K50172,C10313,2025-07-28,Refund Request,Call Center,1,4
+K50173,C10315,2025-12-06,Damaged Item,Email,1,3
+K50174,C10316,2026-06-06,Wrong Item,Social,1,4
+K50175,C10318,2026-03-01,Wrong Item,Social,1,2
+K50176,C10319,2026-02-25,App/Website Problem,Social,0,3
+K50177,C10320,2025-11-01,App/Website Problem,Social,1,3
+K50178,C10320,2025-12-11,App/Website Problem,Social,1,2
+K50179,C10322,2026-02-10,Damaged Item,Chat,1,3
+K50180,C10324,2026-04-02,Membership Points,Email,1,3
+K50181,C10325,2026-02-01,Damaged Item,Email,1,2
+K50182,C10325,2026-02-04,Delivery Delay,Chat,0,3
+K50183,C10334,2026-04-18,Payment Issue,Call Center,0,2
+K50184,C10343,2026-04-12,App/Website Problem,Chat,0,3
+K50185,C10347,2026-03-27,Payment Issue,Chat,1,3
+K50186,C10347,2025-08-12,Membership Points,Call Center,0,1
+K50187,C10356,2026-07-25,Wrong Item,Call Center,1,1
+K50188,C10357,2026-01-21,Refund Request,Chat,0,4
+K50189,C10365,2025-06-06,Delivery Delay,Email,0,1
+K50190,C10365,2025-06-24,App/Website Problem,Email,1,4
+K50191,C10365,2025-06-29,Delivery Delay,Call Center,1,2
+K50192,C10366,2026-03-16,Refund Request,Call Center,1,5
+K50193,C10367,2026-03-04,Refund Request,Call Center,1,3
+K50194,C10367,2026-07-30,Wrong Item,Social,1,2
+K50195,C10369,2026-04-20,Payment Issue,Social,1,5
+K50196,C10373,2026-01-24,Wrong Item,Social,1,3
+K50197,C10374,2026-03-31,Wrong Item,Chat,0,1
+K50198,C10374,2025-09-09,Membership Points,Chat,1,4
+K50199,C10376,2026-01-02,Refund Request,Chat,1,4
+K50200,C10378,2025-10-23,App/Website Problem,Chat,1,1
+K50201,C10378,2026-07-18,Payment Issue,Chat,1,4
+K50202,C10380,2025-11-12,App/Website Problem,Social,1,4
+K50203,C10382,2025-06-12,Payment Issue,Call Center,1,2
+K50204,C10384,2026-05-25,Membership Points,Social,1,4
+K50205,C10385,2026-03-04,Damaged Item,Call Center,1,3
+K50206,C10386,2025-09-18,Membership Points,Email,1,4
+K50207,C10386,2025-02-21,Refund Request,Call Center,0,4
+K50208,C10387,2026-03-18,Payment Issue,Call Center,1,1
+K50209,C10387,2026-03-22,Delivery Delay,Social,0,3
+K50210,C10387,2026-03-12,Damaged Item,Email,1,4
+K50211,C10388,2025-06-30,Delivery Delay,Call Center,1,3
+K50212,C10392,2026-03-19,Payment Issue,Call Center,1,5
+K50213,C10392,2025-11-23,App/Website Problem,Chat,1,4
+K50214,C10395,2026-06-03,Wrong Item,Social,1,3
+K50215,C10399,2026-01-19,Delivery Delay,Email,1,4
+K50216,C10400,2026-05-10,Damaged Item,Chat,1,2
+K50217,C10411,2026-02-07,Membership Points,Social,1,1
+K50218,C10413,2025-03-19,Delivery Delay,Social,1,3
+K50219,C10413,2026-02-21,Refund Request,Email,0,3
+K50220,C10414,2026-08-03,Damaged Item,Chat,1,5
+K50221,C10415,2026-02-02,Delivery Delay,Social,1,3
+K50222,C10419,2026-04-30,Refund Request,Email,1,3
+K50223,C10421,2025-10-27,Payment Issue,Email,1,4
+K50224,C10421,2025-10-24,App/Website Problem,Chat,1,1
+K50225,C10424,2026-01-07,Refund Request,Call Center,1,4
+K50226,C10425,2026-05-31,Wrong Item,Email,1,4
+K50227,C10425,2026-03-18,Membership Points,Email,1,2
+K50228,C10425,2026-05-06,Refund Request,Chat,1,3
+K50229,C10426,2026-05-22,Membership Points,Social,0,3
+K50230,C10434,2026-07-21,Damaged Item,Call Center,1,3
+K50231,C10434,2026-05-04,Damaged Item,Call Center,1,5
+K50232,C10436,2026-07-26,Payment Issue,Social,1,4
+K50233,C10438,2026-04-11,Damaged Item,Chat,1,4
+K50234,C10439,2025-08-01,Wrong Item,Email,0,3
+K50235,C10441,2026-02-11,Refund Request,Email,1,1
+K50236,C10444,2025-09-10,App/Website Problem,Social,1,3
+K50237,C10444,2025-06-15,App/Website Problem,Call Center,1,3
+K50238,C10445,2025-02-04,Damaged Item,Chat,1,5
+K50239,C10445,2025-09-17,App/Website Problem,Call Center,1,3
+K50240,C10447,2025-05-16,Wrong Item,Chat,1,4
+K50241,C10451,2026-02-09,Payment Issue,Email,1,4
+K50242,C10459,2026-04-15,Payment Issue,Social,1,1
+K50243,C10460,2026-02-11,Wrong Item,Chat,1,1
+K50244,C10461,2025-12-03,Membership Points,Call Center,1,2
+K50245,C10462,2026-03-28,Delivery Delay,Social,0,2
+K50246,C10462,2026-02-22,Membership Points,Call Center,0,2
+K50247,C10467,2025-12-19,Refund Request,Social,1,4
+K50248,C10468,2025-09-15,Wrong Item,Email,1,3
+K50249,C10471,2026-08-12,Wrong Item,Social,1,4
+K50250,C10473,2026-05-14,Damaged Item,Chat,1,3
+K50251,C10474,2025-07-08,Payment Issue,Chat,0,1
+K50252,C10475,2026-03-29,Membership Points,Email,1,4
+K50253,C10477,2026-02-25,Payment Issue,Email,1,1
+K50254,C10477,2026-01-06,Payment Issue,Email,1,3
+K50255,C10477,2026-02-22,Refund Request,Call Center,1,4
+K50256,C10479,2026-02-07,Delivery Delay,Social,1,2
+K50257,C10486,2025-10-24,App/Website Problem,Social,1,5
+K50258,C10487,2025-05-30,Delivery Delay,Chat,1,3
+K50259,C10491,2026-05-25,Damaged Item,Social,1,3
+K50260,C10496,2026-02-01,Refund Request,Call Center,1,4
+K50261,C10500,2026-07-25,Payment Issue,Email,1,4
+K50262,C10500,2026-08-18,Payment Issue,Chat,1,2
+K50263,C10501,2026-03-06,Wrong Item,Social,0,4
+K50264,C10503,2025-12-29,Payment Issue,Social,1,2
+K50265,C10503,2025-11-13,Delivery Delay,Email,1,4
+K50266,C10505,2026-04-18,App/Website Problem,Call Center,1,3
+K50267,C10507,2026-01-18,Delivery Delay,Email,1,2
+K50268,C10508,2026-03-20,Wrong Item,Call Center,1,3
+K50269,C10510,2025-11-09,Refund Request,Chat,1,4
+K50270,C10511,2025-03-24,Membership Points,Call Center,1,3
+K50271,C10512,2026-06-22,Refund Request,Email,0,3
+K50272,C10516,2026-03-02,Wrong Item,Email,1,3
+K50273,C10517,2026-04-21,Damaged Item,Call Center,1,3
+K50274,C10517,2025-06-18,Damaged Item,Call Center,1,4
+K50275,C10517,2026-04-17,App/Website Problem,Chat,1,3
+K50276,C10517,2026-04-06,Membership Points,Call Center,1,3
+K50277,C10517,2026-03-17,App/Website Problem,Chat,0,3
+K50278,C10518,2025-12-23,App/Website Problem,Email,1,3
+K50279,C10518,2026-03-09,Refund Request,Chat,0,4
+K50280,C10519,2026-05-16,App/Website Problem,Email,1,3
+K50281,C10523,2026-03-04,Refund Request,Chat,0,3
+K50282,C10525,2025-08-13,Membership Points,Social,1,5
+K50283,C10526,2026-03-23,Payment Issue,Call Center,1,3
+K50284,C10527,2026-07-10,App/Website Problem,Call Center,0,4
+K50285,C10529,2025-05-27,App/Website Problem,Call Center,1,4
+K50286,C10529,2026-05-20,Membership Points,Chat,1,4
+K50287,C10534,2026-05-08,Damaged Item,Call Center,1,3
+K50288,C10535,2026-02-24,Refund Request,Social,1,2
+K50289,C10536,2025-11-27,Delivery Delay,Call Center,1,2
+K50290,C10538,2025-11-01,Refund Request,Chat,0,4
+K50291,C10539,2026-07-24,Damaged Item,Email,1,3
+K50292,C10540,2026-02-10,App/Website Problem,Email,0,3
+K50293,C10541,2025-01-13,Delivery Delay,Chat,1,5
+K50294,C10541,2025-02-18,Refund Request,Chat,0,2
+K50295,C10542,2025-07-23,Delivery Delay,Call Center,1,3
+K50296,C10544,2026-05-07,Payment Issue,Social,1,3
+K50297,C10547,2026-01-18,Membership Points,Email,1,4
+K50298,C10551,2025-12-23,App/Website Problem,Call Center,1,3
+K50299,C10551,2025-09-25,Delivery Delay,Social,1,3
+K50300,C10553,2026-06-24,Damaged Item,Call Center,1,3
+K50301,C10555,2025-10-09,Payment Issue,Call Center,1,4
+K50302,C10564,2026-04-30,Delivery Delay,Email,1,5
+K50303,C10566,2026-06-05,Payment Issue,Email,1,5
+K50304,C10566,2026-03-06,Wrong Item,Chat,1,4
+K50305,C10566,2026-01-23,Wrong Item,Chat,1,5
+K50306,C10570,2026-06-15,Damaged Item,Chat,1,4
+K50307,C10571,2025-10-30,Delivery Delay,Social,0,2
+K50308,C10571,2026-01-30,Refund Request,Social,1,5
+K50309,C10572,2026-06-25,Membership Points,Call Center,1,5
+K50310,C10573,2025-12-08,Refund Request,Email,1,4
+K50311,C10581,2025-06-15,Damaged Item,Chat,1,5
+K50312,C10581,2026-03-15,App/Website Problem,Call Center,0,2
+K50313,C10585,2025-10-17,Delivery Delay,Email,1,3
+K50314,C10592,2026-06-16,Payment Issue,Chat,1,4
+K50315,C10592,2026-01-18,Payment Issue,Social,1,4
+K50316,C10600,2025-01-06,Refund Request,Social,1,5
+K50317,C10602,2025-07-30,Payment Issue,Email,1,2
+K50318,C10605,2026-05-27,Damaged Item,Chat,1,5
+K50319,C10612,2024-11-20,Damaged Item,Social,0,4
+K50320,C10612,2024-12-16,Payment Issue,Chat,1,1
+K50321,C10614,2024-11-23,App/Website Problem,Chat,0,2
+K50322,C10617,2026-02-11,Payment Issue,Email,1,3
+K50323,C10618,2026-07-25,Refund Request,Chat,1,5
+K50324,C10619,2025-12-19,Refund Request,Email,0,3
+K50325,C10620,2026-05-30,Refund Request,Chat,1,3
+K50326,C10622,2026-07-16,Wrong Item,Call Center,1,4
+K50327,C10623,2026-04-01,Delivery Delay,Email,1,1
+K50328,C10631,2025-10-03,Membership Points,Chat,0,3
+K50329,C10633,2025-10-05,Damaged Item,Chat,1,2
+K50330,C10636,2025-11-14,Wrong Item,Chat,1,2
+K50331,C10637,2026-01-04,Refund Request,Email,0,4
+K50332,C10640,2025-11-13,App/Website Problem,Chat,1,2
+K50333,C10640,2025-09-20,Membership Points,Call Center,1,3
+K50334,C10640,2026-02-22,App/Website Problem,Call Center,1,2
+K50335,C10641,2024-12-23,App/Website Problem,Email,1,2
+K50336,C10642,2026-04-04,Delivery Delay,Chat,0,4
+K50337,C10643,2026-08-10,Payment Issue,Call Center,1,2
+K50338,C10647,2026-02-09,Payment Issue,Social,0,3
+K50339,C10647,2026-01-05,Payment Issue,Social,0,1
+K50340,C10647,2025-12-04,Delivery Delay,Email,1,4
+K50341,C10647,2025-11-29,Wrong Item,Chat,0,3
+K50342,C10650,2026-05-29,Refund Request,Call Center,1,4
+K50343,C10651,2025-08-16,App/Website Problem,Call Center,1,4
+K50344,C10657,2026-04-05,App/Website Problem,Chat,0,2
+K50345,C10659,2025-10-31,Damaged Item,Email,1,2
+K50346,C10660,2025-08-06,Refund Request,Chat,0,4
+K50347,C10661,2026-04-13,Refund Request,Chat,1,4
+K50348,C10663,2026-08-01,App/Website Problem,Chat,1,3
+K50349,C10665,2026-05-04,Damaged Item,Social,1,5
+K50350,C10666,2026-04-06,Refund Request,Call Center,1,4
+K50351,C10668,2025-09-19,Payment Issue,Chat,1,5
+K50352,C10668,2026-01-11,Payment Issue,Call Center,1,2
+K50353,C10669,2025-12-08,Membership Points,Email,1,3
+K50354,C10670,2025-08-28,Refund Request,Chat,1,1
+K50355,C10670,2025-07-02,Wrong Item,Call Center,1,3
+K50356,C10672,2025-09-03,Payment Issue,Chat,1,4
+K50357,C10673,2025-04-27,Damaged Item,Call Center,1,3
+K50358,C10673,2026-01-08,Payment Issue,Call Center,1,3
+K50359,C10673,2026-03-17,Damaged Item,Call Center,1,3
+K50360,C10674,2026-05-26,Payment Issue,Social,0,5
+K50361,C10674,2025-08-29,Payment Issue,Call Center,1,5
+K50362,C10678,2026-02-17,Delivery Delay,Email,1,3
+K50363,C10681,2025-09-09,Payment Issue,Call Center,1,3
+K50364,C10691,2025-06-30,Refund Request,Chat,1,3
+K50365,C10691,2026-01-25,Refund Request,Call Center,1,4
+K50366,C10692,2024-12-29,Refund Request,Call Center,0,3
+K50367,C10693,2026-05-20,Membership Points,Email,1,1
+K50368,C10698,2025-12-08,Damaged Item,Social,0,4
+K50369,C10699,2025-09-15,App/Website Problem,Email,1,2
+K50370,C10700,2026-01-02,Wrong Item,Email,0,3
+K50371,C10700,2025-10-24,Refund Request,Call Center,1,3
+K50372,C10702,2026-06-04,Delivery Delay,Email,1,4
+K50373,C10702,2026-06-15,Wrong Item,Call Center,1,1
+K50374,C10702,2026-06-22,Membership Points,Social,1,4
+K50375,C10705,2025-12-14,Wrong Item,Social,1,5
+K50376,C10707,2026-03-09,Membership Points,Chat,1,3
+K50377,C10707,2025-11-16,Membership Points,Social,1,3
+K50378,C10707,2024-12-31,Wrong Item,Email,0,2
+K50379,C10710,2026-01-29,Membership Points,Social,1,5
+K50380,C10718,2026-01-21,Damaged Item,Call Center,1,4
+K50381,C10718,2025-12-11,Refund Request,Email,1,4
+K50382,C10722,2026-04-18,App/Website Problem,Chat,1,3
+K50383,C10727,2025-10-01,Payment Issue,Call Center,1,2
+K50384,C10731,2026-08-24,Wrong Item,Email,1,3
+K50385,C10734,2025-10-30,Wrong Item,Call Center,1,5
+K50386,C10738,2026-05-22,Wrong Item,Call Center,0,2
+K50387,C10739,2026-05-19,Membership Points,Email,1,3
+K50388,C10739,2026-07-01,App/Website Problem,Email,0,4
+K50389,C10740,2026-01-01,Membership Points,Call Center,0,1
+K50390,C10740,2026-02-12,Membership Points,Email,0,3
+K50391,C10741,2025-10-26,App/Website Problem,Chat,1,5
+K50392,C10743,2026-06-14,Wrong Item,Email,1,4
+K50393,C10744,2025-11-08,Damaged Item,Email,1,3
+K50394,C10744,2026-02-12,Membership Points,Social,1,1
+K50395,C10745,2025-06-18,Refund Request,Chat,1,2
+K50396,C10745,2026-02-25,Delivery Delay,Email,1,2
+K50397,C10748,2026-05-21,Damaged Item,Call Center,0,1
+K50398,C10749,2025-05-31,Delivery Delay,Chat,1,4
+K50399,C10750,2025-03-11,App/Website Problem,Social,1,3
+K50400,C10754,2026-02-17,Refund Request,Social,1,1
+K50401,C10754,2025-12-29,Refund Request,Chat,1,2
+K50402,C10754,2026-01-16,App/Website Problem,Email,0,3
+K50403,C10754,2026-02-07,Damaged Item,Email,0,4
+K50404,C10757,2026-07-17,App/Website Problem,Social,1,3
+K50405,C10760,2026-06-06,Damaged Item,Chat,1,2
+K50406,C10761,2026-04-30,Wrong Item,Social,1,3
+K50407,C10762,2025-11-13,App/Website Problem,Call Center,0,2
+K50408,C10764,2025-11-25,Damaged Item,Call Center,1,3
+K50409,C10764,2026-07-23,Payment Issue,Call Center,1,3
+K50410,C10766,2026-04-02,App/Website Problem,Email,1,3
+K50411,C10771,2025-07-10,Payment Issue,Social,1,2
+K50412,C10771,2025-08-29,Delivery Delay,Social,1,1
+K50413,C10775,2025-12-31,Delivery Delay,Email,1,5
+K50414,C10775,2026-07-27,App/Website Problem,Call Center,1,4
+K50415,C10775,2025-12-04,Refund Request,Email,1,1
+K50416,C10776,2025-12-10,Refund Request,Call Center,1,3
+K50417,C10778,2026-01-09,Damaged Item,Social,1,2
+K50418,C10780,2026-01-23,Wrong Item,Email,1,2
+K50419,C10784,2025-03-27,App/Website Problem,Call Center,1,4
+K50420,C10785,2026-03-03,Membership Points,Social,1,4
+K50421,C10786,2025-07-13,Delivery Delay,Call Center,0,2
+K50422,C10787,2026-06-09,Membership Points,Email,1,5
+K50423,C10787,2026-05-19,Payment Issue,Chat,1,4
+K50424,C10788,2025-12-10,Wrong Item,Call Center,1,4
+K50425,C10789,2026-07-05,Membership Points,Chat,1,1
+K50426,C10789,2026-03-24,Damaged Item,Email,1,3
+K50427,C10790,2025-10-20,Damaged Item,Chat,1,5
+K50428,C10791,2025-09-27,Wrong Item,Email,1,3
+K50429,C10792,2026-01-22,Delivery Delay,Email,0,4
+K50430,C10793,2025-02-18,Wrong Item,Chat,1,2
+K50431,C10795,2025-05-12,Wrong Item,Call Center,1,4
+K50432,C10795,2025-06-11,Payment Issue,Social,0,3
+K50433,C10796,2025-07-30,Membership Points,Social,1,4
+K50434,C10797,2026-06-24,Membership Points,Email,1,2
+K50435,C10804,2025-10-13,Damaged Item,Chat,1,3
+K50436,C10804,2025-09-13,Refund Request,Chat,1,3
+K50437,C10804,2025-07-20,App/Website Problem,Chat,0,4
+K50438,C10804,2025-10-03,Refund Request,Email,0,2
+K50439,C10809,2025-10-22,Membership Points,Chat,1,4
+K50440,C10814,2026-08-05,Membership Points,Chat,0,3
+K50441,C10815,2025-11-15,Refund Request,Call Center,0,1
+K50442,C10816,2025-03-25,Damaged Item,Email,1,1
+K50443,C10822,2026-02-04,Refund Request,Chat,1,4
+K50444,C10822,2026-08-02,Delivery Delay,Chat,1,1
+K50445,C10825,2025-09-11,Membership Points,Call Center,1,4
+K50446,C10825,2026-08-15,Refund Request,Email,0,3
+K50447,C10826,2025-12-20,Wrong Item,Chat,1,3
+K50448,C10827,2025-08-02,Payment Issue,Social,1,4
+K50449,C10830,2026-05-17,Damaged Item,Call Center,1,3
+K50450,C10830,2026-05-25,Refund Request,Call Center,0,4
+K50451,C10834,2025-07-05,Membership Points,Email,1,2
+K50452,C10834,2026-01-08,Delivery Delay,Email,1,2
+K50453,C10834,2026-01-09,Membership Points,Call Center,1,5
+K50454,C10836,2025-05-24,Wrong Item,Email,1,5
+K50455,C10838,2026-03-13,Delivery Delay,Chat,1,4
+K50456,C10838,2026-03-13,Payment Issue,Chat,1,1
+K50457,C10841,2026-03-11,Membership Points,Chat,1,2
+K50458,C10841,2025-11-06,Damaged Item,Chat,1,3
+K50459,C10841,2026-03-16,Membership Points,Chat,1,4
+K50460,C10847,2026-05-29,Payment Issue,Email,1,5
+K50461,C10849,2025-12-27,Wrong Item,Social,1,2
+K50462,C10849,2026-01-10,Membership Points,Email,0,1
+K50463,C10850,2025-09-09,Delivery Delay,Social,1,3
+K50464,C10857,2026-01-30,Damaged Item,Call Center,0,4
+K50465,C10860,2026-02-21,Damaged Item,Call Center,1,2
+K50466,C10860,2026-07-19,Refund Request,Call Center,1,5
+K50467,C10861,2025-11-13,App/Website Problem,Social,1,5
+K50468,C10870,2025-08-20,Payment Issue,Call Center,1,3
+K50469,C10871,2026-07-20,Wrong Item,Social,1,2
+K50470,C10874,2026-07-10,App/Website Problem,Chat,1,4
+K50471,C10874,2025-06-12,Delivery Delay,Email,1,3
+K50472,C10878,2026-02-16,Delivery Delay,Call Center,1,4
+K50473,C10880,2026-05-01,Damaged Item,Email,1,3
+K50474,C10882,2025-02-11,App/Website Problem,Email,1,1
+K50475,C10884,2026-01-15,App/Website Problem,Social,0,2
+K50476,C10886,2025-11-16,Damaged Item,Call Center,1,3
+K50477,C10886,2024-11-25,Membership Points,Social,1,3
+K50478,C10888,2025-10-08,Payment Issue,Social,1,2
+K50479,C10888,2026-01-10,App/Website Problem,Chat,0,3
+K50480,C10889,2025-12-17,Refund Request,Social,1,2
+K50481,C10889,2025-04-28,Wrong Item,Social,1,3
+K50482,C10890,2026-02-02,Membership Points,Call Center,1,3
+K50483,C10891,2026-06-15,Damaged Item,Chat,1,2
+K50484,C10893,2026-06-25,Payment Issue,Social,1,3
+K50485,C10895,2026-05-29,Membership Points,Call Center,0,3
+K50486,C10895,2026-07-03,Damaged Item,Email,1,3
+K50487,C10899,2026-05-06,Membership Points,Email,1,3
+K50488,C10901,2025-08-27,Membership Points,Email,0,3
+K50489,C10902,2026-07-20,Membership Points,Chat,1,2
+K50490,C10906,2025-08-27,Membership Points,Email,1,2
+K50491,C10906,2025-07-20,Payment Issue,Email,1,5
+K50492,C10908,2025-05-05,Refund Request,Social,1,4
+K50493,C10908,2025-04-30,Membership Points,Email,1,2
+K50494,C10911,2026-04-15,Membership Points,Email,1,2
+K50495,C10915,2025-10-20,Refund Request,Call Center,1,1
+K50496,C10917,2025-09-10,Damaged Item,Chat,1,2
+K50497,C10917,2025-09-16,Payment Issue,Chat,1,4
+K50498,C10918,2026-04-05,Payment Issue,Email,1,3
+K50499,C10927,2026-03-01,Wrong Item,Call Center,1,3
+K50500,C10929,2025-05-07,Delivery Delay,Call Center,1,2
+K50501,C10930,2026-01-28,Delivery Delay,Email,1,4
+K50502,C10931,2026-05-11,Membership Points,Call Center,1,3
+K50503,C10933,2026-05-14,Wrong Item,Chat,1,5
+K50504,C10934,2026-04-21,Membership Points,Chat,1,1
+K50505,C10935,2025-12-12,Damaged Item,Call Center,0,3
+K50506,C10946,2025-07-03,App/Website Problem,Chat,0,4
+K50507,C10951,2025-12-05,Refund Request,Email,1,3
+K50508,C10952,2025-11-08,Membership Points,Call Center,1,2
+K50509,C10954,2024-09-23,Payment Issue,Email,1,4
+K50510,C10955,2026-05-21,Refund Request,Email,1,2
+K50511,C10957,2025-08-24,Refund Request,Call Center,1,3
+K50512,C10958,2026-03-21,Membership Points,Email,1,3
+K50513,C10958,2026-04-21,Wrong Item,Email,1,5
+K50514,C10959,2026-02-06,Refund Request,Social,1,2
+K50515,C10959,2026-03-10,Delivery Delay,Email,1,4
+K50516,C10960,2026-01-13,Wrong Item,Email,1,3
+K50517,C10961,2026-07-07,Refund Request,Social,1,2
+K50518,C10962,2025-11-21,App/Website Problem,Email,1,3
+K50519,C10964,2026-01-26,App/Website Problem,Chat,1,1
+K50520,C10964,2025-12-14,Refund Request,Social,1,4
+K50521,C10966,2026-02-02,Delivery Delay,Social,1,2
+K50522,C10967,2025-10-06,Wrong Item,Email,0,3
+K50523,C10968,2025-10-20,Delivery Delay,Social,1,4
+K50524,C10968,2026-05-25,Wrong Item,Social,1,4
+K50525,C10970,2026-01-18,Refund Request,Social,1,3
+K50526,C10972,2026-02-02,Payment Issue,Social,1,4
+K50527,C10972,2026-02-22,Refund Request,Social,1,4
+K50528,C10974,2026-07-10,Membership Points,Social,1,4
+K50529,C10974,2026-06-27,Delivery Delay,Social,0,2
+K50530,C10976,2026-04-20,Damaged Item,Email,1,2
+K50531,C10976,2026-02-20,Damaged Item,Social,1,1
+K50532,C10979,2026-03-16,Payment Issue,Call Center,1,3
+K50533,C10979,2026-05-27,Wrong Item,Social,1,5
+K50534,C10980,2025-08-23,Delivery Delay,Email,1,2
+K50535,C10980,2025-05-05,Payment Issue,Social,1,5
+K50536,C10981,2026-02-08,Refund Request,Social,1,5
+K50537,C10983,2026-02-17,Delivery Delay,Social,1,3
+K50538,C10985,2025-12-14,Wrong Item,Chat,1,3
+K50539,C10989,2025-07-11,Delivery Delay,Chat,0,4
+K50540,C10991,2026-02-22,Payment Issue,Social,0,3
+K50541,C10995,2026-02-16,Payment Issue,Call Center,1,4
+K50542,C10996,2026-07-01,Damaged Item,Chat,1,4
+K50543,C10997,2025-10-12,Membership Points,Email,1,4
+K50544,C10998,2025-05-11,Delivery Delay,Email,1,3
+K50545,C10998,2026-08-09,App/Website Problem,Chat,1,3
+K50546,C10998,2025-06-20,Membership Points,Call Center,1,5
+K50547,C10998,2026-07-17,App/Website Problem,Chat,1,2
+K50548,C10999,2026-03-22,Payment Issue,Call Center,1,5
+K50549,C11001,2025-09-22,Damaged Item,Email,1,2
+K50550,C11001,2026-03-12,Refund Request,Social,1,3
+K50551,C11010,2026-07-11,Delivery Delay,Social,1,3
+K50552,C11013,2025-07-04,Payment Issue,Social,1,4
+K50553,C11017,2026-03-14,App/Website Problem,Social,1,2
+K50554,C11018,2026-08-16,Damaged Item,Chat,1,4
+K50555,C11018,2026-06-01,Delivery Delay,Chat,1,5
+K50556,C11020,2026-03-01,Membership Points,Call Center,1,1
+K50557,C11026,2026-04-09,Delivery Delay,Call Center,1,4
+K50558,C11026,2026-02-22,Payment Issue,Call Center,0,2
+K50559,C11031,2025-09-18,Damaged Item,Email,1,4
+K50560,C11034,2026-04-28,Wrong Item,Chat,1,4
+K50561,C11037,2026-04-02,Delivery Delay,Email,1,4
+K50562,C11045,2026-06-11,Refund Request,Chat,1,1
+K50563,C11046,2025-10-09,Wrong Item,Chat,1,3
+K50564,C11048,2026-01-26,Damaged Item,Email,0,5
+K50565,C11059,2026-01-09,Membership Points,Chat,1,3
+K50566,C11060,2026-01-27,Wrong Item,Email,0,3
+K50567,C11061,2026-01-20,Refund Request,Call Center,1,2
+K50568,C11062,2026-05-17,Wrong Item,Call Center,1,5
+K50569,C11064,2026-05-06,Wrong Item,Call Center,1,3
+K50570,C11065,2025-03-06,Wrong Item,Call Center,0,4
+K50571,C11070,2025-10-19,Delivery Delay,Call Center,1,3
+K50572,C11071,2025-11-21,Wrong Item,Call Center,1,5
+K50573,C11071,2025-02-28,Damaged Item,Social,1,2
+K50574,C11073,2026-04-08,Delivery Delay,Email,0,3
+K50575,C11074,2025-08-24,Wrong Item,Social,1,4
+K50576,C11077,2026-06-09,Membership Points,Email,1,5
+K50577,C11077,2025-03-20,Payment Issue,Chat,1,5
+K50578,C11079,2026-03-06,Wrong Item,Call Center,1,4
+K50579,C11079,2025-05-28,Delivery Delay,Chat,1,5
+K50580,C11082,2026-05-30,Payment Issue,Call Center,1,4
+K50581,C11084,2025-11-19,App/Website Problem,Call Center,1,5
+K50582,C11086,2026-04-23,Payment Issue,Chat,1,4
+K50583,C11087,2026-01-29,Membership Points,Call Center,1,3
+K50584,C11091,2026-05-14,Damaged Item,Email,1,2
+K50585,C11092,2024-12-23,Payment Issue,Chat,1,3
+K50586,C11096,2026-08-14,App/Website Problem,Email,1,2
+K50587,C11097,2026-02-08,App/Website Problem,Social,1,5
+K50588,C11099,2026-05-25,Delivery Delay,Social,1,3
+K50589,C11101,2025-10-22,App/Website Problem,Chat,1,1
+K50590,C11102,2026-08-02,Wrong Item,Email,1,4
+K50591,C11107,2025-07-15,Payment Issue,Call Center,0,5
+K50592,C11111,2025-12-28,Refund Request,Chat,1,2
+K50593,C11112,2025-11-29,Refund Request,Chat,0,2
+K50594,C11112,2026-03-31,Payment Issue,Call Center,0,2
+K50595,C11114,2026-06-18,App/Website Problem,Email,1,2
+K50596,C11119,2026-05-15,Refund Request,Chat,1,3
+K50597,C11123,2025-06-10,App/Website Problem,Email,1,2
+K50598,C11123,2025-04-10,Refund Request,Chat,1,4
+K50599,C11125,2026-02-20,Membership Points,Chat,1,3
+K50600,C11129,2025-09-26,Delivery Delay,Email,1,2
+K50601,C11131,2025-06-23,Payment Issue,Email,1,3
+K50602,C11135,2025-01-01,Delivery Delay,Social,1,1
+K50603,C11137,2026-01-14,Refund Request,Call Center,1,1
+K50604,C11142,2026-04-16,App/Website Problem,Chat,1,4
+K50605,C11143,2026-03-16,Wrong Item,Call Center,1,2
+K50606,C11143,2026-04-16,Delivery Delay,Social,1,3
+K50607,C11143,2026-03-02,Payment Issue,Email,1,1
+K50608,C11146,2025-09-27,Wrong Item,Email,1,5
+K50609,C11148,2025-04-19,Delivery Delay,Social,1,3
+K50610,C11148,2025-06-03,Payment Issue,Chat,1,3
+K50611,C11148,2025-01-04,Wrong Item,Social,0,2
+K50612,C11154,2026-01-11,Membership Points,Email,0,1
+K50613,C11157,2026-01-31,Damaged Item,Social,0,3
+K50614,C11160,2026-03-14,Wrong Item,Social,0,3
+K50615,C11163,2025-05-19,Payment Issue,Email,1,1
+K50616,C11163,2025-10-31,Membership Points,Chat,1,5
+K50617,C11164,2026-02-26,Membership Points,Social,1,2
+K50618,C11165,2026-01-30,Refund Request,Email,1,4
+K50619,C11166,2026-05-01,Payment Issue,Email,1,4
+K50620,C11166,2026-07-20,App/Website Problem,Call Center,1,5
+K50621,C11168,2026-07-30,App/Website Problem,Call Center,1,4
+K50622,C11169,2025-01-14,Delivery Delay,Call Center,1,1
+K50623,C11172,2026-03-06,Refund Request,Chat,1,4
+K50624,C11176,2025-07-01,Membership Points,Social,1,5
+K50625,C11186,2025-10-23,App/Website Problem,Social,1,4
+K50626,C11193,2026-04-18,Delivery Delay,Email,1,3
+K50627,C11194,2024-12-17,Payment Issue,Call Center,1,3
+K50628,C11194,2025-11-17,Delivery Delay,Call Center,0,2
+K50629,C11194,2025-10-24,Wrong Item,Call Center,1,4
+K50630,C11195,2026-01-26,Delivery Delay,Email,1,4
+K50631,C11196,2025-10-31,Refund Request,Social,0,4
+K50632,C11196,2025-08-30,Refund Request,Email,1,3
+K50633,C11198,2026-01-20,Payment Issue,Social,1,3
+K50634,C11202,2025-05-15,Delivery Delay,Call Center,1,4
+K50635,C11203,2025-10-08,Refund Request,Call Center,1,2
+K50636,C11205,2025-12-20,Delivery Delay,Social,1,5
+K50637,C11205,2025-10-27,App/Website Problem,Social,1,5
+K50638,C11208,2026-05-19,Wrong Item,Social,0,5
+K50639,C11212,2025-09-17,Payment Issue,Call Center,1,5
+K50640,C11213,2026-06-25,Membership Points,Email,1,4
+K50641,C11216,2025-09-22,Refund Request,Chat,1,3
+K50642,C11218,2026-01-11,Refund Request,Call Center,1,2
+K50643,C11218,2025-12-09,Damaged Item,Chat,1,3
+K50644,C11221,2025-05-17,Membership Points,Social,1,2
+K50645,C11226,2025-04-17,Delivery Delay,Call Center,1,2
+K50646,C11226,2025-11-06,Damaged Item,Call Center,1,2
+K50647,C11229,2026-07-16,Delivery Delay,Social,1,2
+K50648,C11231,2025-04-04,Wrong Item,Email,1,4
+K50649,C11233,2026-04-14,App/Website Problem,Call Center,1,3
+K50650,C11235,2026-07-26,Payment Issue,Social,1,5
+K50651,C11235,2025-11-09,Refund Request,Chat,1,2
+K50652,C11237,2025-08-05,Damaged Item,Chat,1,2
+K50653,C11237,2025-11-10,Membership Points,Call Center,1,1
+K50654,C11239,2026-04-25,App/Website Problem,Call Center,1,3
+K50655,C11239,2026-05-11,Wrong Item,Email,1,2
+K50656,C11239,2026-04-30,Refund Request,Email,1,2
+K50657,C11244,2026-04-15,Payment Issue,Call Center,0,3
+K50658,C11245,2025-04-18,Payment Issue,Chat,1,2
+K50659,C11245,2026-06-29,Damaged Item,Chat,1,3
+K50660,C11251,2026-02-14,Delivery Delay,Call Center,1,3
+K50661,C11254,2026-02-24,Delivery Delay,Call Center,0,1
+K50662,C11259,2025-07-15,Payment Issue,Social,1,3
+K50663,C11260,2026-02-22,Refund Request,Call Center,0,4
+K50664,C11261,2025-10-24,Delivery Delay,Social,1,2
+K50665,C11261,2026-04-07,Delivery Delay,Chat,1,5
+K50666,C11262,2026-06-14,Delivery Delay,Call Center,1,3
+K50667,C11265,2026-04-01,Wrong Item,Social,0,2
+K50668,C11267,2025-07-09,App/Website Problem,Social,1,4
+K50669,C11268,2026-03-08,Damaged Item,Email,1,4
+K50670,C11270,2026-06-12,Delivery Delay,Chat,1,3
+K50671,C11270,2026-07-12,Refund Request,Chat,1,4
+K50672,C11275,2026-08-23,Refund Request,Social,1,2
+K50673,C11275,2026-05-31,Wrong Item,Social,1,3
+K50674,C11276,2025-12-16,Wrong Item,Email,1,1
+K50675,C11277,2026-02-18,Payment Issue,Email,1,4
+K50676,C11278,2026-07-09,Damaged Item,Chat,1,5
+K50677,C11279,2025-11-25,Wrong Item,Chat,1,4
+K50678,C11281,2026-05-21,Damaged Item,Email,1,4
+K50679,C11282,2026-01-11,Damaged Item,Social,1,2
+K50680,C11286,2026-06-01,Refund Request,Social,0,3
+K50681,C11288,2026-01-05,Delivery Delay,Chat,1,4
+K50682,C11288,2025-10-26,Payment Issue,Chat,1,3
+K50683,C11289,2026-04-01,Delivery Delay,Chat,1,2
+K50684,C11289,2026-03-14,Payment Issue,Call Center,1,4
+K50685,C11289,2026-03-27,Refund Request,Call Center,1,5
+K50686,C11291,2026-05-06,Refund Request,Chat,1,4
+K50687,C11293,2026-05-22,Payment Issue,Call Center,0,4
+K50688,C11293,2026-03-19,Damaged Item,Chat,0,3
+K50689,C11293,2026-05-20,Membership Points,Email,0,3
+K50690,C11293,2026-04-30,Damaged Item,Chat,1,2
+K50691,C11295,2025-10-08,Delivery Delay,Chat,1,5
+K50692,C11297,2025-09-04,Membership Points,Call Center,0,4
+K50693,C11298,2026-04-04,Refund Request,Email,1,2
+K50694,C11299,2026-06-08,App/Website Problem,Chat,1,4
+K50695,C11304,2025-06-10,App/Website Problem,Email,1,1
+K50696,C11304,2025-11-08,Membership Points,Email,1,3
+K50697,C11305,2025-08-17,Damaged Item,Call Center,0,4
+K50698,C11305,2026-03-02,Payment Issue,Social,1,1
+K50699,C11305,2026-01-25,App/Website Problem,Chat,0,2
+K50700,C11305,2025-09-25,Damaged Item,Social,1,3
+K50701,C11307,2025-12-22,Delivery Delay,Social,1,3
+K50702,C11308,2026-04-18,Wrong Item,Call Center,1,2
+K50703,C11308,2026-06-19,Refund Request,Social,1,4
+K50704,C11309,2026-06-08,App/Website Problem,Call Center,1,3
+K50705,C11309,2026-04-04,Damaged Item,Email,1,2
+K50706,C11310,2026-03-15,Delivery Delay,Call Center,1,3
+K50707,C11311,2025-08-12,Delivery Delay,Social,0,2
+K50708,C11312,2025-05-19,Refund Request,Call Center,1,4
+K50709,C11316,2026-03-05,Damaged Item,Social,1,5
+K50710,C11319,2026-02-26,Wrong Item,Chat,0,1
+K50711,C11319,2026-01-04,Delivery Delay,Email,1,1
+K50712,C11320,2025-12-20,Membership Points,Email,1,2
+K50713,C11322,2025-02-18,Payment Issue,Social,1,5
+K50714,C11323,2026-05-17,Payment Issue,Chat,0,5
+K50715,C11331,2026-01-05,Payment Issue,Chat,1,4
+K50716,C11333,2025-07-07,Membership Points,Call Center,1,4
+K50717,C11335,2025-07-22,Membership Points,Email,1,3
+K50718,C11336,2026-04-16,Wrong Item,Call Center,1,4
+K50719,C11338,2025-11-21,Payment Issue,Social,1,3
+K50720,C11338,2026-02-05,Delivery Delay,Social,1,3
+K50721,C11339,2025-06-05,Damaged Item,Email,1,3
+K50722,C11340,2025-11-27,Refund Request,Call Center,1,5
+K50723,C11341,2026-05-13,Delivery Delay,Call Center,0,4
+K50724,C11345,2026-05-03,Wrong Item,Chat,1,2
+K50725,C11347,2024-12-20,Membership Points,Social,1,3
+K50726,C11348,2026-03-19,Delivery Delay,Chat,1,4
+K50727,C11348,2026-07-20,Damaged Item,Email,1,2
+K50728,C11348,2026-05-07,App/Website Problem,Call Center,1,4
+K50729,C11349,2026-04-14,Delivery Delay,Chat,1,4
+K50730,C11349,2026-02-11,App/Website Problem,Social,1,5
+K50731,C11350,2026-01-01,Membership Points,Call Center,1,2
+K50732,C11352,2026-04-27,Membership Points,Email,1,4
+K50733,C11353,2026-03-13,Wrong Item,Social,1,4
+K50734,C11358,2026-03-10,Refund Request,Social,0,2
+K50735,C11359,2025-06-15,Damaged Item,Social,1,4
+K50736,C11359,2025-08-26,Delivery Delay,Social,1,4
+K50737,C11363,2026-04-19,Refund Request,Social,1,3
+K50738,C11365,2026-07-08,Wrong Item,Email,1,2
+K50739,C11373,2025-10-05,App/Website Problem,Social,0,3
+K50740,C11376,2025-10-21,Damaged Item,Chat,1,5
+K50741,C11379,2025-06-26,Damaged Item,Chat,1,5
+K50742,C11381,2026-01-07,Membership Points,Chat,1,3
+K50743,C11381,2025-08-10,Delivery Delay,Chat,0,2
+K50744,C11383,2025-12-01,Membership Points,Social,1,3
+K50745,C11383,2026-05-22,Payment Issue,Social,1,5
+K50746,C11383,2026-02-12,Damaged Item,Social,1,1
+K50747,C11384,2026-07-25,Damaged Item,Call Center,0,4
+K50748,C11387,2025-10-25,Membership Points,Social,1,4
+K50749,C11387,2026-04-17,Wrong Item,Chat,1,4
+K50750,C11392,2025-12-19,Wrong Item,Chat,1,2
+K50751,C11392,2026-04-20,Refund Request,Email,1,2
+K50752,C11395,2026-02-17,Wrong Item,Social,1,4
+K50753,C11399,2026-06-24,Membership Points,Call Center,1,3
+K50754,C11400,2025-02-15,Wrong Item,Chat,1,4
+K50755,C11400,2024-12-25,Membership Points,Email,1,2
+K50756,C11409,2026-02-04,Damaged Item,Social,1,1
+K50757,C11412,2026-05-07,Refund Request,Chat,1,1
+K50758,C11413,2026-04-18,App/Website Problem,Email,1,1
+K50759,C11414,2026-06-16,Wrong Item,Email,1,2
+K50760,C11418,2025-07-15,Refund Request,Call Center,1,3
+K50761,C11418,2025-07-14,App/Website Problem,Chat,1,2
+K50762,C11424,2025-06-04,Wrong Item,Social,1,4
+K50763,C11426,2026-06-24,Damaged Item,Call Center,0,5
+K50764,C11432,2026-08-05,App/Website Problem,Email,1,5
+K50765,C11433,2026-05-31,Delivery Delay,Email,1,3
+K50766,C11433,2026-07-01,App/Website Problem,Social,0,4
+K50767,C11433,2026-07-07,Refund Request,Call Center,0,1
+K50768,C11434,2026-05-11,Damaged Item,Call Center,1,5
+K50769,C11435,2026-03-13,App/Website Problem,Email,0,4
+K50770,C11437,2026-07-13,Payment Issue,Call Center,0,4
+K50771,C11438,2026-05-31,Payment Issue,Chat,1,3
+K50772,C11438,2026-05-19,App/Website Problem,Chat,1,3
+K50773,C11440,2026-06-13,Wrong Item,Chat,1,4
+K50774,C11441,2026-04-04,Damaged Item,Chat,0,2
+K50775,C11442,2026-02-26,Refund Request,Chat,1,4
+K50776,C11444,2026-07-20,Payment Issue,Social,1,4
+K50777,C11446,2026-04-21,App/Website Problem,Social,1,2
+K50778,C11446,2026-06-25,Refund Request,Email,1,2
+K50779,C11447,2026-02-18,App/Website Problem,Email,1,2
+K50780,C11452,2026-07-09,Delivery Delay,Email,1,3
+K50781,C11454,2026-03-01,Delivery Delay,Social,1,3
+K50782,C11457,2025-09-28,Damaged Item,Social,0,4
+K50783,C11457,2025-11-11,Membership Points,Email,1,2
+K50784,C11457,2025-11-27,Payment Issue,Chat,1,1
+K50785,C11458,2026-03-11,Wrong Item,Social,1,4
+K50786,C11458,2024-10-16,App/Website Problem,Call Center,0,4
+K50787,C11460,2026-06-27,Wrong Item,Email,1,5
+K50788,C11464,2026-02-09,Damaged Item,Email,1,1
+K50789,C11465,2025-11-20,Payment Issue,Email,1,4
+K50790,C11465,2026-03-26,App/Website Problem,Chat,1,2
+K50791,C11465,2025-05-26,Damaged Item,Chat,1,1
+K50792,C11466,2025-12-26,Payment Issue,Social,1,3
+K50793,C11468,2026-01-20,Damaged Item,Social,1,4
+K50794,C11469,2025-12-28,App/Website Problem,Call Center,1,4
+K50795,C11470,2025-12-08,Membership Points,Chat,1,1
+K50796,C11471,2026-05-21,Membership Points,Call Center,1,2
+K50797,C11474,2026-05-29,Payment Issue,Call Center,1,5
+K50798,C11474,2026-08-06,Wrong Item,Call Center,0,2
+K50799,C11475,2026-07-20,Refund Request,Call Center,1,5
+K50800,C11477,2025-06-20,Refund Request,Chat,1,2
+K50801,C11483,2025-05-02,Delivery Delay,Chat,1,3
+K50802,C11489,2025-06-07,Membership Points,Social,1,3
+K50803,C11492,2025-07-23,Payment Issue,Social,0,2
+K50804,C11493,2025-11-15,App/Website Problem,Chat,0,4
+K50805,C11494,2026-07-11,App/Website Problem,Chat,1,4
+K50806,C11495,2026-05-26,Damaged Item,Social,0,4
+K50807,C11498,2025-03-28,Damaged Item,Call Center,1,3
+K50808,C11498,2026-03-16,Payment Issue,Social,1,3
+K50809,C11500,2026-02-27,Delivery Delay,Chat,1,1
+K50810,C11500,2026-03-30,Payment Issue,Call Center,1,3
+K50811,C11502,2026-03-03,Delivery Delay,Chat,0,3
+K50812,C11504,2026-06-23,App/Website Problem,Chat,1,4
+K50813,C11508,2025-02-10,Payment Issue,Chat,1,3
+K50814,C11508,2026-01-10,App/Website Problem,Email,1,5
+K50815,C11508,2026-02-13,Wrong Item,Email,0,2
+K50816,C11510,2026-02-08,Delivery Delay,Chat,1,2
+K50817,C11511,2026-03-16,Membership Points,Social,1,2
+K50818,C11517,2026-02-26,Wrong Item,Call Center,1,1
+K50819,C11517,2026-01-19,Delivery Delay,Email,0,3
+K50820,C11518,2025-08-26,Damaged Item,Email,1,2
+K50821,C11519,2026-03-02,Wrong Item,Email,1,3
+K50822,C11520,2026-07-09,Wrong Item,Social,1,3
+K50823,C11521,2026-01-13,Damaged Item,Social,1,4
+K50824,C11523,2026-03-14,App/Website Problem,Chat,1,5
+K50825,C11523,2026-05-04,Refund Request,Social,1,5
+K50826,C11525,2026-04-28,Delivery Delay,Email,1,3
+K50827,C11526,2026-05-18,App/Website Problem,Call Center,1,2
+K50828,C11526,2026-06-07,Membership Points,Social,1,1
+K50829,C11527,2026-02-12,Delivery Delay,Email,0,3
+K50830,C11534,2025-06-19,Membership Points,Call Center,1,3
+K50831,C11540,2026-02-06,Damaged Item,Chat,1,3
+K50832,C11541,2026-01-16,Wrong Item,Email,1,3
+K50833,C11542,2026-06-17,Membership Points,Email,1,4
+K50834,C11543,2025-12-04,Damaged Item,Email,1,5
+K50835,C11555,2025-10-09,Damaged Item,Social,0,2
+K50836,C11556,2026-04-17,Damaged Item,Social,1,3
+K50837,C11557,2026-01-27,Damaged Item,Email,1,2
+K50838,C11557,2025-07-24,App/Website Problem,Email,0,2
+K50839,C11557,2026-02-05,App/Website Problem,Email,0,2
+K50840,C11557,2026-02-03,Membership Points,Chat,1,2
+K50841,C11560,2026-07-02,App/Website Problem,Social,1,3
+K50842,C11561,2026-06-25,App/Website Problem,Email,1,2
+K50843,C11562,2026-07-05,Damaged Item,Social,1,4
+K50844,C11567,2026-05-18,Wrong Item,Email,1,3
+K50845,C11567,2026-04-12,Delivery Delay,Social,0,3
+K50846,C11569,2025-10-25,App/Website Problem,Social,1,3
+K50847,C11569,2026-02-03,Damaged Item,Chat,0,4
+K50848,C11569,2025-09-07,App/Website Problem,Chat,1,3
+K50849,C11570,2026-01-17,Membership Points,Social,1,4
+K50850,C11574,2026-02-19,Damaged Item,Email,1,2
+K50851,C11574,2026-04-09,Membership Points,Chat,1,5
+K50852,C11575,2026-06-29,Refund Request,Email,1,2
+K50853,C11578,2025-05-23,Refund Request,Social,1,3
+K50854,C11579,2026-03-29,App/Website Problem,Social,1,3
+K50855,C11582,2025-02-07,Delivery Delay,Email,1,2
+K50856,C11584,2025-06-21,App/Website Problem,Social,1,3
+K50857,C11590,2026-03-06,Damaged Item,Chat,1,4
+K50858,C11591,2026-03-21,App/Website Problem,Email,1,2
+K50859,C11592,2025-02-16,Damaged Item,Social,1,2
+K50860,C11593,2024-11-23,Delivery Delay,Social,1,3
+K50861,C11594,2025-12-16,Wrong Item,Chat,1,1
+K50862,C11595,2025-06-02,Membership Points,Social,1,4
+K50863,C11596,2026-03-10,Payment Issue,Social,0,1
+K50864,C11599,2024-12-13,Refund Request,Call Center,0,3
+K50865,C11602,2025-05-11,Damaged Item,Social,0,1
+K50866,C11605,2025-09-23,App/Website Problem,Call Center,1,3
+K50867,C11605,2025-11-21,Damaged Item,Call Center,1,4
+K50868,C11605,2025-08-25,Membership Points,Chat,1,4
+K50869,C11606,2025-07-23,Delivery Delay,Chat,1,3
+K50870,C11607,2026-04-22,Delivery Delay,Email,1,3
+K50871,C11608,2026-03-16,Membership Points,Social,1,3
+K50872,C11608,2026-03-19,Damaged Item,Email,1,3
+K50873,C11609,2025-10-31,App/Website Problem,Email,1,1
+K50874,C11609,2026-02-22,Refund Request,Call Center,1,3
+K50875,C11610,2026-01-21,Membership Points,Chat,1,4
+K50876,C11611,2025-12-23,Refund Request,Chat,0,2
+K50877,C11614,2025-09-12,App/Website Problem,Social,1,5
+K50878,C11616,2026-05-11,Wrong Item,Email,1,4
+K50879,C11617,2026-05-31,Delivery Delay,Call Center,1,3
+K50880,C11618,2025-07-15,App/Website Problem,Email,1,1
+K50881,C11619,2025-08-21,App/Website Problem,Chat,0,5
+K50882,C11621,2026-03-03,Damaged Item,Social,0,1
+K50883,C11625,2026-08-03,Delivery Delay,Call Center,1,5
+K50884,C11625,2025-10-06,Refund Request,Social,1,2
+K50885,C11629,2025-12-12,Damaged Item,Call Center,1,5
+K50886,C11631,2025-07-17,Wrong Item,Email,1,3
+K50887,C11631,2025-08-22,Payment Issue,Social,1,3
+K50888,C11632,2025-10-27,Payment Issue,Email,1,4
+K50889,C11634,2026-02-04,Refund Request,Email,1,3
+K50890,C11634,2026-01-29,Refund Request,Call Center,1,1
+K50891,C11634,2026-02-19,Membership Points,Call Center,1,2
+K50892,C11636,2026-02-24,Payment Issue,Chat,1,1
+K50893,C11640,2026-08-05,Payment Issue,Email,1,1
+K50894,C11640,2025-08-17,Membership Points,Email,1,4
+K50895,C11640,2026-02-13,Refund Request,Email,1,3
+K50896,C11643,2026-01-21,Delivery Delay,Call Center,1,5
+K50897,C11644,2026-01-24,App/Website Problem,Call Center,1,3
+K50898,C11651,2026-07-17,Delivery Delay,Social,1,5
+K50899,C11652,2025-11-01,Wrong Item,Call Center,1,3
+K50900,C11657,2026-07-04,Payment Issue,Chat,1,3
+K50901,C11660,2025-04-20,Membership Points,Call Center,1,4
+K50902,C11661,2025-02-20,App/Website Problem,Social,1,2
+K50903,C11662,2026-01-03,Payment Issue,Chat,1,3
+K50904,C11664,2026-07-27,Delivery Delay,Chat,1,5
+K50905,C11665,2026-01-29,App/Website Problem,Call Center,1,2
+K50906,C11665,2026-02-28,Membership Points,Email,1,3
+K50907,C11667,2026-01-12,Wrong Item,Call Center,1,3
+K50908,C11668,2025-11-13,Membership Points,Email,1,2
+K50909,C11668,2025-02-09,Membership Points,Call Center,1,4
+K50910,C11670,2025-12-05,App/Website Problem,Email,1,2
+K50911,C11670,2026-02-20,Damaged Item,Chat,1,1
+K50912,C11670,2024-11-05,Payment Issue,Chat,0,2
+K50913,C11672,2026-02-17,Payment Issue,Call Center,1,3
+K50914,C11672,2025-09-23,Refund Request,Chat,1,5
+K50915,C11674,2026-04-25,Membership Points,Call Center,0,2
+K50916,C11675,2024-11-02,Refund Request,Chat,1,5
+K50917,C11676,2026-06-23,Delivery Delay,Chat,1,5
+K50918,C11681,2025-07-05,App/Website Problem,Email,1,1
+K50919,C11681,2025-06-05,App/Website Problem,Social,0,4
+K50920,C11682,2026-08-03,Refund Request,Call Center,1,5
+K50921,C11683,2026-02-14,Damaged Item,Social,0,2
+K50922,C11683,2026-04-14,Delivery Delay,Email,1,2
+K50923,C11683,2026-02-12,App/Website Problem,Chat,1,2
+K50924,C11688,2026-04-17,Refund Request,Email,1,4
+K50925,C11688,2026-03-09,Delivery Delay,Chat,0,4
+K50926,C11690,2026-01-11,App/Website Problem,Chat,1,3
+K50927,C11691,2026-03-18,Refund Request,Chat,1,3
+K50928,C11693,2025-11-12,Delivery Delay,Social,1,3
+K50929,C11694,2026-06-01,Damaged Item,Call Center,1,3
+K50930,C11696,2026-07-20,Wrong Item,Chat,1,3
+K50931,C11698,2025-10-29,Refund Request,Email,0,4
+K50932,C11698,2025-12-24,Damaged Item,Email,1,3
+K50933,C11698,2025-06-04,Refund Request,Social,0,3
+K50934,C11700,2026-06-21,Refund Request,Social,1,5
+K50935,C11702,2025-01-27,Wrong Item,Chat,1,3
+K50936,C11706,2026-08-09,Wrong Item,Email,1,3
+K50937,C11707,2025-05-28,Refund Request,Social,1,4
+K50938,C11708,2026-03-23,App/Website Problem,Chat,1,2
+K50939,C11711,2025-12-01,Payment Issue,Email,1,3
+K50940,C11711,2025-10-16,Membership Points,Social,1,3
+K50941,C11715,2026-02-13,Delivery Delay,Chat,1,2
+K50942,C11715,2026-02-17,Damaged Item,Social,1,3
+K50943,C11716,2026-06-04,Damaged Item,Email,1,4
+K50944,C11718,2026-02-23,Membership Points,Email,1,3
+K50945,C11718,2025-03-05,Damaged Item,Call Center,1,4
+K50946,C11719,2026-05-04,Membership Points,Chat,1,5
+K50947,C11722,2026-05-25,Delivery Delay,Call Center,1,4
+K50948,C11722,2026-04-03,Membership Points,Call Center,1,3
+K50949,C11722,2026-04-28,Wrong Item,Chat,1,3
+K50950,C11723,2025-08-03,App/Website Problem,Call Center,1,3
+K50951,C11725,2026-06-19,Wrong Item,Social,1,3
+K50952,C11726,2026-01-07,App/Website Problem,Email,1,5
+K50953,C11726,2025-02-09,Delivery Delay,Social,1,3
+K50954,C11726,2025-05-14,Payment Issue,Email,0,5
+K50955,C11728,2026-04-17,Membership Points,Social,1,2
+K50956,C11729,2026-05-04,Wrong Item,Email,1,5
+K50957,C11731,2026-07-05,Damaged Item,Chat,1,4
+K50958,C11732,2026-02-03,Membership Points,Chat,1,3
+K50959,C11734,2026-04-12,App/Website Problem,Call Center,1,2
+K50960,C11735,2025-12-29,Refund Request,Chat,1,3
+K50961,C11736,2026-08-15,Damaged Item,Chat,1,3
+K50962,C11737,2025-02-18,Delivery Delay,Call Center,1,3
+K50963,C11737,2025-02-11,Damaged Item,Chat,1,2
+K50964,C11738,2025-06-06,App/Website Problem,Social,1,3
+K50965,C11741,2025-11-14,App/Website Problem,Email,1,2
+K50966,C11743,2025-05-20,Damaged Item,Social,0,4
+K50967,C11743,2025-06-11,Damaged Item,Call Center,1,4
+K50968,C11743,2025-05-19,Membership Points,Email,1,3
+K50969,C11743,2025-05-04,Wrong Item,Social,1,2
+K50970,C11744,2025-03-17,App/Website Problem,Social,1,5
+K50971,C11744,2025-07-31,Refund Request,Call Center,1,2
+K50972,C11746,2025-08-27,App/Website Problem,Chat,1,2
+K50973,C11748,2025-07-29,App/Website Problem,Email,1,1
+K50974,C11753,2026-04-24,Wrong Item,Social,1,4
+K50975,C11754,2026-04-02,Payment Issue,Social,1,5
+K50976,C11754,2025-06-22,Payment Issue,Email,1,1
+K50977,C11756,2026-07-22,Delivery Delay,Call Center,0,3
+K50978,C11758,2026-07-29,Membership Points,Call Center,1,1
+K50979,C11758,2026-05-29,Refund Request,Chat,1,4
+K50980,C11761,2026-02-22,Refund Request,Social,1,3
+K50981,C11761,2025-12-23,Payment Issue,Social,1,5
+K50982,C11761,2026-02-11,Payment Issue,Email,1,5
+K50983,C11764,2025-05-22,Wrong Item,Chat,1,2
+K50984,C11764,2025-04-24,Membership Points,Email,0,4
+K50985,C11764,2025-05-03,Wrong Item,Call Center,1,2
+K50986,C11764,2025-06-01,Delivery Delay,Chat,1,4
+K50987,C11767,2026-07-24,Membership Points,Email,1,2
+K50988,C11767,2026-08-06,Wrong Item,Chat,1,4
+K50989,C11768,2025-08-26,Delivery Delay,Social,1,4
+K50990,C11769,2025-06-17,App/Website Problem,Chat,0,4
+K50991,C11771,2025-11-26,Damaged Item,Call Center,0,4
+K50992,C11773,2025-07-26,App/Website Problem,Email,1,3
+K50993,C11775,2025-10-21,Payment Issue,Social,0,1
+K50994,C11775,2025-09-24,Delivery Delay,Call Center,1,3
+K50995,C11775,2025-11-04,Wrong Item,Call Center,0,1
+K50996,C11784,2026-06-06,Membership Points,Email,1,3
+K50997,C11785,2026-03-31,Damaged Item,Email,1,2
+K50998,C11786,2025-07-02,Delivery Delay,Social,0,3
+K50999,C11786,2025-06-29,Delivery Delay,Chat,1,2
+K51000,C11786,2025-07-25,Membership Points,Email,1,4
+K51001,C11788,2026-05-20,Refund Request,Email,0,5
+K51002,C11790,2026-03-21,Membership Points,Email,1,3
+K51003,C11790,2026-02-06,App/Website Problem,Call Center,1,1
+K51004,C11790,2026-04-17,App/Website Problem,Call Center,1,3
+K51005,C11793,2026-02-05,Wrong Item,Social,1,5
+K51006,C11793,2026-05-07,Payment Issue,Call Center,1,4
+K51007,C11793,2026-05-05,Membership Points,Email,1,4
+K51008,C11795,2026-06-27,App/Website Problem,Email,0,2
+K51009,C11800,2026-02-23,App/Website Problem,Call Center,1,5
+K51010,C11803,2026-03-11,Damaged Item,Call Center,1,3
+K51011,C11806,2025-01-30,App/Website Problem,Social,0,4
+K51012,C11807,2026-06-19,App/Website Problem,Email,1,3
+K51013,C11808,2026-05-12,Membership Points,Email,1,4
+K51014,C11809,2026-06-20,Damaged Item,Social,1,3
+K51015,C11810,2025-07-17,App/Website Problem,Call Center,1,4
+K51016,C11810,2026-02-02,Membership Points,Email,1,4
+K51017,C11811,2026-06-29,Delivery Delay,Call Center,1,3
+K51018,C11814,2026-04-21,Payment Issue,Email,1,2
+K51019,C11816,2026-03-20,Delivery Delay,Email,1,2
+K51020,C11816,2026-04-09,Membership Points,Chat,1,1
+K51021,C11817,2025-10-06,Damaged Item,Email,1,5
+K51022,C11819,2025-12-16,App/Website Problem,Social,1,3
+K51023,C11821,2026-03-16,Delivery Delay,Email,1,2
+K51024,C11822,2026-07-30,Wrong Item,Chat,0,3
+K51025,C11824,2026-01-18,Membership Points,Call Center,1,3
+K51026,C11824,2025-08-25,Payment Issue,Social,1,2
+K51027,C11828,2026-04-15,Membership Points,Social,0,4
+K51028,C11828,2025-12-05,Payment Issue,Call Center,1,2
+K51029,C11828,2025-09-04,Payment Issue,Social,1,5
+K51030,C11829,2026-08-14,Membership Points,Chat,1,2
+K51031,C11834,2025-11-30,App/Website Problem,Chat,0,5
+K51032,C11835,2025-08-06,Membership Points,Call Center,1,2
+K51033,C11835,2025-09-01,Membership Points,Social,1,1
+K51034,C11836,2026-03-27,Payment Issue,Email,1,3
+K51035,C11838,2026-04-11,Delivery Delay,Call Center,1,1
+K51036,C11839,2025-01-11,Damaged Item,Chat,1,3
+K51037,C11842,2026-06-04,App/Website Problem,Email,1,4
+K51038,C11842,2025-12-17,Wrong Item,Email,1,2
+K51039,C11842,2026-08-21,Delivery Delay,Call Center,1,1
+K51040,C11843,2025-09-16,Payment Issue,Email,1,3
+K51041,C11843,2025-04-19,Delivery Delay,Social,1,2
+K51042,C11844,2026-05-09,App/Website Problem,Social,1,2
+K51043,C11845,2025-10-29,App/Website Problem,Email,1,3
+K51044,C11846,2025-08-30,App/Website Problem,Call Center,0,3
+K51045,C11849,2025-09-02,Refund Request,Chat,1,4
+K51046,C11852,2026-07-04,Membership Points,Social,1,4
+K51047,C11854,2025-12-13,Delivery Delay,Email,1,3
+K51048,C11856,2026-05-04,Membership Points,Call Center,0,2
+K51049,C11861,2025-08-30,Membership Points,Email,1,3
+K51050,C11861,2026-01-18,Damaged Item,Social,1,5
+K51051,C11862,2026-05-30,App/Website Problem,Call Center,0,2
+K51052,C11862,2026-05-30,App/Website Problem,Chat,1,3
+K51053,C11864,2026-06-11,Payment Issue,Call Center,1,2
+K51054,C11864,2026-03-07,Wrong Item,Email,1,3
+K51055,C11865,2025-11-15,App/Website Problem,Chat,1,4
+K51056,C11867,2026-05-14,Refund Request,Social,1,4
+K51057,C11868,2026-02-20,Refund Request,Email,1,3
+K51058,C11868,2025-11-06,Delivery Delay,Email,1,3
+K51059,C11868,2025-07-03,Wrong Item,Email,1,5
+K51060,C11868,2026-04-11,Wrong Item,Chat,1,4
+K51061,C11872,2026-02-23,Delivery Delay,Social,1,4
+K51062,C11874,2026-08-10,Payment Issue,Email,1,2
+K51063,C11875,2026-03-05,Payment Issue,Email,1,3
+K51064,C11879,2026-02-06,Delivery Delay,Social,0,3
+K51065,C11880,2026-03-26,App/Website Problem,Social,1,3
+K51066,C11881,2026-04-13,Membership Points,Social,1,2
+K51067,C11882,2026-07-12,Damaged Item,Chat,1,3
+K51068,C11884,2026-01-29,Wrong Item,Social,1,3
+K51069,C11885,2026-05-15,Membership Points,Email,0,5
+K51070,C11887,2025-04-04,Delivery Delay,Call Center,1,4
+K51071,C11890,2025-08-11,Damaged Item,Call Center,1,3
+K51072,C11891,2024-12-30,Refund Request,Email,1,3
+K51073,C11892,2025-12-20,Payment Issue,Social,1,3
+K51074,C11894,2025-08-19,Payment Issue,Call Center,1,5
+K51075,C11894,2025-10-13,App/Website Problem,Social,0,3
+K51076,C11896,2026-05-15,Delivery Delay,Email,1,2
+K51077,C11896,2026-02-18,Wrong Item,Social,1,1
+K51078,C11900,2026-02-25,Membership Points,Social,1,3
+K51079,C11902,2026-08-07,Membership Points,Social,1,2
+K51080,C11904,2026-02-08,Membership Points,Chat,1,4
+K51081,C11905,2026-01-05,App/Website Problem,Social,1,2
+K51082,C11905,2026-02-08,Membership Points,Call Center,1,5
+K51083,C11908,2026-03-03,Delivery Delay,Chat,0,4
+K51084,C11911,2026-02-20,Delivery Delay,Chat,1,5
+K51085,C11913,2025-03-03,Wrong Item,Email,0,4
+K51086,C11914,2024-12-22,Delivery Delay,Call Center,1,4
+K51087,C11915,2025-02-09,Membership Points,Call Center,1,4
+K51088,C11917,2026-02-09,Delivery Delay,Chat,1,4
+K51089,C11919,2025-10-01,Delivery Delay,Social,1,3
+K51090,C11920,2025-12-09,Delivery Delay,Chat,1,5
+K51091,C11922,2025-02-26,Delivery Delay,Call Center,0,4
+K51092,C11922,2026-01-12,Wrong Item,Chat,1,2
+K51093,C11923,2025-02-05,Refund Request,Call Center,1,4
+K51094,C11923,2025-09-13,Wrong Item,Social,1,4
+K51095,C11925,2025-12-05,Damaged Item,Social,1,2
+K51096,C11926,2026-04-09,Refund Request,Call Center,0,2
+K51097,C11926,2026-04-08,Damaged Item,Social,1,2
+K51098,C11926,2026-03-07,Damaged Item,Email,1,3
+K51099,C11929,2026-06-08,Payment Issue,Call Center,1,3
+K51100,C11930,2026-02-18,Refund Request,Call Center,1,3
+K51101,C11931,2025-05-25,Membership Points,Chat,1,3
+K51102,C11931,2026-02-19,Damaged Item,Social,0,1
+K51103,C11932,2025-08-22,Wrong Item,Call Center,1,2
+K51104,C11933,2026-08-01,Refund Request,Email,0,4
+K51105,C11935,2026-01-15,Payment Issue,Social,1,4
+K51106,C11935,2025-12-26,Damaged Item,Social,1,5
+K51107,C11936,2026-04-05,Payment Issue,Social,1,4
+K51108,C11937,2025-07-20,Damaged Item,Email,1,4
+K51109,C11938,2026-01-01,Payment Issue,Call Center,0,3
+K51110,C11938,2025-12-09,Refund Request,Chat,1,2
+K51111,C11942,2025-07-24,App/Website Problem,Email,1,3
+K51112,C11953,2025-08-02,Delivery Delay,Social,1,3
+K51113,C11957,2026-04-29,App/Website Problem,Email,1,4
+K51114,C11957,2026-03-17,Wrong Item,Social,1,4
+K51115,C11958,2025-11-26,Refund Request,Social,1,4
+K51116,C11958,2025-05-27,Delivery Delay,Email,1,3
+K51117,C11961,2026-05-14,Refund Request,Social,1,2
+K51118,C11962,2024-12-11,Wrong Item,Social,1,5
+K51119,C11963,2026-04-30,Refund Request,Email,1,3
+K51120,C11963,2026-06-11,Payment Issue,Email,1,4
+K51121,C11966,2026-04-17,App/Website Problem,Chat,1,4
+K51122,C11966,2025-10-22,Wrong Item,Chat,1,3
+K51123,C11967,2025-11-10,App/Website Problem,Call Center,1,4
+K51124,C11969,2026-04-04,Wrong Item,Social,1,4
+K51125,C11969,2025-07-31,Wrong Item,Email,1,4
+K51126,C11976,2026-04-11,Payment Issue,Social,1,2
+K51127,C11979,2026-02-14,Payment Issue,Email,1,5
+K51128,C11979,2026-01-26,Delivery Delay,Call Center,1,4
+K51129,C11980,2025-11-05,Payment Issue,Social,0,4
+K51130,C11980,2025-11-08,Delivery Delay,Call Center,0,3
+K51131,C11981,2026-04-14,Payment Issue,Chat,0,4
+K51132,C11983,2026-04-08,Damaged Item,Call Center,1,3
+K51133,C11984,2025-09-10,Wrong Item,Call Center,1,4
+K51134,C11987,2026-02-14,Membership Points,Chat,1,3
+K51135,C11995,2026-03-05,App/Website Problem,Email,1,4
+K51136,C11995,2026-04-04,Membership Points,Chat,1,2
+K51137,C11995,2026-03-17,Delivery Delay,Chat,0,2
+K51138,C11997,2026-06-11,Delivery Delay,Email,1,4
+K51139,C11998,2025-07-24,Refund Request,Chat,1,3
+K51140,C11999,2026-02-14,Payment Issue,Email,1,3
+K51141,C12000,2025-08-10,Damaged Item,Chat,0,3
+K51142,C12000,2026-01-25,Refund Request,Call Center,0,2
+K51143,C12001,2026-05-03,Payment Issue,Email,1,3
+K51144,C12001,2026-02-27,App/Website Problem,Chat,1,3
+K51145,C12005,2025-10-14,Wrong Item,Chat,1,3
+K51146,C12013,2026-07-03,Damaged Item,Call Center,0,4
+K51147,C12015,2025-11-18,Payment Issue,Email,1,4
+K51148,C12018,2025-09-19,App/Website Problem,Social,1,1
+K51149,C12022,2026-06-22,Damaged Item,Chat,1,3
+K51150,C12022,2026-05-20,Damaged Item,Call Center,1,1
+K51151,C12024,2026-07-02,Wrong Item,Chat,1,3
+K51152,C12031,2026-06-27,Wrong Item,Email,1,3
+K51153,C12031,2026-06-12,Damaged Item,Chat,1,3
+K51154,C12032,2026-02-09,App/Website Problem,Chat,1,3
+K51155,C12036,2025-10-15,Payment Issue,Chat,1,3
+K51156,C12039,2026-04-10,Damaged Item,Email,1,4
+K51157,C12039,2025-08-28,Refund Request,Social,0,3
+K51158,C12039,2025-05-07,Delivery Delay,Email,1,2
+K51159,C12040,2026-04-23,Refund Request,Email,0,5
+K51160,C12049,2025-10-25,Payment Issue,Email,1,1
+K51161,C12050,2026-04-24,Refund Request,Call Center,1,4
+K51162,C12053,2026-04-16,Wrong Item,Chat,0,2
+K51163,C12053,2026-02-16,Damaged Item,Social,0,3
+K51164,C12053,2026-03-08,Payment Issue,Social,1,1
+K51165,C12055,2026-02-15,Delivery Delay,Email,1,5
+K51166,C12058,2025-06-26,Damaged Item,Call Center,1,3
+K51167,C12058,2026-04-19,Refund Request,Chat,1,3
+K51168,C12064,2026-02-06,Membership Points,Social,1,3
+K51169,C12064,2026-02-08,Damaged Item,Email,0,2
+K51170,C12067,2026-03-03,Damaged Item,Call Center,1,3
+K51171,C12067,2026-03-02,Payment Issue,Email,1,3
+K51172,C12069,2026-03-08,App/Website Problem,Email,1,4
+K51173,C12075,2026-08-11,Membership Points,Chat,1,1
+K51174,C12075,2026-08-08,App/Website Problem,Call Center,1,3
+K51175,C12077,2025-01-19,Wrong Item,Email,0,3
+K51176,C12079,2025-08-26,Delivery Delay,Call Center,1,4
+K51177,C12079,2026-02-08,Membership Points,Social,0,3
+K51178,C12080,2025-08-21,Refund Request,Chat,1,1
+K51179,C12084,2025-09-07,Damaged Item,Email,1,4
+K51180,C12087,2025-08-31,Payment Issue,Chat,1,1
+K51181,C12089,2025-09-24,App/Website Problem,Email,1,4
+K51182,C12090,2026-03-10,Delivery Delay,Social,1,2
+K51183,C12091,2025-08-24,App/Website Problem,Social,1,4
+K51184,C12094,2026-07-17,App/Website Problem,Chat,0,3
+K51185,C12095,2026-03-20,Payment Issue,Chat,1,3
+K51186,C12096,2025-10-06,Delivery Delay,Social,1,3
+K51187,C12096,2025-10-08,Damaged Item,Chat,1,3
+K51188,C12105,2026-03-07,Payment Issue,Call Center,1,4
+K51189,C12106,2026-03-17,Delivery Delay,Social,1,3
+K51190,C12110,2025-12-22,App/Website Problem,Email,1,2
+K51191,C12114,2025-10-02,Payment Issue,Chat,1,3
+K51192,C12118,2026-05-08,Wrong Item,Email,0,3
+K51193,C12120,2026-05-05,Membership Points,Chat,1,5
+K51194,C12121,2025-08-20,Damaged Item,Email,1,2
+K51195,C12121,2026-03-24,Delivery Delay,Email,1,2
+K51196,C12125,2026-08-23,Payment Issue,Email,0,2
+K51197,C12141,2025-10-01,Wrong Item,Social,0,4
+K51198,C12141,2025-10-08,Delivery Delay,Social,1,3
+K51199,C12146,2024-10-05,App/Website Problem,Call Center,1,2
+K51200,C12147,2026-05-11,Damaged Item,Email,1,4
+K51201,C12150,2026-03-12,Wrong Item,Chat,0,3
+K51202,C12151,2026-06-16,Wrong Item,Chat,1,3
+K51203,C12153,2026-05-24,Payment Issue,Call Center,0,3
+K51204,C12155,2026-01-03,Delivery Delay,Call Center,1,5
+K51205,C12157,2025-07-01,App/Website Problem,Social,1,4
+K51206,C12157,2025-06-26,Delivery Delay,Chat,1,4
+K51207,C12167,2025-11-28,App/Website Problem,Call Center,1,1
+K51208,C12171,2026-08-15,App/Website Problem,Email,1,3
+K51209,C12175,2026-07-12,Delivery Delay,Call Center,1,2
+K51210,C12178,2026-02-15,Delivery Delay,Call Center,1,3
+K51211,C12181,2025-08-28,Membership Points,Call Center,1,3
+K51212,C12182,2026-03-04,App/Website Problem,Social,1,4
+K51213,C12184,2026-01-22,Refund Request,Social,1,4
+K51214,C12188,2025-12-19,Wrong Item,Email,1,3
+K51215,C12192,2025-11-01,Refund Request,Call Center,1,1
+K51216,C12193,2026-06-13,Payment Issue,Email,1,4
+K51217,C12193,2026-04-13,Membership Points,Call Center,1,5
+K51218,C12194,2025-09-05,Damaged Item,Email,1,5
+K51219,C12194,2025-11-27,Damaged Item,Call Center,1,4
+K51220,C12197,2025-11-23,App/Website Problem,Chat,1,2
+K51221,C12200,2025-10-21,App/Website Problem,Social,1,4
+K51222,C12200,2025-10-30,Payment Issue,Call Center,1,2
+K51223,C12201,2025-11-04,Wrong Item,Call Center,1,3
+K51224,C12203,2025-12-27,Payment Issue,Social,0,3
+K51225,C12203,2026-06-27,App/Website Problem,Chat,1,3
+K51226,C12204,2026-05-01,Damaged Item,Chat,1,4
+K51227,C12207,2026-03-08,Refund Request,Email,1,1
+K51228,C12207,2026-02-09,Damaged Item,Email,1,3
+K51229,C12207,2026-02-12,Refund Request,Chat,1,3
+K51230,C12209,2026-04-17,Delivery Delay,Chat,1,4
+K51231,C12212,2026-05-01,Refund Request,Call Center,1,2
+K51232,C12215,2026-07-14,Wrong Item,Email,1,2
+K51233,C12217,2025-05-07,Delivery Delay,Email,1,2
+K51234,C12220,2025-06-20,Delivery Delay,Chat,1,4
+K51235,C12220,2025-10-04,App/Website Problem,Email,1,3
+K51236,C12226,2025-08-22,Wrong Item,Email,1,2
+K51237,C12231,2025-03-23,Wrong Item,Social,0,4
+K51238,C12233,2026-01-17,Membership Points,Social,0,5
+K51239,C12233,2026-08-15,Payment Issue,Social,1,3
+K51240,C12235,2026-07-12,Wrong Item,Social,0,3
+K51241,C12239,2025-10-27,Wrong Item,Chat,0,2
+K51242,C12241,2025-05-08,Payment Issue,Social,1,2
+K51243,C12243,2025-12-09,Refund Request,Social,1,3
+K51244,C12247,2025-05-29,Membership Points,Call Center,1,3
+K51245,C12249,2026-04-02,Damaged Item,Call Center,1,3
+K51246,C12251,2026-01-03,Delivery Delay,Call Center,1,3
+K51247,C12252,2026-04-17,Refund Request,Call Center,1,5
+K51248,C12254,2025-11-18,Damaged Item,Call Center,1,3
+K51249,C12254,2025-09-07,Refund Request,Social,1,3
+K51250,C12255,2026-08-20,Membership Points,Call Center,1,3
+K51251,C12258,2025-11-29,Wrong Item,Chat,1,3
+K51252,C12260,2025-06-19,Delivery Delay,Email,1,4
+K51253,C12263,2026-05-22,Wrong Item,Chat,1,2
+K51254,C12264,2026-05-02,Wrong Item,Call Center,0,4
+K51255,C12264,2026-04-30,Refund Request,Chat,1,5
+K51256,C12265,2026-06-14,Delivery Delay,Chat,1,3
+K51257,C12268,2025-06-04,Wrong Item,Social,1,4
+K51258,C12271,2025-12-14,Wrong Item,Chat,1,3
+K51259,C12271,2025-09-19,Wrong Item,Social,0,2
+K51260,C12280,2026-05-18,Refund Request,Social,1,1
+K51261,C12282,2026-06-07,Delivery Delay,Social,1,4
+K51262,C12286,2025-12-12,Wrong Item,Chat,1,3
+K51263,C12290,2026-06-24,Wrong Item,Chat,1,3
+K51264,C12293,2026-03-04,App/Website Problem,Call Center,1,2
+K51265,C12294,2026-07-24,Delivery Delay,Chat,1,5
+K51266,C12295,2026-02-13,Refund Request,Email,1,3
+K51267,C12296,2026-02-07,Damaged Item,Call Center,1,4
+K51268,C12296,2025-09-10,Payment Issue,Chat,1,3
+K51269,C12310,2026-07-03,Membership Points,Chat,1,2
+K51270,C12310,2026-06-07,Payment Issue,Chat,0,1
+K51271,C12311,2025-10-09,Delivery Delay,Email,0,2
+K51272,C12311,2026-02-02,Delivery Delay,Email,1,2
+K51273,C12313,2025-12-30,Membership Points,Email,1,4
+K51274,C12323,2026-07-07,App/Website Problem,Email,0,5
+K51275,C12324,2025-04-29,Refund Request,Social,1,5
+K51276,C12325,2026-07-21,Membership Points,Email,1,3
+K51277,C12330,2026-01-18,Refund Request,Call Center,1,5
+K51278,C12330,2026-08-29,Refund Request,Chat,1,3
+K51279,C12332,2026-01-17,Wrong Item,Chat,1,3
+K51280,C12335,2026-05-04,Wrong Item,Chat,0,3
+K51281,C12335,2026-03-31,App/Website Problem,Social,1,3
+K51282,C12337,2026-06-04,Payment Issue,Call Center,1,4
+K51283,C12338,2025-09-30,Delivery Delay,Call Center,1,3
+K51284,C12340,2026-07-30,Payment Issue,Email,0,4
+K51285,C12341,2025-07-30,App/Website Problem,Email,1,3
+K51286,C12343,2026-04-26,Payment Issue,Social,1,3
+K51287,C12345,2026-05-07,Payment Issue,Email,1,4
+K51288,C12347,2025-08-26,Delivery Delay,Chat,1,3
+K51289,C12350,2026-01-23,Payment Issue,Chat,0,2
+K51290,C12351,2026-04-14,App/Website Problem,Call Center,0,2
+K51291,C12351,2026-03-31,App/Website Problem,Chat,1,1
+K51292,C12351,2026-03-24,Refund Request,Call Center,1,2
+K51293,C12352,2025-05-16,Membership Points,Social,0,4
+K51294,C12353,2026-08-07,Refund Request,Chat,1,4
+K51295,C12359,2025-11-29,Refund Request,Email,1,5
+K51296,C12361,2025-09-15,Damaged Item,Social,1,5
+K51297,C12363,2025-09-20,Wrong Item,Email,1,2
+K51298,C12363,2026-03-25,Membership Points,Chat,1,5
+K51299,C12365,2026-04-03,Payment Issue,Chat,1,3
+K51300,C12365,2025-03-16,Payment Issue,Social,1,4
+K51301,C12366,2026-07-06,Membership Points,Call Center,1,4
+K51302,C12367,2025-12-08,Membership Points,Email,1,4
+K51303,C12368,2025-12-01,Wrong Item,Call Center,1,3
+K51304,C12368,2026-03-29,Damaged Item,Call Center,1,2
+K51305,C12369,2026-05-13,Refund Request,Chat,0,3
+K51306,C12370,2025-08-31,Delivery Delay,Social,1,1
+K51307,C12371,2025-08-03,Payment Issue,Call Center,0,3
+K51308,C12377,2025-04-28,Refund Request,Email,1,3
+K51309,C12379,2025-10-23,Membership Points,Email,1,4
+K51310,C12381,2026-02-22,Delivery Delay,Chat,0,3
+K51311,C12389,2026-06-30,Delivery Delay,Social,1,3
+K51312,C12390,2025-12-26,App/Website Problem,Call Center,1,4
+K51313,C12393,2025-09-06,Refund Request,Chat,0,2
+K51314,C12396,2026-01-19,Payment Issue,Social,1,3
+K51315,C12397,2026-06-17,Delivery Delay,Chat,1,3
+K51316,C12399,2026-05-09,Payment Issue,Social,1,3
+K51317,C12405,2025-06-01,Damaged Item,Email,1,4
+K51318,C12406,2025-12-09,App/Website Problem,Chat,1,3
+K51319,C12407,2025-02-11,Delivery Delay,Call Center,1,3
+K51320,C12409,2026-02-18,Damaged Item,Call Center,0,2
+K51321,C12413,2025-05-20,App/Website Problem,Call Center,1,3
+K51322,C12413,2026-03-11,Damaged Item,Chat,1,4
+K51323,C12414,2026-05-26,Membership Points,Chat,1,2
+K51324,C12415,2026-03-13,Wrong Item,Call Center,1,2
+K51325,C12415,2026-03-12,Wrong Item,Social,0,4
+K51326,C12415,2026-04-26,Membership Points,Email,1,1
+K51327,C12416,2026-08-11,Payment Issue,Social,1,3
+K51328,C12418,2025-11-04,Delivery Delay,Chat,1,1
+K51329,C12420,2025-03-05,Refund Request,Social,1,3
+K51330,C12420,2026-01-05,Refund Request,Chat,1,3
+K51331,C12420,2025-07-30,Membership Points,Email,1,4
+K51332,C12420,2026-01-20,Delivery Delay,Social,1,3
+K51333,C12421,2025-11-21,App/Website Problem,Call Center,1,4
+K51334,C12424,2026-02-19,Wrong Item,Chat,1,4
+K51335,C12426,2026-03-17,Membership Points,Call Center,1,2
+K51336,C12426,2026-02-02,Wrong Item,Social,1,3
+K51337,C12430,2025-08-20,Wrong Item,Email,0,3
+K51338,C12436,2025-12-25,Membership Points,Call Center,1,2
+K51339,C12436,2026-01-30,Membership Points,Social,1,3
+K51340,C12440,2026-07-31,Membership Points,Email,1,4
+K51341,C12441,2026-08-05,App/Website Problem,Social,1,4
+K51342,C12442,2025-08-05,Wrong Item,Social,1,4
+K51343,C12445,2025-12-09,Wrong Item,Call Center,0,3
+K51344,C12445,2025-12-04,Membership Points,Social,1,3
+K51345,C12448,2026-03-04,Refund Request,Email,1,5
+K51346,C12449,2026-04-10,Payment Issue,Chat,1,4
+K51347,C12449,2026-06-26,Wrong Item,Social,0,3
+K51348,C12451,2026-01-11,Damaged Item,Call Center,0,4
+K51349,C12452,2025-12-27,Payment Issue,Chat,0,1
+K51350,C12455,2026-07-08,Membership Points,Chat,1,3
+K51351,C12457,2026-05-19,Refund Request,Email,1,4
+K51352,C12458,2026-02-11,Refund Request,Chat,0,3
+K51353,C12459,2025-06-04,Delivery Delay,Email,1,5
+K51354,C12460,2025-07-31,Payment Issue,Email,1,2
+K51355,C12462,2025-09-02,App/Website Problem,Chat,1,2
+K51356,C12469,2026-06-08,Refund Request,Chat,1,4
+K51357,C12470,2026-01-24,Refund Request,Call Center,1,3
+K51358,C12473,2026-07-11,Refund Request,Social,1,3
+K51359,C12474,2026-03-14,Membership Points,Email,1,5
+K51360,C12477,2026-06-10,Wrong Item,Chat,1,1
+K51361,C12481,2025-03-03,Delivery Delay,Email,1,3
+K51362,C12486,2025-12-10,App/Website Problem,Email,1,3
+K51363,C12491,2026-04-10,App/Website Problem,Social,1,2
+K51364,C12492,2025-08-28,Payment Issue,Chat,1,4
+K51365,C12492,2025-03-31,Delivery Delay,Social,1,5
+K51366,C12498,2025-04-27,App/Website Problem,Chat,1,4
+K51367,C12498,2025-03-07,Payment Issue,Social,1,4
+K51368,C12499,2025-09-23,Payment Issue,Chat,1,2
+K51369,C12500,2026-03-18,Delivery Delay,Email,0,2
+K51370,C12502,2025-06-04,Damaged Item,Email,1,4
+K51371,C12503,2025-03-14,Payment Issue,Call Center,1,4
+K51372,C12503,2025-05-16,Delivery Delay,Chat,1,5
+K51373,C12509,2026-01-01,Payment Issue,Call Center,1,5
+K51374,C12509,2026-07-07,Refund Request,Email,1,3
+K51375,C12512,2026-02-09,Membership Points,Chat,0,2
+K51376,C12514,2026-06-12,Delivery Delay,Call Center,1,3
+K51377,C12519,2025-12-06,Wrong Item,Chat,0,4
+K51378,C12523,2026-02-23,Refund Request,Social,1,3
+K51379,C12523,2026-04-07,Payment Issue,Call Center,0,5
+K51380,C12523,2026-03-08,Membership Points,Email,0,1
+K51381,C12528,2025-11-19,Wrong Item,Chat,1,2
+K51382,C12528,2026-01-05,Delivery Delay,Chat,1,4
+K51383,C12529,2025-06-01,Membership Points,Chat,1,4
+K51384,C12531,2025-11-22,App/Website Problem,Call Center,1,3
+K51385,C12531,2026-03-07,Delivery Delay,Call Center,0,3
+K51386,C12532,2024-11-28,App/Website Problem,Social,1,5
+K51387,C12533,2026-05-06,Damaged Item,Chat,1,4
+K51388,C12535,2025-08-08,Damaged Item,Email,1,3
+K51389,C12538,2026-07-31,Wrong Item,Email,1,4
+K51390,C12540,2026-04-20,Delivery Delay,Email,1,3
+K51391,C12542,2026-03-18,App/Website Problem,Call Center,1,2
+K51392,C12546,2024-11-09,Delivery Delay,Social,1,4
+K51393,C12546,2025-02-23,Delivery Delay,Call Center,1,2
+K51394,C12547,2025-06-12,Wrong Item,Social,0,3
+K51395,C12554,2026-06-27,Membership Points,Social,0,2
+K51396,C12555,2026-07-03,Refund Request,Chat,1,2
+K51397,C12556,2026-03-05,Refund Request,Call Center,1,3
+K51398,C12557,2026-06-05,Delivery Delay,Chat,1,3
+K51399,C12558,2026-06-01,App/Website Problem,Call Center,1,3
+K51400,C12562,2025-06-17,Refund Request,Email,1,2
+K51401,C12563,2025-02-11,Payment Issue,Email,1,5
+K51402,C12565,2026-07-07,Wrong Item,Chat,1,3
+K51403,C12565,2026-06-28,Payment Issue,Call Center,1,5
+K51404,C12567,2026-05-06,Membership Points,Chat,1,4
+K51405,C12570,2026-02-16,Refund Request,Chat,1,2
+K51406,C12570,2026-02-23,Damaged Item,Email,1,1
+K51407,C12570,2025-10-23,Wrong Item,Chat,1,1
+K51408,C12570,2026-02-27,Membership Points,Call Center,1,3
+K51409,C12571,2026-08-02,Delivery Delay,Call Center,0,3
+K51410,C12572,2026-01-15,Refund Request,Chat,1,1
+K51411,C12578,2025-10-07,Wrong Item,Chat,1,3
+K51412,C12579,2025-10-27,Wrong Item,Social,1,4
+K51413,C12582,2026-02-11,App/Website Problem,Call Center,1,3
+K51414,C12582,2026-03-15,Damaged Item,Social,1,4
+K51415,C12583,2025-07-25,Damaged Item,Social,1,4
+K51416,C12585,2025-05-26,Refund Request,Email,1,1
+K51417,C12585,2025-08-19,Refund Request,Social,1,2
+K51418,C12592,2026-07-04,Damaged Item,Chat,1,4
+K51419,C12595,2025-06-18,App/Website Problem,Chat,1,3
+K51420,C12597,2026-01-09,Membership Points,Call Center,1,4
+K51421,C12597,2025-12-16,App/Website Problem,Email,1,4
+K51422,C12599,2026-03-19,App/Website Problem,Call Center,1,1
+K51423,C12600,2026-06-23,Wrong Item,Chat,1,2
+K51424,C12601,2025-10-05,App/Website Problem,Social,1,3
+K51425,C12601,2026-05-01,Wrong Item,Call Center,1,3
+K51426,C12601,2025-10-09,Wrong Item,Email,1,4
+K51427,C12602,2026-08-19,Refund Request,Chat,1,4
+K51428,C12602,2026-02-12,Membership Points,Social,1,5
+K51429,C12604,2026-03-24,Wrong Item,Email,1,2
+K51430,C12606,2026-05-21,Payment Issue,Call Center,0,5
+K51431,C12609,2025-07-16,Delivery Delay,Call Center,1,1
+K51432,C12609,2026-03-09,App/Website Problem,Chat,0,1
+K51433,C12610,2026-04-07,Delivery Delay,Call Center,1,3
+K51434,C12611,2026-02-19,App/Website Problem,Call Center,1,5
+K51435,C12611,2025-12-09,Wrong Item,Social,1,1
+K51436,C12612,2026-03-27,Membership Points,Email,1,4
+K51437,C12612,2026-03-09,Delivery Delay,Social,0,2
+K51438,C12615,2026-05-24,Damaged Item,Email,1,5
+K51439,C12617,2025-03-20,Wrong Item,Chat,1,5
+K51440,C12621,2026-02-17,Membership Points,Call Center,1,3
+K51441,C12623,2026-07-01,Delivery Delay,Call Center,1,4
+K51442,C12625,2025-09-24,Delivery Delay,Social,1,4
+K51443,C12627,2026-03-01,Wrong Item,Email,1,2
+K51444,C12627,2026-02-04,Refund Request,Email,1,2
+K51445,C12630,2026-08-17,Membership Points,Call Center,1,5
+K51446,C12631,2026-03-24,Refund Request,Social,0,3
+K51447,C12631,2026-04-09,Refund Request,Social,1,1
+K51448,C12631,2026-03-28,Wrong Item,Chat,1,1
+K51449,C12634,2026-01-05,Damaged Item,Email,0,3
+K51450,C12635,2026-07-03,Payment Issue,Email,1,2
+K51451,C12635,2026-05-14,App/Website Problem,Social,1,3
+K51452,C12637,2026-02-09,Membership Points,Chat,1,5
+K51453,C12637,2025-07-14,Damaged Item,Email,0,3
+K51454,C12642,2026-01-27,Refund Request,Email,1,1
+K51455,C12647,2026-05-16,Payment Issue,Chat,1,3
+K51456,C12648,2026-03-11,Payment Issue,Email,1,3
+K51457,C12650,2026-06-25,Delivery Delay,Chat,0,4
+K51458,C12658,2026-05-11,Refund Request,Chat,0,3
+K51459,C12658,2026-04-25,App/Website Problem,Email,1,3
+K51460,C12661,2026-05-24,Refund Request,Social,1,5
+K51461,C12663,2025-11-07,Membership Points,Email,1,2
+K51462,C12665,2025-12-20,Wrong Item,Call Center,1,4
+K51463,C12669,2025-08-03,App/Website Problem,Call Center,0,3
+K51464,C12670,2026-05-20,Membership Points,Email,1,5
+K51465,C12671,2026-05-24,App/Website Problem,Email,1,4
+K51466,C12674,2026-03-22,Membership Points,Call Center,1,3
+K51467,C12679,2025-08-08,Refund Request,Social,1,4
+K51468,C12681,2025-02-03,Wrong Item,Call Center,1,3
+K51469,C12682,2026-03-26,Delivery Delay,Social,1,1
+K51470,C12682,2026-01-12,Membership Points,Chat,1,2
+K51471,C12687,2025-05-23,Payment Issue,Email,1,3
+K51472,C12688,2025-08-14,Delivery Delay,Social,1,5
+K51473,C12692,2026-02-28,Wrong Item,Social,1,1
+K51474,C12695,2026-02-08,Delivery Delay,Email,1,2
+K51475,C12698,2026-04-07,Delivery Delay,Email,1,3
+K51476,C12698,2025-05-24,App/Website Problem,Email,1,3
+K51477,C12699,2025-10-13,Delivery Delay,Social,1,2
+K51478,C12701,2025-08-12,Payment Issue,Chat,1,3
+K51479,C12702,2026-01-10,Wrong Item,Call Center,1,3
+K51480,C12704,2025-08-22,App/Website Problem,Call Center,1,5
+K51481,C12704,2026-03-20,Damaged Item,Call Center,1,5
+K51482,C12708,2026-01-28,Wrong Item,Chat,1,4
+K51483,C12716,2026-01-16,Wrong Item,Call Center,1,4
+K51484,C12717,2026-04-21,Membership Points,Email,1,2
+K51485,C12719,2025-03-02,Refund Request,Email,1,5
+K51486,C12720,2025-05-26,Damaged Item,Call Center,0,3
+K51487,C12720,2025-08-03,Payment Issue,Email,1,4
+K51488,C12721,2026-07-23,Delivery Delay,Call Center,0,5
+K51489,C12724,2026-02-14,Delivery Delay,Call Center,1,2
+K51490,C12724,2026-02-09,Payment Issue,Call Center,1,1
+K51491,C12724,2026-03-17,Wrong Item,Email,0,4
+K51492,C12726,2026-03-21,Membership Points,Call Center,1,2
+K51493,C12727,2025-09-28,App/Website Problem,Chat,1,4
+K51494,C12727,2025-04-14,Delivery Delay,Call Center,1,4
+K51495,C12732,2025-12-01,Damaged Item,Call Center,0,3
+K51496,C12735,2026-01-21,Wrong Item,Social,1,3
+K51497,C12735,2026-07-03,Refund Request,Chat,1,3
+K51498,C12736,2025-12-03,Wrong Item,Call Center,1,3
+K51499,C12737,2025-12-18,Membership Points,Social,1,3
+K51500,C12744,2025-11-14,App/Website Problem,Social,1,3
+K51501,C12747,2025-12-01,Membership Points,Email,0,4
+K51502,C12748,2026-01-15,Membership Points,Social,1,5
+K51503,C12750,2026-02-22,Wrong Item,Chat,1,2
+K51504,C12755,2026-01-15,Damaged Item,Email,1,3
+K51505,C12755,2025-10-03,Wrong Item,Chat,1,2
+K51506,C12755,2026-03-27,App/Website Problem,Chat,1,3
+K51507,C12761,2026-02-07,Wrong Item,Chat,0,3
+K51508,C12761,2026-01-11,Membership Points,Email,1,4
+K51509,C12761,2026-02-13,Refund Request,Call Center,0,2
+K51510,C12764,2025-11-04,Refund Request,Call Center,1,3
+K51511,C12764,2026-04-03,App/Website Problem,Call Center,0,3
+K51512,C12764,2025-05-21,Membership Points,Social,0,3
+K51513,C12769,2026-03-09,Membership Points,Call Center,1,3
+K51514,C12779,2026-08-07,Membership Points,Call Center,1,3
+K51515,C12782,2025-12-07,App/Website Problem,Social,1,3
+K51516,C12782,2025-06-11,Payment Issue,Email,1,4
+K51517,C12782,2025-10-27,Membership Points,Email,1,1
+K51518,C12783,2025-09-23,App/Website Problem,Social,0,4
+K51519,C12784,2026-06-30,Refund Request,Call Center,1,2
+K51520,C12785,2025-09-30,App/Website Problem,Email,0,4
+K51521,C12785,2026-05-24,Delivery Delay,Call Center,1,2
+K51522,C12785,2026-07-01,Payment Issue,Chat,1,4
+K51523,C12788,2025-12-09,Damaged Item,Social,0,3
+K51524,C12788,2025-08-16,Wrong Item,Email,1,3
+K51525,C12790,2026-06-11,App/Website Problem,Chat,0,3
+K51526,C12791,2026-05-24,Payment Issue,Chat,1,1
+K51527,C12793,2026-03-15,Refund Request,Chat,1,2
+K51528,C12793,2026-04-21,Refund Request,Call Center,1,1
+K51529,C12794,2026-04-10,Delivery Delay,Social,0,3
+K51530,C12796,2026-01-18,Delivery Delay,Call Center,1,5
+K51531,C12799,2025-10-15,Damaged Item,Social,0,4
+K51532,C12801,2026-04-14,App/Website Problem,Social,1,3
+K51533,C12801,2026-05-01,App/Website Problem,Social,1,4
+K51534,C12803,2025-11-08,Damaged Item,Email,0,3
+K51535,C12803,2026-01-25,App/Website Problem,Email,0,5
+K51536,C12806,2026-05-29,Damaged Item,Call Center,1,3
+K51537,C12806,2026-05-24,App/Website Problem,Call Center,1,3
+K51538,C12808,2026-01-02,App/Website Problem,Chat,1,5
+K51539,C12808,2025-09-07,Damaged Item,Call Center,1,3
+K51540,C12809,2026-04-26,Wrong Item,Call Center,1,2
+K51541,C12810,2026-03-25,App/Website Problem,Call Center,1,4
+K51542,C12811,2026-06-06,Damaged Item,Email,0,3
+K51543,C12815,2025-02-10,Membership Points,Email,1,3
+K51544,C12816,2025-03-15,Damaged Item,Email,1,2
+K51545,C12817,2026-04-04,Damaged Item,Chat,1,2
+K51546,C12818,2025-07-07,Payment Issue,Social,1,4
+K51547,C12820,2025-11-26,Membership Points,Social,1,2
+K51548,C12821,2026-04-15,Delivery Delay,Chat,0,3
+K51549,C12822,2025-09-04,Refund Request,Call Center,1,4
+K51550,C12822,2025-08-04,Membership Points,Social,1,2
+K51551,C12823,2026-03-11,Delivery Delay,Chat,1,3
+K51552,C12830,2025-04-24,Refund Request,Call Center,1,2
+K51553,C12831,2026-04-07,Delivery Delay,Email,1,2
+K51554,C12838,2026-06-08,Payment Issue,Chat,1,2
+K51555,C12841,2025-07-11,Delivery Delay,Call Center,1,3
+K51556,C12841,2026-05-25,Payment Issue,Chat,1,3
+K51557,C12842,2026-04-13,App/Website Problem,Email,0,4
+K51558,C12842,2026-03-26,Damaged Item,Email,1,4
+K51559,C12849,2026-05-22,App/Website Problem,Call Center,1,2
+K51560,C12849,2026-07-29,Delivery Delay,Call Center,1,2
+K51561,C12855,2025-10-03,Membership Points,Social,1,5
+K51562,C12856,2026-06-24,App/Website Problem,Social,1,3
+K51563,C12856,2026-07-28,Damaged Item,Social,1,4
+K51564,C12857,2026-03-06,Payment Issue,Chat,1,3
+K51565,C12860,2026-02-07,Delivery Delay,Chat,0,4
+K51566,C12861,2025-04-04,Payment Issue,Email,1,4
+K51567,C12864,2025-08-27,Payment Issue,Email,1,3
+K51568,C12870,2025-08-06,Damaged Item,Call Center,1,5
+K51569,C12874,2025-11-28,Delivery Delay,Chat,1,3
+K51570,C12875,2026-07-17,Delivery Delay,Email,1,4
+K51571,C12876,2026-03-10,Membership Points,Chat,1,5
+K51572,C12877,2026-04-24,Delivery Delay,Social,0,2
+K51573,C12878,2025-12-19,Refund Request,Chat,1,3
+K51574,C12879,2026-07-14,Damaged Item,Chat,1,3
+K51575,C12882,2026-05-17,Payment Issue,Social,1,4
+K51576,C12882,2026-06-27,Damaged Item,Call Center,1,5
+K51577,C12887,2025-01-26,Damaged Item,Call Center,1,4
+K51578,C12890,2025-12-06,Wrong Item,Email,1,2
+K51579,C12892,2026-03-18,Delivery Delay,Chat,1,3
+K51580,C12895,2026-07-28,Damaged Item,Call Center,1,5
+K51581,C12902,2026-03-24,App/Website Problem,Chat,1,2
+K51582,C12902,2026-02-23,Damaged Item,Call Center,1,3
+K51583,C12903,2026-02-21,Membership Points,Call Center,1,2
+K51584,C12903,2026-02-26,Refund Request,Call Center,0,3
+K51585,C12905,2025-09-19,Wrong Item,Chat,1,3
+K51586,C12909,2024-10-10,Membership Points,Email,1,5
+K51587,C12912,2025-11-04,Refund Request,Social,0,2
+K51588,C12915,2025-03-22,Membership Points,Call Center,1,4
+K51589,C12921,2025-02-16,App/Website Problem,Email,1,3
+K51590,C12922,2026-05-06,Refund Request,Chat,1,2
+K51591,C12925,2026-02-23,Wrong Item,Call Center,1,3
+K51592,C12925,2026-02-19,Membership Points,Call Center,1,3
+K51593,C12927,2024-12-21,Wrong Item,Social,1,2
+K51594,C12930,2026-05-07,Damaged Item,Social,1,3
+K51595,C12934,2025-03-10,Damaged Item,Social,1,2
+K51596,C12935,2026-02-10,Membership Points,Call Center,1,2
+K51597,C12936,2025-12-18,Wrong Item,Social,1,5
+K51598,C12936,2026-05-19,Payment Issue,Call Center,1,5
+K51599,C12940,2025-07-20,App/Website Problem,Social,1,5
+K51600,C12943,2025-07-16,App/Website Problem,Social,1,4
+K51601,C12947,2026-03-07,Refund Request,Chat,1,1
+K51602,C12947,2026-01-15,Refund Request,Call Center,1,3
+K51603,C12948,2025-10-03,Payment Issue,Chat,1,4
+K51604,C12949,2026-03-07,App/Website Problem,Chat,1,5
+K51605,C12951,2026-05-14,Payment Issue,Call Center,0,4
+K51606,C12953,2025-09-08,Wrong Item,Chat,1,4
+K51607,C12955,2026-05-23,Damaged Item,Social,0,2
+K51608,C12955,2025-12-03,Wrong Item,Call Center,1,3
+K51609,C12957,2026-01-22,Membership Points,Email,1,2
+K51610,C12958,2026-03-01,Wrong Item,Call Center,1,3
+K51611,C12959,2026-01-25,Delivery Delay,Social,1,2
+K51612,C12961,2025-09-14,Damaged Item,Social,1,1
+K51613,C12962,2025-04-10,Payment Issue,Social,1,4
+K51614,C12964,2026-06-11,Refund Request,Chat,1,4
+K51615,C12964,2026-05-26,Wrong Item,Chat,0,3
+K51616,C12966,2025-10-08,Delivery Delay,Call Center,1,5
+K51617,C12966,2026-05-30,App/Website Problem,Email,1,4
+K51618,C12968,2025-12-15,Wrong Item,Social,1,4
+K51619,C12970,2026-01-29,Damaged Item,Social,1,2
+K51620,C12976,2026-06-16,Damaged Item,Call Center,1,3
+K51621,C12982,2026-03-12,Membership Points,Call Center,0,4
+K51622,C12982,2026-03-30,Wrong Item,Email,1,3
+K51623,C12982,2026-02-24,Payment Issue,Call Center,1,3
+K51624,C12983,2026-03-12,App/Website Problem,Call Center,1,2
+K51625,C12984,2026-01-17,App/Website Problem,Social,0,2
+K51626,C12985,2026-01-02,Wrong Item,Social,0,5
+K51627,C12985,2025-01-30,App/Website Problem,Email,0,3
+K51628,C12986,2026-01-11,App/Website Problem,Social,0,5
+K51629,C12986,2026-03-15,Damaged Item,Social,1,2
+K51630,C12987,2025-01-20,Payment Issue,Chat,1,3
+K51631,C12989,2025-08-21,Delivery Delay,Email,1,5
+K51632,C12992,2026-01-30,App/Website Problem,Call Center,0,4
+K51633,C12993,2026-01-14,Delivery Delay,Chat,0,5
+K51634,C12993,2025-09-26,Payment Issue,Chat,0,4
+K51635,C12995,2026-07-14,Refund Request,Social,1,4
+K51636,C12997,2025-12-23,Delivery Delay,Call Center,1,2

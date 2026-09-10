@@ -1,0 +1,11 @@
+ตาราง,ปัญหาที่พบ,จำนวน,รายละเอียด
+customers,แถวซ้ำ (ซ้ำทั้งแถว),15,0.50%
+transactions,แถวซ้ำ (ซ้ำทั้งแถว),267,0.40%
+customers,ค่าว่าง: age,124,4.11%
+customers,ค่าว่าง: region,68,2.26%
+customers,ค่าว่าง: income_bracket,184,6.10%
+customers,gender สะกดไม่สอดคล้อง,8,"F, Female, M, Male, f, female, m, male"
+customers,อายุเป็นไปไม่ได้ (>100 ปี),8,สูงสุด 173 ปี
+transactions,รายการคืนสินค้า (is_return=1),784,1.17%
+transaction_items,quantity สูงเกิน 10 เท่าของค่ามัธยฐาน,25,สูงสุด 216 ชิ้น (มัธยฐาน 2 ชิ้น)
+transaction_items,quantity ติดลบ (จากการคืนสินค้า),782,คาดหวังไว้แล้ว: มาจากบิลคืนสินค้า

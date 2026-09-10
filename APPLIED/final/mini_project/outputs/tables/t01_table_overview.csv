@@ -1,0 +1,7 @@
+table,rows,cols
+customers,3015,11
+products,89,4
+transactions,66999,12
+transaction_items,375088,7
+support_tickets,1636,7
+churn_labels,3000,8

@@ -1,0 +1,21 @@
+ถ้าซื้อ,ควรเสนอ,Lift,Confidence,บิลที่ซื้อ A แต่ไม่ซื้อ B,มูลค่า B (บาท),โอกาสรายได้ (บาท)
+Baby Wipes,"Baby Lotion, Diapers Pack",16.01,0.349,2601,698.0,1815498.0
+Diapers Pack,"Baby Lotion, Baby Wipes",14.83,0.318,2994,288.0,862272.0
+Coffee Filter Paper,"Coffee Beans 250g, Coffee Creamer",17.47,0.534,1714,395.0,677030.0
+Pet Shampoo,"Dog Food 3kg, Dog Treats",20.77,0.485,856,598.0,511888.0
+Coffee Creamer,"Coffee Beans 250g, Coffee Filter Paper",16.07,0.645,1082,405.0,438210.0
+Baby Lotion,"Baby Wipes, Diapers Pack",20.75,0.652,745,588.0,438060.0
+Hair Treatment Mask,"Conditioner, Shampoo",15.4,0.575,1105,378.0,417690.0
+"Conditioner, Shampoo",Hair Treatment Mask,15.4,0.607,967,259.0,250453.0
+Mouthwash,"Toothbrush, Toothpaste",13.96,0.521,1264,148.0,187072.0
+"Toothbrush, Toothpaste",Mouthwash,13.96,0.559,1086,139.0,150954.0
+"Dog Food 3kg, Dog Treats",Pet Shampoo,20.77,0.524,734,199.0,146066.0
+"Baby Wipes, Diapers Pack",Baby Lotion,20.75,0.673,677,199.0,134723.0
+"Coffee Beans 250g, Coffee Filter Paper",Coffee Creamer,16.07,0.742,682,75.0,51150.0
+"Green Tea Bags, Lemon 500g",Honey Jar,13.94,0.883,115,159.0,18285.0
+"Honey Jar, Lemon 500g",Green Tea Bags,14.37,0.894,103,129.0,13287.0
+"Dog Treats, Pet Shampoo",Dog Food 3kg,17.3,0.976,20,459.0,9180.0
+"Baby Lotion, Baby Wipes",Diapers Pack,14.83,0.987,18,499.0,8982.0
+"Coffee Beans 250g, Coffee Creamer",Coffee Filter Paper,17.47,0.975,51,85.0,4335.0
+"Dog Food 3kg, Pet Shampoo",Dog Treats,22.55,0.963,31,139.0,4309.0
+"Baby Lotion, Diapers Pack",Baby Wipes,16.01,0.97,43,89.0,3827.0
