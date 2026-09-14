@@ -37,10 +37,8 @@ else:
     print("    ถูกอ้างถึงครบทุกใบ")
 
 # ---------- 3. figure and table numbering must be sequential ----------
-fig_nums = [int(n) for n in re.findall(r"┌─ 🖼\s+รูปที่ (\d+)", report)]
-tbl_nums = ([int(n) for n in re.findall(r"┌─ 📊\s+ตารางที่ (\d+)", report)]
-            + [int(n) for n in re.findall(r"\*\*ตารางที่ (\d+)\*\*", report)])
-tbl_nums.sort()
+fig_nums = [int(n) for n in re.findall(r"\*\*แทรกรูปที่ (\d+) ตรงนี้\*\*", report)]
+tbl_nums = sorted(int(n) for n in re.findall(r"\*\*ตารางที่ (\d+)\*\*", report))
 print(f"[3] เลขรูป {len(fig_nums)} · เลขตาราง {len(tbl_nums)}")
 if fig_nums != list(range(1, len(fig_nums) + 1)):
     problems.append("เลขรูปไม่เรียงต่อเนื่อง")
@@ -98,7 +96,7 @@ for csv in (OUT / "tables").glob("*.csv"):
 # Strip the parts of the report that are quoted directly from tables/instructions,
 # so we only audit numbers written into prose.
 prose = report
-prose = re.sub(r"```.*?```", "", prose, flags=re.S)        # instruction blocks
+prose = re.sub(r"^>.*$", "", prose, flags=re.M)            # instruction/callout lines
 prose = re.sub(r"^\|.*$", "", prose, flags=re.M)           # markdown tables
 prose = re.sub(r"`[^`]*`", "", prose)                      # inline code
 prose = re.sub(r"\d{4}-\d{2}-\d{2}", "", prose)            # dates
