@@ -184,7 +184,7 @@
     "value": 1.59
   },
   "ar_cat_top_pair": {
-    "value": "Snacks → Alcohol"
+    "value": "Alcohol → Snacks"
   },
   "ar_crosssell_top_opportunity_thb": {
     "value": 1815498.0
@@ -232,16 +232,16 @@
     "value": 79
   },
   "ar_speed_ratio": {
-    "value": 5.33
+    "value": 5.08
   },
   "ar_strong_lift_threshold": {
     "value": 5.0
   },
   "ar_time_apriori_sec": {
-    "value": 0.0929
+    "value": 0.0991
   },
   "ar_time_fpgrowth_sec": {
-    "value": 0.4951
+    "value": 0.5033
   },
   "ar_top1_antecedent": {
     "value": "Dog Food 3kg, Pet Shampoo"
@@ -306,7 +306,7 @@
         "average_precision_std": 0.0286,
         "f1": 0.6919,
         "f1_std": 0.0246,
-        "fit_time_sec": 1.5137,
+        "fit_time_sec": 1.4346,
         "model": "Gradient Boosting",
         "precision": 0.7791,
         "precision_std": 0.0222,
@@ -322,7 +322,7 @@
         "average_precision_std": 0.0336,
         "f1": 0.7138,
         "f1_std": 0.0204,
-        "fit_time_sec": 0.2926,
+        "fit_time_sec": 0.2344,
         "model": "XGBoost",
         "precision": 0.7105,
         "precision_std": 0.0252,
@@ -338,7 +338,7 @@
         "average_precision_std": 0.0358,
         "f1": 0.6267,
         "f1_std": 0.0336,
-        "fit_time_sec": 1.2334,
+        "fit_time_sec": 0.4994,
         "model": "Extra Trees",
         "precision": 0.8104,
         "precision_std": 0.0215,
@@ -354,7 +354,7 @@
         "average_precision_std": 0.0394,
         "f1": 0.6983,
         "f1_std": 0.0485,
-        "fit_time_sec": 1.1808,
+        "fit_time_sec": 1.2184,
         "model": "Random Forest",
         "precision": 0.6821,
         "precision_std": 0.0442,
@@ -370,7 +370,7 @@
         "average_precision_std": 0.0239,
         "f1": 0.6587,
         "f1_std": 0.0232,
-        "fit_time_sec": 1.201,
+        "fit_time_sec": 1.1185,
         "model": "Logistic Regression",
         "precision": 0.5706,
         "precision_std": 0.0276,
@@ -386,7 +386,7 @@
         "average_precision_std": 0.0514,
         "f1": 0.6362,
         "f1_std": 0.0484,
-        "fit_time_sec": 0.3044,
+        "fit_time_sec": 0.1866,
         "model": "AdaBoost",
         "precision": 0.7292,
         "precision_std": 0.0502,
@@ -402,7 +402,7 @@
         "average_precision_std": 0.0332,
         "f1": 0.6334,
         "f1_std": 0.02,
-        "fit_time_sec": 0.6153,
+        "fit_time_sec": 0.5277,
         "model": "Neural Network (MLP)",
         "precision": 0.6519,
         "precision_std": 0.0281,
@@ -418,7 +418,7 @@
         "average_precision_std": 0.0266,
         "f1": 0.5613,
         "f1_std": 0.0273,
-        "fit_time_sec": 0.7802,
+        "fit_time_sec": 0.7297,
         "model": "K-Nearest Neighbors",
         "precision": 0.7838,
         "precision_std": 0.033,
@@ -434,7 +434,7 @@
         "average_precision_std": 0.0637,
         "f1": 0.6325,
         "f1_std": 0.0396,
-        "fit_time_sec": 0.083,
+        "fit_time_sec": 0.7652,
         "model": "Decision Tree",
         "precision": 0.5547,
         "precision_std": 0.0451,
@@ -493,7 +493,7 @@
     "value": 0.8104
   },
   "churn_stacking_time_sec": {
-    "value": 12.2
+    "value": 10.0
   },
   "churn_test_churn_rate": {
     "value": 0.2483
@@ -514,21 +514,21 @@
         "PR-AUC ก่อนจูน": 0.7979,
         "PR-AUC หลังจูน": 0.8047,
         "เปลี่ยนแปลง": 0.0068,
-        "เวลาที่ใช้ (วินาที)": 34.0,
+        "เวลาที่ใช้ (วินาที)": 30.2,
         "โมเดล": "Gradient Boosting"
       },
       {
         "PR-AUC ก่อนจูน": 0.7914,
         "PR-AUC หลังจูน": 0.8101,
         "เปลี่ยนแปลง": 0.0187,
-        "เวลาที่ใช้ (วินาที)": 6.8,
+        "เวลาที่ใช้ (วินาที)": 5.7,
         "โมเดล": "XGBoost"
       },
       {
         "PR-AUC ก่อนจูน": 0.7887,
         "PR-AUC หลังจูน": 0.7858,
         "เปลี่ยนแปลง": -0.0029,
-        "เวลาที่ใช้ (วินาที)": 10.2,
+        "เวลาที่ใช้ (วินาที)": 8.3,
         "โมเดล": "Extra Trees"
       }
     ]
@@ -631,7 +631,7 @@
       {
         "ข้อ": 2,
         "ข้อเสนอ": "แบ่งงบการตลาดตาม 4 persona โดยให้งบ retention กับกลุ่ม At-Risk High-Value เป็นอันดับแรก",
-        "ความเสี่ยง": "กลุ่มเหล่านี้ไม่ใช่กลุ่มธรรมชาติ (ยืนยันด้วย DBSCAN ใน §4.2) ลูกค้าใกล้เส้นแบ่งอาจสลับกลุ่มเมื่อ retrain จึงไม่ควรผูกสิทธิประโยชน์ถาวรไว้กับหมายเลข segment",
+        "ความเสี่ยง": "กลุ่มเหล่านี้ไม่ใช่กลุ่มธรรมชาติ (ยืนยันด้วย DBSCAN ใน 4.2) ลูกค้าใกล้เส้นแบ่งอาจสลับกลุ่มเมื่อ retrain จึงไม่ควรผูกสิทธิประโยชน์ถาวรไว้กับหมายเลข segment",
         "วิธีวัดผล": "เทียบ ROI ของแคมเปญรายกลุ่มกับการยิงแบบหว่านแหทั้งฐานลูกค้า",
         "หลักฐาน": "กลุ่ม Champions มีเพียง 25.0% ของลูกค้า แต่สร้างรายได้ถึง 76.5% · ขณะที่กลุ่ม At-Risk High-Value มีอัตรา churn 45.2%",
         "โจทย์": "ยิงโปรโมชันให้ตรงกลุ่ม"
