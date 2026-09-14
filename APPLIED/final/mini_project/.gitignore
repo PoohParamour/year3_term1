@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+.DS_Store
+nbsrc/
+student_package.zip
