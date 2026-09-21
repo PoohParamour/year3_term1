@@ -1,0 +1,43 @@
+{
+  "header_detail": {
+    "student_id": null,
+    "faculty_name": null,
+    "prename": null,
+    "name": null,
+    "major": null,
+    "program": null,
+    "honor": null
+  },
+  "transcript_detail": {
+    "semesters": [
+      {
+        "year": null,
+        "sem_num": null,
+        "subject": [
+          {
+            "subject_id": null,
+            "subject_name": null,
+            "credit": null,
+            "grade_earn": null
+          }
+        ]
+      }
+    ]
+  },
+  "footer_detail": {
+    "updated_at": null,
+    "by": {
+      "by_signature": null,
+      "by_position": null
+    }
+  },
+  "_meta": {
+    "pipeline": "vlm",
+    "elapsed_sec": 393.6,
+    "models": {
+      "ocr": "scb10x/typhoon-ocr1.5-3b",
+      "text": "qwen3:4b"
+    },
+    "dpi": 100
+  }
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "student_name_str": "Li Juan",
+        "bird_name_str": "American Crow",
+        "count_int": 3,
+        "location_str": "park",
+        "date_int": 1639094400000,
+        "class_level_int": 3
+    },
+    {
+        "student_name_str": "Li Juan",
+        "bird_name_str": "Baltimore Oriole",
+        "count_int": 1,
+        "location_str": "Home",
+        "date_int": 1639094400000,
+        "class_level_int": 3
+    },
+    {
+        "student_name_str": "John Stiles",
+        "bird_name_str": "Blue Jay",
+        "count_int": 4,
+        "location_str": "Home",
+        "date_int": 1639094400000,
+        "class_level_int": 4
+    },
+    {
+        "student_name_str": "Marcia Oliveira",
+        "bird_name_str": "Northern Cardinal",
+        "count_int": 2,
+        "location_str": "Park",
+        "date_int": 1639094400000,
+        "class_level_int": 4
+    },
+    {
+        "student_name_str": "Mateo Jackson",
+        "bird_name_str": "Northern Cardinal",
+        "count_int": 1,
+        "location_str": "Lake",
+        "date_int": 1639094400000,
+        "class_level_int": 4
+    },
+        {
+        "student_name_str": "Jorge Souza",
+        "bird_name_str": "American Goldfinch",
+        "count_int": 5,
+        "location_str": "park",
+        "date_int": 1639094400000,
+        "class_level_int": 3
+    },
+    {
+        "student_name_str": "María García",
+        "bird_name_str": "Cedar Waxwing",
+        "count_int": 11,
+        "location_str": "Home",
+        "date_int": 1639094400000,
+        "class_level_int": 3
+    },
+    {
+        "student_name_str": "Ana Silva",
+        "bird_name_str": "Blue Jay",
+        "count_int": "2",
+        "location_str": "Home",
+        "date_int": 1639094400000,
+        "class_level_int": 4
+    },
+    {
+        "student_name_str": "Nikhil Jayashankar",
+        "bird_name_str": "Northern Cardinal",
+        "count_int": "2",
+        "location_str": "Park",
+        "date_int": 1639094400000,
+        "class_level_int": 4
+    },
+    {
+        "student_name_str": "Arnav Desai",
+        "bird_name_str": "Mourning Dove",
+        "count_int": 2,
+        "location_str": "Home",
+        "date_int": 1639094400000,
+        "class_level_int": 4
+    },
+    {
+        "student_name_str": "Nikki Wolf",
+        "bird_name_str": "House Wren",
+        "count_int": 3,
+        "location_str": "Home",
+        "date_int": 1639094400000,
+        "class_level_int": 3
+    },
+    {
+        "student_name_str": "Jorge Souza",
+        "bird_name_str": "Cedar Waxwing",
+        "count_int": 5,
+        "location_str": "Home",
+        "date_int": 1639094400000,
+        "class_level_int": 3
+    },
+    {
+        "student_name_str": "Ana Silva",
+        "bird_name_str": "Northern Cardinal",
+        "count_int": 1,
+        "location_str": "Park",
+        "date_int": 1639094400000,
+        "class_level_int": 4
+    },
+    {
+        "student_name_str": "Nikhil Jayashankar",
+        "bird_name_str": "Eastern Screech Owl",
+        "count_int": 1,
+        "location_str": "Lake",
+        "date_int": 1639094400000,
+        "class_level_int": 4
+    },
+    {
+        "student_name_str": "Arnav Desai",
+        "bird_name_str": "European Starling",
+        "count_int": 13,
+        "location_str": "Home",
+        "date_int": 1639094400000,
+        "class_level_int": 4
+    }
+]

@@ -1,0 +1,11 @@
+{
+	"dependencies":{
+		"aws-sdk": "*", 
+		"express": "4.17.1",
+		"cognito-express": "2.0.19",
+		"cors": "*"
+	},
+	"scripts":{
+		"start": "REGION_STR=us-east-1 USER_POOL_ID_STR=<cognito-user-pool-id> node index.js"
+	}
+}

@@ -1,0 +1,59 @@
+{
+  "header_detail": {
+    "uni_name": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+    "uni_address": "เลขที่1ซอยฉลองกรุง1เขตลาดกระบังกรุงเทพฯ10520",
+    "student_id": "71010001",
+    "faculty_name": "คณะวิศวกรรมศาสตร",
+    "prename": "นางสาว",
+    "name": "วศ1วิศวกรรมศาสตร์า1",
+    "date_of_birth": "1999-09-03",
+    "admis_date": null,
+    "grad_date": "0000-00-00",
+    "grad_reason": null,
+    "degree": "วิทยาศาสตรบัณฑิต",
+    "major": null,
+    "program": "การจัดการวิศวกรรมและเทคโนโลยี(หลักสูตรนานาชาติ)",
+    "honor": 0
+  },
+  "transcript_detail": {
+    "semesters": [
+      {
+        "year": 2562,
+        "sem_num": 1,
+        "GPA": null,
+        "GPS": null,
+        "pass_reason": null,
+        "subject": []
+      },
+      {
+        "year": 2561,
+        "sem_num": 1,
+        "GPA": null,
+        "GPS": null,
+        "pass_reason": null,
+        "subject": []
+      },
+      {
+        "year": 2561,
+        "sem_num": 2,
+        "GPA": null,
+        "GPS": null,
+        "pass_reason": null,
+        "subject": []
+      }
+    ],
+    "master_comprehensive": null,
+    "master_thesis": null,
+    "master_qualify": null,
+    "total_credits_earned": null,
+    "cumulative_gpa": null
+  },
+  "footer_detail": {
+    "updated_at": null,
+    "by": {
+      "by_signature": null,
+      "by_position": null,
+      "by_reg": null
+    }
+  }
+}

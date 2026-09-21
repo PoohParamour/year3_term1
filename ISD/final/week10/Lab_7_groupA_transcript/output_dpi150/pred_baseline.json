@@ -1,0 +1,103 @@
+{
+  "header_detail": {
+    "student_id": "71010001",
+    "prename": "นางสาว",
+    "name": "วศ1 วิศวกรรมศาสตร์1                     รหัสประจําตัวนักศึกษ",
+    "faculty_name": "คณะๆศวกรรมศาสตร"
+  },
+  "transcript_detail": {
+    "semesters": [
+      {
+        "year": null,
+        "sem_num": null,
+        "GPA": null,
+        "GPS": null,
+        "pass_reason": null,
+        "subject": [
+          {
+            "subject_id": "13006007",
+            "subject_name": "แคลดูลัส 1",
+            "type": null,
+            "credit": 3,
+            "grade_earn": "d"
+          },
+          {
+            "subject_id": "13006109",
+            "subject_name": "PROGRAMMING FOR MANAGEMENT",
+            "type": null,
+            "credit": 3,
+            "grade_earn": "d"
+          },
+          {
+            "subject_id": "13006301",
+            "subject_name": "ตรรกศาสตร์เบี้ยงต้น",
+            "type": null,
+            "credit": 3,
+            "grade_earn": "b"
+          }
+        ]
+      },
+      {
+        "year": 2561,
+        "sem_num": 2,
+        "GPA": null,
+        "GPS": null,
+        "pass_reason": null,
+        "subject": [
+          {
+            "subject_id": "13006008",
+            "subject_name": "แคลดูลัส 2",
+            "type": null,
+            "credit": 3,
+            "grade_earn": "f"
+          },
+          {
+            "subject_id": "13006104",
+            "subject_name": "เทคโนโลยีอินเทอร์เน็ตเบื้องต้น",
+            "type": null,
+            "credit": 3,
+            "grade_earn": "f"
+          },
+          {
+            "subject_id": "13006205",
+            "subject_name": "ภาษาอังกฤษพืนฐาน 2",
+            "type": null,
+            "credit": 3,
+            "grade_earn": "f"
+          },
+          {
+            "subject_id": "13026001",
+            "subject_name": "วิศวกรรมสมัยใหมเบื้องตน",
+            "type": null,
+            "credit": 3,
+            "grade_earn": "f"
+          },
+          {
+            "subject_id": "13026003",
+            "subject_name": "หลักธุรกิจ",
+            "type": null,
+            "credit": 3,
+            "grade_earn": "f"
+          },
+          {
+            "subject_id": "13026004",
+            "subject_name": "หลักการจัดทาร",
+            "type": null,
+            "credit": 3,
+            "grade_earn": "f"
+          }
+        ]
+      }
+    ]
+  },
+  "footer_detail": {},
+  "_meta": {
+    "pipeline": "baseline",
+    "elapsed_sec": 21.5,
+    "models": {
+      "ocr": "scb10x/typhoon-ocr1.5-3b",
+      "text": "qwen3:4b"
+    },
+    "dpi": 150
+  }
+}

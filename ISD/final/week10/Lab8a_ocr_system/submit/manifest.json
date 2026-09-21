@@ -1,0 +1,39 @@
+{
+  "source": "data/input/71010001.pdf",
+  "seed": 42,
+  "dpi": 300,
+  "levels": {
+    "L1_light": {
+      "pages": [
+        "page_01.png"
+      ],
+      "skew_deg": 0.3,
+      "scale": 1.0,
+      "watermark_opacity": 0.0
+    },
+    "L2_watermark": {
+      "pages": [
+        "page_01.png"
+      ],
+      "skew_deg": 1.0,
+      "scale": 1.0,
+      "watermark_opacity": 0.35
+    },
+    "L3_tilted_copy": {
+      "pages": [
+        "page_01.png"
+      ],
+      "skew_deg": 2.5,
+      "scale": 0.95,
+      "watermark_opacity": 0.45
+    },
+    "L4_rescan": {
+      "pages": [
+        "page_01.png"
+      ],
+      "skew_deg": 4.0,
+      "scale": 0.85,
+      "watermark_opacity": 0.55
+    }
+  }
+}

@@ -1,0 +1,4 @@
+USER_POOL_ID=us-east-1_EnXFJiywq
+CLIENT_ID=5f3e94ero802m5mcf42ms801eq
+DOMAIN=bird-app-domain-yh9q2i6f
+IDENTITY_POOL_ID=us-east-1:d128e34b-4906-4586-b2d7-62390280ef21
