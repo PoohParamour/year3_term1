@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 
 
 APP_DIR = Path(__file__).resolve().parent
+PACKAGE_ROOT = APP_DIR.parent
 PROJECT_ROOT = APP_DIR.parents[1]
 load_dotenv(APP_DIR / ".env")
 
@@ -17,6 +18,7 @@ def _resolve_ocr_source() -> Path:
     configured = os.getenv("TRANSCRIPT_OCR_SOURCE_DIR")
     candidates = [
         Path(configured).expanduser() if configured else None,
+        PACKAGE_ROOT / "src",
         PROJECT_ROOT / "src",
         PROJECT_ROOT / "Lab8a_ocr_system" / "src",
     ]

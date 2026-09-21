@@ -37,10 +37,10 @@ python -m uvicorn lab10_fastapi.transcript_app.main:app --reload --port 8001
 - `src/ocr_system/lab7a_transcript.py`
 - dependency ภายใน `src/ocr_system` ที่ Lab 7A/8A import
 
-ใน workspace ชุดนี้ ระบบจะค้นหา Lab 7A/8A จาก
-`Lab8a_ocr_system/src` ให้อัตโนมัติ หากนำโฟลเดอร์ไปวางที่อื่นให้กำหนด
-`TRANSCRIPT_OCR_SOURCE_DIR` ใน `.env` ให้ชี้ไปยังโฟลเดอร์ `src` ที่มี
-แพ็กเกจ `ocr_system`
+Lab 7A/8A ที่ API ใช้ถูกรวมไว้ใน `lab10_fastapi/src/ocr_system` แล้ว
+จึงส่งและรันเฉพาะโฟลเดอร์ `lab10_fastapi` ได้ หากต้องการใช้ source จากที่อื่น
+ให้กำหนด `TRANSCRIPT_OCR_SOURCE_DIR` ใน `.env` ให้ชี้ไปยังโฟลเดอร์ `src`
+ที่มีแพ็กเกจ `ocr_system`
 
 ถ้าแจกเฉพาะกลุ่ม Transcript ให้ก็อปโฟลเดอร์นี้พร้อม `src/ocr_system` ของ Lab 7A/8A
 
