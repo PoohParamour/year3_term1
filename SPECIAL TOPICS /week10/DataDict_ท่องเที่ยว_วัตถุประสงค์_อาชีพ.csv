@@ -1,0 +1,7 @@
+﻿dic_id,field_name,data_type,description_thai,description_en
+1,year,text,ปี,Year
+2,occupation,text,อาชีพ,Occupation
+3,main_purpose,text,วัตถุประสงค์หลักในการเดินทาง,"Main purpose of travel"
+4,per_travel,numeric,"ร้อยละของประชากรอายุ 15 ปีขึ้นไปที่่เดินทางท่องเที่ยว","Percentage of the population aged 15 years and over who travel"
+5,unit,text,ร้อยละ,Percentage
+6,source,text,สำนักงานสถิติแห่งชาติ,"National Statistical Office"
